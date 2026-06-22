@@ -1,0 +1,4838 @@
+Feature statistics for repository: lutris
+================================================================================
+
+FILE: lutris\bin\lutris
+--------------------------------------------------------------------------------
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+multiprocessing.set_start_method (total: 1)
+    !2, 3.4: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+sys.dont_write_bytecode (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\api.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+socket.getaddrinfo (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\cache.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\config.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\database\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\database\categories.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\database\games.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\database\saved_searches.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\database\schema.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\database\services.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\database\sources.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\database\sql.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\exception_backstops.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\game.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\game_actions.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\gui\addgameswindow.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+gettext.ngettext (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\gui\application.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\config\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\gui\config\accounts_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\add_game_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\config\base_config_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\boxes.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 10)
+    !2, 3.0: 10
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\config\edit_category_games.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\edit_game.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\edit_game_categories.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\edit_saved_search.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\game_common.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\config\game_info_box.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\preferences_box.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\config\preferences_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+gettext.pgettext (total: 1)
+    !2, 3.8: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\runner.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\runner_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\runners_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\services_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\storage_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\sysinfo_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\updates_box.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\config\widget_generator.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\dialogs\__init__.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 19)
+    !2, 3.0: 19
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\dialogs\cache.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\cloud_sync.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\cloud_sync_progress.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\dialogs\delegates.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\dialogs\download.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\game_import.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\issue.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\log.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\dialogs\move_game.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\runner_install.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+gettext.ngettext (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\uninstall_dialog.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+gettext.ngettext (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\dialogs\webconnect_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\download_queue.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\installer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\gui\installer\file_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\installer\files_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\installer\script_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\installer\script_picker.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\installer\widgets.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\installerwindow.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\lutriswindow.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+gettext.ngettext (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\views\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\gui\views\base.py
+--------------------------------------------------------------------------------
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\views\grid.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\views\list.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\views\media_loader.py
+--------------------------------------------------------------------------------
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+
+FILE: lutris\lutris\gui\views\store.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\views\store_item.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\__init__.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\cellrenderers.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\common.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+shlex.join (total: 1)
+    !2, 3.8: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\contextual_menu.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\download_collection_progress_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\widgets\download_progress_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\game_bar.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\widgets\gi_composites.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\log_text_view.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\widgets\navigation_stack.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\notifications.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\gui\widgets\progress_box.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\scaled_image.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\searchable_entrybox.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\sidebar.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\status_icon.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\gui\widgets\utils.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\gui\widgets\window.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\installer\__init__.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+
+FILE: lutris\lutris\installer\commands.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+shutil.Error (total: 1)
+    2.3, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\installer\errors.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\installer\installer.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: lutris\lutris\installer\installer_file.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\installer\installer_file_collection.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\installer\interpreter.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 4)
+    !2, 3.0: 4
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\installer\steam_installer.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\__init__.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: lutris\lutris\migrations\mess_to_mame.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\migrations\migrate_banners_back.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\migrations\migrate_ge_proton.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\migrate_hidden_category.py
+--------------------------------------------------------------------------------
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\migrate_hidden_ids.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\migrate_multi_system_runners_to_use_platform_dict.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\migrate_proton_to_wine_dir.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\migrations\migrate_sortname.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\migrations\migrate_steam_appids.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\migrations\retrieve_discord_appids.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\monitored_command.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\runner_interpreter.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\runners\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\runners\atari800.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\azahar.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: lutris\lutris\runners\cemu.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\commands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\commands\dosbox.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\runners\commands\wine.py
+--------------------------------------------------------------------------------
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\runners\dolphin.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\runners\dosbox.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\duckstation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\easyrpg.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: lutris\lutris\runners\flatpak.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\lutris\runners\fsuae.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\runners\hatari.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\json.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\jzintv.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\libretro.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\linux.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\mame.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\runners\mednafen.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\runners\mupen64plus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\o2em.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\openmsx.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\osmose.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\pcsx2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\pico8.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\redream.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\reicast.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+configparser.RawConfigParser.read_file (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\rpcs3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\runner.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\runners\ryujinx.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\scummvm.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\runners\shadps4.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\snes9x.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\runners\steam.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\vice.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\vita3k.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\web.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\runners\wine.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\runners\xemu.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\xenia.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\yuzu.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runners\zdoom.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\runtime.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.struct_time (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\scanners\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\scanners\default_installers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\scanners\lutris.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\scanners\playtron.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\scanners\retroarch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\scanners\tosec.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\search.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\search_predicate.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\amazon.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 8)
+    !2, 3.0: 8
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+lzma (total: 1)
+    !2, 3.3: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\services\base.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\battlenet.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\services\dolphin.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\services\ea_app.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\services\egs.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\flathub.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\gamejolt.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\services\gog.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.casefold (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\services\gog_cloud.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+gzip.decompress (total: 1)
+    !2, 3.2: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\services\gog_cloud_hooks.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\humblebundle.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\services\itchio.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\services\lutris.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\mame.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\services\scummvm.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\services\service_game.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\services\service_media.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\services\steam.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\services\steamfamily.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\services\steamwindows.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\services\ubisoft.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\services\xdg.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\services\zoom.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.casefold (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\settings.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\startup.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\style_manager.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\sysoptions.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+gettext.pgettext (total: 1)
+    !2, 3.8: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\amazon\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\amazon\protobuf_decoder.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\amazon\sds_proto2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\battlenet\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\battlenet\definitions.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\battlenet\product_db.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\busy.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\cookies.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\util\datapath.py
+--------------------------------------------------------------------------------
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\discord\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\discord\base.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\discord\client.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\discord\rpc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\display.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\dolphin\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\dolphin\cache_reader.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\download_cache.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\download_progress.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+os.replace (total: 1)
+    !2, 3.3: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\downloader.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bisect (total: 1)
+    2.1, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\egs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\egs\egs_launcher.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\extract.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\util\fileio.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\files.py
+--------------------------------------------------------------------------------
+os.path.getctime (total: 1)
+    2.3, 3.0: 1
+
+os.stat.st_atime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_ctime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\flatpak.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\lutris\util\game_finder.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\gamecontrollerdb.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\gog.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\gog_downloader.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\gogdl.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\graphics\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\graphics\displayconfig.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\graphics\drivers.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\util\graphics\glxinfo.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\graphics\gpu.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\util\graphics\vkquery.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\graphics\xrandr.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\http.py
+--------------------------------------------------------------------------------
+ConnectionResetError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\util\i18n.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\jobs.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\joypad.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\lutris\util\library_sync.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\libretro.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\linux.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\log.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\magic.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\mame\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\mame\database.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\util\mame\ini.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+
+FILE: lutris\lutris\util\moddb.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\nvidia.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+os.fsdecode (total: 1)
+    !2, 3.2: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\path_cache.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\portals.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+os.O_CLOEXEC (total: 1)
+    !2, 3.3: 1
+
+os.O_PATH (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\process.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\process_watcher.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\resources.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\retroarch\core_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\retroarch\firmware.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\savesync.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\settings.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\shell.py
+--------------------------------------------------------------------------------
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\sniper.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\standalone_scripts.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\steam\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\steam\appmanifest.py
+--------------------------------------------------------------------------------
+bin (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\steam\config.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\steam\log.py
+--------------------------------------------------------------------------------
+time.struct_time (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\steam\shortcut.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: lutris\lutris\util\steam\steamid.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+types.NotImplementedType (total: 1)
+    2.0, 3.10: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\lutris\util\steam\vdf\__init__.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 17)
+    2.6, 3.0: 17
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\steam\vdfutils.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\steam\watcher.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\strings.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\util\system.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+os.path.ismount (total: 1)
+    !2, 3.4: 1
+
+os.stat.st_dev (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_ino (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\test_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\timer.py
+--------------------------------------------------------------------------------
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\lutris\util\tokenization.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\ubisoft\client.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\ubisoft\consts.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: lutris\lutris\util\ubisoft\helpers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\ubisoft\parser.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\urlhandler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\wine\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\wine\cabinstall.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\d3d_extras.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\wine\dgvoodoo2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\wine\dll_manager.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\dxvk.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: lutris\lutris\util\wine\dxvk_nvapi.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\extract_icon.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\fsync.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.get_errno (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\prefix.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\proton.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\wine\registry.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\lutris\util\wine\vkd3d.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\lutris\util\wine\wine.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\lutris\util\xdgshortcuts.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\lutris\util\yaml.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: lutris\setup.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\share\lutris\bin\lutris-wrapper
+--------------------------------------------------------------------------------
+BrokenPipeError (total: 1)
+    !2, 3.3: 1
+
+ChildProcessError (total: 1)
+    !2, 3.3: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.wait3 (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sys.dont_write_bytecode (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\tests\_test_api.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\_test_cloud_sync_progress.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\_test_dialogs.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_glxinfo.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_gog_cloud.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\_test_gog_cloud_hooks.py
+--------------------------------------------------------------------------------
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\_test_installer.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_lutris_wrapper.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_moddb_helper.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_pga.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_registry.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_resources.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_utils.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\_test_wine.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\check_prefixes.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\tests\nose2_plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\tests\nose2_plugins\ci_exclude_test.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: lutris\tests\nose2_plugins\gtk_version.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\tests\runners\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: lutris\tests\runners\_test_pcsx2.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\runners\_test_runners.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\runners\_test_scummvm.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\runners\_test_snes9x.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\runners\_test_vita3k.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\util\_test_collection_progress.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\util\_test_download_cache.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: lutris\tests\util\_test_download_progress.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: lutris\tests\util\_test_gog_downloader.py
+--------------------------------------------------------------------------------
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\util\_test_init.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: lutris\tests\util\_test_pipelining.py
+--------------------------------------------------------------------------------
+queue (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\util\_test_stall_detection.py
+--------------------------------------------------------------------------------
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\tests\util\graphics\_test_drivers.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: lutris\utils\bios_format.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\utils\check_annotations.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+matching (total: 5)
+    !2, 3.10: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: lutris\utils\cleanup_prefix.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: lutris\utils\meson_post_install.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+

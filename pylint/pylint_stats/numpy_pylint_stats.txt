@@ -1,0 +1,13 @@
+Statistics for: numpy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 3575
+W: 6048
+C: 1394
+R: 1551
+
+Total messages: 12568
+Average rating: 7.18/10

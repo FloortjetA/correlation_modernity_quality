@@ -1,0 +1,9005 @@
+Statistics for: youtube-dl_pylint.txt
+================================================================================
+
+FILE: devscripts\bash-completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: devscripts\buildserver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 14
+C: 5
+R: 8
+Total messages: 45
+Average rating: 4.59/10
+
+FILE: devscripts\check-porn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.86/10
+
+FILE: devscripts\cli_to_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 1
+Total messages: 7
+Average rating: 6.44/10
+
+FILE: devscripts\create-github-release.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 5
+Total messages: 6
+Average rating: 8.12/10
+
+FILE: devscripts\fish-completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.93/10
+
+FILE: devscripts\generate_aes_testdata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.33/10
+
+FILE: devscripts\gh-pages\add-version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.58/10
+
+FILE: devscripts\gh-pages\generate-download.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: devscripts\gh-pages\sign-versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.56/10
+
+FILE: devscripts\gh-pages\update-copyright.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: devscripts\gh-pages\update-feed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.86/10
+
+FILE: devscripts\gh-pages\update-sites.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.20/10
+
+FILE: devscripts\lazy_load_template.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: devscripts\make_contributing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: devscripts\make_issue_template.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: devscripts\make_lazy_extractors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 2
+Total messages: 9
+Average rating: 7.31/10
+
+FILE: devscripts\make_readme.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: devscripts\make_supportedsites.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: devscripts\prepare_manpage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.84/10
+
+FILE: devscripts\show-downloads-statistics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.80/10
+
+FILE: devscripts\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.75/10
+
+FILE: devscripts\zsh-completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 2.73/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 2
+R: 2
+Total messages: 9
+Average rating: 4.49/10
+
+FILE: test\helper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 10
+C: 5
+R: 7
+Total messages: 23
+Average rating: 6.82/10
+
+FILE: test\test_InfoExtractor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 57
+C: 140
+R: 0
+Total messages: 197
+Average rating: 0.00/10
+
+FILE: test\test_YoutubeDL.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 58
+C: 23
+R: 4
+Total messages: 85
+Average rating: 7.26/10
+
+FILE: test\test_YoutubeDLCookieJar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 1
+Total messages: 6
+Average rating: 7.56/10
+
+FILE: test\test_aes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 0
+Total messages: 6
+Average rating: 8.54/10
+
+FILE: test\test_age_restriction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_all_urls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 15
+R: 0
+Total messages: 15
+Average rating: 8.28/10
+
+FILE: test\test_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.83/10
+
+FILE: test\test_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 0
+Total messages: 4
+Average rating: 9.56/10
+
+FILE: test\test_download.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 4
+Total messages: 12
+Average rating: 8.41/10
+
+FILE: test\test_downloader_external.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 0
+Total messages: 18
+Average rating: 6.41/10
+
+FILE: test\test_downloader_http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.22/10
+
+FILE: test\test_execution.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 1
+Total messages: 5
+Average rating: 8.46/10
+
+FILE: test\test_http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 7
+C: 14
+R: 5
+Total messages: 31
+Average rating: 8.24/10
+
+FILE: test\test_iqiyi_sdk_interpreter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 1
+Total messages: 6
+Average rating: 3.70/10
+
+FILE: test\test_jsinterp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 13
+R: 1
+Total messages: 15
+Average rating: 9.53/10
+
+FILE: test\test_netrc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.29/10
+
+FILE: test\test_options.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_postprocessors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.00/10
+
+FILE: test\test_socks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.43/10
+
+FILE: test\test_subtitles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 9
+R: 0
+Total messages: 11
+Average rating: 9.35/10
+
+FILE: test\test_swfinterp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.87/10
+
+FILE: test\test_traversal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 6
+C: 26
+R: 3
+Total messages: 45
+Average rating: 5.78/10
+
+FILE: test\test_unicode_literals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.12/10
+
+FILE: test\test_update.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.89/10
+
+FILE: test\test_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 4
+C: 42
+R: 3
+Total messages: 56
+Average rating: 9.07/10
+
+FILE: test\test_verbose_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 4
+Total messages: 8
+Average rating: 4.74/10
+
+FILE: test\test_write_annotations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.18/10
+
+FILE: test\test_youtube_lists.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 0
+Total messages: 4
+Average rating: 9.13/10
+
+FILE: test\test_youtube_misc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 8.24/10
+
+FILE: test\test_youtube_signature.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 37
+R: 0
+Total messages: 42
+Average rating: 1.75/10
+
+FILE: youtube_dl\YoutubeDL.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 28
+C: 61
+R: 56
+Total messages: 150
+Average rating: 8.16/10
+
+FILE: youtube_dl\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 11
+R: 4
+Total messages: 18
+Average rating: 8.79/10
+
+FILE: youtube_dl\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: youtube_dl\aes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 66
+R: 1
+Total messages: 67
+Average rating: 6.14/10
+
+FILE: youtube_dl\cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 4
+Total messages: 14
+Average rating: 7.00/10
+
+FILE: youtube_dl\casefold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.29/10
+
+FILE: youtube_dl\compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 60
+C: 22
+R: 13
+Total messages: 108
+Average rating: 7.05/10
+
+FILE: youtube_dl\downloader\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.94/10
+
+FILE: youtube_dl\downloader\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 7
+Total messages: 15
+Average rating: 8.80/10
+
+FILE: youtube_dl\downloader\dash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 1
+Total messages: 3
+Average rating: 8.80/10
+
+FILE: youtube_dl\downloader\external.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 5
+C: 13
+R: 9
+Total messages: 30
+Average rating: 8.11/10
+
+FILE: youtube_dl\downloader\f4m.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 4
+Total messages: 12
+Average rating: 8.95/10
+
+FILE: youtube_dl\downloader\fragment.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 4
+R: 0
+Total messages: 8
+Average rating: 8.85/10
+
+FILE: youtube_dl\downloader\hls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 4
+Total messages: 10
+Average rating: 9.01/10
+
+FILE: youtube_dl\downloader\http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 35
+C: 14
+R: 8
+Total messages: 57
+Average rating: 4.00/10
+
+FILE: youtube_dl\downloader\ism.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 4
+R: 3
+Total messages: 9
+Average rating: 9.10/10
+
+FILE: youtube_dl\downloader\niconico.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 1
+Total messages: 7
+Average rating: 6.33/10
+
+FILE: youtube_dl\downloader\rtmp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 8
+Total messages: 13
+Average rating: 8.67/10
+
+FILE: youtube_dl\downloader\rtsp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 8.89/10
+
+FILE: youtube_dl\extractor\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: youtube_dl\extractor\abc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 6
+R: 1
+Total messages: 14
+Average rating: 5.25/10
+
+FILE: youtube_dl\extractor\abcnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 10
+R: 0
+Total messages: 16
+Average rating: 3.17/10
+
+FILE: youtube_dl\extractor\abcotvs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 0
+Total messages: 11
+Average rating: 4.25/10
+
+FILE: youtube_dl\extractor\academicearth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\acast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 2.50/10
+
+FILE: youtube_dl\extractor\adn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 3
+Total messages: 14
+Average rating: 7.60/10
+
+FILE: youtube_dl\extractor\adobeconnect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 2.67/10
+
+FILE: youtube_dl\extractor\adobepass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 6
+R: 3
+Total messages: 13
+Average rating: 8.24/10
+
+FILE: youtube_dl\extractor\adobetv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 22
+C: 5
+R: 0
+Total messages: 29
+Average rating: 2.89/10
+
+FILE: youtube_dl\extractor\adultswim.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 7
+R: 3
+Total messages: 14
+Average rating: 5.28/10
+
+FILE: youtube_dl\extractor\aenetworks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 27
+C: 7
+R: 0
+Total messages: 41
+Average rating: 0.08/10
+
+FILE: youtube_dl\extractor\afreecatv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 4
+Total messages: 14
+Average rating: 7.58/10
+
+FILE: youtube_dl\extractor\airmozilla.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 3.68/10
+
+FILE: youtube_dl\extractor\aliexpress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\aljazeera.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.50/10
+
+FILE: youtube_dl\extractor\allocine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.18/10
+
+FILE: youtube_dl\extractor\alphaporno.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\alsace20tv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 1.85/10
+
+FILE: youtube_dl\extractor\amara.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.30/10
+
+FILE: youtube_dl\extractor\amcnetworks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 11
+R: 1
+Total messages: 15
+Average rating: 4.63/10
+
+FILE: youtube_dl\extractor\americastestkitchen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 9
+R: 0
+Total messages: 15
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\amp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 7.22/10
+
+FILE: youtube_dl\extractor\animeondemand.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 5
+R: 7
+Total messages: 16
+Average rating: 7.89/10
+
+FILE: youtube_dl\extractor\anvato.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 86
+R: 0
+Total messages: 90
+Average rating: 0.10/10
+
+FILE: youtube_dl\extractor\aol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 12
+R: 0
+Total messages: 15
+Average rating: 4.32/10
+
+FILE: youtube_dl\extractor\apa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.06/10
+
+FILE: youtube_dl\extractor\aparat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 6.13/10
+
+FILE: youtube_dl\extractor\appleconnect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 1.76/10
+
+FILE: youtube_dl\extractor\applepodcasts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\appletrailers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 5
+R: 1
+Total messages: 13
+Average rating: 6.50/10
+
+FILE: youtube_dl\extractor\archiveorg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.10/10
+
+FILE: youtube_dl\extractor\arcpublishing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 4
+Total messages: 9
+Average rating: 7.47/10
+
+FILE: youtube_dl\extractor\ard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 23
+R: 7
+Total messages: 43
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\arkena.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 6
+R: 4
+Total messages: 14
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\arnes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\arte.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 17
+C: 19
+R: 4
+Total messages: 42
+Average rating: 2.54/10
+
+FILE: youtube_dl\extractor\asiancrush.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 2
+R: 2
+Total messages: 14
+Average rating: 4.63/10
+
+FILE: youtube_dl\extractor\atresplayer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 5
+R: 0
+Total messages: 9
+Average rating: 6.27/10
+
+FILE: youtube_dl\extractor\atttechchannel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.12/10
+
+FILE: youtube_dl\extractor\atvat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\audimedia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.16/10
+
+FILE: youtube_dl\extractor\audioboom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.20/10
+
+FILE: youtube_dl\extractor\audiomack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 1
+Total messages: 9
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\awaan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 10
+R: 2
+Total messages: 27
+Average rating: 1.32/10
+
+FILE: youtube_dl\extractor\aws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 3
+C: 2
+R: 1
+Total messages: 9
+Average rating: 3.00/10
+
+FILE: youtube_dl\extractor\azmedien.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.12/10
+
+FILE: youtube_dl\extractor\baidu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\bandaichannel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\bandcamp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 4
+Total messages: 13
+Average rating: 7.11/10
+
+FILE: youtube_dl\extractor\bbc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 29
+C: 44
+R: 12
+Total messages: 100
+Average rating: 6.20/10
+
+FILE: youtube_dl\extractor\beatport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.21/10
+
+FILE: youtube_dl\extractor\beeg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.00/10
+
+FILE: youtube_dl\extractor\behindkink.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\bellmedia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\bet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.76/10
+
+FILE: youtube_dl\extractor\bfi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\bfmtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 7
+R: 0
+Total messages: 20
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\bibeltv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\bigflix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\bigo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\bild.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\bilibili.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 5
+R: 4
+Total messages: 27
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\biobiochiletv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 10
+R: 0
+Total messages: 13
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\biqle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\bitchute.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 5.92/10
+
+FILE: youtube_dl\extractor\bleacherreport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 1
+Total messages: 14
+Average rating: 2.70/10
+
+FILE: youtube_dl\extractor\blerp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 2.78/10
+
+FILE: youtube_dl\extractor\bloomberg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.80/10
+
+FILE: youtube_dl\extractor\bokecc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 1.67/10
+
+FILE: youtube_dl\extractor\bongacams.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\bostonglobe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\box.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\bpb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\br.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 1
+Total messages: 14
+Average rating: 7.10/10
+
+FILE: youtube_dl\extractor\bravotv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\breakcom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 5.52/10
+
+FILE: youtube_dl\extractor\brightcove.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 37
+R: 10
+Total messages: 60
+Average rating: 6.38/10
+
+FILE: youtube_dl\extractor\businessinsider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\buzzfeed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 0
+Total messages: 8
+Average rating: 2.73/10
+
+FILE: youtube_dl\extractor\byutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 5.94/10
+
+FILE: youtube_dl\extractor\c56.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.24/10
+
+FILE: youtube_dl\extractor\caffeine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\callin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\camdemy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 5.25/10
+
+FILE: youtube_dl\extractor\cammodels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.25/10
+
+FILE: youtube_dl\extractor\camtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\camwithher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\canalc2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\canalplus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.59/10
+
+FILE: youtube_dl\extractor\canvas.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 10
+R: 2
+Total messages: 24
+Average rating: 5.69/10
+
+FILE: youtube_dl\extractor\carambatv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 4.32/10
+
+FILE: youtube_dl\extractor\cartoonnetwork.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\cbc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 22
+R: 1
+Total messages: 41
+Average rating: 5.78/10
+
+FILE: youtube_dl\extractor\cbs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 1
+Total messages: 14
+Average rating: 4.81/10
+
+FILE: youtube_dl\extractor\cbsinteractive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 3.60/10
+
+FILE: youtube_dl\extractor\cbslocal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 4
+R: 0
+Total messages: 12
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\cbsnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 8
+R: 0
+Total messages: 17
+Average rating: 1.25/10
+
+FILE: youtube_dl\extractor\cbssports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 4
+R: 0
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\ccc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 5.35/10
+
+FILE: youtube_dl\extractor\ccma.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 2
+Total messages: 8
+Average rating: 7.33/10
+
+FILE: youtube_dl\extractor\cctv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 5.31/10
+
+FILE: youtube_dl\extractor\cda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 3
+Total messages: 10
+Average rating: 7.76/10
+
+FILE: youtube_dl\extractor\ceskatelevize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 11
+R: 3
+Total messages: 18
+Average rating: 7.77/10
+
+FILE: youtube_dl\extractor\channel9.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 4
+Total messages: 13
+Average rating: 7.72/10
+
+FILE: youtube_dl\extractor\charlierose.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.75/10
+
+FILE: youtube_dl\extractor\chaturbate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.23/10
+
+FILE: youtube_dl\extractor\chilloutzone.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.57/10
+
+FILE: youtube_dl\extractor\chirbit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\cinchcast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.74/10
+
+FILE: youtube_dl\extractor\cinemax.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\ciscolive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 8
+R: 2
+Total messages: 19
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\cjsw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\clipchamp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\cliphunter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\clippit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.40/10
+
+FILE: youtube_dl\extractor\cliprs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 1.67/10
+
+FILE: youtube_dl\extractor\clipsyndicate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\closertotruth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.40/10
+
+FILE: youtube_dl\extractor\cloudflarestream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\cloudy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\clubic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\clyp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.07/10
+
+FILE: youtube_dl\extractor\cmt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 0
+Total messages: 9
+Average rating: 0.62/10
+
+FILE: youtube_dl\extractor\cnbc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\cnn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 11
+R: 0
+Total messages: 20
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\comedycentral.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 0
+Total messages: 11
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 66
+C: 82
+R: 102
+Total messages: 259
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\commonmistakes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 0.95/10
+
+FILE: youtube_dl\extractor\commonprotocols.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\condenast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 2
+Total messages: 11
+Average rating: 7.59/10
+
+FILE: youtube_dl\extractor\contv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.39/10
+
+FILE: youtube_dl\extractor\corus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 9
+R: 1
+Total messages: 13
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\coub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.74/10
+
+FILE: youtube_dl\extractor\cpac.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 10
+R: 0
+Total messages: 17
+Average rating: 4.46/10
+
+FILE: youtube_dl\extractor\cracked.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\crackle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 3
+Total messages: 10
+Average rating: 7.84/10
+
+FILE: youtube_dl\extractor\crooksandliars.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\crunchyroll.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 19
+R: 3
+Total messages: 34
+Average rating: 7.97/10
+
+FILE: youtube_dl\extractor\cspan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 6
+R: 4
+Total messages: 15
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\ctsnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\ctv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\ctvnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 1.88/10
+
+FILE: youtube_dl\extractor\cultureunplugged.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.09/10
+
+FILE: youtube_dl\extractor\curiositystream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 4
+R: 1
+Total messages: 14
+Average rating: 5.82/10
+
+FILE: youtube_dl\extractor\cwtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 0
+Total messages: 9
+Average rating: 2.11/10
+
+FILE: youtube_dl\extractor\dailymail.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 5.62/10
+
+FILE: youtube_dl\extractor\dailymotion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 16
+C: 14
+R: 5
+Total messages: 36
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\daum.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 9
+R: 2
+Total messages: 31
+Average rating: 0.14/10
+
+FILE: youtube_dl\extractor\dbtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.00/10
+
+FILE: youtube_dl\extractor\dctp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.86/10
+
+FILE: youtube_dl\extractor\deezer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\defense.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 2.14/10
+
+FILE: youtube_dl\extractor\democracynow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.84/10
+
+FILE: youtube_dl\extractor\dfb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.09/10
+
+FILE: youtube_dl\extractor\dhm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: youtube_dl\extractor\digg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\digiteka.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 5.62/10
+
+FILE: youtube_dl\extractor\discovery.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 4
+R: 0
+Total messages: 9
+Average rating: 5.25/10
+
+FILE: youtube_dl\extractor\discoverygo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 2
+Total messages: 11
+Average rating: 5.69/10
+
+FILE: youtube_dl\extractor\discoverynetworks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\discoveryvr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\disney.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 9
+R: 2
+Total messages: 14
+Average rating: 6.27/10
+
+FILE: youtube_dl\extractor\dispeak.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 7.55/10
+
+FILE: youtube_dl\extractor\dlf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 20
+R: 0
+Total messages: 29
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\dlive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\dotsub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\douyutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 0
+Total messages: 8
+Average rating: 5.85/10
+
+FILE: youtube_dl\extractor\dplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 11
+R: 5
+Total messages: 25
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\drbonanza.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.74/10
+
+FILE: youtube_dl\extractor\dreisat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\dropbox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\drtuber.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.13/10
+
+FILE: youtube_dl\extractor\drtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 4
+Total messages: 13
+Average rating: 7.74/10
+
+FILE: youtube_dl\extractor\dtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 6.29/10
+
+FILE: youtube_dl\extractor\dumpert.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.13/10
+
+FILE: youtube_dl\extractor\dvtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 1
+Total messages: 10
+Average rating: 6.46/10
+
+FILE: youtube_dl\extractor\dw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 4.57/10
+
+FILE: youtube_dl\extractor\eagleplatform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 2
+Total messages: 8
+Average rating: 7.95/10
+
+FILE: youtube_dl\extractor\ebaumsworld.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.00/10
+
+FILE: youtube_dl\extractor\echomsk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: youtube_dl\extractor\egghead.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 5
+R: 0
+Total messages: 14
+Average rating: 3.96/10
+
+FILE: youtube_dl\extractor\ehow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\eighttracks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 2
+Total messages: 9
+Average rating: 5.85/10
+
+FILE: youtube_dl\extractor\einthusan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.94/10
+
+FILE: youtube_dl\extractor\eitb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.76/10
+
+FILE: youtube_dl\extractor\ellentube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 2
+R: 0
+Total messages: 14
+Average rating: 1.56/10
+
+FILE: youtube_dl\extractor\elpais.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 2.73/10
+
+FILE: youtube_dl\extractor\embedly.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\engadget.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\epidemicsound.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 4.62/10
+
+FILE: youtube_dl\extractor\eporner.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 6.34/10
+
+FILE: youtube_dl\extractor\eroprofile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.14/10
+
+FILE: youtube_dl\extractor\escapist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 5.29/10
+
+FILE: youtube_dl\extractor\espn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 9
+R: 2
+Total messages: 20
+Average rating: 4.29/10
+
+FILE: youtube_dl\extractor\esri.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\europa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 6.05/10
+
+FILE: youtube_dl\extractor\expotv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\expressen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\extractors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.99/10
+
+FILE: youtube_dl\extractor\extremetube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\eyedotv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\facebook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 32
+R: 8
+Total messages: 46
+Average rating: 7.17/10
+
+FILE: youtube_dl\extractor\faz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\fc2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\fczenit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\fifa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 10
+R: 0
+Total messages: 20
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\filmon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 2
+Total messages: 11
+Average rating: 6.03/10
+
+FILE: youtube_dl\extractor\filmweb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\firsttv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 7.06/10
+
+FILE: youtube_dl\extractor\fivemin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\fivetv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\flickr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 3
+Total messages: 11
+Average rating: 4.29/10
+
+FILE: youtube_dl\extractor\folketinget.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\footyroom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\formula1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\fourtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 15
+C: 11
+R: 2
+Total messages: 31
+Average rating: 0.85/10
+
+FILE: youtube_dl\extractor\fox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 1
+Total messages: 7
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\fox9.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\foxgay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\foxnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 9
+R: 0
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\foxsports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\franceculture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 1.76/10
+
+FILE: youtube_dl\extractor\franceinter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\francetv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 28
+C: 20
+R: 3
+Total messages: 51
+Average rating: 3.21/10
+
+FILE: youtube_dl\extractor\freesound.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.77/10
+
+FILE: youtube_dl\extractor\freespeech.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 1.67/10
+
+FILE: youtube_dl\extractor\freshlive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\frontendmasters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 2
+R: 0
+Total messages: 17
+Average rating: 5.57/10
+
+FILE: youtube_dl\extractor\fujitv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\funimation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 4
+R: 1
+Total messages: 10
+Average rating: 6.56/10
+
+FILE: youtube_dl\extractor\funk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\fusion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\gaia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.39/10
+
+FILE: youtube_dl\extractor\gameinformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 5
+R: 0
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\gamespot.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 5.19/10
+
+FILE: youtube_dl\extractor\gamestar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 0
+Total messages: 9
+Average rating: 2.11/10
+
+FILE: youtube_dl\extractor\gaskrank.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.86/10
+
+FILE: youtube_dl\extractor\gazeta.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.77/10
+
+FILE: youtube_dl\extractor\gbnews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\gdcvault.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 5
+R: 1
+Total messages: 10
+Average rating: 6.55/10
+
+FILE: youtube_dl\extractor\gedidigital.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 18
+R: 3
+Total messages: 24
+Average rating: 1.95/10
+
+FILE: youtube_dl\extractor\generic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 92
+C: 166
+R: 11
+Total messages: 269
+Average rating: 4.39/10
+
+FILE: youtube_dl\extractor\gfycat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.76/10
+
+FILE: youtube_dl\extractor\giantbomb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.84/10
+
+FILE: youtube_dl\extractor\giga.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 4.29/10
+
+FILE: youtube_dl\extractor\gigya.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.00/10
+
+FILE: youtube_dl\extractor\glide.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\globalplayer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 6
+R: 0
+Total messages: 24
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\globo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 12
+R: 2
+Total messages: 21
+Average rating: 6.06/10
+
+FILE: youtube_dl\extractor\go.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 3
+Total messages: 13
+Average rating: 7.63/10
+
+FILE: youtube_dl\extractor\godtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\golem.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\googledrive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 6
+Total messages: 12
+Average rating: 7.59/10
+
+FILE: youtube_dl\extractor\googlepodcasts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 5
+R: 0
+Total messages: 14
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\googlesearch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\goshgay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\gputechconf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\groupon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\hbo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 2
+Total messages: 9
+Average rating: 6.52/10
+
+FILE: youtube_dl\extractor\hearthisat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 7.05/10
+
+FILE: youtube_dl\extractor\heise.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 7
+R: 1
+Total messages: 13
+Average rating: 4.55/10
+
+FILE: youtube_dl\extractor\hellporno.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\helsinki.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\hentaistigma.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\hgtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.83/10
+
+FILE: youtube_dl\extractor\hidive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.00/10
+
+FILE: youtube_dl\extractor\historicfilms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\hitbox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 1
+Total messages: 9
+Average rating: 7.44/10
+
+FILE: youtube_dl\extractor\hitrecord.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: youtube_dl\extractor\hketv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.14/10
+
+FILE: youtube_dl\extractor\hornbunny.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\hotnewhiphop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\hotstar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 4
+R: 6
+Total messages: 20
+Average rating: 5.66/10
+
+FILE: youtube_dl\extractor\howcast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\howstuffworks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 4
+R: 0
+Total messages: 8
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\hrfernsehen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 2
+Total messages: 12
+Average rating: 5.24/10
+
+FILE: youtube_dl\extractor\hrti.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 1
+R: 1
+Total messages: 16
+Average rating: 3.84/10
+
+FILE: youtube_dl\extractor\huajiao.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\huffpost.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 3
+Total messages: 8
+Average rating: 5.28/10
+
+FILE: youtube_dl\extractor\hungama.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 3.45/10
+
+FILE: youtube_dl\extractor\hypem.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\ign.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 15
+C: 17
+R: 3
+Total messages: 41
+Average rating: 3.19/10
+
+FILE: youtube_dl\extractor\iheart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 3
+R: 0
+Total messages: 12
+Average rating: 1.67/10
+
+FILE: youtube_dl\extractor\imdb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 6.12/10
+
+FILE: youtube_dl\extractor\imggaming.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 3
+R: 2
+Total messages: 11
+Average rating: 6.40/10
+
+FILE: youtube_dl\extractor\imgur.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 7
+R: 2
+Total messages: 24
+Average rating: 4.29/10
+
+FILE: youtube_dl\extractor\ina.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.16/10
+
+FILE: youtube_dl\extractor\inc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.83/10
+
+FILE: youtube_dl\extractor\indavideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\infoq.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 7.17/10
+
+FILE: youtube_dl\extractor\instagram.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 3
+R: 10
+Total messages: 29
+Average rating: 5.33/10
+
+FILE: youtube_dl\extractor\internazionale.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.24/10
+
+FILE: youtube_dl\extractor\internetvideoarchive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\iprima.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.17/10
+
+FILE: youtube_dl\extractor\iqiyi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 3
+Total messages: 13
+Average rating: 8.79/10
+
+FILE: youtube_dl\extractor\ir90tv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\itv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 14
+R: 2
+Total messages: 26
+Average rating: 6.55/10
+
+FILE: youtube_dl\extractor\ivi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 4
+Total messages: 17
+Average rating: 6.86/10
+
+FILE: youtube_dl\extractor\ivideon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 5.81/10
+
+FILE: youtube_dl\extractor\iwara.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\izlesene.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.33/10
+
+FILE: youtube_dl\extractor\jamendo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 1
+Total messages: 9
+Average rating: 4.62/10
+
+FILE: youtube_dl\extractor\jeuxvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.94/10
+
+FILE: youtube_dl\extractor\joj.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\jove.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\jwplatform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\kakao.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.75/10
+
+FILE: youtube_dl\extractor\kaltura.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 15
+R: 3
+Total messages: 22
+Average rating: 7.42/10
+
+FILE: youtube_dl\extractor\kankan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 4.58/10
+
+FILE: youtube_dl\extractor\karaoketv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\karrierevideos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.15/10
+
+FILE: youtube_dl\extractor\keezmovies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 8.18/10
+
+FILE: youtube_dl\extractor\ketnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\khanacademy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 2
+R: 0
+Total messages: 12
+Average rating: 1.05/10
+
+FILE: youtube_dl\extractor\kickstarter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\kinja.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 2
+Total messages: 9
+Average rating: 7.17/10
+
+FILE: youtube_dl\extractor\kinopoisk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\kommunetv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.12/10
+
+FILE: youtube_dl\extractor\konserthusetplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.96/10
+
+FILE: youtube_dl\extractor\krasview.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\kth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\ku6.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\kusi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\kuwo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 2
+R: 0
+Total messages: 23
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\la7.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 1.67/10
+
+FILE: youtube_dl\extractor\laola1tv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 5
+R: 2
+Total messages: 22
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\lbry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 7
+R: 0
+Total messages: 16
+Average rating: 6.46/10
+
+FILE: youtube_dl\extractor\lci.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\lcp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 0
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\lecture2go.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.93/10
+
+FILE: youtube_dl\extractor\lecturio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 3
+R: 1
+Total messages: 16
+Average rating: 6.27/10
+
+FILE: youtube_dl\extractor\leeco.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 4
+R: 2
+Total messages: 16
+Average rating: 7.14/10
+
+FILE: youtube_dl\extractor\lego.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 5
+R: 1
+Total messages: 10
+Average rating: 6.55/10
+
+FILE: youtube_dl\extractor\lemonde.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\lenta.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 2.50/10
+
+FILE: youtube_dl\extractor\libraryofcongress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 7.23/10
+
+FILE: youtube_dl\extractor\libsyn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 5.36/10
+
+FILE: youtube_dl\extractor\lifenews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 1
+Total messages: 14
+Average rating: 6.58/10
+
+FILE: youtube_dl\extractor\limelight.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 13
+C: 16
+R: 3
+Total messages: 33
+Average rating: 5.25/10
+
+FILE: youtube_dl\extractor\line.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 2
+R: 1
+Total messages: 15
+Average rating: 5.70/10
+
+FILE: youtube_dl\extractor\linkedin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 2
+R: 1
+Total messages: 12
+Average rating: 5.97/10
+
+FILE: youtube_dl\extractor\linuxacademy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 1
+Total messages: 9
+Average rating: 7.50/10
+
+FILE: youtube_dl\extractor\litv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 6.98/10
+
+FILE: youtube_dl\extractor\livejournal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\livestream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 11
+R: 4
+Total messages: 25
+Average rating: 6.86/10
+
+FILE: youtube_dl\extractor\lnkgo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 3.16/10
+
+FILE: youtube_dl\extractor\localnews8.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 1.43/10
+
+FILE: youtube_dl\extractor\lovehomeporn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\lrt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\lynda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 10
+R: 4
+Total messages: 24
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\m6.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\mailru.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 4
+Total messages: 17
+Average rating: 6.19/10
+
+FILE: youtube_dl\extractor\malltv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 0
+Total messages: 9
+Average rating: 4.23/10
+
+FILE: youtube_dl\extractor\mangomolo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 9
+C: 2
+R: 0
+Total messages: 15
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\manyvids.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 1
+Total messages: 7
+Average rating: 7.29/10
+
+FILE: youtube_dl\extractor\maoritv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\markiza.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 6
+R: 0
+Total messages: 12
+Average rating: 0.77/10
+
+FILE: youtube_dl\extractor\massengeschmacktv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\matchtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\mdr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 7.25/10
+
+FILE: youtube_dl\extractor\medaltv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.35/10
+
+FILE: youtube_dl\extractor\medialaan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.21/10
+
+FILE: youtube_dl\extractor\mediaset.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 20
+R: 3
+Total messages: 27
+Average rating: 4.24/10
+
+FILE: youtube_dl\extractor\mediasite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 20
+R: 2
+Total messages: 31
+Average rating: 4.57/10
+
+FILE: youtube_dl\extractor\medici.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.74/10
+
+FILE: youtube_dl\extractor\megaphone.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\meipai.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.40/10
+
+FILE: youtube_dl\extractor\melonvod.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: youtube_dl\extractor\meta.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 4.81/10
+
+FILE: youtube_dl\extractor\metacafe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 11
+R: 3
+Total messages: 18
+Average rating: 6.77/10
+
+FILE: youtube_dl\extractor\metacritic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 3.81/10
+
+FILE: youtube_dl\extractor\mgoon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.10/10
+
+FILE: youtube_dl\extractor\mgtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\miaopai.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 2.67/10
+
+FILE: youtube_dl\extractor\microsoftvirtualacademy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 6
+R: 2
+Total messages: 17
+Average rating: 5.70/10
+
+FILE: youtube_dl\extractor\minds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 17
+C: 2
+R: 0
+Total messages: 22
+Average rating: 1.17/10
+
+FILE: youtube_dl\extractor\ministrygrid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.89/10
+
+FILE: youtube_dl\extractor\minoto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\miomio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 8.08/10
+
+FILE: youtube_dl\extractor\mit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 0
+Total messages: 13
+Average rating: 4.57/10
+
+FILE: youtube_dl\extractor\mitele.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\mixcloud.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 17
+C: 7
+R: 4
+Total messages: 36
+Average rating: 0.09/10
+
+FILE: youtube_dl\extractor\mlb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 9
+C: 4
+R: 1
+Total messages: 18
+Average rating: 2.21/10
+
+FILE: youtube_dl\extractor\mnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\moevideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: youtube_dl\extractor\mofosex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 1.25/10
+
+FILE: youtube_dl\extractor\mojvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\morningstar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.12/10
+
+FILE: youtube_dl\extractor\motherless.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 3
+R: 2
+Total messages: 12
+Average rating: 6.06/10
+
+FILE: youtube_dl\extractor\motorsport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 1.43/10
+
+FILE: youtube_dl\extractor\movieclips.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.91/10
+
+FILE: youtube_dl\extractor\moviezine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\movingimage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\msn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 13
+R: 3
+Total messages: 19
+Average rating: 5.48/10
+
+FILE: youtube_dl\extractor\mtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 22
+C: 11
+R: 4
+Total messages: 38
+Average rating: 6.19/10
+
+FILE: youtube_dl\extractor\muenchentv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.21/10
+
+FILE: youtube_dl\extractor\mwave.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 3
+R: 0
+Total messages: 10
+Average rating: 2.73/10
+
+FILE: youtube_dl\extractor\mychannels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 0.71/10
+
+FILE: youtube_dl\extractor\myspace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 3
+Total messages: 13
+Average rating: 5.48/10
+
+FILE: youtube_dl\extractor\myspass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\myvi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 6
+R: 1
+Total messages: 13
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\myvideoge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\myvidster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\nationalgeographic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\naver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 4
+R: 2
+Total messages: 13
+Average rating: 5.97/10
+
+FILE: youtube_dl\extractor\nba.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 27
+C: 23
+R: 0
+Total messages: 53
+Average rating: 2.27/10
+
+FILE: youtube_dl\extractor\nbc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 22
+R: 1
+Total messages: 45
+Average rating: 3.02/10
+
+FILE: youtube_dl\extractor\ndr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 19
+C: 16
+R: 2
+Total messages: 39
+Average rating: 1.39/10
+
+FILE: youtube_dl\extractor\ndtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 0.59/10
+
+FILE: youtube_dl\extractor\nerdcubed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\neteasemusic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 2
+R: 1
+Total messages: 28
+Average rating: 6.24/10
+
+FILE: youtube_dl\extractor\netzkino.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\newgrounds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 5.87/10
+
+FILE: youtube_dl\extractor\newstube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 5.94/10
+
+FILE: youtube_dl\extractor\nextmedia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 4
+R: 0
+Total messages: 16
+Average rating: 4.52/10
+
+FILE: youtube_dl\extractor\nexx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 6
+R: 7
+Total messages: 23
+Average rating: 7.01/10
+
+FILE: youtube_dl\extractor\nfl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 7
+R: 0
+Total messages: 16
+Average rating: 3.46/10
+
+FILE: youtube_dl\extractor\nhk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 2
+R: 3
+Total messages: 15
+Average rating: 3.67/10
+
+FILE: youtube_dl\extractor\nhl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 6
+C: 4
+R: 1
+Total messages: 13
+Average rating: 2.77/10
+
+FILE: youtube_dl\extractor\nick.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 23
+R: 0
+Total messages: 39
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\niconico.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 25
+C: 29
+R: 10
+Total messages: 65
+Average rating: 4.88/10
+
+FILE: youtube_dl\extractor\ninecninemedia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.50/10
+
+FILE: youtube_dl\extractor\ninegag.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.89/10
+
+FILE: youtube_dl\extractor\ninenow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.06/10
+
+FILE: youtube_dl\extractor\nintendo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\njpwworld.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\nobelprize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\nonktube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.83/10
+
+FILE: youtube_dl\extractor\noovo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\normalboots.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\nosvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.77/10
+
+FILE: youtube_dl\extractor\nova.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 9
+R: 3
+Total messages: 18
+Average rating: 6.73/10
+
+FILE: youtube_dl\extractor\nowness.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 2
+R: 2
+Total messages: 19
+Average rating: 1.50/10
+
+FILE: youtube_dl\extractor\noz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.47/10
+
+FILE: youtube_dl\extractor\npo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 43
+C: 13
+R: 7
+Total messages: 65
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\npr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 6.59/10
+
+FILE: youtube_dl\extractor\nrk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 46
+C: 16
+R: 8
+Total messages: 73
+Average rating: 2.75/10
+
+FILE: youtube_dl\extractor\nrl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\ntvcojp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.50/10
+
+FILE: youtube_dl\extractor\ntvde.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.38/10
+
+FILE: youtube_dl\extractor\ntvru.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.10/10
+
+FILE: youtube_dl\extractor\nuevo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 2.94/10
+
+FILE: youtube_dl\extractor\nuvid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.29/10
+
+FILE: youtube_dl\extractor\nytimes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 9
+R: 2
+Total messages: 23
+Average rating: 4.02/10
+
+FILE: youtube_dl\extractor\nzz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\odatv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\odnoklassniki.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 4
+Total messages: 9
+Average rating: 7.47/10
+
+FILE: youtube_dl\extractor\oktoberfesttv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\once.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.76/10
+
+FILE: youtube_dl\extractor\ondemandkorea.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\onet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 7
+R: 2
+Total messages: 24
+Average rating: 4.11/10
+
+FILE: youtube_dl\extractor\onionstudios.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 1.76/10
+
+FILE: youtube_dl\extractor\ooyala.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 7
+R: 3
+Total messages: 19
+Average rating: 4.52/10
+
+FILE: youtube_dl\extractor\openload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 5
+Total messages: 11
+Average rating: 7.43/10
+
+FILE: youtube_dl\extractor\ora.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\orf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 34
+R: 2
+Total messages: 67
+Average rating: 4.15/10
+
+FILE: youtube_dl\extractor\outsidetv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\packtpub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 6
+R: 0
+Total messages: 16
+Average rating: 4.10/10
+
+FILE: youtube_dl\extractor\palcomp3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 13
+C: 3
+R: 0
+Total messages: 17
+Average rating: 1.75/10
+
+FILE: youtube_dl\extractor\pandoratv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\parliamentliveuk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\patreon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.39/10
+
+FILE: youtube_dl\extractor\pbs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 26
+R: 6
+Total messages: 35
+Average rating: 7.12/10
+
+FILE: youtube_dl\extractor\pearvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.71/10
+
+FILE: youtube_dl\extractor\peekvids.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 9
+R: 0
+Total messages: 16
+Average rating: 2.31/10
+
+FILE: youtube_dl\extractor\peertube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 5
+Total messages: 12
+Average rating: 7.19/10
+
+FILE: youtube_dl\extractor\people.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\performgroup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.59/10
+
+FILE: youtube_dl\extractor\periscope.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 5
+R: 4
+Total messages: 21
+Average rating: 3.69/10
+
+FILE: youtube_dl\extractor\philharmoniedeparis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 1
+Total messages: 7
+Average rating: 6.44/10
+
+FILE: youtube_dl\extractor\phoenix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\photobucket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\picarto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\piksel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 4
+Total messages: 12
+Average rating: 6.99/10
+
+FILE: youtube_dl\extractor\pinkbike.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 5.19/10
+
+FILE: youtube_dl\extractor\pinterest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 2
+R: 1
+Total messages: 13
+Average rating: 5.95/10
+
+FILE: youtube_dl\extractor\pladform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 6.59/10
+
+FILE: youtube_dl\extractor\platzi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 1
+Total messages: 10
+Average rating: 6.51/10
+
+FILE: youtube_dl\extractor\playfm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.86/10
+
+FILE: youtube_dl\extractor\playplustv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 0
+Total messages: 7
+Average rating: 6.30/10
+
+FILE: youtube_dl\extractor\plays.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.44/10
+
+FILE: youtube_dl\extractor\playstuff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.78/10
+
+FILE: youtube_dl\extractor\playtvak.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 2
+Total messages: 12
+Average rating: 6.55/10
+
+FILE: youtube_dl\extractor\playvid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.14/10
+
+FILE: youtube_dl\extractor\playwire.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\pluralsight.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 6
+R: 7
+Total messages: 24
+Average rating: 7.09/10
+
+FILE: youtube_dl\extractor\podomatic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\pokemon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 2.14/10
+
+FILE: youtube_dl\extractor\polskieradio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 0
+Total messages: 11
+Average rating: 5.66/10
+
+FILE: youtube_dl\extractor\popcorntimes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\popcorntv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\porn91.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: youtube_dl\extractor\porncom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.55/10
+
+FILE: youtube_dl\extractor\pornhd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 6.22/10
+
+FILE: youtube_dl\extractor\pornhub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 27
+C: 8
+R: 5
+Total messages: 41
+Average rating: 6.12/10
+
+FILE: youtube_dl\extractor\pornotube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\pornovoisines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\pornoxo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\pr0gramm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 2
+R: 0
+Total messages: 10
+Average rating: 1.52/10
+
+FILE: youtube_dl\extractor\presstv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.76/10
+
+FILE: youtube_dl\extractor\prosiebensat1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 6
+C: 17
+R: 4
+Total messages: 43
+Average rating: 0.54/10
+
+FILE: youtube_dl\extractor\puhutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 3
+Total messages: 11
+Average rating: 7.61/10
+
+FILE: youtube_dl\extractor\puls4.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.94/10
+
+FILE: youtube_dl\extractor\pyvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.00/10
+
+FILE: youtube_dl\extractor\qqmusic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 4
+R: 1
+Total messages: 23
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\r7.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 1
+Total messages: 12
+Average rating: 3.90/10
+
+FILE: youtube_dl\extractor\radiobremen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.50/10
+
+FILE: youtube_dl\extractor\radiocanada.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 3
+R: 1
+Total messages: 11
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\radiode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\radiofrance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.44/10
+
+FILE: youtube_dl\extractor\radiojavan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\rai.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 18
+R: 1
+Total messages: 35
+Average rating: 6.63/10
+
+FILE: youtube_dl\extractor\raywenderlich.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 1
+Total messages: 8
+Average rating: 6.52/10
+
+FILE: youtube_dl\extractor\rbgtum.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 2.31/10
+
+FILE: youtube_dl\extractor\rbmaradio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\rds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 3.50/10
+
+FILE: youtube_dl\extractor\redbulltv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 10
+R: 0
+Total messages: 23
+Average rating: 3.10/10
+
+FILE: youtube_dl\extractor\reddit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 5.53/10
+
+FILE: youtube_dl\extractor\redtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 6.96/10
+
+FILE: youtube_dl\extractor\regiotv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\rentv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\restudy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.31/10
+
+FILE: youtube_dl\extractor\reuters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.86/10
+
+FILE: youtube_dl\extractor\reverbnation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\rice.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 1
+Total messages: 10
+Average rating: 6.91/10
+
+FILE: youtube_dl\extractor\rmcdecouverte.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 2.63/10
+
+FILE: youtube_dl\extractor\ro220.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.12/10
+
+FILE: youtube_dl\extractor\rockstargames.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.65/10
+
+FILE: youtube_dl\extractor\roosterteeth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 1
+Total messages: 11
+Average rating: 6.60/10
+
+FILE: youtube_dl\extractor\rottentomatoes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\roxwel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\rozhlas.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\rtbf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 7.58/10
+
+FILE: youtube_dl\extractor\rte.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 3
+R: 2
+Total messages: 15
+Average rating: 4.13/10
+
+FILE: youtube_dl\extractor\rtl2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 9
+R: 0
+Total messages: 21
+Average rating: 3.75/10
+
+FILE: youtube_dl\extractor\rtlnl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 9
+R: 0
+Total messages: 12
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\rtp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\rts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 14
+R: 3
+Total messages: 20
+Average rating: 6.03/10
+
+FILE: youtube_dl\extractor\rtve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 9
+R: 1
+Total messages: 23
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\rtvnh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\rtvs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\ruhd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\rumble.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\rutube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 28
+C: 3
+R: 0
+Total messages: 32
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\rutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 8
+R: 3
+Total messages: 14
+Average rating: 6.23/10
+
+FILE: youtube_dl\extractor\ruutu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 7
+R: 1
+Total messages: 12
+Average rating: 6.61/10
+
+FILE: youtube_dl\extractor\ruv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.65/10
+
+FILE: youtube_dl\extractor\s4c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 1.60/10
+
+FILE: youtube_dl\extractor\safari.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 10
+R: 0
+Total messages: 22
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\samplefocus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.86/10
+
+FILE: youtube_dl\extractor\sapo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 5.67/10
+
+FILE: youtube_dl\extractor\savefrom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.83/10
+
+FILE: youtube_dl\extractor\sbs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\screencast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 7.18/10
+
+FILE: youtube_dl\extractor\screencastomatic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\scrippsnetworks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\scte.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 4
+R: 0
+Total messages: 13
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\seeker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 0.71/10
+
+FILE: youtube_dl\extractor\senateisvp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 3
+Total messages: 9
+Average rating: 6.47/10
+
+FILE: youtube_dl\extractor\sendtonews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\servus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.69/10
+
+FILE: youtube_dl\extractor\sevenplus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 6.29/10
+
+FILE: youtube_dl\extractor\sexu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\seznamzpravy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 6
+R: 1
+Total messages: 14
+Average rating: 5.32/10
+
+FILE: youtube_dl\extractor\shahid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 7
+R: 0
+Total messages: 16
+Average rating: 5.75/10
+
+FILE: youtube_dl\extractor\shared.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 11
+C: 0
+R: 0
+Total messages: 13
+Average rating: 2.04/10
+
+FILE: youtube_dl\extractor\showroomlive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\simplecast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 5
+R: 0
+Total messages: 18
+Average rating: 2.90/10
+
+FILE: youtube_dl\extractor\sina.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 3
+Total messages: 7
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\sixplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 2
+Total messages: 11
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\sky.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 5
+R: 0
+Total messages: 17
+Average rating: 2.55/10
+
+FILE: youtube_dl\extractor\skyit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 9
+R: 0
+Total messages: 33
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\skylinewebcams.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\skynewsarabia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 8
+R: 0
+Total messages: 17
+Average rating: 0.54/10
+
+FILE: youtube_dl\extractor\slideshare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\slideslive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 6.67/10
+
+FILE: youtube_dl\extractor\slutload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\snotr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: youtube_dl\extractor\sohu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 4
+Total messages: 9
+Average rating: 6.77/10
+
+FILE: youtube_dl\extractor\sonyliv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 6.59/10
+
+FILE: youtube_dl\extractor\soundcloud.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 30
+C: 12
+R: 5
+Total messages: 47
+Average rating: 6.29/10
+
+FILE: youtube_dl\extractor\soundgasm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 2.40/10
+
+FILE: youtube_dl\extractor\southpark.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 10
+R: 0
+Total messages: 25
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\spankbang.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 3
+R: 1
+Total messages: 11
+Average rating: 5.17/10
+
+FILE: youtube_dl\extractor\spankwire.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 4
+Total messages: 8
+Average rating: 7.31/10
+
+FILE: youtube_dl\extractor\spiegel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\spike.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\sport5.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.38/10
+
+FILE: youtube_dl\extractor\sportbox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.93/10
+
+FILE: youtube_dl\extractor\sportdeutschland.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 6.22/10
+
+FILE: youtube_dl\extractor\spotify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 2
+R: 1
+Total messages: 12
+Average rating: 5.08/10
+
+FILE: youtube_dl\extractor\spreaker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 0
+Total messages: 13
+Average rating: 4.22/10
+
+FILE: youtube_dl\extractor\springboardplatform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 5.88/10
+
+FILE: youtube_dl\extractor\sprout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\srgssr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 9
+R: 2
+Total messages: 18
+Average rating: 5.85/10
+
+FILE: youtube_dl\extractor\srmediathek.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\stanfordoc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 1
+Total messages: 7
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\steam.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 4
+Total messages: 9
+Average rating: 7.12/10
+
+FILE: youtube_dl\extractor\stitcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 3
+R: 0
+Total messages: 12
+Average rating: 3.88/10
+
+FILE: youtube_dl\extractor\storyfire.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 3
+R: 0
+Total messages: 15
+Average rating: 0.93/10
+
+FILE: youtube_dl\extractor\streamable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.20/10
+
+FILE: youtube_dl\extractor\streamcloud.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 5.19/10
+
+FILE: youtube_dl\extractor\streamcz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 0
+Total messages: 9
+Average rating: 5.31/10
+
+FILE: youtube_dl\extractor\streamsb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.16/10
+
+FILE: youtube_dl\extractor\streetvoice.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\stretchinternet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\stv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.18/10
+
+FILE: youtube_dl\extractor\sunporno.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.65/10
+
+FILE: youtube_dl\extractor\sverigesradio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 2
+R: 0
+Total messages: 12
+Average rating: 1.28/10
+
+FILE: youtube_dl\extractor\svt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 11
+R: 2
+Total messages: 31
+Average rating: 5.63/10
+
+FILE: youtube_dl\extractor\swrmediathek.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.88/10
+
+FILE: youtube_dl\extractor\syfy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\sztvhu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 1.43/10
+
+FILE: youtube_dl\extractor\tagesschau.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 5
+R: 2
+Total messages: 14
+Average rating: 6.70/10
+
+FILE: youtube_dl\extractor\tass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.24/10
+
+FILE: youtube_dl\extractor\tbs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 4.83/10
+
+FILE: youtube_dl\extractor\tdslifeway.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\teachable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 3
+Total messages: 17
+Average rating: 5.96/10
+
+FILE: youtube_dl\extractor\teachertube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 5.80/10
+
+FILE: youtube_dl\extractor\teachingchannel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.00/10
+
+FILE: youtube_dl\extractor\teamcoco.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 2
+Total messages: 9
+Average rating: 6.60/10
+
+FILE: youtube_dl\extractor\teamtreehouse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 2
+Total messages: 7
+Average rating: 7.27/10
+
+FILE: youtube_dl\extractor\techtalks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\ted.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 4
+Total messages: 12
+Average rating: 8.20/10
+
+FILE: youtube_dl\extractor\tele13.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.93/10
+
+FILE: youtube_dl\extractor\tele5.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 4.58/10
+
+FILE: youtube_dl\extractor\telebruxelles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.21/10
+
+FILE: youtube_dl\extractor\telecinco.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 10
+R: 0
+Total messages: 13
+Average rating: 6.27/10
+
+FILE: youtube_dl\extractor\telegraaf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.77/10
+
+FILE: youtube_dl\extractor\telemb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\telequebec.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 6
+R: 0
+Total messages: 24
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\teletask.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.57/10
+
+FILE: youtube_dl\extractor\telewebion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.94/10
+
+FILE: youtube_dl\extractor\tennistv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 1
+Total messages: 8
+Average rating: 5.95/10
+
+FILE: youtube_dl\extractor\tenplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 2.00/10
+
+FILE: youtube_dl\extractor\testurl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 1
+Total messages: 7
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\tf1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.77/10
+
+FILE: youtube_dl\extractor\tfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.44/10
+
+FILE: youtube_dl\extractor\theintercept.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\theplatform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 16
+R: 7
+Total messages: 36
+Average rating: 6.35/10
+
+FILE: youtube_dl\extractor\thescene.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\thestar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\thesun.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.89/10
+
+FILE: youtube_dl\extractor\theweatherchannel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 6.32/10
+
+FILE: youtube_dl\extractor\thisamericanlife.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\thisav.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.09/10
+
+FILE: youtube_dl\extractor\thisoldhouse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\thisvid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 6
+R: 1
+Total messages: 17
+Average rating: 5.53/10
+
+FILE: youtube_dl\extractor\threeqsdn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 3
+Total messages: 10
+Average rating: 6.94/10
+
+FILE: youtube_dl\extractor\tiktok.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 1
+Total messages: 10
+Average rating: 5.47/10
+
+FILE: youtube_dl\extractor\tinypic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.83/10
+
+FILE: youtube_dl\extractor\tmz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 0
+Total messages: 9
+Average rating: 3.61/10
+
+FILE: youtube_dl\extractor\tnaflix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 18
+C: 10
+R: 3
+Total messages: 32
+Average rating: 3.64/10
+
+FILE: youtube_dl\extractor\toggle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 7
+R: 2
+Total messages: 15
+Average rating: 5.54/10
+
+FILE: youtube_dl\extractor\tonline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.21/10
+
+FILE: youtube_dl\extractor\toongoggles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\toutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.13/10
+
+FILE: youtube_dl\extractor\toypics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 3.67/10
+
+FILE: youtube_dl\extractor\traileraddict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\trilulilu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\trovo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 2
+R: 1
+Total messages: 12
+Average rating: 5.08/10
+
+FILE: youtube_dl\extractor\trunews.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\trutv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.56/10
+
+FILE: youtube_dl\extractor\tube8.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 5.20/10
+
+FILE: youtube_dl\extractor\tubitv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.62/10
+
+FILE: youtube_dl\extractor\tudou.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 1.00/10
+
+FILE: youtube_dl\extractor\tumblr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 6.98/10
+
+FILE: youtube_dl\extractor\tunein.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 18
+C: 2
+R: 0
+Total messages: 21
+Average rating: 0.47/10
+
+FILE: youtube_dl\extractor\tunepk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\turbo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 5.33/10
+
+FILE: youtube_dl\extractor\turner.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 9
+Total messages: 17
+Average rating: 7.12/10
+
+FILE: youtube_dl\extractor\tv2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 8
+R: 2
+Total messages: 23
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\tv2dk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 6.07/10
+
+FILE: youtube_dl\extractor\tv2hu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.22/10
+
+FILE: youtube_dl\extractor\tv4.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\tv5mondeplus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 1
+Total messages: 10
+Average rating: 5.14/10
+
+FILE: youtube_dl\extractor\tv5unis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 9
+C: 4
+R: 0
+Total messages: 17
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\tva.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\tvanouvelles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 1.30/10
+
+FILE: youtube_dl\extractor\tvc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 1
+Total messages: 9
+Average rating: 2.41/10
+
+FILE: youtube_dl\extractor\tver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.45/10
+
+FILE: youtube_dl\extractor\tvigle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 2
+Total messages: 9
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\tvland.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\tvn24.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 1
+Total messages: 9
+Average rating: 3.85/10
+
+FILE: youtube_dl\extractor\tvnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 6.76/10
+
+FILE: youtube_dl\extractor\tvnoe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: youtube_dl\extractor\tvnow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 28
+C: 7
+R: 2
+Total messages: 37
+Average rating: 3.49/10
+
+FILE: youtube_dl\extractor\tvp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 4
+R: 1
+Total messages: 14
+Average rating: 5.22/10
+
+FILE: youtube_dl\extractor\tvplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 9
+R: 2
+Total messages: 21
+Average rating: 5.57/10
+
+FILE: youtube_dl\extractor\tvplayer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.56/10
+
+FILE: youtube_dl\extractor\tweakers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.09/10
+
+FILE: youtube_dl\extractor\twentyfourvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.21/10
+
+FILE: youtube_dl\extractor\twentymin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.22/10
+
+FILE: youtube_dl\extractor\twentythreevideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 0
+Total messages: 8
+Average rating: 5.17/10
+
+FILE: youtube_dl\extractor\twitcasting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 5.19/10
+
+FILE: youtube_dl\extractor\twitch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 31
+C: 6
+R: 4
+Total messages: 48
+Average rating: 5.52/10
+
+FILE: youtube_dl\extractor\twitter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 25
+R: 4
+Total messages: 47
+Average rating: 4.88/10
+
+FILE: youtube_dl\extractor\udemy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 12
+R: 4
+Total messages: 22
+Average rating: 8.43/10
+
+FILE: youtube_dl\extractor\udn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.38/10
+
+FILE: youtube_dl\extractor\ufctv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\uktvplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\umg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.21/10
+
+FILE: youtube_dl\extractor\unistra.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: youtube_dl\extractor\unity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.91/10
+
+FILE: youtube_dl\extractor\uol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 1
+Total messages: 11
+Average rating: 6.54/10
+
+FILE: youtube_dl\extractor\uplynk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 3.71/10
+
+FILE: youtube_dl\extractor\urort.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\urplay.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 6
+R: 2
+Total messages: 11
+Average rating: 6.83/10
+
+FILE: youtube_dl\extractor\usanetwork.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\usatoday.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 2.35/10
+
+FILE: youtube_dl\extractor\ustream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 5
+R: 2
+Total messages: 14
+Average rating: 6.97/10
+
+FILE: youtube_dl\extractor\ustudio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 5.68/10
+
+FILE: youtube_dl\extractor\varzesh3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 5.42/10
+
+FILE: youtube_dl\extractor\vbox7.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 3
+Total messages: 8
+Average rating: 7.54/10
+
+FILE: youtube_dl\extractor\veehd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.03/10
+
+FILE: youtube_dl\extractor\veoh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 5
+R: 0
+Total messages: 9
+Average rating: 1.74/10
+
+FILE: youtube_dl\extractor\vesti.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\vevo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 3
+R: 3
+Total messages: 17
+Average rating: 5.62/10
+
+FILE: youtube_dl\extractor\vgtv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 4
+R: 1
+Total messages: 14
+Average rating: 5.60/10
+
+FILE: youtube_dl\extractor\vh1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\vice.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 9
+R: 3
+Total messages: 27
+Average rating: 3.55/10
+
+FILE: youtube_dl\extractor\vidbit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.40/10
+
+FILE: youtube_dl\extractor\viddler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.86/10
+
+FILE: youtube_dl\extractor\videa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.78/10
+
+FILE: youtube_dl\extractor\videodetective.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\videofyme.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 1.54/10
+
+FILE: youtube_dl\extractor\videomore.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 5
+R: 3
+Total messages: 20
+Average rating: 4.72/10
+
+FILE: youtube_dl\extractor\videopress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.06/10
+
+FILE: youtube_dl\extractor\vidio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 3.18/10
+
+FILE: youtube_dl\extractor\vidlii.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.25/10
+
+FILE: youtube_dl\extractor\vidme.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 12
+C: 0
+R: 1
+Total messages: 16
+Average rating: 3.54/10
+
+FILE: youtube_dl\extractor\vier.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 6
+R: 1
+Total messages: 15
+Average rating: 5.62/10
+
+FILE: youtube_dl\extractor\viewlift.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 8
+R: 2
+Total messages: 20
+Average rating: 4.55/10
+
+FILE: youtube_dl\extractor\viidea.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 7.32/10
+
+FILE: youtube_dl\extractor\viki.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 10
+R: 4
+Total messages: 25
+Average rating: 5.95/10
+
+FILE: youtube_dl\extractor\vimeo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 39
+C: 14
+R: 10
+Total messages: 63
+Average rating: 6.46/10
+
+FILE: youtube_dl\extractor\vimple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 1.36/10
+
+FILE: youtube_dl\extractor\vine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 1
+Total messages: 8
+Average rating: 5.43/10
+
+FILE: youtube_dl\extractor\viqeo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.30/10
+
+FILE: youtube_dl\extractor\viu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 1
+Total messages: 15
+Average rating: 5.12/10
+
+FILE: youtube_dl\extractor\vk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 10
+R: 4
+Total messages: 32
+Average rating: 6.27/10
+
+FILE: youtube_dl\extractor\vlive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 2
+R: 5
+Total messages: 19
+Average rating: 6.34/10
+
+FILE: youtube_dl\extractor\vodlocker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.45/10
+
+FILE: youtube_dl\extractor\vodpl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\vodplatform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 1.43/10
+
+FILE: youtube_dl\extractor\voicerepublic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 2.94/10
+
+FILE: youtube_dl\extractor\voot.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 5.88/10
+
+FILE: youtube_dl\extractor\voxmedia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 13
+R: 2
+Total messages: 21
+Average rating: 5.07/10
+
+FILE: youtube_dl\extractor\vrak.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: youtube_dl\extractor\vrt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 0
+Total messages: 10
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\vrv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 4
+Total messages: 15
+Average rating: 7.33/10
+
+FILE: youtube_dl\extractor\vshare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.00/10
+
+FILE: youtube_dl\extractor\vtm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\vube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 9
+R: 1
+Total messages: 13
+Average rating: 5.56/10
+
+FILE: youtube_dl\extractor\vuclip.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.15/10
+
+FILE: youtube_dl\extractor\vvvvid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 5
+Total messages: 16
+Average rating: 7.63/10
+
+FILE: youtube_dl\extractor\vyborymos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 2.67/10
+
+FILE: youtube_dl\extractor\vzaar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 6.86/10
+
+FILE: youtube_dl\extractor\wakanim.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\walla.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.25/10
+
+FILE: youtube_dl\extractor\washingtonpost.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 10
+R: 0
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: youtube_dl\extractor\wat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 7.18/10
+
+FILE: youtube_dl\extractor\watchbox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 6.74/10
+
+FILE: youtube_dl\extractor\watchindianporn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 4.50/10
+
+FILE: youtube_dl\extractor\wdr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 12
+R: 2
+Total messages: 26
+Average rating: 5.14/10
+
+FILE: youtube_dl\extractor\webcaster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 4
+R: 1
+Total messages: 12
+Average rating: 4.13/10
+
+FILE: youtube_dl\extractor\webofstories.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 1
+Total messages: 7
+Average rating: 6.00/10
+
+FILE: youtube_dl\extractor\weibo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 1
+Total messages: 8
+Average rating: 5.33/10
+
+FILE: youtube_dl\extractor\weiqitv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.08/10
+
+FILE: youtube_dl\extractor\whyp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.82/10
+
+FILE: youtube_dl\extractor\wistia.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 5
+R: 2
+Total messages: 18
+Average rating: 5.12/10
+
+FILE: youtube_dl\extractor\worldstarhiphop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: youtube_dl\extractor\wsj.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 4
+R: 0
+Total messages: 10
+Average rating: 3.53/10
+
+FILE: youtube_dl\extractor\wwe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 1
+Total messages: 12
+Average rating: 4.92/10
+
+FILE: youtube_dl\extractor\xbef.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\xboxclips.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 5.20/10
+
+FILE: youtube_dl\extractor\xfileshare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 5
+R: 2
+Total messages: 11
+Average rating: 7.34/10
+
+FILE: youtube_dl\extractor\xhamster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 5
+R: 4
+Total messages: 22
+Average rating: 6.79/10
+
+FILE: youtube_dl\extractor\xiami.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 18
+C: 0
+R: 0
+Total messages: 19
+Average rating: 1.69/10
+
+FILE: youtube_dl\extractor\ximalaya.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 10
+R: 2
+Total messages: 23
+Average rating: 3.19/10
+
+FILE: youtube_dl\extractor\xminus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 5.52/10
+
+FILE: youtube_dl\extractor\xnxx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.30/10
+
+FILE: youtube_dl\extractor\xstream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.94/10
+
+FILE: youtube_dl\extractor\xtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 3
+Total messages: 10
+Average rating: 7.13/10
+
+FILE: youtube_dl\extractor\xuite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 6.49/10
+
+FILE: youtube_dl\extractor\xvideos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.36/10
+
+FILE: youtube_dl\extractor\xxxymovies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: youtube_dl\extractor\yahoo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 24
+R: 2
+Total messages: 42
+Average rating: 5.50/10
+
+FILE: youtube_dl\extractor\yandexdisk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 7.65/10
+
+FILE: youtube_dl\extractor\yandexmusic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 28
+C: 6
+R: 5
+Total messages: 43
+Average rating: 4.06/10
+
+FILE: youtube_dl\extractor\yandexvideo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 5.31/10
+
+FILE: youtube_dl\extractor\yapfiles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 6.92/10
+
+FILE: youtube_dl\extractor\yesjapan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 4.35/10
+
+FILE: youtube_dl\extractor\yinyuetai.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: youtube_dl\extractor\ynet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\youjizz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.97/10
+
+FILE: youtube_dl\extractor\youku.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 2
+Total messages: 8
+Average rating: 7.25/10
+
+FILE: youtube_dl\extractor\younow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 2
+Total messages: 11
+Average rating: 5.97/10
+
+FILE: youtube_dl\extractor\youporn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 10
+R: 4
+Total messages: 41
+Average rating: 5.68/10
+
+FILE: youtube_dl\extractor\yourporn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: youtube_dl\extractor\yourupload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 2.86/10
+
+FILE: youtube_dl\extractor\youtube.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 79
+C: 156
+R: 41
+Total messages: 280
+Average rating: 6.66/10
+
+FILE: youtube_dl\extractor\zapiks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 6.11/10
+
+FILE: youtube_dl\extractor\zattoo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 62
+C: 5
+R: 2
+Total messages: 71
+Average rating: 0.05/10
+
+FILE: youtube_dl\extractor\zdf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 18
+R: 4
+Total messages: 34
+Average rating: 5.95/10
+
+FILE: youtube_dl\extractor\zhihu.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: youtube_dl\extractor\zingmp3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 0
+R: 1
+Total messages: 11
+Average rating: 4.33/10
+
+FILE: youtube_dl\extractor\zoom.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 5.00/10
+
+FILE: youtube_dl\extractor\zype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 2
+Total messages: 9
+Average rating: 7.03/10
+
+FILE: youtube_dl\jsinterp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 16
+C: 27
+R: 33
+Total messages: 78
+Average rating: 8.48/10
+
+FILE: youtube_dl\options.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 41
+R: 3
+Total messages: 51
+Average rating: 7.75/10
+
+FILE: youtube_dl\postprocessor\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: youtube_dl\postprocessor\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 6.00/10
+
+FILE: youtube_dl\postprocessor\embedthumbnail.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 9
+R: 4
+Total messages: 15
+Average rating: 6.89/10
+
+FILE: youtube_dl\postprocessor\execafterdownload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: youtube_dl\postprocessor\ffmpeg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 11
+R: 11
+Total messages: 38
+Average rating: 8.11/10
+
+FILE: youtube_dl\postprocessor\metadatafromtitle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: youtube_dl\postprocessor\xattrpp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 8.53/10
+
+FILE: youtube_dl\socks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 2
+R: 7
+Total messages: 10
+Average rating: 8.67/10
+
+FILE: youtube_dl\swfinterp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 7
+R: 18
+Total messages: 29
+Average rating: 9.17/10
+
+FILE: youtube_dl\traversal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: youtube_dl\update.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 5
+Total messages: 13
+Average rating: 8.18/10
+
+FILE: youtube_dl\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 72
+C: 61
+R: 78
+Total messages: 223
+Average rating: 7.97/10
+
+FILE: youtube_dl\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+================================================================================
+Overall average rating: 4.92/10

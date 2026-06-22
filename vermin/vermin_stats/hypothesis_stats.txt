@@ -1,0 +1,8944 @@
+Feature statistics for repository: hypothesis
+================================================================================
+
+FILE: hypothesis\hypothesis-python\benchmark\graph.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+statistics (total: 1)
+    !2, 3.4: 1
+
+
+FILE: hypothesis\hypothesis-python\docs\_ext\hypothesis_linkcheck.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\docs\_ext\hypothesis_redirects.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\docs\conf.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: hypothesis\hypothesis-python\examples\example_hypothesis_entrypoint\example_hypothesis_entrypoint.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\examples\example_hypothesis_entrypoint\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\examples\example_hypothesis_entrypoint\test_entrypoint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\examples\test_basic.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\examples\test_binary_search.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.pairwise (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\examples\test_rle.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\scripts\validate_branch_check.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\_hypothesis_ftz_detector.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+multiprocessing.set_start_method (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\src\_hypothesis_globals.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\_hypothesis_pytestplugin.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\_settings.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.total_ordering (total: 1)
+    2.7, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\configuration.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\control.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+random.getstate (total: 1)
+    2.1, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\core.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+None (total: 6)
+    !2, 3.3: 6
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 11)
+    !2, 3.0: 11
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 47)
+    !2, 3.6: 47
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+math.fsum (total: 1)
+    2.6, 3.0: 1
+
+random.getrandbits (total: 1)
+    2.4, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\database.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.finalize (total: 1)
+    !2, 3.4: 1
+
+zipfile.BadZipFile (total: 1)
+    !2, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\entry_points.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\errors.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\_array_helpers.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\_patching.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.date.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+difflib.unified_diff (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\array_api.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 34)
+    !2, 3.6: 34
+
+math.prod (total: 1)
+    !2, 3.8: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\cli.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\codemods.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\dateutil.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\django\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\django\_fields.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\django\_impl.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\dpcontracts.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\ghostwriter.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 41)
+    !2, 3.6: 41
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.permutations (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\lark.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\numpy.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bytes.isascii (total: 1)
+    !2, 3.7: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+format (total: 1)
+    2.6, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 30)
+    !2, 3.0: 30
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\pandas\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\pandas\impl.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 4)
+    !2, 3.0: 4
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\pytestplugin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\pytz.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\extra\redis.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\cache.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\cathetus.py
+--------------------------------------------------------------------------------
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\charmap.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+unicodedata.unidata_version (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\compat.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+codecs.encode (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+int.bit_count (total: 1)
+    !2, 3.10: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\choice.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\data.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 10)
+    !2, 3.0: 10
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\datatree.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\engine.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractContextManager (total: 1)
+    !2, 3.6: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 25)
+    !2, 3.6: 25
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+math.fsum (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\floats.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+int.bit_length (total: 1)
+    2.7, 3.1: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\junkdrawer.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+gc.callbacks (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.pairwise (total: 1)
+    !2, 3.10: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\optimiser.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\pareto.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\provider_conformance.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\providers.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractContextManager (total: 1)
+    !2, 3.6: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+math.factorial (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinker.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\bytes.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\choicetree.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\collection.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\common.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\floats.py
+--------------------------------------------------------------------------------
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\integer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\ordering.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\shrinking\string.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\conjecture\utils.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+heapq (total: 1)
+    2.3, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\constants_ast.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.stdlib_module_names (total: 1)
+    !2, 3.10: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\coverage.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\detection.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\entropy.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+gc.get_referrers (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\escalation.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\filtering.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+decimal.Decimal.is_snan (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 10)
+    !2, 3.5: 10
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\floats.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\healthcheck.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\intervalsets.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.final (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\lambda_sources.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\observability.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\reflection.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+tokenize.untokenize (total: 1)
+    2.5, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\scrutineer.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 2)
+    !2, 3.9: 1
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.minor (total: 1)
+    2.7, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\internal\validation.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\provisional.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\reporting.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractContextManager (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\stateful.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 45)
+    !2, 3.6: 45
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 12)
+    !2, 3.0: 12
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\statistics.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\__init__.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\attrs.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\collections.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+slices (total: 7)
+    !2, 3.0: 7
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\core.py
+--------------------------------------------------------------------------------
+None (total: 4)
+    !2, 3.3: 4
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+contextvars (total: 1)
+    !2, 3.7: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+decimal.localcontext (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 68)
+    !2, 3.6: 68
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.isabstract (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+math.gcd (total: 1)
+    !2, 3.5: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 22)
+    !2, 3.0: 22
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.EllipsisType (total: 1)
+    2.0, 3.10: 1
+
+types.GenericAlias (total: 1)
+    !2, 3.9: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\datetime.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+zoneinfo (total: 1)
+    !2, 3.9: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\deferred.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\featureflags.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\flatmapped.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\functions.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\ipaddress.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\lazy.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\misc.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\numbers.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\random.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\recursive.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\regex.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\shared.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\strategies.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 7)
+    !2, 3.0: 7
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\strings.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+decorator (total: 2)
+    !2, 3.9: 1
+    !2, 3.8: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.casefold (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.isdecimal (total: 1)
+    !2, 3.0: 1
+
+str.isidentifier (total: 1)
+    !2, 3.0: 1
+
+str.isnumeric (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\types.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.GenericAlias (total: 1)
+    !2, 3.9: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.LiteralString (total: 1)
+    !2, 3.11: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing.Required (total: 1)
+    !2, 3.11: 1
+
+typing.SupportsBytes (total: 1)
+    !2, 3.5: 1
+
+typing.SupportsIndex (total: 1)
+    !2, 3.8: 1
+
+typing.SupportsRound (total: 1)
+    !2, 3.5: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+typing.TypeVarTuple (total: 1)
+    !2, 3.11: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+zoneinfo (total: 1)
+    !2, 3.9: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\strategies\_internal\utils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\conventions.py
+--------------------------------------------------------------------------------
+slices (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\deprecation.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.date.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\dynamicvariables.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\terminal.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\utils\threading.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\vendor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\vendor\pretty.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\src\hypothesis\version.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\array_api\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\array_api\common.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\conftest.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_argument_validation.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+slices (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_arrays.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_from_dtype.py
+--------------------------------------------------------------------------------
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_indices.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+math.prod (total: 1)
+    !2, 3.8: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_partial_adoptors.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_pretty.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_scalar_dtypes.py
+--------------------------------------------------------------------------------
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\array_api\test_strategies_namespace.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\attrs\test_attrs.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\attrs\test_inference.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\attrs\test_pretty.py
+--------------------------------------------------------------------------------
+slices (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\codemods\test_codemod_cli.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\codemods\test_codemods.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\common\__init__.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\common\arguments.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\common\costbounds.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\common\debug.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\common\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\common\strategies.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\common\utils.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+threading.Barrier (total: 1)
+    !2, 3.2: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conftest.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+gc.callbacks (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+random.getstate (total: 1)
+    2.1, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+time.process_time (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\common.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_choice.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_choice_tree.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_data_tree.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_engine.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 20)
+    2.6, 3.0: 20
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_float_encoding.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_forced.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_inquisitor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_intlist.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_junkdrawer.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_local_constants.py
+--------------------------------------------------------------------------------
+math.nan (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_minimizer.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_mutations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_optimiser.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_order_shrinking.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_pareto.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_provider.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_provider_contract.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_shrinker.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_shrinking_interface.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_test_data.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\conjecture\test_utils.py
+--------------------------------------------------------------------------------
+fractions (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_annotations.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_arbitrary_data.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_asyncio.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_cache_implementation.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_caching.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_cathetus.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_charmap.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_compat.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_complex_numbers.py
+--------------------------------------------------------------------------------
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_composite.py
+--------------------------------------------------------------------------------
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_composite_kwonlyargs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_constants_ast.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_control.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_core.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_custom_reprs.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_database_backend.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.make_archive (total: 1)
+    2.7, 3.2: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 100)
+    2.6, 3.0: 100
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_datetimes.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_deadline.py
+--------------------------------------------------------------------------------
+gc.callbacks (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_debug_information.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_deferred_strategies.py
+--------------------------------------------------------------------------------
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_detection.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_direct_strategies.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_draw_example.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_error_in_draw.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_escalation.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_example.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_exceptiongroup.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_executors.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_explicit_examples.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_falsifying_example_output.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_feature_flags.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_filestorage.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_filter_rewriting.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+operator.ne (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.isidentifier (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_filtered_strategy.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_find.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_flakiness.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_float_nastiness.py
+--------------------------------------------------------------------------------
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_float_utils.py
+--------------------------------------------------------------------------------
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_functions.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_fuzz_one_input.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+operator.attrgetter (total: 1)
+    2.4, 3.0: 1
+
+random.randbytes (total: 1)
+    !2, 3.9: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_given_error_conditions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_health_checks.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_interactive_example.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_internal_helpers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_intervalset.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lambda_formatting.py
+--------------------------------------------------------------------------------
+runpy (total: 1)
+    2.5, 3.0: 1
+
+runpy.run_path (total: 1)
+    2.7, 3.2: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lazy_import.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 5)
+    !2, 3.0: 5
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ChainMap (total: 1)
+    !2, 3.5: 1
+
+typing.Counter (total: 1)
+    !2, 3.5: 1
+
+typing.Deque (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.OrderedDict (total: 1)
+    !2, 3.7: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.SupportsBytes (total: 1)
+    !2, 3.5: 1
+
+typing.SupportsRound (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup_py310.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup_py314.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup_py37.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Reversible (total: 1)
+    !2, 3.6: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractContextManager (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 34)
+    !2, 3.0: 34
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup_py38.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_lookup_py39.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.runtime_checkable (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_mock.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_monitoring.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_nothing.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_numerics.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+decimal.localcontext (total: 1)
+    2.5, 3.0: 1
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_observability.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_one_of.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_permutations.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_phases.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_posonly_args_py38.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_pretty.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_provisional_strategies.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_random_module.py
+--------------------------------------------------------------------------------
+random.getrandbits (total: 1)
+    2.4, 3.0: 1
+
+random.getstate (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_randoms.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_recursive.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_reflection.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_regex.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_regressions.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+random.getstate (total: 1)
+    2.1, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_replay_logic.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_reporting.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_reproduce_failure.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_runner_strategy.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_sampled_from.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_searchstrategy.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_seed_printing.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_settings.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_setup_teardown.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_shrink_budgeting.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_sideeffect_warnings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_simple_characters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_simple_collections.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_simple_strings.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_slices.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_slippage.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_stateful.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 14)
+    !2, 3.0: 14
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_statistical_events.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_subnormal_floats.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_targeting.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_testdecorators.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_threading.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+threading.Barrier (total: 1)
+    !2, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_traceback_elision.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_type_lookup.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_type_lookup_forward_ref.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_typealias_py312.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_unicode_identifiers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_unittest.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_uuids.py
+--------------------------------------------------------------------------------
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_validation.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\cover\test_verbosity.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\crosshair\test_conformance.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\crosshair\test_crosshair.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\datetime\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\datetime\test_dateutil_timezones.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\datetime\test_pytz_timezones.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\datetime\test_zoneinfo_timezones.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+zoneinfo (total: 1)
+    !2, 3.9: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\manage.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\settings\no_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\settings\settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\settings\settings_no_contrib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\settings\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toys\wsgi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\forms.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\models.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\test_basic_configuration.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\test_given_forms.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\test_given_models.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\django\toystore\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\dpcontracts\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\dpcontracts\test_contracts.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\example_code\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\example_code\future_annotations.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\test_expected_output.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+operator.matmul (total: 1)
+    !2, 3.5: 1
+
+operator.truediv (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\test_ghostwriter.py
+--------------------------------------------------------------------------------
+BaseExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\test_ghostwriter_cli.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\ghostwriter\try-writing-for-installed.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.SubprocessError (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\lark\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\lark\test_grammar.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_argument_validation.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_bad_repr.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_baseexception.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_boundary_exploration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_build_signature.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_cache_implementation.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_cacheable.py
+--------------------------------------------------------------------------------
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_characters.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_collective_minimization.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_compat.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_completion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_complex_numbers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_conjecture_engine.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_conjecture_int_list.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_conjecture_utils.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_conventions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_database_agreement.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_database_usage.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_deferred_errors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_drypython_returns.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_duplication.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_dynamic_variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_emails.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_eval_as_source.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_exceptiongroup.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_explore_arbitrary_languages.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_fancy_repr.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_filtering.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_find.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_fixtures.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_flatmap.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_floating.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+math.copysign (total: 1)
+    2.6, 3.0: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_from_type_recipe.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_given_error_conditions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_given_reuse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_health_checks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_imports.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_integer_ranges.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_interesting_origin.py
+--------------------------------------------------------------------------------
+ExceptionGroup (total: 1)
+    !2, 3.11: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_labels.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_large_examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_limits.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_modify_inner_test.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_nesting.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_precise_shrinking.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_pretty_repr.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_randomization.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_recursive.py
+--------------------------------------------------------------------------------
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_regex.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_regressions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_reusable_values.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_sampled_from.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_scrutineer.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+json (total: 1)
+    2.6, 3.0: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_sets.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_sharing.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_simple_numbers.py
+--------------------------------------------------------------------------------
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_simple_strings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_skipping.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_stateful.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.cleandoc (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_strategy_state.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_subnormal_floats.py
+--------------------------------------------------------------------------------
+math.isfinite (total: 1)
+    !2, 3.2: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_targeting.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_testdecorators.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_threading.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.Barrier (total: 1)
+    !2, 3.2: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_type_lookup.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_type_lookup_forward_ref.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_type_lookup_future_annotations.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_unusual_settings_configs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\nocover\test_uuids.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\__init__.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_argument_validation.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_deprecation.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_fill_values.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_floor_ceil.py
+--------------------------------------------------------------------------------
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_from_dtype.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_from_type.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_gen_data.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_gufunc.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_import.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_narrow_floats.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_randomness.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\numpy\test_sampled_from.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pandas\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pandas\helpers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pandas\test_argument_validation.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pandas\test_data_frame.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pandas\test_indexes.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pandas\test_series.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\patching\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\patching\callables.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\patching\test_patching.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+
+FILE: hypothesis\hypothesis-python\tests\patching\toplevel.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test__pytest.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_capture.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_checks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_collection_warning.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_compat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_constant_collection_timing.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_doctest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_fixtures.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_junit.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_mark.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_parametrized_db_keys.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_profiles.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_pytest_detection.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_reporting.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_runs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_seeding.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_sideeffect_warnings.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_skipping.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\pytest\test_statistics.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\quality\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_deferred_strategies.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_discovery_ability.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+math.factorial (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_float_shrinking.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_integers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_poisoned_lists.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_poisoned_trees.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_shrink_quality.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\quality\test_zig_zagging.py
+--------------------------------------------------------------------------------
+synonym (total: 11)
+    2.6, 3.0: 11
+
+
+FILE: hypothesis\hypothesis-python\tests\redis\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\redis\test_redis_exampledatabase.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 22)
+    2.6, 3.0: 22
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\conftest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\test_always_failing.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\test_combinators.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\test_explain.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\snapshots\test_shrinking.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\test_annotated_types.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\typing_extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\typing_extensions\test_backported_types.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: hypothesis\hypothesis-python\tests\watchdog\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\hypothesis-python\tests\watchdog\test_database.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 39)
+    2.6, 3.0: 39
+
+
+FILE: hypothesis\hypothesis-python\tests\watchdog\test_database_cover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\tooling\scripts\tool-hash.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: hypothesis\tooling\setup.py
+--------------------------------------------------------------------------------
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\__main__.py
+--------------------------------------------------------------------------------
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 27)
+    !2, 3.6: 27
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 9)
+    !2, 3.5: 9
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\installers.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\junkdrawer.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\projects\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\tooling\src\hypothesistooling\projects\hypothesispython.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\releasemanagement.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+
+FILE: hypothesis\tooling\src\hypothesistooling\scripts.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: hypothesis\website\pelicanconf.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\whole_repo_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\documentation\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\documentation\test_documentation.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\whole_repo_tests\types\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\types\revealed_types.py
+--------------------------------------------------------------------------------
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\whole_repo_tests\types\test_hypothesis.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\types\test_mypy.py
+--------------------------------------------------------------------------------
+f-strings (total: 22)
+    !2, 3.6: 22
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: hypothesis\whole_repo_tests\types\test_pyright.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_ci_config.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_deploy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_release_files.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_release_management.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_requirements.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_rst_is_valid.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_shellcheck.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: hypothesis\whole_repo_tests\whole_repo\test_validate_branch_check.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+

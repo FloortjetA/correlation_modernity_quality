@@ -1,0 +1,13 @@
+Statistics for: celery_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 2915
+W: 3736
+C: 959
+R: 926
+
+Total messages: 8536
+Average rating: 6.98/10

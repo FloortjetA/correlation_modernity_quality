@@ -1,0 +1,5531 @@
+Feature statistics for repository: xonsh
+================================================================================
+
+FILE: xonsh\conftest.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\docs\conf.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\docs\extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\docs\extensions\cmdhelp.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\docs\extensions\jinja_rst_ext.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\docs\extensions\rst_helpers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\docs\extensions\softwaresourcecode.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\docs\extensions\utils.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: xonsh\docs\xonshrc.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\setup.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.major (total: 1)
+    2.7, 3.0: 1
+
+sys.version_info.minor (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: xonsh\tests\aliases\test_completer_alias.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\aliases\test_source.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\aliases\test_xexec.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\tests\bin\cat
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\tests\bin\pwd
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\tests\bin\wc
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\built_ins\test_tracer.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\built_ins\test_wizard.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\tests\built_ins\test_xonfig.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\tests\built_ins\test_xontribs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_base_completer.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_bash_completer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_bash_completion_paths_llm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\completers\test_command_completers.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\completers\test_completer_command.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_dir_completers.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\completers\test_environment_completer.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_gh.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+
+FILE: xonsh\tests\completers\test_path_completers.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 39)
+    !2, 3.6: 39
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\completers\test_pip_completer.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\tests\completers\test_python.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\completers\test_xompletions.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: xonsh\tests\conftest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\history\test_history_dummy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\history\test_history_json.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+time.struct_time (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\history\test_history_sqlite.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sys.unraisablehook (total: 1)
+    !2, 3.8: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\lib\test_collections.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\lib\test_itertools.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\lib\test_jsonutils.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\lib\test_lazyasd.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+threading.Barrier (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\lib\test_lazyjson.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\lib\test_pretty.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\lib\test_string.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\tests\parsers\conftest.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\parsers\test_ast.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\parsers\test_lexer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\tests\parsers\test_lexer_fstring_llm.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\tests\parsers\test_parser.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 38)
+    !2, 3.6: 38
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.permutations (total: 1)
+    2.6, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\parsers\test_parser_fstring_llm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\parsers\test_parser_indent_error_llm.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\platform\test_platform.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\procs\test_executables.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+
+FILE: xonsh\tests\procs\test_jobs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\procs\test_pipeline_llm.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\procs\test_pipelines.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+list.clear (total: 1)
+    !2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: xonsh\tests\procs\test_pipes.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: xonsh\tests\procs\test_proxies_llm.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\procs\test_readers.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 17)
+    2.6, 3.0: 17
+
+
+FILE: xonsh\tests\procs\test_specs.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sys.unraisablehook (total: 1)
+    !2, 3.8: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\prompt\test_base.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\prompt\test_cwd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\prompt\test_gitstatus.py
+--------------------------------------------------------------------------------
+format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: xonsh\tests\prompt\test_job.py
+--------------------------------------------------------------------------------
+format (total: 1)
+    2.6, 3.0: 1
+
+threading.Barrier (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\prompt\test_vc.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\shell\test_base_shell.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: xonsh\tests\shell\test_ptk_completer.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\shell\test_ptk_highlight.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\shell\test_ptk_history.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\shell\test_ptk_multiline.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\shell\test_ptk_shell.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\tests\shell\test_readline_shell.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+
+FILE: xonsh\tests\shell\test_shell.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\test_aliases.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\tests\test_aliases_click_completer_llm.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\tests\test_ansi_colors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\test_builtins.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\test_cli_utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\test_codecache_llm.py
+--------------------------------------------------------------------------------
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: xonsh\tests\test_color_tools.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\test_commands_cache.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\test_completer.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\test_completer_empty_llm.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\test_completion_context.py
+--------------------------------------------------------------------------------
+f-strings (total: 96)
+    !2, 3.6: 96
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\test_contexts.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\test_dirstack.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\test_dirstack_unc.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\tests\test_environ.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\test_events.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\test_events_llm.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\test_execer.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\test_foreign_shells.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\test_imphooks.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\tests\test_main.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\tests\test_main_terminal_llm.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+signal.SIG_BLOCK (total: 1)
+    !2, 3.3: 1
+
+signal.SIG_SETMASK (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\test_man.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\test_pyghooks.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\test_pyghooks_llm.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\test_pygments_cache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\test_subproc_raise_error.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\tests\test_tools.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 47)
+    !2, 3.6: 47
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\test_virtualenv_activator.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\tests\test_xonsh_list.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\xintegration\conftest.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\xintegration\test_integrations.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: xonsh\tests\xintegration\test_stress.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\tests\xoreutils\test_cat.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\xoreutils\test_uname.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\xoreutils\test_uptime.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\tests\xoreutils\test_which.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\tests\xoreutils\test_xcontext.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\tests\xoreutils\test_xcontext_llm.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.CompletedProcess (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\tests\xpack\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\tests\xpack\sub\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xompletions\_xonsh.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xompletions\cd.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xompletions\gh.py
+--------------------------------------------------------------------------------
+assignment (total: 2)
+    !2, 3.0: 2
+
+
+FILE: xonsh\xompletions\git.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xompletions\pip.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xompletions\python.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xompletions\rmdir.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh-in-docker.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\aliases.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 33)
+    !2, 3.6: 33
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+inspect.unwrap (total: 1)
+    !2, 3.4: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+site.getusersitepackages (total: 1)
+    2.7, 3.2: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: xonsh\xonsh\ansi_colors.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\api\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\api\os.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\api\subprocess.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\built_ins.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+operator.attrgetter (total: 1)
+    2.4, 3.0: 1
+
+os.fsdecode (total: 1)
+    !2, 3.2: 1
+
+os.stat.st_file_attributes (total: 1)
+    !2, 3.5: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+stat.FILE_ATTRIBUTE_HIDDEN (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\cli_utils.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.cleandoc (total: 1)
+    2.6, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+set.isdisjoint (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: xonsh\xonsh\codecache.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\color_tools.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\commands_cache.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\completer.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\completers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\completers\_aliases.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: xonsh\xonsh\completers\base.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\bash.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\bash_completion.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\click.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\commands.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\completers\completer.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\dirs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\completers\emoji.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\environment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\completers\imports.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.machinery.all_suffixes (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+zipimport (total: 1)
+    2.3, 3.0: 1
+
+zipimport.zipimporter (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\init.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\xonsh\completers\man.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.9: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\path.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+glob.escape (total: 1)
+    !2, 3.4: 1
+
+glob.iglob (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.maketrans (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\python.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.getattr_static (total: 1)
+    !2, 3.2: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\completers\tools.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+shlex.shlex.whitespace_split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\contexts.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\dirstack.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+glob.iglob (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\environ.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+NotADirectoryError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\events.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\execer.py
+--------------------------------------------------------------------------------
+None (total: 7)
+    !2, 3.3: 7
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\foreign_shells.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\history\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\history\base.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\xonsh\history\diff_history.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\history\dummy.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\xonsh\history\json.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+os.replace (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\xonsh\history\main.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+
+FILE: xonsh\xonsh\history\sqlite.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\imphooks.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.abc.MetaPathFinder (total: 1)
+    !2, 3.3: 1
+
+importlib.machinery.ModuleSpec (total: 1)
+    !2, 3.4: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: xonsh\xonsh\lazyasd.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\lazyimps.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\lazyjson.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\lib\collections.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\lib\inspectors.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.cleandoc (total: 1)
+    2.6, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\itertools.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\jsonutils.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.singledispatch (total: 1)
+    !2, 3.4: 1
+
+
+FILE: xonsh\xonsh\lib\lazyasd.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\lib\lazyimps.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\xonsh\lib\lazyjson.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slice.indices (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\modules.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\openpy.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\os.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\pretty.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\string.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\xonsh\lib\subprocess.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\main.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+os.getsid (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+signal.SIG_BLOCK (total: 1)
+    !2, 3.3: 1
+
+signal.SIG_SETMASK (total: 1)
+    !2, 3.3: 1
+
+signal.pthread_sigmask (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\parsers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\parsers\ast.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\parsers\base.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\parsers\completion_context.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\parsers\context_check.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\fstring_adaptor.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: xonsh\xonsh\parsers\fstring_rules_llm.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+
+FILE: xonsh\xonsh\parsers\lexer.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\ply\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\parsers\ply\cpp.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.generators (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.major (total: 1)
+    2.7, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\ply\ctokens.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\parsers\ply\lex.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\ply\yacc.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\ply\ygen.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\rd_parser.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\parsers\tokenize.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+token.ASYNC (total: 1)
+    !2, 3.5: 1
+
+token.AWAIT (total: 1)
+    !2, 3.5: 1
+
+token.COLONEQUAL (total: 1)
+    !2, 3.8: 1
+
+
+FILE: xonsh\xonsh\parsers\v310.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+matching (total: 18)
+    !2, 3.10: 18
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\parsers\v313.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+
+FILE: xonsh\xonsh\parsers\v36.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\v38.py
+--------------------------------------------------------------------------------
+arguments (total: 7)
+    !2, 3.0: 7
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\parsers\v39.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\platform.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\platforms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\platforms\macutils.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\xonsh\platforms\winutils.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.get_last_error (total: 1)
+    2.6, 3.0: 1
+
+os.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\procs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\procs\executables.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\procs\jobs.py
+--------------------------------------------------------------------------------
+ChildProcessError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+os.WCOREDUMP (total: 1)
+    2.3, 3.0: 1
+
+os.WUNTRACED (total: 1)
+    2.3, 3.0: 1
+
+os.killpg (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+signal.SIG_BLOCK (total: 1)
+    !2, 3.3: 1
+
+signal.SIG_SETMASK (total: 1)
+    !2, 3.3: 1
+
+signal.pthread_sigmask (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: xonsh\xonsh\procs\pipelines.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+os.getpgid (total: 1)
+    2.3, 3.0: 1
+
+os.killpg (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\procs\pipes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\procs\posix.py
+--------------------------------------------------------------------------------
+ProcessLookupError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_END (total: 1)
+    2.7, 3.1: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+os.getpgid (total: 1)
+    2.3, 3.0: 1
+
+os.killpg (total: 1)
+    2.3, 3.0: 1
+
+os.set_inheritable (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+signal.CTRL_C_EVENT (total: 1)
+    2.7, 3.2: 1
+
+signal.pthread_kill (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\procs\proxies.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_SET (total: 1)
+    2.7, 3.1: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+signal.pthread_kill (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.DEVNULL (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\procs\readers.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.pread (total: 1)
+    !2, 3.3: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: xonsh\xonsh\procs\specs.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+stat.IO_REPARSE_TAG_APPEXECLINK (total: 1)
+    !2, 3.8: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: xonsh\xonsh\prompt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\prompt\base.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+format (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\prompt\cwd.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\prompt\env.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\prompt\gitstatus.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\prompt\job.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\prompt\times.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\prompt\vc.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.SubprocessError (total: 1)
+    !2, 3.3: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: xonsh\xonsh\pyghooks.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+stat.S_ISDOOR (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rpartition (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\pygments_cache.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\pytest\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\pytest\plugin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+list.clear (total: 1)
+    !2, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\pytest\tools.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\shell.py
+--------------------------------------------------------------------------------
+difflib (total: 1)
+    2.1, 3.0: 1
+
+difflib.unified_diff (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\shells\base_shell.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_SET (total: 1)
+    2.7, 3.1: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\dumb_shell.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\__init__.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\completer.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\formatter.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\history.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\key_bindings.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\shells\ptk_shell\updator.py
+--------------------------------------------------------------------------------
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\shells\readline_shell.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+readline.get_completer (total: 1)
+    2.3, 3.0: 1
+
+readline.get_current_history_length (total: 1)
+    2.3, 3.0: 1
+
+readline.get_history_item (total: 1)
+    2.3, 3.0: 1
+
+readline.remove_history_item (total: 1)
+    2.4, 3.0: 1
+
+readline.set_pre_input_hook (total: 1)
+    2.3, 3.0: 1
+
+readline.set_startup_hook (total: 1)
+    2.3, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\style_tools.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\timings.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\tools.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 29)
+    !2, 3.6: 29
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+glob.iglob (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.permutations (total: 1)
+    2.6, 3.0: 1
+
+list.clear (total: 1)
+    !2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+os.WCOREDUMP (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.casefold (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+string.Formatter (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: xonsh\xonsh\tracer.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\virtualenv\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\webconfig\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\webconfig\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\webconfig\file_writes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\webconfig\main.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\webconfig\routes.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\webconfig\tags.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: xonsh\xonsh\webconfig\xonsh_data.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\wizard.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 22)
+    !2, 3.6: 22
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\xonfig.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.groupby (total: 1)
+    2.4, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rpartition (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+
+FILE: xonsh\xonsh\xontribs.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+site.getusersitepackages (total: 1)
+    2.7, 3.2: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\xoreutils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\xoreutils\_which.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\cat.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: xonsh\xonsh\xoreutils\echo.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\pwd.py
+--------------------------------------------------------------------------------
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\tee.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\tty.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\ulimit.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\umask.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\uname.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\uptime.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+os.stat.st_ctime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+struct.unpack_from (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+time.CLOCK_MONOTONIC (total: 1)
+    !2, 3.3: 1
+
+time.clock_gettime (total: 1)
+    !2, 3.3: 1
+
+
+FILE: xonsh\xonsh\xoreutils\util.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: xonsh\xonsh\xoreutils\which.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: xonsh\xonsh\xoreutils\xcontext.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.SubprocessError (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: xonsh\xonsh\xoreutils\yes.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: xonsh\xontrib\coreutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+

@@ -1,0 +1,1714 @@
+Detecting python files..
+Analyzing 488 files using 20 processes..
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\beep\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\beep\beep.py
+  L24 C13: 'any' member requires 2.5, 3.0
+  L56 C11: 'ctypes' module requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\cloak\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\cloak\cloak.py
+  print(expr) requires 2.0, 3.0
+  L10 C5: '__future__' module requires 2.1, 3.0
+  L10 C5: '__future__.print_function' member requires 2.6, 3.0
+  L17 C5: 'optparse' module requires 2.3, 3.0
+  L20: 'sys.version_info' member requires 2.0, 3.0
+  L24: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L27: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L31: `with` requires 2.5, 3.0
+  L38: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\dbgtool\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\dbgtool\dbgtool.py
+  print(expr) requires 2.0, 3.0
+  L10 C5: '__future__' module requires 2.1, 3.0
+  L10 C5: '__future__.print_function' member requires 2.6, 3.0
+  L15 C5: 'optparse' module requires 2.3, 3.0
+  L20: 'os.stat.st_size' member requires 2.2, 3.0
+  L36: 'sys.version_info' member requires 2.0, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\icmpsh\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\icmpsh\icmpsh_m.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\shutils\duplicates.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L16: `with` requires 2.5, 3.0
+  L29: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\shutils\newlines.py
+  print(expr) requires 2.0, 3.0
+  L3 C5: '__future__' module requires 2.1, 3.0
+  L3 C5: '__future__.print_function' member requires 2.6, 3.0
+  L25: 'os.walk' member requires 2.3, 3.0
+  L26 C11: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\vulnserver\__init__.py
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\extra\vulnserver\vulnserver.py
+  ["'socketserver' module", "'urllib.parse' module"] (requires !2, 3.0) vs. 'BaseHTTPServer' module (requires 2.0, !3)
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\controller\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\controller\action.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\controller\checks.py
+  L9 C7: 'logging' module requires 2.3, 3.0
+  L118: 'sorted(key)' requires 2.4, 3.0
+  L600 C55: 'set' member requires 2.4, 3.0
+  L619 C61: 'sorted' member requires 2.4, 3.0
+  L862: function decorators require 2.4, 3.0
+  L908: function decorators require 2.4, 3.0
+  L916 C7: 'all' member requires 2.5, 3.0
+  L975: function decorators require 2.4, 3.0
+  L999: function decorators require 2.4, 3.0
+  L1140: 're.finditer' member requires 2.2, 3.0
+  L1336: function decorators require 2.4, 3.0
+  L1415: function decorators require 2.4, 3.0
+  L1482: 'socket.getaddrinfo' member requires 2.2, 3.0
+  L1583 C43: 'any' member requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\controller\controller.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L12 C7: 'subprocess' module requires 2.4, 3.0
+  L231 C95: 'set' member requires 2.4, 3.0
+  L259 C157: 'sorted' member requires 2.4, 3.0
+  L267: function decorators require 2.4, 3.0
+  L440 C32: 'dict' member requires 2.2, 3.0
+  L442: 're.finditer' member requires 2.2, 3.0
+  L566 C91: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\controller\handler.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\__init__.py
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\agent.py
+  L334 C11: 'any' member requires 2.5, 3.0
+  L416: 're.finditer' member requires 2.2, 3.0
+  L426 C21: 'set' member requires 2.4, 3.0
+  L1144: 're.sub(flags)' requires 2.7, 3.1
+  L1278 C30: 'all' member requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\bigarray.py
+  L13 C7: 'itertools' module requires 2.3, 3.0
+  L28 C36: 'object' member requires 2.2, 3.0
+  L44: 'sys.getsizeof' member requires 2.6, 3.0
+  L51 C18: 'sum' member requires 2.3, 3.0
+  L132: `with` requires 2.5, 3.0
+  L151: `with` requires 2.5, 3.0
+  L156: `with` requires 2.5, 3.0
+  L178: `with` requires 2.5, 3.0
+  L197: `with` requires 2.5, 3.0
+  L218: `with` requires 2.5, 3.0
+  L238 C25: 'set' member requires 2.4, 3.0
+  L246: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L266: `with` requires 2.5, 3.0
+  L288: `with` requires 2.5, 3.0
+  L314: `with` requires 2.5, 3.0
+  L319 C26: 'enumerate' member requires 2.3, 3.0
+  L328: `with` requires 2.5, 3.0
+
+2.6, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\common.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L12 C7: 'contextlib' module requires 2.5, 3.0
+  L14 C7: 'functools' module requires 2.5, 3.0
+  L16 C7: 'hashlib' module requires 2.5, 3.0
+  L17 C7: 'inspect' module requires 2.1, 3.0
+  L18 C7: 'io' module requires 2.6, 3.0
+  L19 C7: 'json' module requires 2.6, 3.0
+  L22 C7: 'logging' module requires 2.3, 3.0
+  L25 C7: 'platform' module requires 2.3, 3.0
+  L31 C7: 'subprocess' module requires 2.4, 3.0
+  L40 C5: 'difflib' module requires 2.1, 3.0
+  L42 C5: 'optparse' module requires 2.3, 3.0
+  L200 C5: 'unichr' member requires 2.0, !3
+  L241: function decorators require 2.4, 3.0
+  L246: function decorators require 2.4, 3.0
+  L265: function decorators require 2.4, 3.0
+  L287: function decorators require 2.4, 3.0
+  L351: function decorators require 2.4, 3.0
+  L389: function decorators require 2.4, 3.0
+  L396: function decorators require 2.4, 3.0
+  L405: function decorators require 2.4, 3.0
+  L411: function decorators require 2.4, 3.0
+  L417: function decorators require 2.4, 3.0
+  L447: function decorators require 2.4, 3.0
+  L455: function decorators require 2.4, 3.0
+  L463: function decorators require 2.4, 3.0
+  L482: function decorators require 2.4, 3.0
+  L486: function decorators require 2.4, 3.0
+  L490: function decorators require 2.4, 3.0
+  L505: function decorators require 2.4, 3.0
+  L533: function decorators require 2.4, 3.0
+  L541: function decorators require 2.4, 3.0
+  L549: function decorators require 2.4, 3.0
+  L553: function decorators require 2.4, 3.0
+  L557: function decorators require 2.4, 3.0
+  L561: function decorators require 2.4, 3.0
+  L568: function decorators require 2.4, 3.0
+  L574: function decorators require 2.4, 3.0
+  L578: function decorators require 2.4, 3.0
+  L582: function decorators require 2.4, 3.0
+  L586: function decorators require 2.4, 3.0
+  L597: function decorators require 2.4, 3.0
+  L612: function decorators require 2.4, 3.0
+  L778: 'codecs.decode' member requires 2.4, 3.0
+  L1108: `with` requires 2.5, 3.0
+  L1110 C19: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L1340: `with` requires 2.5, 3.0
+  L1385: `with` requires 2.5, 3.0
+  L1735: 'socket.has_ipv6' member requires 2.3, 3.0
+  L2151: 'sys.getfilesystemencoding' member requires 2.3, 3.0
+  L2357: function decorators require 2.4, 3.0
+  L2427: `with` requires 2.5, 3.0
+  L2489: `with` requires 2.5, 3.0
+  L2493: `with` requires 2.5, 3.0
+  L2512: function decorators require 2.4, 3.0
+  L2527 C18: 'sum' member requires 2.3, 3.0
+  L2551: `with` requires 2.5, 3.0
+  L2584: `with` requires 2.5, 3.0
+  L2733 C28: 'enumerate' member requires 2.3, 3.0
+  L2945: 'sorted(key)' requires 2.4, 3.0
+  L2945: 'sorted(reverse)' requires 2.4, 3.0
+  L3059 C15: 'ctypes' module requires 2.5, 3.0
+  L3085: `with` requires 2.5, 3.0
+  L3093: function decorators require 2.4, 3.0
+  L3132: function decorators require 2.4, 3.0
+  L3216: function decorators require 2.4, 3.0
+  L3617: `with` requires 2.5, 3.0
+  L3698: 'inspect.isgenerator' member requires 2.6, 3.0
+  L3711 C13: 'iter' member requires 2.2, 3.0
+  L4031: `with` requires 2.5, 3.0
+  L4085: 'types.GeneratorType' member requires 2.2, 3.0
+  L4206: 'threading.Thread.daemon' member requires 2.6, 3.0
+  L4210: 'threading.Thread.is_alive' member requires 2.6, 3.0
+  L4264: 'unicodedata.normalize' member requires 2.3, 3.0
+  L4556: 'random.sample' member requires 2.3, 3.0
+  L4564: function decorators require 2.4, 3.0
+  L4664 C49: 'all' member requires 2.5, 3.0
+  L4678 C12: 'super' member requires 2.2, 3.0
+  L4692 C13: 'set' member requires 2.4, 3.0
+  L4894: 'sys.setdefaultencoding' member requires 2.0, !3
+  L5001: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L5017 C31: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L5058 C24: 'bool' member requires 2.2, 3.0
+  L5124: `with` requires 2.5, 3.0
+  L5170: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L5173: `with` requires 2.5, 3.0
+  L5273 C13: 'sorted' member requires 2.4, 3.0
+  L5363: 're.finditer' member requires 2.2, 3.0
+  L5416 C23: 'any' member requires 2.5, 3.0
+  L5532 C29: 'type' member requires 2.2, 3.0
+  L5648: `with` requires 2.5, 3.0
+  L5650: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L5651: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\compat.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L12 C7: 'functools' module requires 2.5, 3.0
+  L13 C7: 'io' module requires 2.6, 3.0
+  L20 C7: 'uuid' module requires 2.5, 3.0
+  L45: 'os.urandom' member requires 2.4, 3.0
+  L132 C37: 'type' member requires 2.2, 3.0
+  L178 C35: 'super' member requires 2.2, 3.0
+  L221: 'random.sample' member requires 2.3, 3.0
+  L274: 'functools.cmp_to_key' member requires 2.7, 3.2
+  L332 C11: 'any' member requires 2.5, 3.0
+  L370 C15: 'iter' member requires 2.2, 3.0
+  L429: 'sys.version_info' member requires 2.0, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\convert.py
+  ["codecs encoding 'hex'", "codecs encoding 'hex'"] (requires !2, 3.4) vs. 'unichr' member (requires 2.0, !3)
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\data.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\datatype.py
+  L146: `with` requires 2.5, 3.0
+  L158: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\decorators.py
+  L8 C7: 'functools' module requires 2.5, 3.0
+  L44 C25: 'sorted' member requires 2.4, 3.0
+  L47: function decorators require 2.4, 3.0
+  L53 C29: 'frozenset' member requires 2.4, 3.0
+  L57: `with` requires 2.5, 3.0
+  L68: `with` requires 2.5, 3.0
+  L74: `with` requires 2.5, 3.0
+  L93: function decorators require 2.4, 3.0
+  L122: function decorators require 2.4, 3.0
+  L124: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\defaults.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\dicts.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\dump.py
+  L8 C7: 'hashlib' module requires 2.5, 3.0
+  L198 C26: 'set' member requires 2.4, 3.0
+  L445: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L501: 'sorted(key)' requires 2.4, 3.0
+  L501 C22: 'sorted' member requires 2.4, 3.0
+  L628 C31: 'any' member requires 2.5, 3.0
+  L637: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\enums.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\exception.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\log.py
+  L8 C7: 'logging' module requires 2.3, 3.0
+  L66 C31: 'any' member requires 2.5, 3.0
+  L82: 're.finditer' member requires 2.2, 3.0
+  L110: 'logging.StreamHandler' member requires 2.6, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\option.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L11 C7: 'collections' module requires 2.4, 3.0
+  L12 C7: 'functools' module requires 2.5, 3.0
+  L14 C7: 'inspect' module requires 2.1, 3.0
+  L15 C7: 'json' module requires 2.6, 3.0
+  L16 C7: 'logging' module requires 2.3, 3.0
+  L164 C5: 'xml.etree.ElementTree' module requires 2.5, 3.0
+  L354 C21: 'next' member requires 2.6, 3.0
+  L354 C26: 'iter' member requires 2.2, 3.0
+  L451 C22: 'StopIteration' member requires 2.2, 3.0
+  L696: 'sorted(key)' requires 2.4, 3.0
+  L821: 'inspect.signature' member requires !2, 3.3
+  L936: 'traceback.format_exc' member requires 2.4, 3.0
+  L976 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L1016: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L1048: 'socket.getaddrinfo' member requires 2.2, 3.0
+  L1062: `with` requires 2.5, 3.0
+  L1066: `with` requires 2.5, 3.0
+  L1075: `with` requires 2.5, 3.0
+  L1099 C28: 'frozenset' member requires 2.4, 3.0
+  L1100: `with` requires 2.5, 3.0
+  L1102: 'collections.deque' member requires 2.4, 3.0
+  L1124: 'socket.getdefaulttimeout' member requires 2.3, 3.0
+  L1133: 'socket.create_connection' member requires 2.6, 3.0
+  L1144: `with` requires 2.5, 3.0
+  L1493: 'random.sample' member requires 2.3, 3.0
+  L1498 C20: 'sorted' member requires 2.4, 3.0
+  L1603: 'socket.setdefaulttimeout' member requires 2.3, 3.0
+  L1674: 'tempfile.gettempdir' member requires 2.3, 3.0
+  L1685: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L1777 C11: 'all' member requires 2.5, 3.0
+  L1924: 'os.path.realpath' member requires 2.2, 3.0
+  L2187 C23: 'dict' member requires 2.2, 3.0
+  L2259 C23: 'set' member requires 2.4, 3.0
+  L2397 C28: 'bool' member requires 2.2, 3.0
+  L2509: 're.finditer' member requires 2.2, 3.0
+  L2975 C7: 'any' member requires 2.5, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\option.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+L8 C5: '__future__.division' member requires 2.2, 3.0
+L11 C7: 'collections' module requires 2.4, 3.0
+L12 C7: 'functools' module requires 2.5, 3.0
+L14 C7: 'inspect' module requires 2.1, 3.0
+L15 C7: 'json' module requires 2.6, 3.0
+L16 C7: 'logging' module requires 2.3, 3.0
+L164 C5: 'xml.etree.ElementTree' module requires 2.5, 3.0
+L354 C21: 'next' member requires 2.6, 3.0
+L354 C26: 'iter' member requires 2.2, 3.0
+L451 C22: 'StopIteration' member requires 2.2, 3.0
+L696: 'sorted(key)' requires 2.4, 3.0
+L821: 'inspect.signature' member requires !2, 3.3
+L936: 'traceback.format_exc' member requires 2.4, 3.0
+L976 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+L1016: 'tempfile.mkstemp' member requires 2.3, 3.0
+L1048: 'socket.getaddrinfo' member requires 2.2, 3.0
+L1062: `with` requires 2.5, 3.0
+L1066: `with` requires 2.5, 3.0
+L1075: `with` requires 2.5, 3.0
+L1099 C28: 'frozenset' member requires 2.4, 3.0
+L1100: `with` requires 2.5, 3.0
+L1102: 'collections.deque' member requires 2.4, 3.0
+L1124: 'socket.getdefaulttimeout' member requires 2.3, 3.0
+L1133: 'socket.create_connection' member requires 2.6, 3.0
+L1144: `with` requires 2.5, 3.0
+L1493: 'random.sample' member requires 2.3, 3.0
+L1498 C20: 'sorted' member requires 2.4, 3.0
+L1603: 'socket.setdefaulttimeout' member requires 2.3, 3.0
+L1674: 'tempfile.gettempdir' member requires 2.3, 3.0
+L1685: 'tempfile.mkdtemp' member requires 2.3, 3.0
+L1777 C11: 'all' member requires 2.5, 3.0
+L1924: 'os.path.realpath' member requires 2.2, 3.0
+L2187 C23: 'dict' member requires 2.2, 3.0
+L2259 C23: 'set' member requires 2.4, 3.0
+L2397 C28: 'bool' member requires 2.2, 3.0
+L2509: 're.finditer' member requires 2.2, 3.0
+L2975 C7: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\optiondict.py
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\patch.py
+  'collections.abc' module (requires !2, 3.3) vs. '__builtin__' module (requires 2.0, !3)
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\profiling.py
+  L8 C7: 'cProfile' module requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\readlineng.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\replication.py
+  L8 C7: 'sqlite3' module requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\revision.py
+  L10 C7: 'subprocess' module requires 2.4, 3.0
+  L39: `with` requires 2.5, 3.0
+  L47: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\session.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\settings.py
+  L10 C7: 'platform' module requires 2.3, 3.0
+  L266: 'platform.python_implementation' member requires 2.6, 3.0
+  L335 C22: 'dict' member requires 2.2, 3.0
+  L639: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L703 C22: 'frozenset' member requires 2.4, 3.0
+  L769: 'random.sample' member requires 2.3, 3.0
+  L910: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L937 C18: 'set' member requires 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\shell.py
+  L72: `with` requires 2.5, 3.0
+  L145 C32: 'dict' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\subprocessng.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L12 C7: 'subprocess' module requires 2.4, 3.0
+  L33: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L78: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L190: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\target.py
+  L8 C7: 'functools' module requires 2.5, 3.0
+  L11 C7: 'subprocess' module requires 2.4, 3.0
+  L163: 're.finditer' member requires 2.2, 3.0
+  L415 C273: 'set' member requires 2.4, 3.0
+  L415 C388: 'all' member requires 2.5, 3.0
+  L490 C37: 'dict' member requires 2.2, 3.0
+  L597: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L619 C11: 'any' member requires 2.5, 3.0
+  L673: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L684: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\testing.py
+  L9 C7: 'logging' module requires 2.3, 3.0
+  L14 C7: 'sqlite3' module requires 2.5, 3.0
+  L104: 'threading.Thread.daemon' member requires 2.6, 3.0
+  L111: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L112: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L119: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L141: `with` requires 2.5, 3.0
+  L158: `with` requires 2.5, 3.0
+  L163: `with` requires 2.5, 3.0
+  L170: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L172: `with` requires 2.5, 3.0
+  L175: `with` requires 2.5, 3.0
+  L180: `with` requires 2.5, 3.0
+  L198: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L204 C15: 'all' member requires 2.5, 3.0
+  L232: `with` requires 2.5, 3.0
+  L254: 'os.walk' member requires 2.3, 3.0
+  L255 C11: 'any' member requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\threads.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L10 C7: 'difflib' module requires 2.1, 3.0
+  L11 C7: 'sqlite3' module requires 2.5, 3.0
+  L34: 'threading.local' member requires 2.4, 3.0
+  L96: 'threading.current_thread' member requires 2.6, 3.0
+  L109 C97: 'type' member requires 2.2, 3.0
+  L139 C95: 'any' member requires 2.5, 3.0
+  L194: 'threading.Thread.is_alive' member requires 2.6, 3.0
+  L216: 'threading.active_count' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\unescaper.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\update.py
+  L12 C7: 'subprocess' module requires 2.4, 3.0
+  L105: `with` requires 2.5, 3.0
+  L113: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\core\wordlist.py
+  L65 C24: 'iter' member requires 2.2, 3.0
+  L89 C19: 'StopIteration' member requires 2.2, 3.0
+  L91 C25: 'next' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\banner.py
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\cmdline.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L16 C9: 'optparse' module requires 2.3, 3.0
+  L34 C9: 'argparse' module requires 2.7, 3.2
+  L897 C53: 'type' member requires 2.2, 3.0
+  L997: 'shlex.split' member requires 2.3, 3.0
+  L1003 C23: 'set' member requires 2.4, 3.0
+  L1016 C38: 'all' member requires 2.5, 3.0
+  L1102 C15: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L1125 C29: 'iter' member requires 2.2, 3.0
+  L1129 C15: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\configfile.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\handler.py
+  L40 C34: 'set' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\headers.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\html.py
+  L53: 'sorted(key)' requires 2.4, 3.0
+  L53 C27: 'sorted' member requires 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\payloads.py
+  L11 C5: 'xml.etree.ElementTree' module requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\parse\sitemap.py
+  L30 C22: 'set' member requires 2.4, 3.0
+  L44: 're.sub(flags)' requires 2.7, 3.1
+  L46: 're.finditer' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\__init__.py
+2.6, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\basic.py
+  L10 C7: 'io' module requires 2.6, 3.0
+  L11 C7: 'logging' module requires 2.3, 3.0
+  L61 C5: 'unichr' member requires 2.0, !3
+  L64: function decorators require 2.4, 3.0
+  L100 C19: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L158: function decorators require 2.4, 3.0
+  L252: function decorators require 2.4, 3.0
+  L309: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L329 C12: 'any' member requires 2.5, 3.0
+  L329 C203: 'all' member requires 2.5, 3.0
+  L342: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L343: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L343: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L344: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L348: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L349: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L350: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L353: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L359: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L402: `with` requires 2.5, 3.0
+  L406 C31: 'set' member requires 2.4, 3.0
+  L439: 're.finditer' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\basicauthhandler.py
+  L18 C27: 'set' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\chunkedhandler.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\comparison.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L39 C70: 'type' member requires 2.2, 3.0
+  L42: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L141 C60: 'any' member requires 2.5, 3.0
+  L162: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L167: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L172: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L173: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.6, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\connect.py
+  L9 C7: 'inspect' module requires 2.1, 3.0
+  L10 C7: 'logging' module requires 2.3, 3.0
+  L145 C5: 'unichr' member requires 2.0, !3
+  L155: function decorators require 2.4, 3.0
+  L169: function decorators require 2.4, 3.0
+  L228: function decorators require 2.4, 3.0
+  L250: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L261 C23: 'sum' member requires 2.3, 3.0
+  L269: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L273: function decorators require 2.4, 3.0
+  L312: `with` requires 2.5, 3.0
+  L337: `with` requires 2.5, 3.0
+  L565: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L597: `with` requires 2.5, 3.0
+  L634 C39: 'dict' member requires 2.2, 3.0
+  L635: `with` requires 2.5, 3.0
+  L866: 'socket.timeout' member requires 2.3, 3.0
+  L867: 'traceback.format_exc' member requires 2.4, 3.0
+  L937: `with` requires 2.5, 3.0
+  L992: 'socket.setdefaulttimeout' member requires 2.3, 3.0
+  L1034: function decorators require 2.4, 3.0
+  L1103 C66: 'type' member requires 2.2, 3.0
+  L1290 C39: 'any' member requires 2.5, 3.0
+  L1334: 'random.sample' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\direct.py
+2.6, 3.5     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\dns.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L28: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L38: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L49: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L53: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L54: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L55: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L56: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L57: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L58: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L59: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L60: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L61: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L91: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L96: 'socket.socket.settimeout' member requires 2.3, 3.0
+  L106: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L123: `with` requires 2.5, 3.0
+  L125: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L125: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L147: `with` requires 2.5, 3.0
+  L157: 'threading.Thread.daemon' member requires 2.6, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\httpshandler.py
+  L31 C7: 'dict' member requires 2.2, 3.0
+  L56: 'socket.create_connection' member requires 2.6, 3.0
+  L72: 'ssl.SSLContext' member requires 2.7, 3.2
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\inject.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L359: function decorators require 2.4, 3.0
+  L503 C11: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\methodrequest.py
+2.7, 3.4     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\pkihandler.py
+  L39: 'ssl.create_default_context' member requires 2.7, 3.4
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\rangehandler.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\redirecthandler.py
+  L8 C7: 'io' module requires 2.6, 3.0
+  L52: `with` requires 2.5, 3.0
+  L91: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L135 C26: 'dict' member requires 2.2, 3.0
+  L190: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\request\templates.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\abstraction.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L146 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L218 C15: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\icmpsh.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\metasploit.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L18 C5: 'subprocess' module requires 2.4, 3.0
+  L509: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L545: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L545 C30: 'any' member requires 2.5, 3.0
+  L548: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L556: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L601: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L630: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L632: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\registry.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\udf.py
+  L42 C27: 'set' member requires 2.4, 3.0
+  L113 C59: 'any' member requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\web.py
+  L8 C7: 'io' module requires 2.6, 3.0
+  L102: `with` requires 2.5, 3.0
+  L110: 'os.SEEK_END' member requires 2.5, 3.0
+  L112: 'os.SEEK_SET' member requires 2.5, 3.0
+  L220 C23: 'set' member requires 2.4, 3.0
+  L335: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L338: `with` requires 2.5, 3.0
+  L345: 're.finditer' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\takeover\xp_cmdshell.py
+  L101: function decorators require 2.4, 3.0
+  L220 C15: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\blind\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\blind\inference.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L83 C26: 'set' member requires 2.4, 3.0
+  L212: `with` requires 2.5, 3.0
+  L232: `with` requires 2.5, 3.0
+  L283 C26: 'type' member requires 2.2, 3.0
+  L485: 'sorted(key)' requires 2.4, 3.0
+  L485 C29: 'sorted' member requires 2.4, 3.0
+  L521: `with` requires 2.5, 3.0
+  L539: `with` requires 2.5, 3.0
+  L721 C42: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\dns\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\dns\test.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\dns\use.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\error\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\error\use.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L83 C15: 'set' member requires 2.4, 3.0
+  L254 C15: 'any' member requires 2.5, 3.0
+  L380 C47: 'iter' member requires 2.2, 3.0
+  L414: `with` requires 2.5, 3.0
+  L417 C42: 'next' member requires 2.6, 3.0
+  L418 C39: 'StopIteration' member requires 2.2, 3.0
+  L429: `with` requires 2.5, 3.0
+  L451 C65: 'sorted' member requires 2.4, 3.0
+  L459 C71: 'type' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\union\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\union\test.py
+  L8 C7: 'itertools' module requires 2.3, 3.0
+  L9 C7: 'logging' module requires 2.3, 3.0
+  L61: function decorators require 2.4, 3.0
+  L68 C23: 'any' member requires 2.5, 3.0
+  L193: 'itertools.product' member requires 2.6, 3.0
+  L364 C69: 'all' member requires 2.5, 3.0
+  L370: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\techniques\union\use.py
+  L8 C7: 'json' module requires 2.6, 3.0
+  L143: 're.finditer' member requires 2.2, 3.0
+  L271 C130: 'any' member requires 2.5, 3.0
+  L340 C47: 'iter' member requires 2.2, 3.0
+  L367: `with` requires 2.5, 3.0
+  L370 C42: 'next' member requires 2.6, 3.0
+  L371 C39: 'StopIteration' member requires 2.2, 3.0
+  L388: `with` requires 2.5, 3.0
+  L389 C39: 'all' member requires 2.5, 3.0
+  L451 C29: 'sorted' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\api.py
+  print(expr) requires 2.0, 3.0
+  L9 C5: '__future__' module requires 2.1, 3.0
+  L9 C5: '__future__.print_function' member requires 2.6, 3.0
+  L11 C7: 'contextlib' module requires 2.5, 3.0
+  L12 C7: 'logging' module requires 2.3, 3.0
+  L17 C7: 'sqlite3' module requires 2.5, 3.0
+  L76 C12: 'dict' member requires 2.2, 3.0
+  L106: `with` requires 2.5, 3.0
+  L273: 'logging.StreamHandler' member requires 2.6, 3.0
+  L298: function decorators require 2.4, 3.0
+  L300 C11: 'any' member requires 2.5, 3.0
+  L321: function decorators require 2.4, 3.0
+  L341: function decorators require 2.4, 3.0
+  L346: function decorators require 2.4, 3.0
+  L351: function decorators require 2.4, 3.0
+  L356: function decorators require 2.4, 3.0
+  L365: function decorators require 2.4, 3.0
+  L375: function decorators require 2.4, 3.0
+  L388: function decorators require 2.4, 3.0
+  L407: function decorators require 2.4, 3.0
+  L422: function decorators require 2.4, 3.0
+  L442: function decorators require 2.4, 3.0
+  L454: function decorators require 2.4, 3.0
+  L477: function decorators require 2.4, 3.0
+  L498: function decorators require 2.4, 3.0
+  L527: function decorators require 2.4, 3.0
+  L542: function decorators require 2.4, 3.0
+  L557: function decorators require 2.4, 3.0
+  L579: function decorators require 2.4, 3.0
+  L604: function decorators require 2.4, 3.0
+  L630: function decorators require 2.4, 3.0
+  L650: function decorators require 2.4, 3.0
+  L674: function decorators require 2.4, 3.0
+  L688: 'os.urandom' member requires 2.4, 3.0
+  L693: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L699: `with` requires 2.5, 3.0
+  L733 C67: 'sorted' member requires 2.4, 3.0
+  L837: 'shlex.split' member requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\brute.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L63: function decorators require 2.4, 3.0
+  L114 C35: 'set' member requires 2.4, 3.0
+  L189 C47: 'any' member requires 2.5, 3.0
+  L323: function decorators require 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\crawler.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+  L58: `with` requires 2.5, 3.0
+  L101: 're.finditer' member requires 2.2, 3.0
+  L121: `with` requires 2.5, 3.0
+  L125 C27: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L224 C23: 'set' member requires 2.4, 3.0
+  L251: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L257: `with` requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\deps.py
+  L14 C24: 'set' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\getch.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\gui.py
+  L11 C7: 'subprocess' module requires 2.4, 3.0
+  L119: `"..{}..".format(..)` requires 2.7, 3.0
+  L119: 'str.format' member requires 2.6, 3.0
+  L171 C24: 'bool' member requires 2.2, 3.0
+  L180: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L188: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L188 C24: 'iter' member requires 2.2, 3.0
+  L201: 'threading.Thread.daemon' member requires 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\har.py
+  L9 C7: 'datetime' module requires 2.3, 3.0
+  L10 C7: 'io' module requires 2.6, 3.0
+  L98: function decorators require 2.4, 3.0
+  L109: function decorators require 2.4, 3.0
+  L137: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L148: function decorators require 2.4, 3.0
+  L151: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L153: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L159: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L166: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L171: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L188: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L188 C17: 'set' member requires 2.4, 3.0
+  L189 C11: 'any' member requires 2.5, 3.0
+  L199 C24: 'dict' member requires 2.2, 3.0
+  L227: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\hash.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L34 C5: 'hashlib' module requires 2.5, 3.0
+  L160: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L177: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L195: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L228: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L230: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L233: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L405: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L413: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L440: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L655: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L661: `with` requires 2.5, 3.0
+  L702: 'sorted(key)' requires 2.4, 3.0
+  L702: 'sorted(reverse)' requires 2.4, 3.0
+  L702 C22: 'sorted' member requires 2.4, 3.0
+  L709 C19: 'all' member requires 2.5, 3.0
+  L768 C18: 'dict' member requires 2.2, 3.0
+  L788: function decorators require 2.4, 3.0
+  L902: `with` requires 2.5, 3.0
+  L968 C20: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L968 C40: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L981: `with` requires 2.5, 3.0
+  L1001 C19: 'multiprocessing' module requires 2.6, 3.0
+  L1031 C15: 'set' member requires 2.4, 3.0
+  L1143: 'zipfile.ZipFile.open' member requires 2.6, 3.0
+  L1321 C20: 'any' member requires 2.5, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\hashdb.py
+  L8 C7: 'hashlib' module requires 2.5, 3.0
+  L10 C7: 'sqlite3' module requires 2.5, 3.0
+  L68 C13: 'property' member requires 2.2, 3.0
+  L93: function decorators require 2.4, 3.0
+  L115 C27: 'any' member requires 2.5, 3.0
+  L146: `with` requires 2.5, 3.0
+  L149 C23: 'RecursionError' member requires !2, 3.5
+  L159: `with` requires 2.5, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\hashdb.py
+  L8 C7: 'hashlib' module requires 2.5, 3.0
+L10 C7: 'sqlite3' module requires 2.5, 3.0
+L68 C13: 'property' member requires 2.2, 3.0
+L93: function decorators require 2.4, 3.0
+L115 C27: 'any' member requires 2.5, 3.0
+L146: `with` requires 2.5, 3.0
+L149 C23: 'RecursionError' member requires !2, 3.5
+L159: `with` requires 2.5, 3.0
+
+2.4, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\pivotdumptable.py
+  L37 C5: 'unichr' member requires 2.0, !3
+  L73: 'sorted(key)' requires 2.4, 3.0
+  L73 C25: 'sorted' member requires 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\progress.py
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.division' member requires 2.2, 3.0
+
+2.5, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\purge.py
+  L8 C7: 'functools' module requires 2.5, 3.0
+  L20 C5: 'unichr' member requires 2.0, !3
+  L38: 'os.walk' member requires 2.3, 3.0
+  L53: `with` requires 2.5, 3.0
+  L61: `with` requires 2.5, 3.0
+  L78: 'random.sample' member requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\safe2bin.py
+  L13: 'sys.version_info' member requires 2.0, 3.0
+  L55 C11: 'any' member requires 2.5, 3.0
+  L62 C24: 'set' member requires 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\search.py
+  L54 C45: 'dict' member requires 2.2, 3.0
+  L165: 'socket.timeout' member requires 2.3, 3.0
+  L176: 're.finditer' member requires 2.2, 3.0
+  L189: function decorators require 2.4, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\sgmllib.py
+  print(expr) requires 2.0, 3.0
+  L13 C5: '__future__' module requires 2.1, 3.0
+  L13 C5: '__future__.print_function' member requires 2.6, 3.0
+  L16 C11: '_markupbase' module requires !2, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\sgmllib.py
+  print(expr) requires 2.0, 3.0
+L13 C5: '__future__' module requires 2.1, 3.0
+L13 C5: '__future__.print_function' member requires 2.6, 3.0
+L16 C11: '_markupbase' module requires !2, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\sqlalchemy.py
+  L8 C7: 'importlib' module requires 2.7, 3.1
+  L9 C7: 'logging' module requires 2.3, 3.0
+  L14 C7: 'warnings' module requires 2.1, 3.0
+  L93: 'traceback.format_exc' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\timeout.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\tui.py
+  L9 C7: 'subprocess' module requires 2.4, 3.0
+  L531 C35: 'bool' member requires 2.2, 3.0
+  L545: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L600: 'subprocess.Popen.terminate' member requires 2.6, 3.0
+  L606: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L657 C32: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\versioncheck.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\lib\utils\xrange.py
+  L8 C7: 'numbers' module requires 2.6, 3.0
+  L48: function decorators require 2.4, 3.0
+  L54: function decorators require 2.4, 3.0
+  L58: function decorators require 2.4, 3.0
+  L68 C35: 'type' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\access\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\altibase\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\connector.py
+  L14 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cache\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\clickhouse\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cratedb\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\cubrid\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\filesystem.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\fingerprint.py
+  L34 C31: 'reversed' member requires 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\db2\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\derby\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\extremedb\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\syntax.py
+  L13: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\firebird\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\frontbase\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\h2\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\connector.py
+  L14 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\enumeration.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\filesystem.py
+  L22: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\hsqldb\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\syntax.py
+  L16: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\informix\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\connector.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\enumeration.py
+  L56 C32: 'next' member requires 2.6, 3.0
+  L99 C39: 'sorted' member requires 2.4, 3.0
+  L201 C63: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\maxdb\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\syntax.py
+  L11: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mckoi\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mimersql\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\monetdb\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\connector.py
+  L14 C7: 'logging' module requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\enumeration.py
+  L45 C20: 'set' member requires 2.4, 3.0
+  L169 C43: 'sorted' member requires 2.4, 3.0
+  L268: 'dict.pop' member requires 2.3, 3.0
+  L352 C19: 'any' member requires 2.5, 3.0
+
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\filesystem.py
+  L337: codecs encoding 'rot13' requires !2, 3.4
+  L337: 'codecs.decode' member requires 2.4, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\filesystem.py
+  L337: codecs encoding 'rot13' requires !2, 3.4
+L337: 'codecs.decode' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mssqlserver\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\enumeration.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\filesystem.py
+  L90: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\fingerprint.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\syntax.py
+  L16: function decorators require 2.4, 3.0
+  L26 C15: 'all' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\mysql\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\enumeration.py
+  L43 C11: 'any' member requires 2.5, 3.0
+  L54 C81: 'sorted' member requires 2.4, 3.0
+  L133 C24: 'set' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\oracle\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\connector.py
+  L37 C43: 'UnicodeDecodeError' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\postgresql\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\presto\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\raima\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\snowflake\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\spanner\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\connector.py
+  L9 C11: 'sqlite3' module requires 2.5, 3.0
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sqlite\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\connector.py
+  L14 C7: 'logging' module requires 2.3, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\enumeration.py
+  L65 C20: 'set' member requires 2.4, 3.0
+  L152 C33: 'next' member requires 2.6, 3.0
+  L160 C39: 'sorted' member requires 2.4, 3.0
+  L252 C11: 'any' member requires 2.5, 3.0
+  L269 C63: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\sybase\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\connector.py
+  L13 C7: 'logging' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\vertica\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\connector.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\enumeration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\filesystem.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\fingerprint.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\syntax.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\dbms\virtuoso\takeover.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\connector.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\custom.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L110 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L153 C27: 'all' member requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\databases.py
+  L469 C48: 'set' member requires 2.4, 3.0
+  L636: 're.sub(flags)' requires 2.7, 3.1
+  L769 C131: 'sorted' member requires 2.4, 3.0
+  L799 C101: 'dict' member requires 2.2, 3.0
+  L958: function decorators require 2.4, 3.0
+  L1054 C11: 'any' member requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\entries.py
+  L184 C19: 'any' member requires 2.5, 3.0
+  L269 C45: 'enumerate' member requires 2.3, 3.0
+  L414: 'sorted(key)' requires 2.4, 3.0
+  L424 C130: 'sorted' member requires 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\enumeration.py
+  L68 C38: 'set' member requires 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\filesystem.py
+  L132: `with` requires 2.5, 3.0
+  L145: 'codecs.encode' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\fingerprint.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\misc.py
+  L133 C11: 'any' member requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\search.py
+  L445 C15: 'any' member requires 2.5, 3.0
+  L446 C23: 'all' member requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\syntax.py
+  L24: function decorators require 2.4, 3.0
+  L46: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\takeover.py
+  L155: `with` requires 2.5, 3.0
+  L156: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\plugins\generic\users.py
+  L228 C76: 'all' member requires 2.5, 3.0
+  L408 C49: 'any' member requires 2.5, 3.0
+  L425 C85: 'sorted' member requires 2.4, 3.0
+  L558 C29: 'set' member requires 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\sqlmap.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: '__future__' module requires 2.1, 3.0
+  L8 C5: '__future__.print_function' member requires 2.6, 3.0
+  L13: 'sys.dont_write_bytecode' member requires 2.6, 3.0
+  L22 C11: 'inspect' module requires 2.1, 3.0
+  L23 C11: 'json' module requires 2.6, 3.0
+  L24 C11: 'logging' module requires 2.3, 3.0
+  L33 C11: 'warnings' module requires 2.1, 3.0
+  L41: 'sys.version_info' member requires 2.0, 3.0
+  L114: 'os.path.realpath' member requires 2.2, 3.0
+  L119 C11: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L270: 'traceback.format_exc' member requires 2.4, 3.0
+  L331: 'tempfile.gettempdir' member requires 2.3, 3.0
+  L510 C68: 'all' member requires 2.5, 3.0
+  L540: 're.finditer' member requires 2.2, 3.0
+  L543: 'os.path.relpath' member requires 2.6, 3.0
+  L584 C140: 'any' member requires 2.5, 3.0
+  L596: `with` requires 2.5, 3.0
+  L631: 'threading.active_count' member requires 2.6, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\sqlmapapi.py
+  L10: 'sys.dont_write_bytecode' member requires 2.6, 3.0
+  L14 C7: 'logging' module requires 2.3, 3.0
+  L16 C7: 'warnings' module requires 2.1, 3.0
+  L22 C9: 'optparse' module requires 2.3, 3.0
+  L33 C9: 'argparse' module requires 2.7, 3.2
+  L45 C17: 'set' member requires 2.4, 3.0
+  L80: 'os.path.realpath' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\0eunion.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\apostrophemask.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\apostrophenullencode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\appendnullbyte.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\base64encode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\between.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\binary.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\bluecoat.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\chardoubleencode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\charencode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\charunicodeencode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\charunicodeescape.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\commalesslimit.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\commalessmid.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\commentbeforeparentheses.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\concat2concatws.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\decentities.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\dunion.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\equaltolike.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\equaltorlike.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\escapequotes.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\greatest.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\halfversionedmorekeywords.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\hex2char.py
+  L42: 're.finditer' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\hexentities.py
+  L30 C33: 'format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\htmlencode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\if2case.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\ifnull2casewhenisnull.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\ifnull2ifisnull.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\informationschemacomment.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\least.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\lowercase.py
+  L39: 're.finditer' member requires 2.2, 3.0
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\luanginx.py
+  L35: 'random.sample' member requires 2.3, 3.0
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\luanginxmore.py
+  L37: 'random.sample' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\misunion.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\modsecurityversioned.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\modsecurityzeroversioned.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\multiplespaces.py
+  L40: 're.finditer' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\ord2ascii.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\overlongutf8.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\overlongutf8more.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\percentage.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\plus2concat.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\plus2fnconcat.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\randomcase.py
+  L51: 're.finditer' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\randomcomments.py
+  L30: 're.finditer' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\schemasplit.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\scientific.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\sleep2getlock.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\sp_password.py
+  L30 C60: 'any' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2comment.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2dash.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2hash.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2morecomment.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2morehash.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2mssqlblank.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2mssqlhash.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2mysqlblank.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2mysqldash.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2plus.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\space2randomblank.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\substring2leftright.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\symboliclogical.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\unionalltounion.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\unmagicquotes.py
+  L51 C21: 'any' member requires 2.5, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\uppercase.py
+  L40: 're.finditer' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\varnish.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\versionedkeywords.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\versionedmorekeywords.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\tamper\xforwardedfor.py
+  L42: 'random.sample' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\ansistrm\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\ansistrm\ansistrm.py
+  L6 C7: 'logging' module requires 2.3, 3.0
+  L13 C11: 'ctypes' module requires 2.5, 3.0
+  L51: function decorators require 2.4, 3.0
+  L170: 'logging.StreamHandler' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\beautifulsoup\__init__.py
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\beautifulsoup\beautifulsoup.py
+  'sets' module (requires 2.3, !3) vs. '_markupbase' module (requires !2, 3.0)
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\bottle\__init__.py
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\bottle\bottle.py
+  'collections.abc' module (requires !2, 3.3) vs. 'urlparse' module (requires 2.0, !3)
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\__init__.py
+  L33: 'str.format' member requires 2.6, 3.0
+  L34 C41: 'type' member requires 2.2, 3.0
+  L36 C23: 'bytearray' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\big5freq.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\big5prober.py
+  L36 C8: 'super' member requires 2.2, 3.0
+  L41: function decorators require 2.4, 3.0
+  L45: function decorators require 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\chardistribution.py
+  L219 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\charsetgroupprober.py
+  L40 C8: 'super' member requires 2.2, 3.0
+  L49: function decorators require 2.4, 3.0
+  L57: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\charsetprober.py
+  L29 C7: 'logging' module requires 2.3, 3.0
+  L47: function decorators require 2.4, 3.0
+  L54: function decorators require 2.4, 3.0
+  L61: function decorators require 2.4, 3.0
+  L63: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L66: function decorators require 2.4, 3.0
+  L86: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L97: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L98: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L103: function decorators require 2.4, 3.0
+  L115 C19: 'bytearray' member requires 2.6, 3.0
+  L123: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L125: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L129: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L136: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\codingstatemachine.py
+  L28 C7: 'logging' module requires 2.3, 3.0
+  L86: function decorators require 2.4, 3.0
+
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\compat.py
+  L25: 'sys.version_info' member requires 2.0, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\cp949prober.py
+  L36 C8: 'super' member requires 2.2, 3.0
+  L43: function decorators require 2.4, 3.0
+  L47: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\enums.py
+  L59: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\escprober.py
+  L59 C8: 'super' member requires 2.2, 3.0
+  L69: function decorators require 2.4, 3.0
+  L73: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\escsm.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\eucjpprober.py
+  L45 C8: 'super' member requires 2.2, 3.0
+  L48: function decorators require 2.4, 3.0
+  L52: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\euckrfreq.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\euckrprober.py
+  L36 C8: 'super' member requires 2.2, 3.0
+  L41: function decorators require 2.4, 3.0
+  L45: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\euctwfreq.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\euctwprober.py
+  L35 C8: 'super' member requires 2.2, 3.0
+  L40: function decorators require 2.4, 3.0
+  L44: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\gb2312freq.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\gb2312prober.py
+  L35 C8: 'super' member requires 2.2, 3.0
+  L40: function decorators require 2.4, 3.0
+  L44: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\hebrewprober.py
+  L155 C8: 'super' member requires 2.2, 3.0
+  L255: function decorators require 2.4, 3.0
+  L282: function decorators require 2.4, 3.0
+  L286: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\jisfreq.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\jpcntx.py
+  L185 C8: 'super' member requires 2.2, 3.0
+  L188: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langbulgarianmodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langcyrillicmodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langgreekmodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langhebrewmodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langhungarianmodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langthaimodel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\langturkishmodel.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\latin1prober.py
+  L98 C8: 'super' member requires 2.2, 3.0
+  L108: function decorators require 2.4, 3.0
+  L112: function decorators require 2.4, 3.0
+  L134 C16: 'sum' member requires 2.3, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\mbcharsetprober.py
+  L46 C8: 'super' member requires 2.2, 3.0
+  L53: function decorators require 2.4, 3.0
+  L57: function decorators require 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\mbcsgroupprober.py
+  L43 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\mbcssm.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\sbcharsetprober.py
+  L54 C8: 'super' member requires 2.2, 3.0
+  L63: function decorators require 2.4, 3.0
+  L70: function decorators require 2.4, 3.0
+  L83 C20: 'enumerate' member requires 2.3, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\sbcsgroupprober.py
+  L45 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\sjisprober.py
+  L45 C8: 'super' member requires 2.2, 3.0
+  L48: function decorators require 2.4, 3.0
+  L52: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\universaldetector.py
+  L40 C7: 'logging' module requires 2.3, 3.0
+  L69: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L70: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L71: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L105: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L132 C23: 'bytearray' member requires 2.6, 3.0
+  L149: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L154: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\utf8prober.py
+  L45 C8: 'super' member requires 2.2, 3.0
+  L49: function decorators require 2.4, 3.0
+  L53: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\chardet\version.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\clientform\__init__.py
+2.6, !3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\clientform\clientform.py
+  L70 C11: 'logging' module requires 2.3, 3.0
+  L71 C11: 'inspect' module requires 2.1, 3.0
+  L92: 'logging.StreamHandler' member requires 2.6, 3.0
+  L104 C9: 'unichr' member requires 2.0, !3
+  L125 C11: 'HTMLParser' module requires 2.2, !3
+  L132 C11: 'warnings' module requires 2.1, 3.0
+  L467: 'sgmllib.SGMLParseError' member requires 2.1, !3
+  L928: 'sys.version_info' member requires 2.0, 3.0
+  L1151 C19: 'any' member requires 2.5, 3.0
+  L2985 C31: 'bool' member requires 2.2, 3.0
+  L3263 C43: 'callable' member requires 2.0, 3.2
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\ansi.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\ansitowin32.py
+  L221 C29: 'dict' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\initialise.py
+  L3 C7: 'contextlib' module requires 2.5, 3.0
+  L30 C20: 'any' member requires 2.5, 3.0
+  L65: function decorators require 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\win32.py
+  L8 C11: 'ctypes' module requires 2.5, 3.0
+  L102 C15: 'bool' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\colorama\winterm.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\fcrypt\__init__.py
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\fcrypt\fcrypt.py
+  L124: 'sys.version_info' member requires 2.0, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\identywaf\__init__.py
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\identywaf\identYwaf.py
+  'http.cookiejar' module (requires !2, 3.0) vs. 'cookielib' module (requires 2.4, !3)
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\keepalive\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\keepalive\keepalive.py
+  print(expr) requires 2.0, 3.0
+  L106 C5: '__future__' module requires 2.1, 3.0
+  L106 C5: '__future__.print_function' member requires 2.6, 3.0
+  L123: 'sys.version_info' member requires 2.0, 3.0
+  L192 C23: 'dict' member requires 2.2, 3.0
+  L429: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L473: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L477: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L478: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L482: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L542 C9: 'hashlib' module requires 2.5, 3.0
+  L565: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\magic\__init__.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\magic\magic.py
+  L39: union types as `a = X; a |= Y` require !2, 3.10
+  L41: union types as `a = X; a |= Y` require !2, 3.10
+  L104 C11: 'ctypes' module requires 2.5, 3.0
+  L146: 'sys.getfilesystemencoding' member requires 2.3, 3.0
+  L225: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\magic\magic.py
+  L39: union types as `a = X; a |= Y` require !2, 3.10
+L41: union types as `a = X; a |= Y` require !2, 3.10
+L104 C11: 'ctypes' module requires 2.5, 3.0
+L146: 'sys.getfilesystemencoding' member requires 2.3, 3.0
+L225: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\multipart\__init__.py
+2.6, 3.5     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\multipart\multipartpost.py
+  L23 C7: 'io' module requires 2.6, 3.0
+  L73: 're.finditer' member requires 2.2, 3.0
+  L73: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L75: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L76: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L85: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L89: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L89: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L90: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L90: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L91: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L97: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L100: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L101: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L101: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L102: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L102: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L103: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L103: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L107: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L107: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+  L109: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L109: bytes `%` formatting or `str` synonym requires 2.6, 3.5
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\odict\__init__.py
+  L5: 'sys.version_info' member requires 2.0, 3.0
+  L6 C9: 'collections' module requires 2.4, 3.0
+  L6 C9: 'collections.OrderedDict' member requires 2.7, 3.1
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\odict\ordereddict.py
+  L27 C13: 'collections.abc' module requires !2, 3.3
+  L29 C13: 'collections' module requires 2.4, 3.0
+  L79 C23: 'reversed' member requires 2.4, 3.0
+  L81 C23: 'iter' member requires 2.2, 3.0
+  L115: function decorators require 2.4, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\odict\ordereddict.py
+  L27 C13: 'collections.abc' module requires !2, 3.3
+L29 C13: 'collections' module requires 2.4, 3.0
+L79 C23: 'reversed' member requires 2.4, 3.0
+L81 C23: 'iter' member requires 2.2, 3.0
+L115: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\pydes\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\pydes\pyDes.py
+  L90: 'sys.version_info' member requires 2.0, 3.0
+  L239 C11: 'UnicodeEncodeError' member requires 2.3, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\six\__init__.py
+  Versions could not be combined: 2.6, !3 and !2, 3.4
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\socks\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\socks\socks.py
+  L47 C7: 'functools' module requires 2.5, 3.0
+  L57: 'socket.create_connection' member requires 2.6, 3.0
+  L114: function decorators require 2.4, 3.0
+  L210: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L214: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L217: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L220: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L222: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L226: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L234: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L244: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\termcolor\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\termcolor\termcolor.py
+  print(expr) requires 2.0, 3.0
+  L26 C5: '__future__' module requires 2.1, 3.0
+  L26 C5: '__future__.print_function' member requires 2.6, 3.0
+  L82 C14: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\wininetpton\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\sqlmap\thirdparty\wininetpton\win_inet_pton.py
+  L8 C7: 'ctypes' module requires 2.5, 3.0
+  L84: 'socket.inet_pton' member requires 2.3, 3.0
+  L85: 'socket.inet_ntop' member requires 2.3, 3.0
+
+Note: Some files had incompatible versions so the results might not be correct!
+Tips:
+- You're using potentially backported modules: argparse, importlib
+  If so, try using the following for better results: --backport argparse --backport importlib
+- Since '# novm' or '# novermin' weren't used, a speedup can be achieved using: --no-parse-comments
+(disable using: --no-tips)
+
+Minimum required versions: 2.7
+Incompatible versions:     3

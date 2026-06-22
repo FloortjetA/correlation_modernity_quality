@@ -1,0 +1,13 @@
+Statistics for: cupy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 6348
+W: 3290
+C: 554
+R: 2407
+
+Total messages: 12599
+Average rating: 7.39/10

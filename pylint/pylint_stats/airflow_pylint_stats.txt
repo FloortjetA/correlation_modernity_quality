@@ -1,0 +1,13 @@
+Statistics for: airflow_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 921
+W: 19929
+C: 33739
+R: 9062
+
+Total messages: 63651
+Average rating: 8.00/10

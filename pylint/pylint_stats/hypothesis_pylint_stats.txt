@@ -1,0 +1,13 @@
+Statistics for: hypothesis_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 589
+W: 1455
+C: 371
+R: 403
+
+Total messages: 2819
+Average rating: 7.88/10

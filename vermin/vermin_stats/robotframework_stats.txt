@@ -1,0 +1,8124 @@
+Feature statistics for repository: robotframework
+================================================================================
+
+FILE: robotframework\atest\genrunner.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\interpreter.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: robotframework\atest\resources\TestCheckerLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 22)
+    !2, 3.6: 22
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\resources\TestHelper.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\resources\atest_variables.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+locale.getencoding (total: 1)
+    !2, 3.11: 1
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\resources\unicode_vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\robot\cli\console\disable_standard_streams.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\robot\cli\console\expected_output\ExpectedOutputLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\robot\cli\console\piping.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\robot\cli\model_modifiers\ModelModifier.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\robot\libdoc\LibDocLib.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shlex.shlex.escape (total: 1)
+    2.3, 3.0: 1
+
+shlex.shlex.whitespace_split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\robot\output\LegacyOutputHelper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\robot\output\LogDataFinder.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\atest\robot\running\GetNestingLevel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\robot\running\enable_ctrl_c_event.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\atest\robot\standard_libraries\builtin\listener_printing_start_end_kw.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: robotframework\atest\robot\standard_libraries\builtin\listener_using_builtin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\run.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\cli\dryrun\EmbeddedArgs.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\cli\dryrun\Library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\cli\dryrun\LinenoListener.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\cli\dryrun\vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\cli\runner\DebugFileLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\atest\testdata\cli\runner\failtests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\dynamicVariables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\dynamic_variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\invalid_list_variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\invalid_variable_file.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\variables2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\variables_imported_by_resource.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\vars_from_cli.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\resources_and_variables\vars_from_cli2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\core\variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\Annotations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\AsyncLib.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+
+FILE: robotframework\atest\testdata\keywords\DupeDynamicKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\DupeHybridKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\DupeKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\DynamicPositionalOnly.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\keywords\KeywordsImplementedInC.py
+--------------------------------------------------------------------------------
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\PositionalOnly.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\keywords\TraceLogArgsLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\WrappedFunctions.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\WrappedMethods.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\embedded_arguments_conflicts\library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\embedded_arguments_conflicts\library2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\keyword_tags\DynamicLibraryWithKeywordTags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\keyword_tags\LibraryWithKeywordTags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\library\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\library\with\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\library\with\dots\__init__.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\library\with\dots\in\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\library\with\dots\in\name\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\library_with_keywords_with_dots_in_name.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\named_args\DynamicWithKwargs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\named_args\DynamicWithoutKwargs.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\named_args\KwargsLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: robotframework\atest\testdata\keywords\named_args\helper.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\named_args\python_library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\named_only_args\DynamicKwOnlyArgs.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\keywords\named_only_args\DynamicKwOnlyArgsWithoutKwargs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\named_only_args\KwOnlyArgs.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\atest\testdata\keywords\resources\MyLibrary1.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\resources\MyLibrary2.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\resources\RecLibrary1.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\resources\RecLibrary2.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\resources\embedded_args_in_lk_1.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+
+FILE: robotframework\atest\testdata\keywords\resources\embedded_args_in_lk_2.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\Annotations.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.IntFlag (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\AnnotationsWithAliases.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\AnnotationsWithTyping.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.Required (total: 1)
+    !2, 3.11: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\CustomConverters.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\CustomConvertersWithDynamicLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\CustomConvertersWithLibraryDecorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\DefaultValues.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.IntFlag (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\DeferredAnnotations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\Dynamic.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\EmbeddedArguments.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\FutureAnnotations.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\InternalConversionUsingTypeInfo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\InvalidCustomConverters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\KeywordDecorator.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.IntFlag (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+fractions (total: 1)
+    2.6, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\KeywordDecoratorWithAliases.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\KeywordDecoratorWithList.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\Literal.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\StandardGenerics.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\StringlyTypes.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\secret.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\unions.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\keywords\type_conversion\unionsugar.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\Annotations.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\BackwardsCompatibility.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\DataTypesLibrary.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\Decorators.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\Deprecation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\DocFormat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\DocFormatHtml.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\DocFormatInvalid.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\DocSetInInit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\DynamicLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\DynamicLibraryWithoutGetKwArgsAndDoc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\InitWithOnlyNamedOnlyArgs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\InternalLinking.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\InvalidKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\KwArgs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\LIBPKG\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\LibraryArguments.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\LibraryDecorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\MarkdownFormat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\NewStyleNoInit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\ReturnType.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\TOCWithInitsAndKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\TypesViaKeywordDeco.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\default_escaping.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\module.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\libdoc\no_arg_init.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\toc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\libdoc\toc_no_keywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\misc\Async.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\misc\variables.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\LibraryWithFailingListener.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\LinenoAndSource.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\ListenerOrder.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\Recursion.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\ResultModel.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\RunKeywordWithNonStringArguments.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\body_items_v3\ArgumentModifier.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\body_items_v3\ChangeStatus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\body_items_v3\Library.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\body_items_v3\Modifier.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\body_items_v3\eventvalidators.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\failing_listener.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\imports\local_lib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\imports\vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\keyword_running_listener.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\logging_listener.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\original_and_resolved_name_v2.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\original_and_resolved_name_v3.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\timeouting_listener.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\output\listener_interface\v3.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\output\listener_interface\verify_template_listener.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\parsing\custom\CustomParser.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\atest\testdata\parsing\custom\custom.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\parsing\data_formats\resources\variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\parsing\escaping_variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\parsing\translations\custom\custom.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\parsing\variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\NonAsciiByteLibrary.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: robotframework\atest\testdata\running\StandardExceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\expbytevalues.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\running\for\binary_list.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\pass_execution_library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\skip\skiplib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\stopping_with_signal\AsyncStop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\atest\testdata\running\stopping_with_signal\Library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\running\stopping_with_signal\test_signalhandler_is_reset.py
+--------------------------------------------------------------------------------
+signal.raise_signal (total: 1)
+    !2, 3.8: 1
+
+signal.setitimer (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\running\timeouts_with_logging.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\BuiltInPropertys.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\DynamicRegisteredLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\FailUntilSucceeds.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\NotRegisteringLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\RegisteredClass.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\RegisteringLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\UseBuiltIn.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\broken_containers.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\embedded_args.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\get_user_dict.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\import_resource_vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\invalidmod.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\len.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\length_variables.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\numbers_to_convert.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\objects_for_call_method.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\reload_library\Reloadable.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\reload_library\StaticLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\reload_library\module_library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\rootmod\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\rootmod\intermediate\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\rootmod\intermediate\leaf\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\set_library_search_order\TestLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\set_library_search_order\embedded.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\set_library_search_order\embedded2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\set_library_search_order\embedded2.py:9: SyntaxWarning: invalid escape sequence '\w'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\times.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\variables_to_import_1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\variables_to_import_2.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\variables_to_verify.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\builtin\vars_for_get_variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\collections\CollectionsHelperLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\datetime\datesandtimes.py
+--------------------------------------------------------------------------------
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\operating_system\files\HelperLib.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\operating_system\files\prog.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\operating_system\files\writable_prog.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\operating_system\wait_until_library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\process\CustomLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\process\files\countdown.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\process\files\encoding.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\process\files\non_terminable.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\process\files\script.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\process\files\timeout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\Conflict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\Helper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\arguments.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+xmlrpc.client (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\binaryresult.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+xmlrpc.client (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\dictresult.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\documentation.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+xmlrpc.server (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\invalid.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\keywordtags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\libraryinfo.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\remoteserver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+xmlrpc.server (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\returnvalues.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\simpleserver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+xmlrpc.server (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\specialerrors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\timeouts.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\standard_libraries\remote\variables.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\standard_libraries\telnet\telnet_variables.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\AvoidProperties.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\ClassWithAutoKeywordsOff.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\ClassWithNotKeywordDecorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\CustomDir.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\DeprecatedKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\DynamicLibraryTags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\Embedded.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\HybridWithNotKeywordDecorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\ImportLogging.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\ImportRobotModuleTestLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\InitImportingAndIniting.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\InitLogging.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\InitializationFailLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\LibUsingLoggingApi.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\LibUsingPyLogging.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\LibraryDecorator.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\LibraryDecoratorWithArgs.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\LibraryDecoratorWithAutoKeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\ModuleWitNotKeywordDecorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\ModuleWithAutoKeywordsOff.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\MyInvalidLibFile.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\ClassLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\SubModuleLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\SubPackage2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\SubPackage\ClassLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\SubPackage\SubModuleLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\SubPackage\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibDir\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\MyLibFile.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\NamedArgsImportLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\PartialFunction.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\PartialMethod.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.partialmethod (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\PrintLib.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\PythonLibUsingTimestamps.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\StaticAndClassMethod.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\ThreadLoggingLib.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\LogLevels.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\empty_listenerlibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\global_listenerlibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\global_vars_listenerlibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\global_vars_listenerlibrary_global_scope.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\global_vars_listenerlibrary_ts_scope.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\listenerlibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\listenerlibrary3.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\multiple_listenerlibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\as_listener\suite_listenerlibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\dir_for_libs\MyLibDir2\__init__.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dir_for_libs\MyLibFile2.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dir_for_libs\dots.are.not.allowed.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\dir_for_libs\lib1\Lib.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dir_for_libs\lib2\Lib.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\AsyncDynamicLibrary.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\DynamicLibraryWithKwargsSupportWithoutArgspec.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\DynamicLibraryWithoutArgspec.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\EmbeddedArgs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\InvalidArgSpecs.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\InvalidKeywordNames.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\dynamic_libraries\NonAsciiKeywordNames.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\extend_decorated_library.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\library_decorator_when_class_and_module_names_do_not_match.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\module_lib_with_all.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\multiple_library_decorators.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\nön_äscii_dïr\invalid.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\nön_äscii_dïr\valid.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\test_libraries\run_logging_tests_on_thread.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\atest\testdata\test_libraries\spaces in path\SpacePathLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\DynamicPythonClass.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\InvalidClass.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\PythonClass.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\automatic_variables\HelperLib.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testdata\variables\dict_vars.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\variables\dynamic_variable_files\argument_conversion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\dynamic_variable_files\dyn_vars.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\variables\extended_assign_vars.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\variables\extended_variables.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\variables\get_file_lib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\list_and_dict_variable_file.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: robotframework\atest\testdata\variables\list_variable_items.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\non_string_variables.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\cli_vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\cli_vars_2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\pythonpath_dir\package\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\pythonpath_dir\package\submodule.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\pythonpath_dir\pythonpath_varfile.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\resvarfiles\variables_2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\return_values.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite1\subsuite1\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite1\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite2\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite3\subsuite1\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite3\subsuite2\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\same_variable_file_names\different_variable_files\suite3\variable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\scalar_lists.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testdata\variables\variable_recommendation_vars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\variables_in_import_settings\variables1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testdata\variables\variables_in_import_settings\variables2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\listeners\AddMessagesToTestBody.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\atest\testresources\listeners\ListenAll.py
+--------------------------------------------------------------------------------
+f-strings (total: 15)
+    !2, 3.6: 15
+
+
+FILE: robotframework\atest\testresources\listeners\ListenImports.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\listeners\VerifyAttributes.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\listeners\flatten_listener.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\listeners\listener_versions.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\listeners\listeners.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+
+FILE: robotframework\atest\testresources\listeners\module_listener.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+
+FILE: robotframework\atest\testresources\listeners\unsupported_listeners.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\res_and_var_files\different_variables.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\res_and_var_files\resvar_subdir\variables_in_pythonpath_2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\res_and_var_files\variables_in_pythonpath.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\ArgumentsPython.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\BinaryDataLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\ExampleLibrary.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\Exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\ExtendPythonLib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\GetKeywordNamesLibrary.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\LenLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\NamespaceUsingLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\NonAsciiLibrary.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\ParameterLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\PythonVarArgsConstructor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\RunKeywordLibrary.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\SameNamesAsInBuiltIn.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\archive_src\ZipLib.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\classes.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+functools.total_ordering (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\dynlibs.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\libmodule.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\libraryscope.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\libswithargs.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\module_library.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\newstyleclasses.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\objecttoreturn.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\pythonmodule\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\pythonmodule\library.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\atest\testresources\testlibs\pythonmodule\submodule\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\atest\testresources\testlibs\pythonmodule\submodule\sublib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\api\code_examples\ExcludeTests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\api\code_examples\SelectEveryXthTest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\api\code_examples\check_test_times.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\doc\api\code_examples\disable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\api\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\api\generate.py
+--------------------------------------------------------------------------------
+optparse (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\doc\libraries\extract_examples.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\doc\schema\libdoc_json_schema.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\doc\schema\result_json_schema.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\doc\schema\running_json_schema.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\doc\userguide\src\SupportingTools\ExampleLibrary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\doc\userguide\src\SupportingTools\LoggingLibrary.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\doc\userguide\translations.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\doc\userguide\ug2html.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\rundevel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: robotframework\src\robot\__init__.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\api\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\api\deco.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\api\exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\api\interfaces.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\api\logger.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\api\parsing.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\api\types.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\conf\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\conf\gatherfailed.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: robotframework\src\robot\conf\languages.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\conf\settings.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\errors.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 16)
+    !2, 3.0: 16
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\htmldata\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\htmldata\common\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\htmldata\htmlfilewriter.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\htmldata\jsonwriter.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\htmldata\lib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\htmldata\libdoc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\htmldata\rebot\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\htmldata\template.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\src\robot\htmldata\testdata\create_jsdata.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\src\robot\htmldata\testdata\create_libdoc_data.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\src\robot\htmldata\testdata\create_testdoc_data.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\src\robot\htmldata\testdata\libdoc_data.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\htmldata\testdoc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libdoc.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libdocpkg\builder.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\consoleviewer.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\datatypes.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\htmlutils.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\htmlwriter.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\jsonbuilder.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\jsonwriter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libdocpkg\languages.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\model.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\output.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\robotbuilder.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\standardtypes.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.NoneType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\writer.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\xmlbuilder.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\libdocpkg\xmlwriter.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\BuiltIn.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+difflib.unified_diff (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 65)
+    !2, 3.6: 65
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: robotframework\src\robot\libraries\Collections.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 27)
+    !2, 3.6: 27
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\libraries\DateTime.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\libraries\Dialogs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libraries\Easter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libraries\OperatingSystem.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 56)
+    !2, 3.6: 56
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\libraries\Process.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+os.killpg (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+signal.CTRL_BREAK_EVENT (total: 1)
+    2.7, 3.2: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.Popen.send_signal (total: 1)
+    2.6, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\libraries\Remote.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+xmlrpc.client (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\Screenshot.py
+--------------------------------------------------------------------------------
+f-strings (total: 14)
+    !2, 3.6: 14
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\String.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\libraries\Telnet.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: robotframework\src\robot\libraries\XML.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\__init__.py
+--------------------------------------------------------------------------------
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\dialogs_py.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tkinter (total: 1)
+    !2, 3.0: 1
+
+
+FILE: robotframework\src\robot\libraries\normalizer.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\model\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\model\body.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\configurer.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\src\robot\model\control.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\model\filter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\fixture.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\itemlist.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.total_ordering (total: 1)
+    2.7, 3.2: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\keyword.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\message.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\model\metadata.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\model\modelobject.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\modifier.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\src\robot\model\namepatterns.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\statistics.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\model\stats.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\suitestatistics.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\tags.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\tagsetter.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\tagstatistics.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\testcase.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\testsuite.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\model\totalstatistics.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: robotframework\src\robot\model\visitor.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\output\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\output\console\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\output\console\dotted.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\output\console\highlighting.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\output\console\quiet.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\output\console\verbose.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: robotframework\src\robot\output\debugfile.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\output\filelogger.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+
+FILE: robotframework\src\robot\output\jsonlogger.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\output\librarylogger.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\output\listeners.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: robotframework\src\robot\output\logger.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\output\loggerapi.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\output\loggerhelper.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\output\loglevel.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\output\output.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\output\outputfile.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\output\pyloggingconf.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\output\stdoutlogsplitter.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\output\xmllogger.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\parsing\lexer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\parsing\lexer\blocklexers.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\context.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\lexer.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\settings.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\statementlexers.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\tokenizer.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\lexer\tokens.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\parsing\model\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\parsing\model\blocks.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\model\statements.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 27)
+    !2, 3.6: 27
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\model\visitor.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\parsing\parser\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\parsing\parser\blockparsers.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\parser\fileparser.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\parsing\parser\parser.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\parsing\suitestructure.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\pythonpathsetter.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\rebot.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\reporting\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\reporting\expandkeywordmatcher.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: robotframework\src\robot\reporting\jsbuildingcontext.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\reporting\jsexecutionresult.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\reporting\jsmodelbuilders.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: robotframework\src\robot\reporting\jswriter.py
+--------------------------------------------------------------------------------
+f-strings (total: 12)
+    !2, 3.6: 12
+
+
+FILE: robotframework\src\robot\reporting\logreportwriters.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\reporting\outputwriter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\reporting\resultwriter.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\reporting\stringcache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\reporting\xunitwriter.py
+--------------------------------------------------------------------------------
+format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\result\configurer.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\executionerrors.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\result\executionresult.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\result\flattenkeywordmatcher.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\keywordremover.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\merger.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+
+FILE: robotframework\src\robot\result\messagefilter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\result\model.py
+--------------------------------------------------------------------------------
+arguments (total: 40)
+    !2, 3.0: 40
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 19)
+    !2, 3.5: 19
+
+
+FILE: robotframework\src\robot\result\modeldeprecation.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\resultbuilder.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\result\suiteteardownfailed.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\result\visitor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\result\xmlelementhandlers.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\run.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\running\arguments\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\running\arguments\argumentconverter.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\argumentmapper.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\argumentparser.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\argumentresolver.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\argumentspec.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\argumentvalidator.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\customconverters.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\arguments\embedded.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\arguments\typeconverters.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 12)
+    !2, 3.0: 12
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+decimal.Decimal.as_integer_ratio (total: 1)
+    !2, 3.6: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\arguments\typeinfo.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ForwardRef (total: 1)
+    !2, 3.7: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.Required (total: 1)
+    !2, 3.11: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: robotframework\src\robot\running\arguments\typeinfoparser.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\arguments\typevalidator.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\bodyrunner.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 31)
+    !2, 3.6: 31
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\running\builder\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\running\builder\builders.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\builder\parsers.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\builder\restreader.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\builder\settings.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\builder\transformers.py
+--------------------------------------------------------------------------------
+arguments (total: 7)
+    !2, 3.0: 7
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\context.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutine (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\dynamicmethods.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\importer.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\invalidkeyword.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\keywordfinder.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\keywordimplementation.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\librarykeyword.py
+--------------------------------------------------------------------------------
+arguments (total: 10)
+    !2, 3.0: 10
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.unwrap (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\librarykeywordrunner.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\libraryscopes.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\running\model.py
+--------------------------------------------------------------------------------
+arguments (total: 35)
+    !2, 3.0: 35
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\namespace.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: robotframework\src\robot\running\outputcapture.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\randomizer.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\running\resourcemodel.py
+--------------------------------------------------------------------------------
+arguments (total: 10)
+    !2, 3.0: 10
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\runkwregister.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\signalhandler.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\running\status.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\statusreporter.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\running\suiterunner.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: robotframework\src\robot\running\testlibraries.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.getattr_static (total: 1)
+    !2, 3.2: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: robotframework\src\robot\running\timeouts\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\running\timeouts\nosupport.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\running\timeouts\posix.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+signal.setitimer (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\timeouts\runner.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: robotframework\src\robot\running\timeouts\timeout.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\timeouts\windows.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\running\userkeywordrunner.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\testdoc.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\utils\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\application.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\argumentparser.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shlex.shlex.escape (total: 1)
+    2.3, 3.0: 1
+
+shlex.shlex.escapedquotes (total: 1)
+    2.3, 3.0: 1
+
+shlex.shlex.whitespace_split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\asserts.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+
+FILE: robotframework\src\robot\utils\charwidth.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\utils\compress.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\utils\connectioncache.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\dotdict.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\encoding.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\utils\encodingsniffer.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+locale.getencoding (total: 1)
+    !2, 3.11: 1
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\error.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\escaping.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\etreewrapper.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+os.fsdecode (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\filereader.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\frange.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\utils\htmlformatters.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\utils\importer.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.invalidate_caches (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\json.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\markuputils.py
+--------------------------------------------------------------------------------
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\markupwriters.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\match.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\misc.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\normalizing.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\notset.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\utils\platform.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\recommendations.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\robotenv.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\utils\robotinspect.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\robotio.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: robotframework\src\robot\utils\robotpath.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\robottime.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\robottypes.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserString (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\secret.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\setter.py
+--------------------------------------------------------------------------------
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\sortable.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\utils\text.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\utils\typehints.py
+--------------------------------------------------------------------------------
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\utils\unic.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pprint.PrettyPrinter.format (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\variables\assigner.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: robotframework\src\robot\variables\evaluation.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+tokenize.untokenize (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\filesetter.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\finders.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\notfound.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\variables\replacer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\resolvable.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\src\robot\variables\scopes.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\search.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\variables\store.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\src\robot\variables\tablesetter.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\src\robot\variables\variables.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: robotframework\src\robot\version.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: robotframework\src\web\libdoc\lib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\tasks.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\utest\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\utest\api\orcish_languages.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\utest\api\test_deco.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_exposed_api.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_languages.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_logging_api.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_run_and_rebot.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_using_libraries.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\api\test_zipsafe.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\conf\test_settings.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\htmldata\test_htmltemplate.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\htmldata\test_jsonwriter.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\libdoc\test_datatypes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\libdoc\test_libdoc.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: robotframework\utest\libdoc\test_libdoc_api.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_body.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_control.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_filter.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_fixture.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_itemlist.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+object (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_keyword.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_message.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_metadata.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_modelobject.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_statistics.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: robotframework\utest\model\test_tags.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_tagstatistics.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_testcase.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\model\test_testsuite.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_console.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_filelogger.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_jsonlogger.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_listeners.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_logger.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_loggerhelper.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_pylogging.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\output\test_stdout_splitter.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\parsing_test_utils.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_lexer.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 16)
+    !2, 3.5: 16
+
+
+FILE: robotframework\utest\parsing\test_model.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_statements.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_statements_in_invalid_position.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_suitestructure.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_tokenizer.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\parsing\test_tokens.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_jsbuildingcontext.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_jsexecutionresult.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_jsmodelbuilders.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: robotframework\utest\reporting\test_jswriter.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_logreportwriters.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_reporting.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\reporting\test_stringcache.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\resources\Listener.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\resources\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\utest\resources\runningtestcase.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\resources\variables_file.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\utest\result\test_configurer.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_executionerrors.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_keywordremover.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_resultbuilder.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_resultmodel.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_resultserializer.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\utest\result\test_visitor.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\run.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\run_jasmine.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+zipfile.ZipFile.extractall (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_argumentspec.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_builder.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_importer.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_imports.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_librarykeyword.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_namespace.py
+--------------------------------------------------------------------------------
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_randomizer.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_resourcefile.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_run_model.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.getattr_static (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_runkwregister.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_running.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_signalhandler.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_testlibrary.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_timeouts.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_typeinfo.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_typeinfoparser.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\test_userkeyword.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\running\thread_resources.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: robotframework\utest\testdoc\test_jsonconverter.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_argumentparser.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_asserts.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_compat.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_compress.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_connectioncache.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_deprecations.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_dotdict.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_encoding.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_encodingsniffer.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_error.py
+--------------------------------------------------------------------------------
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_escaping.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_etreesource.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.fsencode (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_filereader.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_frange.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_htmlwriter.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_importer_util.py
+--------------------------------------------------------------------------------
+f-strings (total: 17)
+    !2, 3.6: 17
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_json.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\utest\utils\test_markuputils.py
+--------------------------------------------------------------------------------
+f-strings (total: 26)
+    !2, 3.6: 26
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_match.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_misc.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_normalizing.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_robotenv.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_robotpath.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: robotframework\utest\utils\test_robottime.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_robottypes.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+collections.UserList (total: 1)
+    !2, 3.0: 1
+
+collections.UserString (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_setter.py
+--------------------------------------------------------------------------------
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_sortable.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_text.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_unic.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\utils\test_xmlwriter.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: robotframework\utest\variables\test_isvar.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\variables\test_search.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\variables\test_variableassigner.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\variables\test_variables.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: robotframework\utest\webcontent\spec\data\create_jsdata_for_specs.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+

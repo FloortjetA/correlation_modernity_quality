@@ -1,0 +1,3955 @@
+Statistics for: mypy_pylint.txt
+================================================================================
+
+FILE: conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: docs\source\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.93/10
+
+FILE: docs\source\html_builder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.78/10
+
+FILE: misc\analyze_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 4
+R: 3
+Total messages: 12
+Average rating: 7.97/10
+
+FILE: misc\analyze_typeform_stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.02/10
+
+FILE: misc\apply-cache-diff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: misc\build_wheel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: misc\cherry-pick-typeshed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: misc\convert-cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: misc\diff-cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 5
+Total messages: 7
+Average rating: 8.93/10
+
+FILE: misc\docker\build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: misc\dump-ast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: misc\find_type.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 4
+Total messages: 7
+Average rating: 7.00/10
+
+FILE: misc\gen_blog_post_html.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.50/10
+
+FILE: misc\generate_changelog.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.85/10
+
+FILE: misc\incremental_checker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 8
+Total messages: 11
+Average rating: 8.90/10
+
+FILE: misc\log_trace_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.78/10
+
+FILE: misc\perf_checker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.18/10
+
+FILE: misc\perf_compare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 6
+R: 3
+Total messages: 13
+Average rating: 8.34/10
+
+FILE: misc\profile_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 9.08/10
+
+FILE: misc\self_compile_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 6.00/10
+
+FILE: misc\sync-typeshed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.17/10
+
+FILE: misc\update-stubinfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 9.38/10
+
+FILE: misc\upload-pypi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.90/10
+
+FILE: mypy\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.16/10
+
+FILE: mypy\api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.33/10
+
+FILE: mypy\applytype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 7
+Total messages: 17
+Average rating: 7.18/10
+
+FILE: mypy\argmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 9
+Total messages: 11
+Average rating: 8.26/10
+
+FILE: mypy\binder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 12
+Total messages: 17
+Average rating: 8.77/10
+
+FILE: mypy\bogus_type.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 54
+C: 12
+R: 74
+Total messages: 140
+Average rating: 8.76/10
+
+FILE: mypy\build_worker\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\build_worker\worker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 2
+Total messages: 9
+Average rating: 8.64/10
+
+FILE: mypy\cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 5
+Total messages: 13
+Average rating: 9.25/10
+
+FILE: mypy\checker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 133
+C: 6
+R: 181
+Total messages: 320
+Average rating: 8.33/10
+
+FILE: mypy\checker_shared.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 17
+Total messages: 18
+Average rating: 7.32/10
+
+FILE: mypy\checker_state.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\checkexpr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 96
+C: 7
+R: 170
+Total messages: 273
+Average rating: 7.87/10
+
+FILE: mypy\checkmember.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 1
+R: 44
+Total messages: 49
+Average rating: 8.51/10
+
+FILE: mypy\checkpattern.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 14
+Total messages: 23
+Average rating: 8.88/10
+
+FILE: mypy\checkstrformat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 15
+Total messages: 23
+Average rating: 9.01/10
+
+FILE: mypy\config_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 9
+Total messages: 13
+Average rating: 9.22/10
+
+FILE: mypy\constant_fold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 16
+Total messages: 16
+Average rating: 7.46/10
+
+FILE: mypy\constraints.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 35
+C: 3
+R: 39
+Total messages: 77
+Average rating: 7.66/10
+
+FILE: mypy\copytype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 0
+R: 1
+Total messages: 22
+Average rating: 0.00/10
+
+FILE: mypy\defaults.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\dmypy\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\dmypy\client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 6
+R: 1
+Total messages: 11
+Average rating: 9.33/10
+
+FILE: mypy\dmypy_os.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.59/10
+
+FILE: mypy\dmypy_server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 10
+C: 4
+R: 17
+Total messages: 34
+Average rating: 8.65/10
+
+FILE: mypy\dmypy_util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.76/10
+
+FILE: mypy\erasetype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 33
+C: 2
+R: 1
+Total messages: 36
+Average rating: 3.48/10
+
+FILE: mypy\error_formatter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\errorcodes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 2
+Total messages: 3
+Average rating: 9.53/10
+
+FILE: mypy\errors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 5
+R: 26
+Total messages: 37
+Average rating: 8.94/10
+
+FILE: mypy\evalexpr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 46
+C: 0
+R: 2
+Total messages: 48
+Average rating: 0.00/10
+
+FILE: mypy\expandtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 1
+R: 9
+Total messages: 36
+Average rating: 7.20/10
+
+FILE: mypy\exportjson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 1
+R: 7
+Total messages: 26
+Average rating: 6.73/10
+
+FILE: mypy\exprtotype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 11
+Total messages: 11
+Average rating: 8.27/10
+
+FILE: mypy\fastparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 16
+C: 3
+R: 29
+Total messages: 49
+Average rating: 9.05/10
+
+FILE: mypy\find_sources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.29/10
+
+FILE: mypy\fixup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 119
+C: 0
+R: 4
+Total messages: 123
+Average rating: 0.00/10
+
+FILE: mypy\freetree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 4.00/10
+
+FILE: mypy\fscache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.55/10
+
+FILE: mypy\fswatcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\gclogger.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 2.73/10
+
+FILE: mypy\git.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.27/10
+
+FILE: mypy\graph_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\indirection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 0
+R: 2
+Total messages: 23
+Average rating: 3.74/10
+
+FILE: mypy\infer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 7.65/10
+
+FILE: mypy\inspections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 8
+Total messages: 13
+Average rating: 9.27/10
+
+FILE: mypy\ipc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 8
+Total messages: 11
+Average rating: 8.98/10
+
+FILE: mypy\join.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 2
+R: 29
+Total messages: 57
+Average rating: 7.41/10
+
+FILE: mypy\known_modules.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: mypy\literals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 75
+C: 0
+R: 4
+Total messages: 79
+Average rating: 0.00/10
+
+FILE: mypy\lookup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.53/10
+
+FILE: mypy\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 9
+R: 18
+Total messages: 31
+Average rating: 9.01/10
+
+FILE: mypy\maptype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 3
+Total messages: 5
+Average rating: 8.21/10
+
+FILE: mypy\meet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 3
+R: 49
+Total messages: 74
+Average rating: 7.44/10
+
+FILE: mypy\memprofile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 9.40/10
+
+FILE: mypy\message_registry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\messages.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 14
+R: 76
+Total messages: 107
+Average rating: 8.57/10
+
+FILE: mypy\metastore.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 9.61/10
+
+FILE: mypy\mixedtraverser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.36/10
+
+FILE: mypy\modulefinder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 0
+R: 14
+Total messages: 36
+Average rating: 8.10/10
+
+FILE: mypy\moduleinspect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 2
+Total messages: 9
+Average rating: 6.80/10
+
+FILE: mypy\modules_state.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\mro.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\nativeparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 33
+Total messages: 36
+Average rating: 9.47/10
+
+FILE: mypy\nodes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 3
+R: 56
+Total messages: 76
+Average rating: 9.35/10
+
+FILE: mypy\operators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\options.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 2
+Total messages: 4
+Average rating: 9.78/10
+
+FILE: mypy\parse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 5
+Total messages: 9
+Average rating: 7.14/10
+
+FILE: mypy\partially_defined.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 5
+R: 1
+Total messages: 37
+Average rating: 7.71/10
+
+FILE: mypy\patterns.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 2
+Total messages: 17
+Average rating: 7.98/10
+
+FILE: mypy\plugins\attrs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 7
+R: 16
+Total messages: 26
+Average rating: 9.09/10
+
+FILE: mypy\plugins\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 13
+Total messages: 21
+Average rating: 7.51/10
+
+FILE: mypy\plugins\constants.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\plugins\ctypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.66/10
+
+FILE: mypy\plugins\dataclasses.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 4
+R: 11
+Total messages: 20
+Average rating: 9.12/10
+
+FILE: mypy\plugins\default.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 16
+Total messages: 16
+Average rating: 8.99/10
+
+FILE: mypy\plugins\enums.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.43/10
+
+FILE: mypy\plugins\functools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 5
+Total messages: 6
+Average rating: 9.36/10
+
+FILE: mypy\plugins\proper_plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: mypy\plugins\singledispatch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.62/10
+
+FILE: mypy\pyinfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: mypy\reachability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 14
+Total messages: 23
+Average rating: 7.62/10
+
+FILE: mypy\refinfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 7.24/10
+
+FILE: mypy\renaming.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 32
+C: 0
+R: 3
+Total messages: 35
+Average rating: 6.70/10
+
+FILE: mypy\report.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 4
+Total messages: 21
+Average rating: 8.83/10
+
+FILE: mypy\scope.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\semanal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 135
+C: 11
+R: 127
+Total messages: 277
+Average rating: 8.46/10
+
+FILE: mypy\semanal_classprop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.83/10
+
+FILE: mypy\semanal_enum.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 4
+Total messages: 9
+Average rating: 8.93/10
+
+FILE: mypy\semanal_infer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.46/10
+
+FILE: mypy\semanal_main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 7
+Total messages: 12
+Average rating: 9.00/10
+
+FILE: mypy\semanal_namedtuple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 14
+Total messages: 22
+Average rating: 8.54/10
+
+FILE: mypy\semanal_newtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 3
+Total messages: 5
+Average rating: 9.06/10
+
+FILE: mypy\semanal_pass1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 0
+R: 0
+Total messages: 24
+Average rating: 0.65/10
+
+FILE: mypy\semanal_shared.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 7
+Total messages: 10
+Average rating: 8.54/10
+
+FILE: mypy\semanal_typeargs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 5
+Total messages: 16
+Average rating: 7.45/10
+
+FILE: mypy\semanal_typeddict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 13
+Total messages: 15
+Average rating: 9.05/10
+
+FILE: mypy\server\astdiff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 0
+R: 6
+Total messages: 28
+Average rating: 5.81/10
+
+FILE: mypy\server\astmerge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 51
+C: 0
+R: 2
+Total messages: 53
+Average rating: 4.75/10
+
+FILE: mypy\server\aststrip.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 0
+Total messages: 16
+Average rating: 6.44/10
+
+FILE: mypy\server\deps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 63
+C: 1
+R: 8
+Total messages: 72
+Average rating: 6.75/10
+
+FILE: mypy\server\mergecheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\server\objgraph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.84/10
+
+FILE: mypy\server\subexpr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 43
+C: 0
+R: 1
+Total messages: 44
+Average rating: 0.00/10
+
+FILE: mypy\server\target.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\server\trigger.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\server\update.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 24
+Total messages: 34
+Average rating: 8.70/10
+
+FILE: mypy\sharedparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 6.92/10
+
+FILE: mypy\solve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 7
+Total messages: 10
+Average rating: 9.27/10
+
+FILE: mypy\split_namespace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.22/10
+
+FILE: mypy\state.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 32
+C: 0
+R: 6
+Total messages: 38
+Average rating: 6.41/10
+
+FILE: mypy\strconv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 87
+C: 6
+R: 9
+Total messages: 102
+Average rating: 4.35/10
+
+FILE: mypy\stubdoc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 6
+Total messages: 7
+Average rating: 9.48/10
+
+FILE: mypy\stubgen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 120
+C: 1
+R: 34
+Total messages: 155
+Average rating: 6.31/10
+
+FILE: mypy\stubgenc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 3
+R: 31
+Total messages: 43
+Average rating: 8.18/10
+
+FILE: mypy\stubinfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\stubtest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 9
+R: 24
+Total messages: 53
+Average rating: 9.05/10
+
+FILE: mypy\stubutil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 12
+Total messages: 23
+Average rating: 8.80/10
+
+FILE: mypy\subtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 34
+C: 7
+R: 73
+Total messages: 114
+Average rating: 7.63/10
+
+FILE: mypy\suggestions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 1
+R: 19
+Total messages: 40
+Average rating: 8.05/10
+
+FILE: mypy\test\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 6
+R: 10
+Total messages: 26
+Average rating: 8.84/10
+
+FILE: mypy\test\helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 6
+Total messages: 14
+Average rating: 8.99/10
+
+FILE: mypy\test\meta\_pytest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\meta\test_diff_helper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\meta\test_parse_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\meta\test_update_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\test_config_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.69/10
+
+FILE: mypy\test\test_diff_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 2
+R: 2
+Total messages: 13
+Average rating: 6.49/10
+
+FILE: mypy\test\test_find_sources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.84/10
+
+FILE: mypy\test\test_nativeparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 3
+Total messages: 6
+Average rating: 9.11/10
+
+FILE: mypy\test\test_ref_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: mypy\test\testapi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testargs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testcheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 6
+Total messages: 10
+Average rating: 8.87/10
+
+FILE: mypy\test\testcmdline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.29/10
+
+FILE: mypy\test\testconstraints.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testdaemon.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.93/10
+
+FILE: mypy\test\testdeps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.64/10
+
+FILE: mypy\test\testdiff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.58/10
+
+FILE: mypy\test\testerrorstream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.86/10
+
+FILE: mypy\test\testexportjson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.71/10
+
+FILE: mypy\test\testfinegrained.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 7
+Total messages: 7
+Average rating: 9.42/10
+
+FILE: mypy\test\testfinegrainedcache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testformatter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testfscache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.52/10
+
+FILE: mypy\test\testgraph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testinfer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testipc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 2
+C: 1
+R: 0
+Total messages: 8
+Average rating: 6.48/10
+
+FILE: mypy\test\testmerge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 1
+Total messages: 9
+Average rating: 8.33/10
+
+FILE: mypy\test\testmodulefinder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testmypyc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testoutput.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.72/10
+
+FILE: mypy\test\testpep561.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 3
+Total messages: 14
+Average rating: 6.52/10
+
+FILE: mypy\test\testpythoneval.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.85/10
+
+FILE: mypy\test\testreports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 8.97/10
+
+FILE: mypy\test\testsemanal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.29/10
+
+FILE: mypy\test\testsolve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 5
+Total messages: 7
+Average rating: 8.00/10
+
+FILE: mypy\test\teststubgen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 57
+W: 30
+C: 4
+R: 5
+Total messages: 96
+Average rating: 4.56/10
+
+FILE: mypy\test\teststubinfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\teststubtest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 3
+Total messages: 21
+Average rating: 8.99/10
+
+FILE: mypy\test\testsubtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 9.16/10
+
+FILE: mypy\test\testtransform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\testtypegen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.09/10
+
+FILE: mypy\test\testtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 3
+Total messages: 11
+Average rating: 9.71/10
+
+FILE: mypy\test\testutil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\test\typefixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 5
+Total messages: 9
+Average rating: 8.83/10
+
+FILE: mypy\test\update_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.23/10
+
+FILE: mypy\test\visitors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 3.51/10
+
+FILE: mypy\traverser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 1
+R: 2
+Total messages: 26
+Average rating: 9.01/10
+
+FILE: mypy\treetransform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 101
+C: 0
+R: 6
+Total messages: 107
+Average rating: 2.16/10
+
+FILE: mypy\tvar_scope.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 8.38/10
+
+FILE: mypy\type_visitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 7
+Total messages: 8
+Average rating: 9.49/10
+
+FILE: mypy\typeanal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 68
+C: 5
+R: 67
+Total messages: 140
+Average rating: 7.54/10
+
+FILE: mypy\typeops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 7
+R: 25
+Total messages: 39
+Average rating: 8.60/10
+
+FILE: mypy\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 59
+C: 12
+R: 62
+Total messages: 135
+Average rating: 8.47/10
+
+FILE: mypy\types_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.57/10
+
+FILE: mypy\typestate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: mypy\typetraverser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.73/10
+
+FILE: mypy\typevars.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\typevartuples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 2
+C: 8
+R: 17
+Total messages: 40
+Average rating: 7.81/10
+
+FILE: mypy\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypy\visitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.83/10
+
+FILE: mypyc\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.67/10
+
+FILE: mypyc\analysis\attrdefined.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 3
+Total messages: 11
+Average rating: 8.33/10
+
+FILE: mypyc\analysis\blockfreq.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\analysis\capsule_deps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\analysis\dataflow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 9
+Total messages: 9
+Average rating: 9.42/10
+
+FILE: mypyc\analysis\ircheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.77/10
+
+FILE: mypyc\analysis\selfleaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.82/10
+
+FILE: mypyc\annotate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 5
+R: 2
+Total messages: 10
+Average rating: 9.24/10
+
+FILE: mypyc\build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 8
+Total messages: 15
+Average rating: 8.85/10
+
+FILE: mypyc\build_setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.00/10
+
+FILE: mypyc\codegen\cstring.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: mypyc\codegen\emit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 46
+Total messages: 53
+Average rating: 8.60/10
+
+FILE: mypyc\codegen\emitclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 3
+R: 10
+Total messages: 26
+Average rating: 9.07/10
+
+FILE: mypyc\codegen\emitfunc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 15
+Total messages: 21
+Average rating: 9.16/10
+
+FILE: mypyc\codegen\emitmodule.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 3
+R: 15
+Total messages: 29
+Average rating: 9.02/10
+
+FILE: mypyc\codegen\emitwrapper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 6
+Total messages: 19
+Average rating: 8.85/10
+
+FILE: mypyc\codegen\literals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.62/10
+
+FILE: mypyc\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: mypyc\crash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: mypyc\doc\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: mypyc\errors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\ir\class_ir.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 6
+C: 1
+R: 5
+Total messages: 14
+Average rating: 8.22/10
+
+FILE: mypyc\ir\deps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.81/10
+
+FILE: mypyc\ir\func_ir.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 9
+Total messages: 10
+Average rating: 9.06/10
+
+FILE: mypyc\ir\module_ir.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.25/10
+
+FILE: mypyc\ir\ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 24
+Total messages: 41
+Average rating: 8.96/10
+
+FILE: mypyc\ir\pprint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 10
+Total messages: 11
+Average rating: 9.28/10
+
+FILE: mypyc\ir\rtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 1
+R: 12
+Total messages: 38
+Average rating: 8.25/10
+
+FILE: mypyc\irbuild\ast_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\irbuild\builder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 88
+C: 2
+R: 35
+Total messages: 127
+Average rating: 5.93/10
+
+FILE: mypyc\irbuild\callable_class.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\irbuild\classdef.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 6
+Total messages: 9
+Average rating: 9.50/10
+
+FILE: mypyc\irbuild\constant_fold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 4
+Total messages: 6
+Average rating: 7.41/10
+
+FILE: mypyc\irbuild\context.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.35/10
+
+FILE: mypyc\irbuild\env_class.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 0
+Total messages: 9
+Average rating: 7.64/10
+
+FILE: mypyc\irbuild\expression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 25
+Total messages: 29
+Average rating: 9.17/10
+
+FILE: mypyc\irbuild\for_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 36
+C: 3
+R: 20
+Total messages: 59
+Average rating: 7.47/10
+
+FILE: mypyc\irbuild\format_str_tokenizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.70/10
+
+FILE: mypyc\irbuild\function.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 19
+Total messages: 37
+Average rating: 8.31/10
+
+FILE: mypyc\irbuild\generator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.51/10
+
+FILE: mypyc\irbuild\ll_builder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 2
+R: 96
+Total messages: 110
+Average rating: 8.49/10
+
+FILE: mypyc\irbuild\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.66/10
+
+FILE: mypyc\irbuild\mapper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 6
+Total messages: 6
+Average rating: 9.06/10
+
+FILE: mypyc\irbuild\match.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 1
+Total messages: 10
+Average rating: 8.59/10
+
+FILE: mypyc\irbuild\missingtypevisitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: mypyc\irbuild\nonlocalcontrol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\irbuild\prebuildvisitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 1
+Total messages: 15
+Average rating: 6.74/10
+
+FILE: mypyc\irbuild\prepare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 24
+Total messages: 31
+Average rating: 8.53/10
+
+FILE: mypyc\irbuild\specialize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 4
+R: 30
+Total messages: 57
+Average rating: 8.09/10
+
+FILE: mypyc\irbuild\statement.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 14
+Total messages: 24
+Average rating: 9.19/10
+
+FILE: mypyc\irbuild\targets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\irbuild\util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.41/10
+
+FILE: mypyc\irbuild\vec.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 5
+Total messages: 7
+Average rating: 9.46/10
+
+FILE: mypyc\irbuild\visitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 75
+C: 0
+R: 1
+Total messages: 76
+Average rating: 0.00/10
+
+FILE: mypyc\irbuild\vtable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\lib-rt\build_setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.00/10
+
+FILE: mypyc\lib-rt\setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.19/10
+
+FILE: mypyc\lower\int_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.66/10
+
+FILE: mypyc\lower\list_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\lower\misc_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\lower\registry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\namegen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\options.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 6.84/10
+
+FILE: mypyc\primitives\bytearray_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\bytes_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\dict_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\exc_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\float_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\generic_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\int_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.12/10
+
+FILE: mypyc\primitives\librt_strings_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\librt_time_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\librt_vecs_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\list_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\misc_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\registry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 15
+Total messages: 16
+Average rating: 6.12/10
+
+FILE: mypyc\primitives\set_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\str_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\tuple_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\primitives\weakref_ops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\rt_subtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 1.56/10
+
+FILE: mypyc\sametype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 2.70/10
+
+FILE: mypyc\subtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 4.00/10
+
+FILE: mypyc\test-data\driver\driver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.19/10
+
+FILE: mypyc\test-data\fixtures\ir.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 156
+C: 176
+R: 1
+Total messages: 339
+Average rating: 0.00/10
+
+FILE: mypyc\test-data\fixtures\testutil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.27/10
+
+FILE: mypyc\test\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\librt_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 1
+Total messages: 8
+Average rating: 7.41/10
+
+FILE: mypyc\test\test_alwaysdefined.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.80/10
+
+FILE: mypyc\test\test_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_annotate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.57/10
+
+FILE: mypyc\test\test_capsule_deps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_cheader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 6.36/10
+
+FILE: mypyc\test\test_commandline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.26/10
+
+FILE: mypyc\test\test_emit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_emitclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: mypyc\test\test_emitfunc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 5
+Total messages: 8
+Average rating: 9.63/10
+
+FILE: mypyc\test\test_emitwrapper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_external.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_irbuild.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_ircheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_literals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_lowering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_misc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_namegen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_optimizations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_pprint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.71/10
+
+FILE: mypyc\test\test_rarray.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_refcount.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_run.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 5
+Total messages: 9
+Average rating: 9.22/10
+
+FILE: mypyc\test\test_serialization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: mypyc\test\test_statement.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.43/10
+
+FILE: mypyc\test\test_struct.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_tuplename.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\test_typeops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\test\testutil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.98/10
+
+FILE: mypyc\transform\copy_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.00/10
+
+FILE: mypyc\transform\exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.24/10
+
+FILE: mypyc\transform\flag_elimination.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\transform\ir_transform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.82/10
+
+FILE: mypyc\transform\log_trace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 9.63/10
+
+FILE: mypyc\transform\lower.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: mypyc\transform\refcount.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 5
+Total messages: 5
+Average rating: 9.12/10
+
+FILE: mypyc\transform\spill.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.42/10
+
+FILE: mypyc\transform\uninit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.02/10
+
+FILE: runtests.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.04/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.25/10
+
+FILE: test-data\packages\modulefinder-site-packages\foo\bar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 0.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\ns_pkg_typed\a.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\ns_pkg_typed\b\c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\ns_pkg_untyped\a.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\ns_pkg_untyped\b\c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed\a.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed\b\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed\b\c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed_w_stubs\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_typed_w_stubs\spam.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_untyped\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_untyped\a.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_untyped\b\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\pkg_untyped\b\c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\modulefinder-site-packages\standalone.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg\typedpkg\pkg\aaa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg\typedpkg\sample.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg_ns_a\typedpkg_ns\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg_ns_a\typedpkg_ns\a\bbb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg_ns_b\typedpkg_ns\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\packages\typedpkg_ns_b\typedpkg_ns\b\bbb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\pybind11_fixtures\setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\unit\plugins\add_classmethod.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: test-data\unit\plugins\add_method.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: test-data\unit\plugins\add_overloaded_method.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: test-data\unit\plugins\arg_kinds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: test-data\unit\plugins\arg_names.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.85/10
+
+FILE: test-data\unit\plugins\attrhook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: test-data\unit\plugins\attrhook2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.60/10
+
+FILE: test-data\unit\plugins\badreturn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 0.00/10
+
+FILE: test-data\unit\plugins\badreturn2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 4.00/10
+
+FILE: test-data\unit\plugins\callable_instance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: test-data\unit\plugins\class_attr_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test-data\unit\plugins\class_callable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.97/10
+
+FILE: test-data\unit\plugins\common_api_incremental.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.12/10
+
+FILE: test-data\unit\plugins\config_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.38/10
+
+FILE: test-data\unit\plugins\custom_errorcode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: test-data\unit\plugins\customentry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.86/10
+
+FILE: test-data\unit\plugins\customize_mro.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.00/10
+
+FILE: test-data\unit\plugins\decimal_to_int.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: test-data\unit\plugins\depshook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.00/10
+
+FILE: test-data\unit\plugins\descriptor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: test-data\unit\plugins\dyn_class.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.21/10
+
+FILE: test-data\unit\plugins\dyn_class_from_method.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.38/10
+
+FILE: test-data\unit\plugins\fnplugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.86/10
+
+FILE: test-data\unit\plugins\fully_qualified_test_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.86/10
+
+FILE: test-data\unit\plugins\function_sig_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: test-data\unit\plugins\magic_method.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: test-data\unit\plugins\method_in_decorator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: test-data\unit\plugins\method_sig_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.73/10
+
+FILE: test-data\unit\plugins\named_callable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.70/10
+
+FILE: test-data\unit\plugins\plugin2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: test-data\unit\plugins\type_anal_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: test-data\unit\plugins\union_method.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.00/10
+
+================================================================================
+Overall average rating: 8.58/10

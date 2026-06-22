@@ -1,0 +1,8262 @@
+Feature statistics for repository: qutebrowser
+================================================================================
+
+FILE: qutebrowser\doc\extapi\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\misc\userscripts\add-nextcloud-bookmarks
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\add-nextcloud-cookbook
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\getbib
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\openfeeds
+--------------------------------------------------------------------------------
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\qute-bitwarden
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\misc\userscripts\qute-keepass
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\misc\userscripts\qute-keepassxc
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\misc\userscripts\qute-lastpass
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\misc\userscripts\qute-pass
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+fnmatch.filter (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\readability
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\misc\userscripts\ripbang
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\misc\userscripts\tor_identity
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\__init__.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\api\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\api\apitypes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\api\cmdutils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: qutebrowser\qutebrowser\api\config.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\api\downloads.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\api\hook.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\api\interceptor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\api\message.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\api\qtutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\app.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\browser\browsertab.py
+--------------------------------------------------------------------------------
+arguments (total: 7)
+    !2, 3.0: 7
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\commands.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\downloads.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\downloadview.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\eventfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\greasemonkey.py
+--------------------------------------------------------------------------------
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\hints.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\history.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\inspector.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\navigate.py
+--------------------------------------------------------------------------------
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\network\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\browser\network\pac.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\network\proxy.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\pdfjs.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 2)
+    !2, 3.3: 2
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\qtnetworkdownloads.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\qutescheme.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+sys.base_prefix (total: 1)
+    !2, 3.3: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\shared.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\signalfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\urlmarks.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webelem.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\browser\webengine\certificateerror.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\cookies.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\darkmode.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\interceptor.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\notification.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 31)
+    !2, 3.6: 31
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\spell.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\tabhistory.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webenginedownloads.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webengineelem.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webengineinspector.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webenginequtescheme.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webenginesettings.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webenginetab.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 13)
+    !2, 3.0: 13
+
+bytes.hex (total: 1)
+    !2, 3.5: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webengine\webview.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\browser\webkit\cache.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\certificateerror.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\cookies.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\httpheaders.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+email.headerregistry (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\mhtml.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+email.generator.BytesGenerator (total: 1)
+    !2, 3.2: 1
+
+email.message.Message.set_type (total: 1)
+    2.2, 3.0: 1
+
+email.mime.multipart.MIMEMultipart (total: 1)
+    2.2, 3.0: 1
+
+email.policy (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\network\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\browser\webkit\network\filescheme.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\network\networkmanager.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\network\networkreply.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\network\webkitqutescheme.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\tabhistory.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webkitelem.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webkithistory.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webkitinspector.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webkitsettings.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webkittab.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webpage.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\browser\webkit\webview.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\commands\argparser.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\cmdexc.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\command.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\parser.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\runners.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\commands\userscripts.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\completion\completer.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\completiondelegate.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\completionwidget.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\completionmodel.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\configmodel.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\filepathcategory.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+glob.escape (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\histcategory.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\listcategory.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\miscmodels.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.groupby (total: 1)
+    2.4, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\urlmodel.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\completion\models\util.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\components\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\components\adblockcommands.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\components\braveadblock.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\components\caretcommands.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\components\hostblock.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+zipfile.BadZipFile (total: 1)
+    !2, 3.2: 1
+
+
+FILE: qutebrowser\qutebrowser\components\misccommands.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\components\readlinecommands.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\components\scrollcommands.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\components\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\components\utils\blockutils.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\components\zoomcommands.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\config\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\config\config.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configcache.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configcommands.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configdata.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configexc.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configfiles.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configinit.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configtypes.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 29)
+    !2, 3.0: 29
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\configutils.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\qtargs.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\stylesheet.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\config\websettings.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\extensions\interceptors.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\extensions\loader.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\keyinput\basekeyparser.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\eventfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\keyutils.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\macros.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\modeman.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\keyinput\modeparsers.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\mainwindow\mainwindow.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\messageview.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\prompt.py
+--------------------------------------------------------------------------------
+arguments (total: 13)
+    !2, 3.0: 13
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\backforward.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\bar.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\clock.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\command.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\keystring.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\percentage.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\progress.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\searchmatch.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\tabindex.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\textbase.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\statusbar\url.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\tabbedbrowser.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\tabwidget.py
+--------------------------------------------------------------------------------
+arguments (total: 16)
+    !2, 3.0: 16
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\mainwindow\windowundo.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\misc\autoupdate.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\backendproblem.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\binparsing.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\checkpyver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\misc\cmdhistory.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\consolewidget.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\crashdialog.py
+--------------------------------------------------------------------------------
+arguments (total: 15)
+    !2, 3.0: 15
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\crashsignal.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+faulthandler (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+signal.set_wakeup_fd (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\debugcachestats.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\earlyinit.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+faulthandler (total: 1)
+    !2, 3.3: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.flags (total: 1)
+    2.6, 3.0: 1
+
+tkinter (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\editor.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\elf.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\guiprocess.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\httpclient.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\ipc.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\keyhintwidget.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.removeprefix (total: 1)
+    !2, 3.9: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\lineparser.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: qutebrowser\qutebrowser\misc\miscwidgets.py
+--------------------------------------------------------------------------------
+arguments (total: 10)
+    !2, 3.0: 10
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\msgbox.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\nativeeventfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\objects.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\pakjoy.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\pastebin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\quitter.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tokenize.open (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\savemanager.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\sessions.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\split.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\sql.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractContextManager (total: 1)
+    !2, 3.6: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 33)
+    !2, 3.6: 33
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\throttle.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\utilcmds.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\misc\wmname.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\_core_pyqtproperty.py
+--------------------------------------------------------------------------------
+slices (total: 8)
+    !2, 3.0: 8
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\core.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\dbus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\gui.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\machinery.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\network.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\opengl.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\printsupport.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\qml.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\sip.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\sql.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\webenginecore.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\webenginewidgets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qt\webkit.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\webkitwidgets.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\qt\widgets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\qutebrowser.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\qutebrowser\utils\debug.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\docutils.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.flags (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\error.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\javascript.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\jinja.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\log.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 9)
+    !2, 3.0: 9
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\message.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\objreg.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\qtlog.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+faulthandler (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\qtutils.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_CUR (total: 1)
+    2.7, 3.1: 1
+
+io.SEEK_END (total: 1)
+    2.7, 3.1: 1
+
+io.SEEK_SET (total: 1)
+    2.7, 3.1: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\resources.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.abc.Traversable (total: 1)
+    !2, 3.9: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\standarddir.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\urlmatch.py
+--------------------------------------------------------------------------------
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\urlutils.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\usertypes.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\utils.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.fsencode (total: 1)
+    !2, 3.2: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: qutebrowser\qutebrowser\utils\version.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\asciidoc2html.py
+--------------------------------------------------------------------------------
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dev\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\dev\build_pyqt_wheel.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dev\build_release.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 22)
+    !2, 3.6: 22
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+shutil.make_archive (total: 1)
+    2.7, 3.2: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.major (total: 1)
+    2.7, 3.0: 1
+
+sys.version_info.minor (total: 1)
+    2.7, 3.0: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\change_release.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\check_coverage.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\check_doc_changes.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dev\ci\docker\generate.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: qutebrowser\scripts\dev\ci\problemmatchers.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\cleanup.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\gen_versioninfo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\dev\get_coredumpctl_traces.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: qutebrowser\scripts\dev\misc_checks.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tokenize.open (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dev\pylint_checkers\qute_pylint\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\dev\pylint_checkers\qute_pylint\config.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\pylint_checkers\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\dev\recompile_requirements.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: qutebrowser\scripts\dev\rewrite_enums.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\rewrite_find_enums.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\rewrite_find_flags.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\run_profile.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\run_pylint_on_tests.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dev\run_vulture.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\src2asciidoc.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+cause (total: 3)
+    !2, 3.0: 3
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\standardpaths_tester.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\ua_fetch.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\update_3rdparty.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.unpack_archive (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\dev\update_version.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\dictcli.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+base64.decodebytes (total: 1)
+    !2, 3.1: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\hist_importer.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\hostblock_blame.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\importer.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+string.Formatter (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\scripts\keytester.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\scripts\link_pyqt.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\scripts\mkvenv.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+venv (total: 1)
+    !2, 3.3: 1
+
+venv.create (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\scripts\opengl_info.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\scripts\setupcommon.py
+--------------------------------------------------------------------------------
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\scripts\testbrowser\testbrowser_webengine.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\testbrowser\testbrowser_webkit.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\scripts\utils.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\setup.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\conftest.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.OPENSSL_VERSION_INFO (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\conftest.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+operator.ne (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pstats.Stats (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\data\brave-adblock\generate.py
+--------------------------------------------------------------------------------
+csv (total: 1)
+    2.3, 3.0: 1
+
+csv.DictWriter.writeheader (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\end2end\data\misc\pyeval_file.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\data\userscripts\stdinclose.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\conftest.py
+--------------------------------------------------------------------------------
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_backforward_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_caret_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_completion_bdd.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_downloads_bdd.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_editor_bdd.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_hints_bdd.py
+--------------------------------------------------------------------------------
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_history_bdd.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_invoke_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_javascript_bdd.py
+--------------------------------------------------------------------------------
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_keyinput_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_marks_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_misc_bdd.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_navigate_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_notifications_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_open_bdd.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_private_bdd.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_prompts_bdd.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_qutescheme_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_scroll_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_search_bdd.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_sessions_bdd.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_spawn_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_tabs_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_urlmarks_bdd.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_utilcmds_bdd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\end2end\features\test_yankpaste_bdd.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\features\test_zoom_bdd.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\notificationserver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\quteprocess.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.LogRecord.funcName (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\test_quteprocess.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\test_testprocess.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\test_webserver.py
+--------------------------------------------------------------------------------
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\testprocess.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\webserver.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\webserver_sub.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+sys.__unraisablehook__ (total: 1)
+    !2, 3.8: 1
+
+sys.unraisablehook (total: 1)
+    !2, 3.8: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\fixtures\webserver_sub_ssl.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: qutebrowser\tests\end2end\misc\test_runners_e2e.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\test_adblock_e2e.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: qutebrowser\tests\end2end\test_dirbrowser.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\test_hints_html.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\end2end\test_insert_mode.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\end2end\test_invocations.py
+--------------------------------------------------------------------------------
+ChildProcessError (total: 1)
+    !2, 3.3: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\end2end\test_mhtml_e2e.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\helpers\fixtures.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\helpers\logfail.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\helpers\messagemock.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\helpers\stubs.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\helpers\test_helper_utils.py
+--------------------------------------------------------------------------------
+slices (total: 2)
+    !2, 3.0: 2
+
+
+FILE: qutebrowser\tests\helpers\test_logfail.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\helpers\test_stubs.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\helpers\testutils.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+importlib.machinery.SourceFileLoader (total: 1)
+    !2, 3.3: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_loader (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\test_conftest.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\api\test_cmdutils.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_browsertab.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\browser\test_caret.py
+--------------------------------------------------------------------------------
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_downloads.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_downloadview.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_hints.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_history.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_inspector.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_navigate.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_notification.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_pdfjs.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_qutescheme.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+
+FILE: qutebrowser\tests\unit\browser\test_shared.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: qutebrowser\tests\unit\browser\test_signalfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\test_urlmarks.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_darkmode.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_spell.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webengine_cookies.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webenginedownloads.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webengineinterceptor.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webenginesettings.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webenginetab.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webengine\test_webview.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\http\test_content_disposition.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\http\test_httpheaders.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\network\test_filescheme.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\network\test_networkmanager.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\browser\webkit\network\test_networkreply.py
+--------------------------------------------------------------------------------
+synonym (total: 7)
+    2.6, 3.0: 7
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\network\test_pac.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_cache.py
+--------------------------------------------------------------------------------
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_certificateerror.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_cookies.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_mhtml.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_tabhistory.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_webkit_view.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_webkitelem.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\browser\webkit\test_webkitsettings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\commands\test_argparser.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\commands\test_cmdexc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\commands\test_parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\commands\test_userscripts.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_completer.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_completiondelegate.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_completionmodel.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_completionwidget.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_histcategory.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_listcategory.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\completion\test_models.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\components\test_blockutils.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\components\test_braveadblock.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\components\test_hostblock.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: qutebrowser\tests\unit\components\test_misccommands.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\components\test_readlinecommands.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_config.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configcache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\config\test_configcommands.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configdata.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configexc.py
+--------------------------------------------------------------------------------
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configfiles.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configinit.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configtypes.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_configutils.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_qtargs.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_qtargs_locale_workaround.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_stylesheet.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\config\test_websettings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\extensions\test_loader.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\javascript\conftest.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\javascript\position_caret\test_position_caret.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\javascript\stylesheet\test_stylesheet_js.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\javascript\test_greasemonkey.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\javascript\test_js_execution.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\javascript\test_js_quirks.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\conftest.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\key_data.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\test_basekeyparser.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\test_bindingtrie.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.permutations (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\test_keyutils.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+operator.ne (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\test_modeman.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\keyinput\test_modeparsers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_backforward.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_percentage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_progress.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_tabindex.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_textbase.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\statusbar\test_url.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\test_messageview.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: qutebrowser\tests\unit\mainwindow\test_prompt.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\test_tabbedbrowser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\mainwindow\test_tabwidget.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_autoupdate.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_checkpyver.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tkinter (total: 1)
+    !2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_cmdhistory.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_crashdialog.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_crashsignal.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_earlyinit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_editor.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_elf.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: qutebrowser\tests\unit\misc\test_guiprocess.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_ipc.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_keyhints.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_lineparser.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_miscwidgets.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_msgbox.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_objects.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_pakjoy.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_pastebin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_sessions.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: qutebrowser\tests\unit\misc\test_split.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_split_hypothesis.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_sql.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_throttle.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\test_utilcmds.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\misc\test_wmname.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+socket.socketpair (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\misc\userscripts\test_qute_lastpass.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+list.copy (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\scripts\test_check_coverage.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\scripts\test_dictcli.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\scripts\test_importer.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: qutebrowser\tests\unit\scripts\test_problemmatchers.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\scripts\test_run_vulture.py
+--------------------------------------------------------------------------------
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\test_app.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\test_qt_machinery.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: qutebrowser\tests\unit\test_qutebrowser.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\overflow_test_cases.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_debug.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_error.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_javascript.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_jinja.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_log.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_qtlog.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_qtutils.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_CUR (total: 1)
+    2.7, 3.1: 1
+
+io.SEEK_END (total: 1)
+    2.7, 3.1: 1
+
+io.SEEK_SET (total: 1)
+    2.7, 3.1: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.SEEK_DATA (total: 1)
+    !2, 3.3: 1
+
+os.SEEK_HOLE (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 35)
+    2.6, 3.0: 35
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_resources.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+zipfile.Path (total: 1)
+    !2, 3.8: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_standarddir.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_urlmatch.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_urlutils.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_utils.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+operator.ne (total: 1)
+    2.2, 3.0: 1
+
+os.fsencode (total: 1)
+    !2, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: qutebrowser\tests\unit\utils\test_version.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: qutebrowser\tests\unit\utils\usertypes\test_misc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\utils\usertypes\test_neighborlist.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\utils\usertypes\test_question.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: qutebrowser\tests\unit\utils\usertypes\test_timer.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+

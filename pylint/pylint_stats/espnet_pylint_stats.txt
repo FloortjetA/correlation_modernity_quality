@@ -1,0 +1,13 @@
+Statistics for: espnet_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 332
+W: 7065
+C: 1478
+R: 7043
+
+Total messages: 15919
+Average rating: 7.39/10

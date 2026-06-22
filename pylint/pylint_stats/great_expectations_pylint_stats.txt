@@ -1,0 +1,13 @@
+Statistics for: great_expectations_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 8
+W: 95
+C: 111
+R: 29
+
+Total messages: 243
+Average rating: 4.91/10

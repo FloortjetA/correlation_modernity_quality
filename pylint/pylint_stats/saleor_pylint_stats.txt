@@ -1,0 +1,13 @@
+Statistics for: saleor_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 514
+W: 7592
+C: 923
+R: 8186
+
+Total messages: 17215
+Average rating: 8.92/10

@@ -1,0 +1,13 @@
+Statistics for: spyder_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 2
+E: 289
+W: 5638
+C: 817
+R: 2372
+
+Total messages: 9118
+Average rating: 7.65/10

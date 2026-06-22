@@ -1,0 +1,13 @@
+Statistics for: electrum_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 344
+W: 3242
+C: 6744
+R: 1416
+
+Total messages: 11746
+Average rating: 7.62/10

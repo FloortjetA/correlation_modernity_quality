@@ -1,0 +1,9350 @@
+Feature statistics for repository: scrapy
+================================================================================
+
+FILE: scrapy\conftest.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: scrapy\docs\_ext\scrapydocs.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: scrapy\docs\_ext\scrapyfixautodoc.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\docs\conf.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\docs\conftest.py
+--------------------------------------------------------------------------------
+doctest.ELLIPSIS (total: 1)
+    2.4, 3.0: 1
+
+doctest.NORMALIZE_WHITESPACE (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\docs\utils\linkfix.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: scrapy\extras\qps-bench-server.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: scrapy\extras\qpsclient.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\scrapy\__init__.py
+--------------------------------------------------------------------------------
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+pkgutil.get_data (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\addons.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\cmdline.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+
+FILE: scrapy\scrapy\commands\__init__.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\commands\bench.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\commands\check.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.TextTestResult (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: scrapy\scrapy\commands\crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\edit.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\fetch.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\genspider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\commands\list.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\parse.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgen (total: 1)
+    !2, 3.6: 1
+
+inspect.iscoroutine (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\runspider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\settings.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\shell.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\startproject.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.ignore_patterns (total: 1)
+    2.6, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\version.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\commands\view.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\scrapy\contracts\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.CoroutineType (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\contracts\default.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\core\downloader\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\downloader\contextfactory.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\_httpx.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractAsyncContextManager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLObject (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\datauri.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\file.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\ftp.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\http.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\http10.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\http11.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\http2.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\handlers\s3.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\downloader\middleware.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\downloader\tls.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\downloader\webclient.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\engine.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\http2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\core\http2\agent.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\http2\protocol.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\http2\stream.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\core\scheduler.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\scraper.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\core\spidermw.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgenfunction (total: 1)
+    !2, 3.6: 1
+
+inspect.iscoroutine (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\crawler.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.all_tasks (total: 1)
+    !2, 3.7: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\downloadermiddlewares\ajaxcrawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\cookies.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\defaultheaders.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\downloadtimeout.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\httpauth.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\httpcache.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\httpcompression.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\httpproxy.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\offsite.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\redirect.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\retry.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\robotstxt.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\stats.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\downloadermiddlewares\useragent.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\dupefilters.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\exceptions.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\exporters.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\extension.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\extensions\closespider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\corestats.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\debug.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sys._current_frames (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\feedexport.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\extensions\httpcache.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 23)
+    2.6, 3.0: 23
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\extensions\logcount.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\logstats.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\memdebug.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\memusage.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\extensions\periodic_log.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\postprocessing.py
+--------------------------------------------------------------------------------
+bz2 (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+lzma (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\extensions\spiderstate.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\statsmailer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\extensions\telnet.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\extensions\throttle.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\http\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\http\cookies.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\http\headers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\http\request\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: scrapy\scrapy\http\request\form.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\http\request\json_request.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\http\request\rpc.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+xmlrpc.client (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\http\response\__init__.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\http\response\html.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\http\response\json.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\http\response\text.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\http\response\xml.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\interfaces.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\item.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\link.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: scrapy\scrapy\linkextractors\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\linkextractors\lxmlhtml.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\loader\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\logformatter.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\mail.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+email (total: 1)
+    2.2, 3.0: 1
+
+email.mime.multipart.MIMEMultipart (total: 1)
+    2.2, 3.0: 1
+
+email.mime.nonmultipart.MIMENonMultipart (total: 1)
+    2.2, 3.0: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\middleware.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\pipelines\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\pipelines\files.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\pipelines\images.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\pipelines\media.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\pqueues.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\resolver.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\responsetypes.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+pkgutil.get_data (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\robotstxt.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\selector\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\selector\unified.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\settings\__init__.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\settings\default_settings.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\shell.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\signalmanager.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\signals.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\scrapy\spiderloader.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\spidermiddlewares\base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\depth.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\httperror.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\referer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\start.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\spidermiddlewares\urllength.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\spiders\__init__.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\scrapy\spiders\crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\spiders\feed.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\spiders\init.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\scrapy\spiders\sitemap.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\squeues.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 9)
+    !2, 3.0: 9
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: scrapy\scrapy\statscollectors.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\templates\project\module\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\templates\project\module\spiders\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\utils\_compression.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\scrapy\utils\_deps_compat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\utils\_download_handlers.py
+--------------------------------------------------------------------------------
+ConnectionRefusedError (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\asyncgen.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\asyncio.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\benchserver.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\boto.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\scrapy\utils\conf.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\console.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\curl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\datatypes.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 13)
+    !2, 3.0: 13
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\decorators.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgenfunction (total: 1)
+    !2, 3.6: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\defer.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.isfuture (total: 1)
+    !2, 3.5: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isawaitable (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\deprecate.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\display.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\engine.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\ftp.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\gz.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.BytesIO.getbuffer (total: 1)
+    !2, 3.2: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\httpobj.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\iterators.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\job.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\log.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.LoggerAdapter (total: 1)
+    2.6, 3.0: 1
+
+logging.NullHandler (total: 1)
+    2.7, 3.1: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+logging.config.dictConfig (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\misc.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isgeneratorfunction (total: 1)
+    2.6, 3.0: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 7)
+    !2, 3.0: 7
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\ossignal.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: scrapy\scrapy\utils\project.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\python.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\reactor.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\reactorless.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.abc.MetaPathFinder (total: 1)
+    !2, 3.3: 1
+
+importlib.machinery.ModuleSpec (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\request.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\response.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\serialize.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\signal.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\sitemap.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\spider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgen (total: 1)
+    !2, 3.6: 1
+
+inspect.iscoroutine (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 9)
+    !2, 3.0: 9
+
+types.CoroutineType (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\ssl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_CLIENT (total: 1)
+    !2, 3.6: 1
+
+ssl.PROTOCOL_TLSv1_1 (total: 1)
+    2.7, 3.4: 1
+
+ssl.PROTOCOL_TLSv1_2 (total: 1)
+    2.7, 3.4: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.SSLContext.check_hostname (total: 1)
+    !2, 3.4: 1
+
+ssl.SSLContext.load_default_certs (total: 1)
+    2.7, 3.4: 1
+
+ssl.SSLObject (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\template.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+string.Template (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\scrapy\utils\test.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\testproc.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\testsite.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\trackref.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+time.monotonic_ns (total: 1)
+    !2, 3.7: 1
+
+types.NoneType (total: 1)
+    2.0, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\url.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\scrapy\utils\versions.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\args_settings.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_custom_loop.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_custom_loop_custom_settings_different.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_custom_loop_custom_settings_same.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_deferred_signal.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_enabled_no_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_enabled_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_enabled_reactor_different_loop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\asyncio_enabled_reactor_same_loop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\caching_hostname_resolver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\caching_hostname_resolver_ipv6.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\default_name_resolver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\multi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactor_default.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_custom_settings.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_datauri.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_import_hook.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_sleeping.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_telnetconsole_disabled.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\reactorless_telnetconsole_enabled.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\sleeping.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerProcess\twisted_reactor_asyncio.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\twisted_reactor_custom_settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\twisted_reactor_custom_settings_same.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerProcess\twisted_reactor_custom_settings_select.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\custom_loop_different.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerRunner\custom_loop_same.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerRunner\multi_parallel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerRunner\multi_seq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\AsyncCrawlerRunner\no_reactor.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\reactorless_custom_settings.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\reactorless_datauri.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\reactorless_reactor.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\reactorless_simple.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\AsyncCrawlerRunner\simple_default_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\args_settings.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_custom_loop.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_deferred_signal.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_enabled_no_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_enabled_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_enabled_reactor_different_loop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\CrawlerProcess\asyncio_enabled_reactor_same_loop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\CrawlerProcess\caching_hostname_resolver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\caching_hostname_resolver_ipv6.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\default_name_resolver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\multi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactor_default.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactor_default_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactor_select.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactor_select_subclass_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactor_select_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\reactorless.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\CrawlerProcess\sleeping.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_asyncio.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_custom_settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_custom_settings_conflict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_custom_settings_same.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_poll.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerProcess\twisted_reactor_select.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\change_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\custom_loop_different.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\custom_loop_same.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\explicit_default_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\ip_address.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\CrawlerRunner\multi_parallel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\multi_seq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\no_reactor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\reactorless.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\CrawlerRunner\simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+socket.getaddrinfo (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\keys\__init__.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\mocks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\mocks\dummydbm.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\mockserver\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\mockserver\dns.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: scrapy\tests\mockserver\ftp.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: scrapy\tests\mockserver\http.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 36)
+    2.6, 3.0: 36
+
+
+FILE: scrapy\tests\mockserver\http_base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\mockserver\http_resources.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 43)
+    2.6, 3.0: 43
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\mockserver\proxy_echo.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+
+FILE: scrapy\tests\mockserver\simple_https.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\mockserver\utils.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\pipelines.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\spiders.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 14)
+    !2, 3.0: 14
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_addons.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.permutations (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: scrapy\tests\test_closespider.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\test_cmdline\__init__.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pstats.Stats (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_cmdline\extensions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\test_cmdline\settings.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\pipelines.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\spiders\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\spiders\exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_cmdline_crawl_with_pipeline\test_spider\spiders\normal.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_command_check.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_command_crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_fetch.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_genspider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_parse.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_runspider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_shell.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_command_startproject.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_command_version.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: scrapy\tests\test_commands.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_contracts.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.TextTestResult (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: scrapy\tests\test_core_downloader.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_core_scraper.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_crawler.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 6)
+    !2, 3.5: 6
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_crawler_subprocess.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_dependencies.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\test_downloader_handler_httpx.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloader_handler_twisted_ftp.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloader_handler_twisted_http10.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloader_handler_twisted_http11.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloader_handler_twisted_http2.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloader_handlers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_downloader_handlers_http_base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+gzip.decompress (total: 1)
+    !2, 3.2: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 28)
+    2.6, 3.0: 28
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+gzip.BadGzipFile (total: 1)
+    !2, 3.8: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_ajaxcrawlable.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_downloadermiddleware_cookies.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 37)
+    2.6, 3.0: 37
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_defaultheaders.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_downloadtimeout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_downloadermiddleware_httpauth.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_downloadermiddleware_httpcache.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_httpcompression.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 35)
+    2.6, 3.0: 35
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_httpproxy.py
+--------------------------------------------------------------------------------
+synonym (total: 32)
+    2.6, 3.0: 32
+
+
+FILE: scrapy\tests\test_downloadermiddleware_offsite.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+object (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_redirect.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_redirect_base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 62)
+    2.6, 3.0: 62
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: scrapy\tests\test_downloadermiddleware_redirect_metarefresh.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_retry.py
+--------------------------------------------------------------------------------
+f-strings (total: 23)
+    !2, 3.6: 23
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_robotstxt.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: scrapy\tests\test_downloadermiddleware_stats.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_downloadermiddleware_useragent.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_downloaderslotssettings.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_dupefilters.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_engine.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_engine_loop.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_engine_stop_download_bytes.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_engine_stop_download_headers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_exporters.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_extension_periodic_log.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_extension_statsmailer.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_extension_telnet.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_extension_throttle.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_feedexport.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 24)
+    2.6, 3.0: 24
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_feedexport_batch.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+list.copy (total: 1)
+    !2, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_feedexport_postprocess.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bz2 (total: 1)
+    2.3, 3.0: 1
+
+gzip.decompress (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+lzma (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_feedexport_storages.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 20)
+    2.6, 3.0: 20
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_feedexport_uri_params.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_http2_client_protocol.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+random.choices (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_http_cookies.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_http_headers.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 35)
+    2.6, 3.0: 35
+
+
+FILE: scrapy\tests\test_http_request.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 26)
+    2.6, 3.0: 26
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+xmlrpc.client (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_http_request_form.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 102)
+    2.6, 3.0: 102
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_http_request_json.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_http_response.py
+--------------------------------------------------------------------------------
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: scrapy\tests\test_http_response_text.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 26)
+    2.6, 3.0: 26
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_item.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_link.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_linkextractors.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 18)
+    2.6, 3.0: 18
+
+
+FILE: scrapy\tests\test_loader.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_logformatter.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_logstats.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: scrapy\tests\test_mail.py
+--------------------------------------------------------------------------------
+email.charset (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_middleware.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_pipeline_crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: scrapy\tests\test_pipeline_files.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_pipeline_images.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_pipeline_media.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 9)
+    !2, 3.0: 9
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_pipelines.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_poet.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_pqueues.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_proxy_connect.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_request_attribute_binding.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_request_cb_kwargs.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_request_dict.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_request_left.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_responsetypes.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: scrapy\tests\test_robotstxt_interface.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: scrapy\tests\test_scheduler.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractAsyncContextManager (total: 1)
+    !2, 3.7: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_scheduler_base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_scrapy__getattr__.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_selector.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\tests\test_settings\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_settings\default_settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_signals.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_spider.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_spider_crawl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spider_sitemap.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spider_start.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spiderloader\__init__.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.Error (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spiderloader\spiders_from_addons\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\spiders_from_addons\spider0.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\nested\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\nested\spider4.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\spider0.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\spider1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\spider2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spiderloader\test_spiders\spider3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spidermiddleware.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgen (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_base.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_depth.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_httperror.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_output_chain.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_process_start.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_referer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 105)
+    2.6, 3.0: 105
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_spidermiddleware_start.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_spidermiddleware_urllength.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_spiderstate.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+
+FILE: scrapy\tests\test_squeues.py
+--------------------------------------------------------------------------------
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\test_squeues_request.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_stats.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_toplevel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_asyncgen.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_asyncio.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_utils_conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_console.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+
+FILE: scrapy\tests\test_utils_curl.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_datatypes.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_defer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_utils_deprecate.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_display.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_utils_gz.py
+--------------------------------------------------------------------------------
+gzip.BadGzipFile (total: 1)
+    !2, 3.8: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: scrapy\tests\test_utils_httpobj.py
+--------------------------------------------------------------------------------
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_iterators.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_utils_log.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_utils_misc\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_utils_misc\test_return_with_argument_inside_generator.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_misc\test_walk_modules\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_misc\test_walk_modules\mod1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_misc\test_walk_modules\mod\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_misc\test_walk_modules\mod\mod0.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_project.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_python.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: scrapy\tests\test_utils_reactor.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_request.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 23)
+    2.6, 3.0: 23
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_response.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+time.process_time (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_serialize.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_signal.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_sitemap.py
+--------------------------------------------------------------------------------
+synonym (total: 10)
+    2.6, 3.0: 10
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_spider.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: scrapy\tests\test_utils_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: scrapy\tests\test_utils_trackref.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: scrapy\tests\test_utils_url.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: scrapy\tests\test_webclient.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 38)
+    2.6, 3.0: 38
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: scrapy\tests\test_zz_resources.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.all_tasks (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: scrapy\tests\utils\__init__.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: scrapy\tests\utils\cmdline.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: scrapy\tests\utils\decorators.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+

@@ -1,0 +1,13 @@
+Statistics for: freqtrade_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 27
+W: 2462
+C: 308
+R: 1148
+
+Total messages: 3945
+Average rating: 8.45/10

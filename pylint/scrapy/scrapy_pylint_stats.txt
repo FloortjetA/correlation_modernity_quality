@@ -1,0 +1,4265 @@
+Statistics for: scrapy_pylint.txt
+================================================================================
+
+FILE: conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.48/10
+
+FILE: docs\_ext\scrapydocs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 1
+R: 8
+Total messages: 28
+Average rating: 1.78/10
+
+FILE: docs\_ext\scrapyfixautodoc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: docs\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: docs\utils\linkfix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: extras\qps-bench-server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.51/10
+
+FILE: extras\qpsclient.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\addons.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\cmdline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.35/10
+
+FILE: scrapy\commands\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.39/10
+
+FILE: scrapy\commands\bench.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.36/10
+
+FILE: scrapy\commands\check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.73/10
+
+FILE: scrapy\commands\crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\edit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\fetch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.47/10
+
+FILE: scrapy\commands\genspider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.43/10
+
+FILE: scrapy\commands\list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\parse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 3
+Total messages: 5
+Average rating: 9.57/10
+
+FILE: scrapy\commands\runspider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.46/10
+
+FILE: scrapy\commands\startproject.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\commands\view.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\contracts\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 4
+C: 1
+R: 0
+Total messages: 7
+Average rating: 8.44/10
+
+FILE: scrapy\contracts\default.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\core\downloader\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 9.21/10
+
+FILE: scrapy\core\downloader\contextfactory.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 0
+Total messages: 8
+Average rating: 7.38/10
+
+FILE: scrapy\core\downloader\handlers\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 9.08/10
+
+FILE: scrapy\core\downloader\handlers\_httpx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.43/10
+
+FILE: scrapy\core\downloader\handlers\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\core\downloader\handlers\datauri.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\core\downloader\handlers\file.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\core\downloader\handlers\ftp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 2
+Total messages: 5
+Average rating: 8.94/10
+
+FILE: scrapy\core\downloader\handlers\http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\core\downloader\handlers\http10.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: scrapy\core\downloader\handlers\http11.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 6
+R: 13
+Total messages: 34
+Average rating: 7.62/10
+
+FILE: scrapy\core\downloader\handlers\http2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 2
+Total messages: 5
+Average rating: 9.08/10
+
+FILE: scrapy\core\downloader\handlers\s3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 9.30/10
+
+FILE: scrapy\core\downloader\middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: scrapy\core\downloader\tls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.66/10
+
+FILE: scrapy\core\downloader\webclient.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 1
+Total messages: 8
+Average rating: 8.48/10
+
+FILE: scrapy\core\engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 14
+R: 2
+Total messages: 32
+Average rating: 7.99/10
+
+FILE: scrapy\core\http2\agent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.09/10
+
+FILE: scrapy\core\http2\protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 1
+Total messages: 4
+Average rating: 9.59/10
+
+FILE: scrapy\core\http2\stream.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 3
+Total messages: 6
+Average rating: 9.48/10
+
+FILE: scrapy\core\scheduler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 9
+R: 3
+Total messages: 17
+Average rating: 7.94/10
+
+FILE: scrapy\core\scraper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 4
+R: 1
+Total messages: 17
+Average rating: 8.28/10
+
+FILE: scrapy\core\spidermw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 13
+R: 2
+Total messages: 27
+Average rating: 7.80/10
+
+FILE: scrapy\crawler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 9
+R: 1
+Total messages: 13
+Average rating: 9.44/10
+
+FILE: scrapy\downloadermiddlewares\ajaxcrawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.59/10
+
+FILE: scrapy\downloadermiddlewares\cookies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 9.43/10
+
+FILE: scrapy\downloadermiddlewares\defaultheaders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.50/10
+
+FILE: scrapy\downloadermiddlewares\downloadtimeout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.92/10
+
+FILE: scrapy\downloadermiddlewares\httpauth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.77/10
+
+FILE: scrapy\downloadermiddlewares\httpcache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.95/10
+
+FILE: scrapy\downloadermiddlewares\httpcompression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 9.11/10
+
+FILE: scrapy\downloadermiddlewares\httpproxy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.26/10
+
+FILE: scrapy\downloadermiddlewares\offsite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.12/10
+
+FILE: scrapy\downloadermiddlewares\redirect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 9.18/10
+
+FILE: scrapy\downloadermiddlewares\retry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.89/10
+
+FILE: scrapy\downloadermiddlewares\robotstxt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.32/10
+
+FILE: scrapy\downloadermiddlewares\stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 2
+Total messages: 7
+Average rating: 5.96/10
+
+FILE: scrapy\downloadermiddlewares\useragent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.92/10
+
+FILE: scrapy\dupefilters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.88/10
+
+FILE: scrapy\exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\exporters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.75/10
+
+FILE: scrapy\extension.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\extensions\closespider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 0
+Total messages: 15
+Average rating: 4.51/10
+
+FILE: scrapy\extensions\corestats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 4.75/10
+
+FILE: scrapy\extensions\debug.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 6.67/10
+
+FILE: scrapy\extensions\feedexport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 9
+R: 10
+Total messages: 25
+Average rating: 8.54/10
+
+FILE: scrapy\extensions\httpcache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 1
+Total messages: 17
+Average rating: 7.99/10
+
+FILE: scrapy\extensions\logcount.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.40/10
+
+FILE: scrapy\extensions\logstats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 1
+Total messages: 11
+Average rating: 4.67/10
+
+FILE: scrapy\extensions\memdebug.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.78/10
+
+FILE: scrapy\extensions\memusage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 1
+Total messages: 5
+Average rating: 9.27/10
+
+FILE: scrapy\extensions\periodic_log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 3
+Total messages: 15
+Average rating: 5.48/10
+
+FILE: scrapy\extensions\postprocessing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.84/10
+
+FILE: scrapy\extensions\spiderstate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\extensions\statsmailer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\extensions\telnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.83/10
+
+FILE: scrapy\extensions\throttle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.54/10
+
+FILE: scrapy\http\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\cookies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 8.32/10
+
+FILE: scrapy\http\headers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\request\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 3
+Total messages: 7
+Average rating: 9.20/10
+
+FILE: scrapy\http\request\form.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.70/10
+
+FILE: scrapy\http\request\json_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\request\rpc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\response\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 7
+Total messages: 7
+Average rating: 8.70/10
+
+FILE: scrapy\http\response\html.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\response\json.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\http\response\text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 5
+Total messages: 13
+Average rating: 7.54/10
+
+FILE: scrapy\http\response\xml.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\interfaces.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\item.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\link.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: scrapy\linkextractors\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\linkextractors\lxmlhtml.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 6
+Total messages: 9
+Average rating: 8.53/10
+
+FILE: scrapy\loader\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\logformatter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 0
+Total messages: 12
+Average rating: 3.82/10
+
+FILE: scrapy\mail.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 10
+Total messages: 14
+Average rating: 7.40/10
+
+FILE: scrapy\middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 1
+Total messages: 3
+Average rating: 9.52/10
+
+FILE: scrapy\pipelines\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 0
+Total messages: 4
+Average rating: 9.23/10
+
+FILE: scrapy\pipelines\files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 7
+R: 10
+Total messages: 31
+Average rating: 7.98/10
+
+FILE: scrapy\pipelines\images.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 1
+R: 3
+Total messages: 9
+Average rating: 8.02/10
+
+FILE: scrapy\pipelines\media.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 9.01/10
+
+FILE: scrapy\pqueues.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 9.60/10
+
+FILE: scrapy\resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.10/10
+
+FILE: scrapy\responsetypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\robotstxt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.69/10
+
+FILE: scrapy\selector\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\selector\unified.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: scrapy\settings\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 3
+R: 1
+Total messages: 13
+Average rating: 8.81/10
+
+FILE: scrapy\settings\default_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 9.84/10
+
+FILE: scrapy\shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 3
+Total messages: 8
+Average rating: 8.97/10
+
+FILE: scrapy\signalmanager.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.19/10
+
+FILE: scrapy\signals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\spiderloader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.18/10
+
+FILE: scrapy\spidermiddlewares\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.05/10
+
+FILE: scrapy\spidermiddlewares\depth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\spidermiddlewares\httperror.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.75/10
+
+FILE: scrapy\spidermiddlewares\referer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.88/10
+
+FILE: scrapy\spidermiddlewares\start.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\spidermiddlewares\urllength.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\spiders\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 9.07/10
+
+FILE: scrapy\spiders\crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 2
+Total messages: 8
+Average rating: 8.00/10
+
+FILE: scrapy\spiders\feed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.18/10
+
+FILE: scrapy\spiders\init.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.69/10
+
+FILE: scrapy\spiders\sitemap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.07/10
+
+FILE: scrapy\squeues.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.28/10
+
+FILE: scrapy\statscollectors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 0
+Total messages: 11
+Average rating: 5.42/10
+
+FILE: scrapy\utils\_compression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\_deps_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\_download_handlers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.04/10
+
+FILE: scrapy\utils\asyncgen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\asyncio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 9.59/10
+
+FILE: scrapy\utils\benchserver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.94/10
+
+FILE: scrapy\utils\boto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: scrapy\utils\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\console.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 10
+R: 0
+Total messages: 14
+Average rating: 6.62/10
+
+FILE: scrapy\utils\curl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\datatypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.81/10
+
+FILE: scrapy\utils\decorators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\defer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 11
+R: 0
+Total messages: 21
+Average rating: 8.00/10
+
+FILE: scrapy\utils\deprecate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 2
+R: 2
+Total messages: 6
+Average rating: 8.25/10
+
+FILE: scrapy\utils\display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 0
+Total messages: 4
+Average rating: 7.93/10
+
+FILE: scrapy\utils\engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.09/10
+
+FILE: scrapy\utils\ftp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 7.92/10
+
+FILE: scrapy\utils\gz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\httpobj.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\iterators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.48/10
+
+FILE: scrapy\utils\job.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 8.38/10
+
+FILE: scrapy\utils\misc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 0
+Total messages: 5
+Average rating: 9.39/10
+
+FILE: scrapy\utils\ossignal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\project.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\python.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 9
+R: 1
+Total messages: 13
+Average rating: 8.31/10
+
+FILE: scrapy\utils\reactorless.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 5.79/10
+
+FILE: scrapy\utils\request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.65/10
+
+FILE: scrapy\utils\response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.81/10
+
+FILE: scrapy\utils\serialize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.33/10
+
+FILE: scrapy\utils\signal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 7.62/10
+
+FILE: scrapy\utils\sitemap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\spider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.80/10
+
+FILE: scrapy\utils\ssl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.85/10
+
+FILE: scrapy\utils\template.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: scrapy\utils\test.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 8
+R: 2
+Total messages: 12
+Average rating: 8.24/10
+
+FILE: scrapy\utils\testproc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.80/10
+
+FILE: scrapy\utils\testsite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 1
+R: 0
+Total messages: 4
+Average rating: 5.88/10
+
+FILE: scrapy\utils\trackref.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.33/10
+
+FILE: scrapy\utils\url.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: scrapy\utils\versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\args_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_custom_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_custom_loop_custom_settings_different.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_custom_loop_custom_settings_same.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_deferred_signal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_enabled_no_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_enabled_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_enabled_reactor_different_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\asyncio_enabled_reactor_same_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\caching_hostname_resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\caching_hostname_resolver_ipv6.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\default_name_resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\multi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactor_default.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_custom_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.50/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_datauri.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_import_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_sleeping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_telnetconsole_disabled.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\reactorless_telnetconsole_enabled.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\sleeping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: tests\AsyncCrawlerProcess\twisted_reactor_asyncio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\twisted_reactor_custom_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\twisted_reactor_custom_settings_same.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerProcess\twisted_reactor_custom_settings_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.84/10
+
+FILE: tests\AsyncCrawlerRunner\custom_loop_different.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\AsyncCrawlerRunner\custom_loop_same.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\AsyncCrawlerRunner\multi_parallel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: tests\AsyncCrawlerRunner\multi_seq.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\AsyncCrawlerRunner\no_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerRunner\reactorless_custom_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerRunner\reactorless_datauri.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerRunner\reactorless_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerRunner\reactorless_simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\AsyncCrawlerRunner\simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: tests\AsyncCrawlerRunner\simple_default_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: tests\CrawlerProcess\args_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_custom_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_deferred_signal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_enabled_no_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_enabled_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_enabled_reactor_different_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\asyncio_enabled_reactor_same_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\caching_hostname_resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\caching_hostname_resolver_ipv6.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\default_name_resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\multi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactor_default.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactor_default_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactor_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactor_select_subclass_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactor_select_twisted_reactor_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\reactorless.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\sleeping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 7.50/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_asyncio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_custom_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_custom_settings_conflict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_custom_settings_same.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_poll.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerProcess\twisted_reactor_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerRunner\change_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerRunner\custom_loop_different.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: tests\CrawlerRunner\custom_loop_same.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: tests\CrawlerRunner\explicit_default_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: tests\CrawlerRunner\ip_address.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.32/10
+
+FILE: tests\CrawlerRunner\multi_parallel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\CrawlerRunner\multi_seq.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\CrawlerRunner\no_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerRunner\reactorless.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\CrawlerRunner\simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: tests\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\keys\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\mocks\dummydbm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: tests\mockserver\dns.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 6.00/10
+
+FILE: tests\mockserver\ftp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\mockserver\http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.30/10
+
+FILE: tests\mockserver\http_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.89/10
+
+FILE: tests\mockserver\http_resources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 5
+R: 0
+Total messages: 7
+Average rating: 9.51/10
+
+FILE: tests\mockserver\proxy_echo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\mockserver\simple_https.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.69/10
+
+FILE: tests\mockserver\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.57/10
+
+FILE: tests\pipelines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: tests\spiders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 31
+C: 3
+R: 0
+Total messages: 38
+Average rating: 6.77/10
+
+FILE: tests\test_addons.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: tests\test_closespider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: tests\test_cmdline\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.04/10
+
+FILE: tests\test_cmdline\extensions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_cmdline\settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_cmdline_crawl_with_pipeline\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: tests\test_cmdline_crawl_with_pipeline\test_spider\pipelines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_cmdline_crawl_with_pipeline\test_spider\settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_cmdline_crawl_with_pipeline\test_spider\spiders\exception.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_cmdline_crawl_with_pipeline\test_spider\spiders\normal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_command_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_command_crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_command_fetch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_command_genspider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_command_parse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.82/10
+
+FILE: tests\test_command_runspider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 9.77/10
+
+FILE: tests\test_command_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.73/10
+
+FILE: tests\test_command_startproject.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.59/10
+
+FILE: tests\test_command_version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_commands.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.49/10
+
+FILE: tests\test_contracts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 1
+Total messages: 13
+Average rating: 8.63/10
+
+FILE: tests\test_core_downloader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 8.57/10
+
+FILE: tests\test_core_scraper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 4
+R: 2
+Total messages: 14
+Average rating: 9.38/10
+
+FILE: tests\test_crawler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 1
+Total messages: 11
+Average rating: 9.36/10
+
+FILE: tests\test_crawler_subprocess.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 9.84/10
+
+FILE: tests\test_dependencies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_downloader_handler_httpx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.89/10
+
+FILE: tests\test_downloader_handler_twisted_ftp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 0
+Total messages: 5
+Average rating: 9.46/10
+
+FILE: tests\test_downloader_handler_twisted_http10.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.90/10
+
+FILE: tests\test_downloader_handler_twisted_http11.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_downloader_handler_twisted_http2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 4
+R: 0
+Total messages: 24
+Average rating: 4.48/10
+
+FILE: tests\test_downloader_handlers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 1
+R: 0
+Total messages: 27
+Average rating: 6.31/10
+
+FILE: tests\test_downloader_handlers_http_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 4
+R: 2
+Total messages: 11
+Average rating: 9.55/10
+
+FILE: tests\test_downloadermiddleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 35
+C: 1
+R: 0
+Total messages: 36
+Average rating: 4.51/10
+
+FILE: tests\test_downloadermiddleware_ajaxcrawlable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.86/10
+
+FILE: tests\test_downloadermiddleware_cookies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 4
+Total messages: 7
+Average rating: 9.52/10
+
+FILE: tests\test_downloadermiddleware_defaultheaders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_downloadermiddleware_downloadtimeout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: tests\test_downloadermiddleware_httpauth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.52/10
+
+FILE: tests\test_downloadermiddleware_httpcache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 1
+Total messages: 8
+Average rating: 9.31/10
+
+FILE: tests\test_downloadermiddleware_httpcompression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 6
+R: 1
+Total messages: 18
+Average rating: 9.11/10
+
+FILE: tests\test_downloadermiddleware_httpproxy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 1
+Total messages: 12
+Average rating: 8.68/10
+
+FILE: tests\test_downloadermiddleware_offsite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 7.67/10
+
+FILE: tests\test_downloadermiddleware_redirect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 2
+Total messages: 10
+Average rating: 8.91/10
+
+FILE: tests\test_downloadermiddleware_redirect_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 97
+W: 0
+C: 1
+R: 2
+Total messages: 100
+Average rating: 2.63/10
+
+FILE: tests\test_downloadermiddleware_redirect_metarefresh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 9.10/10
+
+FILE: tests\test_downloadermiddleware_retry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 0
+R: 0
+Total messages: 7
+Average rating: 9.29/10
+
+FILE: tests\test_downloadermiddleware_robotstxt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.90/10
+
+FILE: tests\test_downloadermiddleware_stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.56/10
+
+FILE: tests\test_downloadermiddleware_useragent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.85/10
+
+FILE: tests\test_downloaderslotssettings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 7.79/10
+
+FILE: tests\test_dupefilters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.87/10
+
+FILE: tests\test_engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 39
+C: 0
+R: 2
+Total messages: 41
+Average rating: 7.49/10
+
+FILE: tests\test_engine_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 1
+R: 2
+Total messages: 25
+Average rating: 5.85/10
+
+FILE: tests\test_engine_stop_download_bytes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_engine_stop_download_headers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_exporters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 9.28/10
+
+FILE: tests\test_extension_periodic_log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.31/10
+
+FILE: tests\test_extension_statsmailer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.68/10
+
+FILE: tests\test_extension_telnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: tests\test_extension_throttle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 0
+Total messages: 16
+Average rating: 7.16/10
+
+FILE: tests\test_feedexport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 5
+R: 3
+Total messages: 28
+Average rating: 8.69/10
+
+FILE: tests\test_feedexport_batch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 9.75/10
+
+FILE: tests\test_feedexport_postprocess.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_feedexport_storages.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 0
+Total messages: 7
+Average rating: 9.62/10
+
+FILE: tests\test_feedexport_uri_params.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.88/10
+
+FILE: tests\test_http2_client_protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 8
+R: 6
+Total messages: 16
+Average rating: 9.28/10
+
+FILE: tests\test_http_cookies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.45/10
+
+FILE: tests\test_http_headers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: tests\test_http_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 1
+Total messages: 15
+Average rating: 8.45/10
+
+FILE: tests\test_http_request_form.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 1
+Total messages: 4
+Average rating: 9.85/10
+
+FILE: tests\test_http_request_json.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_http_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 1
+Total messages: 14
+Average rating: 8.27/10
+
+FILE: tests\test_http_response_text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 6
+R: 1
+Total messages: 24
+Average rating: 8.28/10
+
+FILE: tests\test_item.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 22
+C: 0
+R: 0
+Total messages: 28
+Average rating: 5.47/10
+
+FILE: tests\test_link.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: tests\test_linkextractors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 50
+W: 5
+C: 2
+R: 1
+Total messages: 58
+Average rating: 0.00/10
+
+FILE: tests\test_loader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 10
+C: 1
+R: 0
+Total messages: 21
+Average rating: 7.79/10
+
+FILE: tests\test_logformatter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 0
+Total messages: 13
+Average rating: 8.12/10
+
+FILE: tests\test_logstats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 6.73/10
+
+FILE: tests\test_mail.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.35/10
+
+FILE: tests\test_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 7.92/10
+
+FILE: tests\test_pipeline_crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 1
+R: 0
+Total messages: 11
+Average rating: 7.27/10
+
+FILE: tests\test_pipeline_files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 7
+R: 4
+Total messages: 21
+Average rating: 8.94/10
+
+FILE: tests\test_pipeline_images.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 2
+Total messages: 6
+Average rating: 9.48/10
+
+FILE: tests\test_pipeline_media.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 30
+C: 0
+R: 0
+Total messages: 34
+Average rating: 6.54/10
+
+FILE: tests\test_pipelines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 14
+C: 16
+R: 0
+Total messages: 31
+Average rating: 7.32/10
+
+FILE: tests\test_poet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: tests\test_pqueues.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 9.31/10
+
+FILE: tests\test_proxy_connect.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 8.26/10
+
+FILE: tests\test_request_attribute_binding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 7.81/10
+
+FILE: tests\test_request_cb_kwargs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 2
+Total messages: 8
+Average rating: 8.10/10
+
+FILE: tests\test_request_dict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 11
+C: 0
+R: 0
+Total messages: 14
+Average rating: 6.22/10
+
+FILE: tests\test_request_left.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.16/10
+
+FILE: tests\test_responsetypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_robotstxt_interface.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.57/10
+
+FILE: tests\test_scheduler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.75/10
+
+FILE: tests\test_scheduler_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 5
+C: 1
+R: 0
+Total messages: 9
+Average rating: 7.42/10
+
+FILE: tests\test_scrapy__getattr__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 7.14/10
+
+FILE: tests\test_selector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_settings\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 5
+R: 3
+Total messages: 12
+Average rating: 9.45/10
+
+FILE: tests\test_settings\default_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_signals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.69/10
+
+FILE: tests\test_spider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.57/10
+
+FILE: tests\test_spider_crawl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 15
+C: 0
+R: 0
+Total messages: 17
+Average rating: 6.88/10
+
+FILE: tests\test_spider_sitemap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 23
+C: 0
+R: 1
+Total messages: 32
+Average rating: 4.69/10
+
+FILE: tests\test_spider_start.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.81/10
+
+FILE: tests\test_spiderloader\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 0
+R: 0
+Total messages: 20
+Average rating: 6.18/10
+
+FILE: tests\test_spiderloader\spiders_from_addons\spider0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spiderloader\test_spiders\nested\spider4.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spiderloader\test_spiders\spider0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spiderloader\test_spiders\spider1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spiderloader\test_spiders\spider2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spiderloader\test_spiders\spider3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spidermiddleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 74
+C: 0
+R: 0
+Total messages: 74
+Average rating: 3.47/10
+
+FILE: tests\test_spidermiddleware_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.52/10
+
+FILE: tests\test_spidermiddleware_depth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.47/10
+
+FILE: tests\test_spidermiddleware_httperror.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 1
+R: 0
+Total messages: 21
+Average rating: 6.09/10
+
+FILE: tests\test_spidermiddleware_output_chain.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 22
+C: 3
+R: 0
+Total messages: 32
+Average rating: 5.59/10
+
+FILE: tests\test_spidermiddleware_process_start.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 9.10/10
+
+FILE: tests\test_spidermiddleware_referer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 0
+Total messages: 9
+Average rating: 9.02/10
+
+FILE: tests\test_spidermiddleware_start.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_spidermiddleware_urllength.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 4.55/10
+
+FILE: tests\test_spiderstate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: tests\test_squeues.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.92/10
+
+FILE: tests\test_squeues_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.20/10
+
+FILE: tests\test_stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 6
+R: 0
+Total messages: 31
+Average rating: 2.77/10
+
+FILE: tests\test_toplevel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 0
+Total messages: 4
+Average rating: 7.89/10
+
+FILE: tests\test_utils_asyncgen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_asyncio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.88/10
+
+FILE: tests\test_utils_conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_console.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_curl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: tests\test_utils_datatypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.68/10
+
+FILE: tests\test_utils_defer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 0
+Total messages: 8
+Average rating: 9.51/10
+
+FILE: tests\test_utils_deprecate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 29
+W: 14
+C: 0
+R: 0
+Total messages: 43
+Average rating: 0.00/10
+
+FILE: tests\test_utils_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_gz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_httpobj.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_iterators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.89/10
+
+FILE: tests\test_utils_log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 1
+R: 0
+Total messages: 5
+Average rating: 9.18/10
+
+FILE: tests\test_utils_misc\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.70/10
+
+FILE: tests\test_utils_misc\test_return_with_argument_inside_generator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.71/10
+
+FILE: tests\test_utils_project.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.32/10
+
+FILE: tests\test_utils_python.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 3
+R: 0
+Total messages: 13
+Average rating: 7.42/10
+
+FILE: tests\test_utils_reactor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.89/10
+
+FILE: tests\test_utils_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.64/10
+
+FILE: tests\test_utils_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_serialize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.64/10
+
+FILE: tests\test_utils_signal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.12/10
+
+FILE: tests\test_utils_sitemap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.75/10
+
+FILE: tests\test_utils_spider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: tests\test_utils_template.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_utils_trackref.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.12/10
+
+FILE: tests\test_utils_url.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 0
+Total messages: 8
+Average rating: 8.65/10
+
+FILE: tests\test_webclient.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 9.54/10
+
+FILE: tests\test_zz_resources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\utils\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.52/10
+
+FILE: tests\utils\cmdline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\utils\decorators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+================================================================================
+Overall average rating: 8.79/10

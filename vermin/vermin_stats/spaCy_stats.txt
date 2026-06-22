@@ -1,0 +1,6418 @@
+Feature statistics for repository: spaCy
+================================================================================
+
+FILE: spaCy\extra\example_data\textcat_example_data\textcatjsonl_to_trainjson.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: spaCy\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: spaCy\spacy\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\about.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\_util.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\apply.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\assemble.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\benchmark_speed.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\convert.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\debug_config.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\debug_data.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 82)
+    !2, 3.6: 82
+
+math.fsum (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\debug_diff.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\debug_model.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\download.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: spaCy\spacy\cli\evaluate.py
+--------------------------------------------------------------------------------
+f-strings (total: 13)
+    !2, 3.6: 13
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\find_function.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\find_threshold.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 5)
+    !2, 3.0: 5
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\info.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\init_config.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\init_pipeline.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 7)
+    !2, 3.0: 7
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\package.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\pretrain.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\profile.py
+--------------------------------------------------------------------------------
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pstats.Stats (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\project\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\assets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\clone.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\document.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\dvc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\pull.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\push.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\remote_storage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\project\run.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\cli\train.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\cli\validate.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\compat.py
+--------------------------------------------------------------------------------
+copyreg (total: 1)
+    !2, 3.0: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.runtime_checkable (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: spaCy\spacy\displacy\__init__.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+wsgiref (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\displacy\render.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\displacy\templates.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\errors.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\glossary.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\kb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\af\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\af\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\am\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\am\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\am\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\am\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\am\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\am\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ar\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ar\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ar\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ar\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ar\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ar\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\az\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\az\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\az\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\az\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\bg\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\bg\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bg\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bg\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\bg\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bn\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\bn\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bn\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\bn\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\bn\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bo\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bo\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\bo\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ca\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ca\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ca\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ca\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ca\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ca\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ca\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ca\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: spaCy\spacy\lang\char_classes.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\cs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\cs\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\cs\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\cs\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\da\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\da\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\da\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\da\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\da\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\da\syntax_iterators.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\da\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: spaCy\spacy\lang\de\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\de\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\de\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\de\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\de\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\de\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\dsb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\dsb\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\dsb\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\dsb\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\el\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\el\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\el\get_pos_from_wiktionary.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\el\lemmatizer.py
+--------------------------------------------------------------------------------
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\el\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\el\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\el\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\el\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\el\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: spaCy\spacy\lang\en\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\en\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\en\lemmatizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\en\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\en\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\en\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\en\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\en\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\es\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\es\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\es\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\es\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\es\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\es\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\es\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\es\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: spaCy\spacy\lang\et\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\et\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\eu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\eu\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\eu\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\eu\punctuation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\eu\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fa\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fa\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fa\generate_verbs_exc.py
+--------------------------------------------------------------------------------
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fa\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fa\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fa\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fa\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fa\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fi\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fi\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fi\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fi\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fi\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fi\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fo\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fr\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fr\_tokenizer_exceptions_list.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fr\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\fr\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fr\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fr\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\fr\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\fr\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ga\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ga\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ga\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ga\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\gd\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\gd\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\gd\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\grc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\grc\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\grc\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\grc\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\grc\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\grc\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\gu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\gu\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\gu\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\he\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\he\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\he\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\he\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hi\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hi\lex_attrs.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hi\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hr\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hsb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hsb\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hsb\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hsb\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hsb\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ht\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ht\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ht\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ht\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ht\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ht\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ht\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ht\tag_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ht\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hu\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hu\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hu\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hu\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\hy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hy\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hy\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\hy\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\id\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\id\_tokenizer_exceptions_list.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\id\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\id\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\id\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\id\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\id\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\id\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\is\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\is\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\it\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\it\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\it\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\it\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\it\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\it\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\it\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ja\__init__.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ja\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ja\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ja\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ja\tag_bigram_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ja\tag_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ja\tag_orth_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kmr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kmr\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kmr\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kmr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\kn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kn\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\kn\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ko\__init__.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+str.partition (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ko\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ko\lex_attrs.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ko\punctuation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ko\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ko\tag_map.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ky\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ky\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ky\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ky\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ky\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ky\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\la\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\la\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\la\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\la\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\la\syntax_iterators.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\la\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lb\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lb\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lb\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lb\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lb\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lex_attrs.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\lg\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lg\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lg\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lg\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lg\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lij\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lij\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lij\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lij\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lij\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lt\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lt\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lt\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\lt\stop_words.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lt\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lv\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\lv\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\mk\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\mk\lemmatizer.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\mk\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\mk\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\mk\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ml\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ml\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ml\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\mr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\mr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ms\_tokenizer_exceptions_list.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ms\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ms\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ms\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ms\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ms\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ms\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nb\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\nb\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nb\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nb\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nb\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\nb\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ne\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ne\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ne\lex_attrs.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ne\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nl\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\nl\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nl\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\nl\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nl\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nl\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nl\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\nl\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nn\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\nn\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\nn\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: spaCy\spacy\lang\norm_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pl\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\pl\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pl\lemmatizer.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\pl\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pl\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\pl\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\pt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pt\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pt\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pt\punctuation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\pt\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\pt\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\pt\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ro\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ro\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ro\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ro\punctuation.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ro\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ro\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ru\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ru\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ru\lemmatizer.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\ru\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ru\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ru\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sa\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sa\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sa\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sa\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\si\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\si\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\si\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\si\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sk\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sk\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sk\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sl\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sl\lex_attrs.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sl\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sl\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sl\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\sq\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sq\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sq\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sr\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sr\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sr\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sr\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sv\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\sv\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sv\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\sv\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sv\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\sv\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\sv\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ta\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ta\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ta\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ta\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\te\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\te\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\te\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\te\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\th\__init__.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\th\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\th\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\th\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ti\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ti\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ti\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ti\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ti\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\ti\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tl\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tl\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tl\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tn\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tn\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tn\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tn\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tr\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tr\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tr\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tr\syntax_iterators.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\tr\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tt\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tt\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\tt\punctuation.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tt\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\tt\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\uk\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\uk\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\uk\lemmatizer.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\uk\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\uk\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\uk\tokenizer_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ur\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ur\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ur\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ur\punctuation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\ur\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\vi\__init__.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lang\vi\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\vi\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\vi\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\xx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\xx\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\yo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\yo\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\yo\lex_attrs.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\yo\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\zh\__init__.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 7)
+    !2, 3.3: 7
+
+cause (total: 7)
+    !2, 3.0: 7
+
+enum (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\lang\zh\examples.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\zh\lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\lang\zh\stop_words.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\language.py
+--------------------------------------------------------------------------------
+BrokenPipeError (total: 1)
+    !2, 3.3: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.tee (total: 1)
+    2.4, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\lexeme.pyi
+--------------------------------------------------------------------------------
+slices (total: 12)
+    !2, 3.0: 12
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\lookups.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\matcher\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\matcher\dependencymatcher.pyi
+--------------------------------------------------------------------------------
+slices (total: 12)
+    !2, 3.0: 12
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\matcher\matcher.pyi
+--------------------------------------------------------------------------------
+slices (total: 18)
+    !2, 3.0: 18
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\matcher\phrasematcher.pyi
+--------------------------------------------------------------------------------
+slices (total: 11)
+    !2, 3.0: 11
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\ml\_character_embed.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\_precomputable_affine.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\ml\callbacks.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\ml\extract_ngrams.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\ml\extract_spans.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\featureextractor.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\ml\models\entity_linker.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\multi_task.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\parser.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\span_finder.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\spancat.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\tagger.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\textcat.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+int.bit_length (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\models\tok2vec.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ml\staticvectors.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\ml\tb_framework.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\pipe_analysis.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: spaCy\spacy\pipeline\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\pipeline\_edit_tree_internals\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\pipeline\_edit_tree_internals\schemas.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\_parser_internals\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\pipeline\attributeruler.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\edit_tree_lemmatizer.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\entity_linker.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\entityruler.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\pipeline\factories.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\functions.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\pipeline\legacy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\pipeline\legacy\entity_linker.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\pipeline\lemmatizer.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\pipeline\pipe.pyi
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 14)
+    !2, 3.0: 14
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\span_finder.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\span_ruler.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\pipeline\spancat.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\textcat.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\textcat_multilabel.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\pipeline\tok2vec.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\registrations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\schemas.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+slices (total: 52)
+    !2, 3.0: 52
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\scorer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 36)
+    !2, 3.6: 36
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\strings.pyi
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 17)
+    !2, 3.0: 17
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\conftest.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: spaCy\spacy\tests\doc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_add_entities.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_array.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_creation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_doc_api.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_graph.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_json_doc_conversion.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: spaCy\spacy\tests\doc\test_morphanalysis.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_pickle_doc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_retokenize_merge.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_retokenize_split.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_span.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_span_group.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\doc\test_token_api.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\doc\test_underscore.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\enable_gpu.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\af\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\af\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\af\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\am\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\am\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\am\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ar\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ar\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ar\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bg\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bg\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bn\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\bo\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ca\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ca\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ca\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ca\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\cs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\cs\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\da\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\da\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\da\test_noun_chunks.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\da\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\da\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\test_parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\de\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\dsb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\dsb\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\dsb\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\el\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\el\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\el\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\el\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_customized_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_indices.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_punct.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_sbd.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\lang\en\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\en\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\es\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\es\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\es\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\es\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\et\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\et\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\et\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\eu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\eu\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fa\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fa\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fi\test_noun_chunks.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\fi\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fi\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fo\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fr\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fr\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\fr\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\fr\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ga\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ga\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\grc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\grc\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\grc\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\gu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\gu\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\he\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\he\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hi\test_lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hi\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hr\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hr\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hsb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hsb\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hsb\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ht\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ht\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ht\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ht\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ht\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hu\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hu\test_tokenizer.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\hy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hy\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\hy\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\id\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\id\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\id\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\id\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\is\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\is\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\is\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\it\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\it\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\it\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\it\test_stopwords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\it\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ja\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ja\test_lemmatization.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ja\test_morphologizer_factory.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ja\test_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ja\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\kmr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\kmr\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ko\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ko\test_lemmatization.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ko\test_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ko\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ky\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ky\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\la\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\la\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\la\test_noun_chunks.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\la\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lb\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lb\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lb\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lg\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lg\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lt\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lv\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lv\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\lv\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\mk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\mk\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ml\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ms\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ms\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ms\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nb\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nb\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ne\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ne\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nl\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nl\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\nn\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pl\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pl\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pt\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\pt\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ro\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ro\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ru\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ru\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ru\test_lemmatizer.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\ru\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ru\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sa\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sa\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sk\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sk\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sl\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sl\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sq\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sq\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sq\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sr\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sr\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\test_lex_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\test_noun_chunks.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\sv\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\sv\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ta\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ta\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ta\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\test_attrs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\test_initialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\test_lemmatizers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\th\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\th\test_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\th\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ti\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ti\test_exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ti\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tl\test_indices.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tl\test_punct.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tl\test_text.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\lang\tr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tr\test_noun_chunks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tr\test_parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tr\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tr\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\tt\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\uk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\uk\test_lemmatizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\uk\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\uk\test_tokenizer_exc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ur\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ur\test_prefix_suffix_infix.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\ur\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\vi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\vi\test_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\vi\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\xx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\xx\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\xx\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\yo\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\yo\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\zh\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\zh\test_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\zh\test_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\lang\zh\test_tokenizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\matcher\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\matcher\test_dependency_matcher.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\matcher\test_levenshtein.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\matcher\test_matcher_api.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\matcher\test_matcher_logic.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\matcher\test_pattern_validation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\matcher\test_phrase_matcher.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\morphology\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\morphology\test_morph_converters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\morphology\test_morph_features.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\morphology\test_morph_pickle.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\package\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\package\test_requirements.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\parser\test_add_label.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_arc_eager_oracle.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_ner.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_neural_parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\parser\test_nn_beam.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_nonproj.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\parser\test_parse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\parser\test_parse_navigate.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_preset_sbd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\parser\test_space_attachment.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\parser\test_state.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_analysis.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_annotates_on_update.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_attributeruler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_edit_tree_lemmatizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_entity_linker.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_entity_ruler.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_functions.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_initialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_lemmatizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_models.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_morphologizer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_pipe_factories.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_pipe_methods.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 38)
+    !2, 3.6: 38
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_sentencizer.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_senter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_span_finder.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_span_ruler.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_spancat.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_tagger.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\pipeline\test_textcat.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\pipeline\test_tok2vec.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\serialize\test_resource_warning.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_config.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_doc.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_docbin.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_extension_attrs.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_kb.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_language.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_pipeline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_span_groups.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_tokenizer.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\serialize\test_serialize_vocab_strings.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_architectures.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\test_cli.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\test_cli_app.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\test_displacy.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_errors.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_factory_imports.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: spaCy\spacy\tests\test_factory_registrations.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_language.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.tee (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_misc.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_models.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\test_pickles.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\test_registry_population.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_scorer.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\test_ty.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\tok2vec.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\tokenizer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\tokenizer\test_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: spaCy\spacy\tests\tokenizer\test_explain.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\tokenizer\test_naughty_strings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\tokenizer\test_tokenizer.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\tokenizer\test_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\tokenizer\test_whitespace.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\training\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\training\test_augmenters.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\training\test_corpus.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\training\test_logger.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\training\test_new_example.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\training\test_pretraining.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: spaCy\spacy\tests\training\test_readers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\training\test_rehearse.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tests\training\test_training.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\util.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\vocab_vectors\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_lexeme.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_lookups.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_memory_zone.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_similarity.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_stringstore.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_vectors.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\tests\vocab_vectors\test_vocab_api.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tokens\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\tokens\_dict_proxies.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\tokens\_retokenize.pyi
+--------------------------------------------------------------------------------
+slices (total: 8)
+    !2, 3.0: 8
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tokens\_serialize.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tokens\doc.pyi
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 62)
+    !2, 3.0: 62
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: spaCy\spacy\tokens\morphanalysis.pyi
+--------------------------------------------------------------------------------
+slices (total: 14)
+    !2, 3.0: 14
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tokens\span.pyi
+--------------------------------------------------------------------------------
+slices (total: 47)
+    !2, 3.0: 47
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: spaCy\spacy\tokens\span_group.pyi
+--------------------------------------------------------------------------------
+slices (total: 13)
+    !2, 3.0: 13
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\tokens\token.pyi
+--------------------------------------------------------------------------------
+slices (total: 85)
+    !2, 3.0: 85
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: spaCy\spacy\tokens\underscore.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\training\alignment.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\augment.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\batchers.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\callbacks.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\converters\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\training\converters\conll_ner_to_docs.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: spaCy\spacy\training\converters\conllu_to_docs.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: spaCy\spacy\training\converters\iob_to_docs.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: spaCy\spacy\training\converters\json_to_docs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: spaCy\spacy\training\corpus.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\training\example.pyi
+--------------------------------------------------------------------------------
+slices (total: 27)
+    !2, 3.0: 27
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\initialize.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+zipfile.ZipFile.open (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: spaCy\spacy\training\iob_utils.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\training\loggers.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\loop.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\training\pretrain.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\ty.py
+--------------------------------------------------------------------------------
+slices (total: 6)
+    !2, 3.0: 6
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\spacy\util.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 7)
+    !2, 3.3: 7
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 8)
+    !2, 3.0: 8
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.groupby (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.SubprocessError (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: spaCy\spacy\vocab.pyi
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 30)
+    !2, 3.0: 30
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: spaCy\website\setup\jinja_to_js.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+

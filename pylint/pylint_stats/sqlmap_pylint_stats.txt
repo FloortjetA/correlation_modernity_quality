@@ -1,0 +1,13 @@
+Statistics for: sqlmap_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 464
+W: 2152
+C: 2967
+R: 1379
+
+Total messages: 6962
+Average rating: 7.31/10

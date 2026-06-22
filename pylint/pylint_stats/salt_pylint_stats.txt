@@ -1,0 +1,13 @@
+Statistics for: salt_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 13363
+W: 16039
+C: 3610
+R: 8226
+
+Total messages: 41238
+Average rating: 5.76/10

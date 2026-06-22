@@ -1,0 +1,4325 @@
+Statistics for: hypothesis_pylint.txt
+================================================================================
+
+FILE: hypothesis-python\benchmark\graph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 2
+R: 0
+Total messages: 4
+Average rating: 8.03/10
+
+FILE: hypothesis-python\docs\_ext\hypothesis_linkcheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: hypothesis-python\docs\_ext\hypothesis_redirects.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.70/10
+
+FILE: hypothesis-python\docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 3
+R: 2
+Total messages: 12
+Average rating: 6.46/10
+
+FILE: hypothesis-python\examples\example_hypothesis_entrypoint\example_hypothesis_entrypoint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 7.14/10
+
+FILE: hypothesis-python\examples\example_hypothesis_entrypoint\setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\examples\example_hypothesis_entrypoint\test_entrypoint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\examples\test_basic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\examples\test_binary_search.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\examples\test_rle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\scripts\validate_branch_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\_hypothesis_ftz_detector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 1
+R: 0
+Total messages: 4
+Average rating: 8.18/10
+
+FILE: hypothesis-python\src\_hypothesis_globals.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\_hypothesis_pytestplugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 19
+R: 3
+Total messages: 33
+Average rating: 7.53/10
+
+FILE: hypothesis-python\src\hypothesis\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 5
+R: 4
+Total messages: 11
+Average rating: 9.40/10
+
+FILE: hypothesis-python\src\hypothesis\configuration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 7.32/10
+
+FILE: hypothesis-python\src\hypothesis\control.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 3
+Total messages: 12
+Average rating: 8.19/10
+
+FILE: hypothesis-python\src\hypothesis\core.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 68
+C: 4
+R: 23
+Total messages: 103
+Average rating: 6.49/10
+
+FILE: hypothesis-python\src\hypothesis\database.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 8
+R: 3
+Total messages: 19
+Average rating: 9.33/10
+
+FILE: hypothesis-python\src\hypothesis\entry_points.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\errors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 1
+Total messages: 6
+Average rating: 8.53/10
+
+FILE: hypothesis-python\src\hypothesis\extra\_array_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 10
+Total messages: 11
+Average rating: 9.18/10
+
+FILE: hypothesis-python\src\hypothesis\extra\_patching.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 8.94/10
+
+FILE: hypothesis-python\src\hypothesis\extra\array_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 17
+Total messages: 20
+Average rating: 9.03/10
+
+FILE: hypothesis-python\src\hypothesis\extra\cli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 11
+R: 3
+Total messages: 16
+Average rating: 8.39/10
+
+FILE: hypothesis-python\src\hypothesis\extra\codemods.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.57/10
+
+FILE: hypothesis-python\src\hypothesis\extra\dateutil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\django\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\django\_fields.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 2
+Total messages: 10
+Average rating: 8.66/10
+
+FILE: hypothesis-python\src\hypothesis\extra\django\_impl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 3
+C: 0
+R: 1
+Total messages: 7
+Average rating: 6.87/10
+
+FILE: hypothesis-python\src\hypothesis\extra\dpcontracts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\ghostwriter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 18
+C: 4
+R: 19
+Total messages: 43
+Average rating: 8.73/10
+
+FILE: hypothesis-python\src\hypothesis\extra\lark.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.60/10
+
+FILE: hypothesis-python\src\hypothesis\extra\numpy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 9
+Total messages: 21
+Average rating: 8.69/10
+
+FILE: hypothesis-python\src\hypothesis\extra\pandas\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\pandas\impl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 16
+Total messages: 17
+Average rating: 8.72/10
+
+FILE: hypothesis-python\src\hypothesis\extra\pytestplugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\pytz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\extra\redis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.54/10
+
+FILE: hypothesis-python\src\hypothesis\internal\cathetus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.05/10
+
+FILE: hypothesis-python\src\hypothesis\internal\charmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 8.30/10
+
+FILE: hypothesis-python\src\hypothesis\internal\compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 18
+R: 2
+Total messages: 27
+Average rating: 7.15/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\choice.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 13
+Total messages: 16
+Average rating: 9.02/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 7
+R: 9
+Total messages: 20
+Average rating: 9.31/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\datatree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 6
+Total messages: 11
+Average rating: 9.50/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 7
+R: 14
+Total messages: 22
+Average rating: 9.47/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 2
+Total messages: 9
+Average rating: 7.02/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\junkdrawer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 2
+Total messages: 11
+Average rating: 8.87/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\optimiser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 9.16/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\pareto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 4
+Total messages: 6
+Average rating: 9.22/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\provider_conformance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 1
+Total messages: 13
+Average rating: 8.16/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\providers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 9.55/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 5
+C: 1
+R: 13
+Total messages: 24
+Average rating: 8.90/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\bytes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\choicetree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.41/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\collection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 4.86/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.12/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 1
+Total messages: 4
+Average rating: 7.69/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\integer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.50/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\ordering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 0
+Total messages: 12
+Average rating: 0.77/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\shrinking\string.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\conjecture\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 7
+Total messages: 8
+Average rating: 9.19/10
+
+FILE: hypothesis-python\src\hypothesis\internal\constants_ast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 2
+Total messages: 9
+Average rating: 8.19/10
+
+FILE: hypothesis-python\src\hypothesis\internal\coverage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.42/10
+
+FILE: hypothesis-python\src\hypothesis\internal\detection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\entropy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 1
+Total messages: 7
+Average rating: 8.04/10
+
+FILE: hypothesis-python\src\hypothesis\internal\escalation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.35/10
+
+FILE: hypothesis-python\src\hypothesis\internal\filtering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 5
+Total messages: 6
+Average rating: 9.32/10
+
+FILE: hypothesis-python\src\hypothesis\internal\floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 3
+Total messages: 4
+Average rating: 9.29/10
+
+FILE: hypothesis-python\src\hypothesis\internal\healthcheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.00/10
+
+FILE: hypothesis-python\src\hypothesis\internal\intervalsets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.88/10
+
+FILE: hypothesis-python\src\hypothesis\internal\lambda_sources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 5
+Total messages: 11
+Average rating: 8.52/10
+
+FILE: hypothesis-python\src\hypothesis\internal\observability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 6
+Total messages: 12
+Average rating: 8.79/10
+
+FILE: hypothesis-python\src\hypothesis\internal\reflection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 4
+Total messages: 12
+Average rating: 8.79/10
+
+FILE: hypothesis-python\src\hypothesis\internal\scrutineer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 2
+C: 0
+R: 4
+Total messages: 14
+Average rating: 6.69/10
+
+FILE: hypothesis-python\src\hypothesis\internal\validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 9.46/10
+
+FILE: hypothesis-python\src\hypothesis\provisional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\reporting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\stateful.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 33
+C: 1
+R: 9
+Total messages: 44
+Average rating: 7.66/10
+
+FILE: hypothesis-python\src\hypothesis\statistics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.39/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\attrs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 4
+Total messages: 5
+Average rating: 8.84/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\collections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.65/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\core.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 40
+C: 14
+R: 17
+Total messages: 71
+Average rating: 8.14/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\datetime.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 9.41/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\deferred.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\featureflags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\flatmapped.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.93/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\functions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.41/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\ipaddress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\lazy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.71/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\misc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\numbers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 6
+Total messages: 10
+Average rating: 9.05/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\random.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 5
+Total messages: 10
+Average rating: 8.98/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\recursive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.18/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\regex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 78
+W: 2
+C: 0
+R: 12
+Total messages: 92
+Average rating: 0.00/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\shared.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.93/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 10
+C: 9
+R: 6
+Total messages: 29
+Average rating: 8.55/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\strings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 3
+Total messages: 9
+Average rating: 8.75/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 3
+R: 5
+Total messages: 20
+Average rating: 8.96/10
+
+FILE: hypothesis-python\src\hypothesis\strategies\_internal\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 8.61/10
+
+FILE: hypothesis-python\src\hypothesis\utils\conventions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\utils\deprecation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\utils\dynamicvariables.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\utils\terminal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 6.88/10
+
+FILE: hypothesis-python\src\hypothesis\utils\threading.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\src\hypothesis\vendor\pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 8
+R: 18
+Total messages: 52
+Average rating: 7.90/10
+
+FILE: hypothesis-python\src\hypothesis\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\array_api\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\array_api\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.36/10
+
+FILE: hypothesis-python\tests\array_api\test_argument_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.50/10
+
+FILE: hypothesis-python\tests\array_api\test_arrays.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 4
+R: 0
+Total messages: 9
+Average rating: 8.68/10
+
+FILE: hypothesis-python\tests\array_api\test_from_dtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.19/10
+
+FILE: hypothesis-python\tests\array_api\test_indices.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 5.10/10
+
+FILE: hypothesis-python\tests\array_api\test_partial_adoptors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.32/10
+
+FILE: hypothesis-python\tests\array_api\test_pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: hypothesis-python\tests\array_api\test_scalar_dtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: hypothesis-python\tests\array_api\test_strategies_namespace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 3.62/10
+
+FILE: hypothesis-python\tests\attrs\test_attrs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.85/10
+
+FILE: hypothesis-python\tests\attrs\test_inference.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.55/10
+
+FILE: hypothesis-python\tests\attrs\test_pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.60/10
+
+FILE: hypothesis-python\tests\codemods\test_codemod_cli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.78/10
+
+FILE: hypothesis-python\tests\codemods\test_codemods.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.46/10
+
+FILE: hypothesis-python\tests\common\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: hypothesis-python\tests\common\arguments.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.29/10
+
+FILE: hypothesis-python\tests\common\costbounds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\common\debug.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.25/10
+
+FILE: hypothesis-python\tests\common\setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\common\strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.35/10
+
+FILE: hypothesis-python\tests\common\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 3
+R: 0
+Total messages: 13
+Average rating: 8.11/10
+
+FILE: hypothesis-python\tests\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 1
+Total messages: 11
+Average rating: 8.24/10
+
+FILE: hypothesis-python\tests\conjecture\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.89/10
+
+FILE: hypothesis-python\tests\conjecture\test_choice.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.49/10
+
+FILE: hypothesis-python\tests\conjecture\test_choice_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 8.61/10
+
+FILE: hypothesis-python\tests\conjecture\test_data_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 4
+C: 0
+R: 0
+Total messages: 7
+Average rating: 9.23/10
+
+FILE: hypothesis-python\tests\conjecture\test_engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 19
+C: 3
+R: 0
+Total messages: 33
+Average rating: 8.87/10
+
+FILE: hypothesis-python\tests\conjecture\test_float_encoding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.90/10
+
+FILE: hypothesis-python\tests\conjecture\test_forced.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_inquisitor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 6.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_intlist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 8.40/10
+
+FILE: hypothesis-python\tests\conjecture\test_junkdrawer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 1
+Total messages: 12
+Average rating: 7.66/10
+
+FILE: hypothesis-python\tests\conjecture\test_local_constants.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.32/10
+
+FILE: hypothesis-python\tests\conjecture\test_minimizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_mutations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_optimiser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.42/10
+
+FILE: hypothesis-python\tests\conjecture\test_order_shrinking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_pareto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_provider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 23
+W: 26
+C: 2
+R: 0
+Total messages: 51
+Average rating: 5.09/10
+
+FILE: hypothesis-python\tests\conjecture\test_provider_contract.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.80/10
+
+FILE: hypothesis-python\tests\conjecture\test_shrinker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 0
+Total messages: 7
+Average rating: 9.32/10
+
+FILE: hypothesis-python\tests\conjecture\test_shrinking_interface.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\conjecture\test_test_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 2
+Total messages: 9
+Average rating: 9.32/10
+
+FILE: hypothesis-python\tests\conjecture\test_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.74/10
+
+FILE: hypothesis-python\tests\cover\test_annotations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 0
+R: 0
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\cover\test_arbitrary_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 0
+R: 0
+Total messages: 5
+Average rating: 5.00/10
+
+FILE: hypothesis-python\tests\cover\test_asyncio.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.04/10
+
+FILE: hypothesis-python\tests\cover\test_cache_implementation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 0
+R: 0
+Total messages: 23
+Average rating: 6.85/10
+
+FILE: hypothesis-python\tests\cover\test_caching.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_cathetus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_charmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 10
+C: 0
+R: 0
+Total messages: 11
+Average rating: 7.13/10
+
+FILE: hypothesis-python\tests\cover\test_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.60/10
+
+FILE: hypothesis-python\tests\cover\test_complex_numbers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.22/10
+
+FILE: hypothesis-python\tests\cover\test_composite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 4
+R: 0
+Total messages: 9
+Average rating: 7.57/10
+
+FILE: hypothesis-python\tests\cover\test_composite_kwonlyargs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 4.00/10
+
+FILE: hypothesis-python\tests\cover\test_constants_ast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.29/10
+
+FILE: hypothesis-python\tests\cover\test_control.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 4
+R: 0
+Total messages: 7
+Average rating: 8.55/10
+
+FILE: hypothesis-python\tests\cover\test_core.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 8
+C: 0
+R: 0
+Total messages: 11
+Average rating: 5.00/10
+
+FILE: hypothesis-python\tests\cover\test_custom_reprs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 4
+R: 0
+Total messages: 8
+Average rating: 7.26/10
+
+FILE: hypothesis-python\tests\cover\test_database_backend.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 54
+C: 7
+R: 0
+Total messages: 62
+Average rating: 6.23/10
+
+FILE: hypothesis-python\tests\cover\test_datetimes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.62/10
+
+FILE: hypothesis-python\tests\cover\test_deadline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 6
+C: 0
+R: 1
+Total messages: 14
+Average rating: 3.53/10
+
+FILE: hypothesis-python\tests\cover\test_debug_information.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: hypothesis-python\tests\cover\test_deferred_strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.19/10
+
+FILE: hypothesis-python\tests\cover\test_detection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 8.08/10
+
+FILE: hypothesis-python\tests\cover\test_direct_strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 1
+C: 1
+R: 0
+Total messages: 14
+Average rating: 6.21/10
+
+FILE: hypothesis-python\tests\cover\test_draw_example.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_error_in_draw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.29/10
+
+FILE: hypothesis-python\tests\cover\test_escalation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.24/10
+
+FILE: hypothesis-python\tests\cover\test_example.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 3.67/10
+
+FILE: hypothesis-python\tests\cover\test_exceptiongroup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 2
+C: 0
+R: 0
+Total messages: 13
+Average rating: 2.91/10
+
+FILE: hypothesis-python\tests\cover\test_executors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 0
+R: 1
+Total messages: 6
+Average rating: 4.05/10
+
+FILE: hypothesis-python\tests\cover\test_explicit_examples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 17
+W: 16
+C: 2
+R: 0
+Total messages: 35
+Average rating: 0.82/10
+
+FILE: hypothesis-python\tests\cover\test_falsifying_example_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.59/10
+
+FILE: hypothesis-python\tests\cover\test_feature_flags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.29/10
+
+FILE: hypothesis-python\tests\cover\test_filestorage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.59/10
+
+FILE: hypothesis-python\tests\cover\test_filter_rewriting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 2
+R: 4
+Total messages: 21
+Average rating: 7.39/10
+
+FILE: hypothesis-python\tests\cover\test_filtered_strategy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_find.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 7.78/10
+
+FILE: hypothesis-python\tests\cover\test_flakiness.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 6
+C: 0
+R: 2
+Total messages: 15
+Average rating: 4.96/10
+
+FILE: hypothesis-python\tests\cover\test_float_nastiness.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.09/10
+
+FILE: hypothesis-python\tests\cover\test_float_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_functions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 0
+R: 0
+Total messages: 10
+Average rating: 6.79/10
+
+FILE: hypothesis-python\tests\cover\test_fuzz_one_input.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 9
+C: 0
+R: 0
+Total messages: 11
+Average rating: 4.93/10
+
+FILE: hypothesis-python\tests\cover\test_given_error_conditions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 14
+C: 1
+R: 0
+Total messages: 26
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\cover\test_health_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 24
+W: 18
+C: 1
+R: 0
+Total messages: 43
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\cover\test_interactive_example.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.38/10
+
+FILE: hypothesis-python\tests\cover\test_internal_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_intervalset.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 6.13/10
+
+FILE: hypothesis-python\tests\cover\test_lambda_formatting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 27
+R: 0
+Total messages: 37
+Average rating: 6.51/10
+
+FILE: hypothesis-python\tests\cover\test_lazy_import.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_lookup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 32
+C: 8
+R: 0
+Total messages: 46
+Average rating: 7.61/10
+
+FILE: hypothesis-python\tests\cover\test_lookup_py310.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_lookup_py314.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 0
+Total messages: 5
+Average rating: 1.60/10
+
+FILE: hypothesis-python\tests\cover\test_lookup_py37.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_lookup_py38.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 9
+C: 5
+R: 0
+Total messages: 17
+Average rating: 5.65/10
+
+FILE: hypothesis-python\tests\cover\test_lookup_py39.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 0
+Total messages: 4
+Average rating: 9.23/10
+
+FILE: hypothesis-python\tests\cover\test_map.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_mock.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: hypothesis-python\tests\cover\test_monitoring.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.18/10
+
+FILE: hypothesis-python\tests\cover\test_nothing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_numerics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.13/10
+
+FILE: hypothesis-python\tests\cover\test_observability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 24
+W: 28
+C: 0
+R: 2
+Total messages: 54
+Average rating: 3.90/10
+
+FILE: hypothesis-python\tests\cover\test_one_of.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_permutations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_phases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.75/10
+
+FILE: hypothesis-python\tests\cover\test_posonly_args_py38.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 2.31/10
+
+FILE: hypothesis-python\tests\cover\test_pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 16
+C: 3
+R: 2
+Total messages: 22
+Average rating: 8.70/10
+
+FILE: hypothesis-python\tests\cover\test_provisional_strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.67/10
+
+FILE: hypothesis-python\tests\cover\test_random_module.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 8
+C: 0
+R: 0
+Total messages: 14
+Average rating: 6.28/10
+
+FILE: hypothesis-python\tests\cover\test_randoms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 2
+C: 1
+R: 0
+Total messages: 14
+Average rating: 7.24/10
+
+FILE: hypothesis-python\tests\cover\test_recursive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.25/10
+
+FILE: hypothesis-python\tests\cover\test_reflection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 71
+C: 35
+R: 0
+Total messages: 112
+Average rating: 2.34/10
+
+FILE: hypothesis-python\tests\cover\test_regex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.20/10
+
+FILE: hypothesis-python\tests\cover\test_regressions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 4
+C: 1
+R: 0
+Total messages: 12
+Average rating: 1.27/10
+
+FILE: hypothesis-python\tests\cover\test_replay_logic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 1
+C: 0
+R: 1
+Total messages: 9
+Average rating: 4.87/10
+
+FILE: hypothesis-python\tests\cover\test_reporting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 0
+Total messages: 7
+Average rating: 2.16/10
+
+FILE: hypothesis-python\tests\cover\test_reproduce_failure.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 4
+C: 0
+R: 0
+Total messages: 16
+Average rating: 4.10/10
+
+FILE: hypothesis-python\tests\cover\test_runner_strategy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.04/10
+
+FILE: hypothesis-python\tests\cover\test_sampled_from.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.50/10
+
+FILE: hypothesis-python\tests\cover\test_searchstrategy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.88/10
+
+FILE: hypothesis-python\tests\cover\test_seed_printing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 4
+C: 0
+R: 0
+Total messages: 10
+Average rating: 4.08/10
+
+FILE: hypothesis-python\tests\cover\test_settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 0
+Total messages: 11
+Average rating: 9.01/10
+
+FILE: hypothesis-python\tests\cover\test_setup_teardown.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 3
+C: 0
+R: 0
+Total messages: 12
+Average rating: 2.60/10
+
+FILE: hypothesis-python\tests\cover\test_shrink_budgeting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_sideeffect_warnings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: hypothesis-python\tests\cover\test_simple_characters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_simple_collections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.32/10
+
+FILE: hypothesis-python\tests\cover\test_simple_strings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 1
+R: 0
+Total messages: 5
+Average rating: 6.27/10
+
+FILE: hypothesis-python\tests\cover\test_slices.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_slippage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 10
+C: 0
+R: 2
+Total messages: 25
+Average rating: 5.15/10
+
+FILE: hypothesis-python\tests\cover\test_stateful.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 21
+C: 3
+R: 4
+Total messages: 29
+Average rating: 8.92/10
+
+FILE: hypothesis-python\tests\cover\test_statistical_events.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 1
+R: 0
+Total messages: 13
+Average rating: 7.52/10
+
+FILE: hypothesis-python\tests\cover\test_subnormal_floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_targeting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_testdecorators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 13
+C: 1
+R: 0
+Total messages: 28
+Average rating: 5.28/10
+
+FILE: hypothesis-python\tests\cover\test_threading.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.42/10
+
+FILE: hypothesis-python\tests\cover\test_traceback_elision.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.43/10
+
+FILE: hypothesis-python\tests\cover\test_type_lookup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 10
+C: 1
+R: 0
+Total messages: 12
+Average rating: 8.41/10
+
+FILE: hypothesis-python\tests\cover\test_type_lookup_forward_ref.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 0
+Total messages: 8
+Average rating: 6.47/10
+
+FILE: hypothesis-python\tests\cover\test_typealias_py312.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: hypothesis-python\tests\cover\test_unicode_identifiers.py
+--------------------------------------------------------------------------------
+F: 1
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 2
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\cover\test_unittest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.93/10
+
+FILE: hypothesis-python\tests\cover\test_uuids.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\cover\test_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 25
+C: 2
+R: 0
+Total messages: 40
+Average rating: 0.72/10
+
+FILE: hypothesis-python\tests\cover\test_verbosity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 1
+R: 0
+Total messages: 6
+Average rating: 5.93/10
+
+FILE: hypothesis-python\tests\crosshair\test_conformance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\crosshair\test_crosshair.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 5
+C: 0
+R: 0
+Total messages: 13
+Average rating: 3.89/10
+
+FILE: hypothesis-python\tests\datetime\test_dateutil_timezones.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.36/10
+
+FILE: hypothesis-python\tests\datetime\test_pytz_timezones.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.50/10
+
+FILE: hypothesis-python\tests\datetime\test_zoneinfo_timezones.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\manage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\toys\settings\no_urls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\toys\settings\settings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\toys\settings\settings_no_contrib.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\django\toys\settings\urls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\toys\wsgi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\django\toystore\forms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.55/10
+
+FILE: hypothesis-python\tests\django\toystore\models.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.06/10
+
+FILE: hypothesis-python\tests\django\toystore\test_basic_configuration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.67/10
+
+FILE: hypothesis-python\tests\django\toystore\test_given_forms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.82/10
+
+FILE: hypothesis-python\tests\django\toystore\test_given_models.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\dpcontracts\test_contracts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\ghostwriter\example_code\future_annotations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\ghostwriter\test_expected_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 1
+R: 0
+Total messages: 15
+Average rating: 4.03/10
+
+FILE: hypothesis-python\tests\ghostwriter\test_ghostwriter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 38
+C: 6
+R: 0
+Total messages: 45
+Average rating: 4.34/10
+
+FILE: hypothesis-python\tests\ghostwriter\test_ghostwriter_cli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: hypothesis-python\tests\ghostwriter\try-writing-for-installed.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 1
+Total messages: 4
+Average rating: 3.20/10
+
+FILE: hypothesis-python\tests\lark\test_grammar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.42/10
+
+FILE: hypothesis-python\tests\nocover\test_argument_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: hypothesis-python\tests\nocover\test_bad_repr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: hypothesis-python\tests\nocover\test_baseexception.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 4
+C: 0
+R: 0
+Total messages: 10
+Average rating: 2.50/10
+
+FILE: hypothesis-python\tests\nocover\test_boundary_exploration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_build_signature.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 19
+C: 0
+R: 0
+Total messages: 20
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_cache_implementation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 0
+Total messages: 11
+Average rating: 4.00/10
+
+FILE: hypothesis-python\tests\nocover\test_cacheable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.83/10
+
+FILE: hypothesis-python\tests\nocover\test_characters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: hypothesis-python\tests\nocover\test_collective_minimization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_complex_numbers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_conjecture_engine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.09/10
+
+FILE: hypothesis-python\tests\nocover\test_conjecture_int_list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.86/10
+
+FILE: hypothesis-python\tests\nocover\test_conjecture_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.00/10
+
+FILE: hypothesis-python\tests\nocover\test_conventions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_database_agreement.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_database_usage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.89/10
+
+FILE: hypothesis-python\tests\nocover\test_deferred_errors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.80/10
+
+FILE: hypothesis-python\tests\nocover\test_drypython_returns.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 2
+R: 0
+Total messages: 10
+Average rating: 6.58/10
+
+FILE: hypothesis-python\tests\nocover\test_duplication.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.55/10
+
+FILE: hypothesis-python\tests\nocover\test_dynamic_variable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_emails.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_eval_as_source.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_exceptiongroup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 1
+C: 0
+R: 0
+Total messages: 9
+Average rating: 5.66/10
+
+FILE: hypothesis-python\tests\nocover\test_explore_arbitrary_languages.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_fancy_repr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 5.62/10
+
+FILE: hypothesis-python\tests\nocover\test_filtering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 2
+R: 0
+Total messages: 3
+Average rating: 7.31/10
+
+FILE: hypothesis-python\tests\nocover\test_find.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.71/10
+
+FILE: hypothesis-python\tests\nocover\test_fixtures.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_flatmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: hypothesis-python\tests\nocover\test_floating.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.40/10
+
+FILE: hypothesis-python\tests\nocover\test_from_type_recipe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_given_error_conditions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.00/10
+
+FILE: hypothesis-python\tests\nocover\test_given_reuse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 0
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_health_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 7
+C: 0
+R: 0
+Total messages: 12
+Average rating: 1.32/10
+
+FILE: hypothesis-python\tests\nocover\test_imports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_integer_ranges.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.83/10
+
+FILE: hypothesis-python\tests\nocover\test_interesting_origin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 5
+C: 0
+R: 0
+Total messages: 7
+Average rating: 0.74/10
+
+FILE: hypothesis-python\tests\nocover\test_labels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 0
+Total messages: 7
+Average rating: 6.59/10
+
+FILE: hypothesis-python\tests\nocover\test_large_examples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_limits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_modify_inner_test.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 4
+C: 0
+R: 0
+Total messages: 6
+Average rating: 4.21/10
+
+FILE: hypothesis-python\tests\nocover\test_nesting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 0.91/10
+
+FILE: hypothesis-python\tests\nocover\test_precise_shrinking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 3
+Total messages: 8
+Average rating: 9.17/10
+
+FILE: hypothesis-python\tests\nocover\test_pretty_repr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 1
+Total messages: 9
+Average rating: 4.74/10
+
+FILE: hypothesis-python\tests\nocover\test_randomization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 4
+C: 0
+R: 0
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\nocover\test_recursive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 4
+Total messages: 5
+Average rating: 8.59/10
+
+FILE: hypothesis-python\tests\nocover\test_regex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.23/10
+
+FILE: hypothesis-python\tests\nocover\test_regressions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 5
+C: 0
+R: 0
+Total messages: 8
+Average rating: 0.62/10
+
+FILE: hypothesis-python\tests\nocover\test_reusable_values.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.57/10
+
+FILE: hypothesis-python\tests\nocover\test_sampled_from.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.87/10
+
+FILE: hypothesis-python\tests\nocover\test_scrutineer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_sets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_sharing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.00/10
+
+FILE: hypothesis-python\tests\nocover\test_simple_numbers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.50/10
+
+FILE: hypothesis-python\tests\nocover\test_simple_strings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_skipping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.07/10
+
+FILE: hypothesis-python\tests\nocover\test_stateful.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 1
+Total messages: 4
+Average rating: 9.17/10
+
+FILE: hypothesis-python\tests\nocover\test_strategy_state.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.85/10
+
+FILE: hypothesis-python\tests\nocover\test_subnormal_floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_targeting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.51/10
+
+FILE: hypothesis-python\tests\nocover\test_testdecorators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 3.04/10
+
+FILE: hypothesis-python\tests\nocover\test_threading.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 8
+C: 0
+R: 0
+Total messages: 11
+Average rating: 6.52/10
+
+FILE: hypothesis-python\tests\nocover\test_type_lookup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_type_lookup_forward_ref.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.63/10
+
+FILE: hypothesis-python\tests\nocover\test_type_lookup_future_annotations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\nocover\test_unusual_settings_configs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 4.00/10
+
+FILE: hypothesis-python\tests\nocover\test_uuids.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.83/10
+
+FILE: hypothesis-python\tests\numpy\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\numpy\test_argument_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\numpy\test_deprecation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\numpy\test_fill_values.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.37/10
+
+FILE: hypothesis-python\tests\numpy\test_floor_ceil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 6.15/10
+
+FILE: hypothesis-python\tests\numpy\test_from_dtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 2
+R: 1
+Total messages: 6
+Average rating: 8.58/10
+
+FILE: hypothesis-python\tests\numpy\test_from_type.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.06/10
+
+FILE: hypothesis-python\tests\numpy\test_gen_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 4
+C: 2
+R: 0
+Total messages: 12
+Average rating: 9.05/10
+
+FILE: hypothesis-python\tests\numpy\test_gufunc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.04/10
+
+FILE: hypothesis-python\tests\numpy\test_import.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\numpy\test_narrow_floats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.27/10
+
+FILE: hypothesis-python\tests\numpy\test_randomness.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.15/10
+
+FILE: hypothesis-python\tests\numpy\test_sampled_from.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 3.33/10
+
+FILE: hypothesis-python\tests\pandas\helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pandas\test_argument_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.89/10
+
+FILE: hypothesis-python\tests\pandas\test_data_frame.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 1
+R: 0
+Total messages: 11
+Average rating: 7.18/10
+
+FILE: hypothesis-python\tests\pandas\test_indexes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.55/10
+
+FILE: hypothesis-python\tests\pandas\test_series.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.81/10
+
+FILE: hypothesis-python\tests\patching\callables.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 4.55/10
+
+FILE: hypothesis-python\tests\patching\test_patching.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\patching\toplevel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 4.00/10
+
+FILE: hypothesis-python\tests\pytest\test__pytest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.25/10
+
+FILE: hypothesis-python\tests\pytest\test_capture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: hypothesis-python\tests\pytest\test_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_collection_warning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 0.00/10
+
+FILE: hypothesis-python\tests\pytest\test_constant_collection_timing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_doctest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_fixtures.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 7.38/10
+
+FILE: hypothesis-python\tests\pytest\test_junit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_mark.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_parametrized_db_keys.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: hypothesis-python\tests\pytest\test_profiles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_pytest_detection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_reporting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_runs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.71/10
+
+FILE: hypothesis-python\tests\pytest\test_seeding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_sideeffect_warnings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_skipping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\pytest\test_statistics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\quality\test_deferred_strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: hypothesis-python\tests\quality\test_discovery_ability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 8.25/10
+
+FILE: hypothesis-python\tests\quality\test_float_shrinking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.06/10
+
+FILE: hypothesis-python\tests\quality\test_integers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 3.75/10
+
+FILE: hypothesis-python\tests\quality\test_poisoned_lists.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.58/10
+
+FILE: hypothesis-python\tests\quality\test_poisoned_trees.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.22/10
+
+FILE: hypothesis-python\tests\quality\test_shrink_quality.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 3
+C: 1
+R: 1
+Total messages: 19
+Average rating: 6.76/10
+
+FILE: hypothesis-python\tests\quality\test_zig_zagging.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\redis\test_redis_exampledatabase.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 8.94/10
+
+FILE: hypothesis-python\tests\snapshots\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\snapshots\test_always_failing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.27/10
+
+FILE: hypothesis-python\tests\snapshots\test_combinators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.26/10
+
+FILE: hypothesis-python\tests\snapshots\test_explain.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 6.95/10
+
+FILE: hypothesis-python\tests\snapshots\test_shrinking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: hypothesis-python\tests\test_annotated_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.63/10
+
+FILE: hypothesis-python\tests\typing_extensions\test_backported_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 3
+R: 0
+Total messages: 9
+Average rating: 8.50/10
+
+FILE: hypothesis-python\tests\watchdog\test_database.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.67/10
+
+FILE: hypothesis-python\tests\watchdog\test_database_cover.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.33/10
+
+FILE: tooling\scripts\tool-hash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tooling\setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 2.86/10
+
+FILE: tooling\src\hypothesistooling\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 9.57/10
+
+FILE: tooling\src\hypothesistooling\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 3
+R: 3
+Total messages: 37
+Average rating: 7.61/10
+
+FILE: tooling\src\hypothesistooling\installers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.53/10
+
+FILE: tooling\src\hypothesistooling\junkdrawer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tooling\src\hypothesistooling\projects\hypothesispython.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 1
+Total messages: 6
+Average rating: 8.91/10
+
+FILE: tooling\src\hypothesistooling\releasemanagement.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.65/10
+
+FILE: tooling\src\hypothesistooling\scripts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.32/10
+
+FILE: website\pelicanconf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\documentation\test_documentation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\types\revealed_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 0
+Total messages: 5
+Average rating: 7.22/10
+
+FILE: whole_repo_tests\types\test_hypothesis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\types\test_mypy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.83/10
+
+FILE: whole_repo_tests\types\test_pyright.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.71/10
+
+FILE: whole_repo_tests\whole_repo\test_ci_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_deploy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_release_files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_release_management.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_requirements.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_rst_is_valid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: whole_repo_tests\whole_repo\test_shellcheck.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: whole_repo_tests\whole_repo\test_validate_branch_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+================================================================================
+Overall average rating: 7.88/10

@@ -1,0 +1,13 @@
+Statistics for: nltk_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 172
+W: 2035
+C: 951
+R: 1567
+
+Total messages: 4725
+Average rating: 8.05/10

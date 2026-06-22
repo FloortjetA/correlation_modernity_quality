@@ -1,0 +1,13 @@
+Statistics for: pytest_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 77
+W: 1894
+C: 753
+R: 432
+
+Total messages: 3156
+Average rating: 7.99/10

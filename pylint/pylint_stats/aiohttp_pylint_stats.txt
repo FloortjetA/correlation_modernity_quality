@@ -1,0 +1,13 @@
+Statistics for: aiohttp_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 46
+W: 4457
+C: 157
+R: 317
+
+Total messages: 4977
+Average rating: 7.83/10

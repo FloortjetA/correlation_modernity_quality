@@ -1,0 +1,13 @@
+Statistics for: django-cms_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 82
+W: 1028
+C: 1928
+R: 388
+
+Total messages: 3426
+Average rating: 8.13/10

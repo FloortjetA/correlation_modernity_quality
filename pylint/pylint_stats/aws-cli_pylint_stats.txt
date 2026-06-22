@@ -1,0 +1,13 @@
+Statistics for: aws-cli_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 155
+W: 1650
+C: 412
+R: 624
+
+Total messages: 2841
+Average rating: 8.30/10

@@ -1,0 +1,8343 @@
+Feature statistics for repository: mitmproxy
+================================================================================
+
+FILE: mitmproxy\docs\build.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\docs\scripts\api-events.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.redirect_stdout (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\docs\scripts\api-render.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\docs\scripts\clirecording\clidirector.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\docs\scripts\clirecording\record.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\docs\scripts\clirecording\screenplays.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\docs\scripts\examples.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\docs\scripts\filters.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\docs\scripts\options.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\anatomy.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\anatomy2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\commands-flows.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\commands-paths.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\commands-simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\contentview-interactive.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\contentview.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\dns-simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\duplicate-modify-replay.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\filter-flows.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\http-add-header.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\http-modify-form.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\http-modify-query-string.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\http-redirect-requests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\http-reply-from-proxy.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\http-stream-modify.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\http-stream-simple.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\http-trailers.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\examples\addons\internet-in-mirror.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\io-read-saved-flows.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\io-write-flow-file.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\addons\log-events.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\nonblocking.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\options-configure.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\addons\options-simple.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\addons\shutdown.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\tcp-simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\websocket-inject-message.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\addons\websocket-simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\examples\addons\wsgi-flask-app.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\all_markers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\examples\contrib\block_dns_over_https.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\change_upstream_proxy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\check_ssl_pinning.py
+--------------------------------------------------------------------------------
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 9)
+    2.6, 3.0: 6
+    2.6, 3.5: 3
+
+
+FILE: mitmproxy\examples\contrib\custom_next_layer.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\dns_spoofing.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\domain_fronting.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\har_dump.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\http_manipulate_cookies.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\httpdump.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\examples\contrib\jsondump.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\link_expander.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\mitmproxywrapper.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: mitmproxy\examples\contrib\modify_body_inject_iframe.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\ntlm_upstream_proxy.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\contrib\portfile.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\contrib\remote-debug.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\save_streamed_data.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\contrib\search.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\sslstrip.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\suppress_error_responses.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\test_jsondump.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\examples\contrib\test_xss_scanner.py
+--------------------------------------------------------------------------------
+synonym (total: 77)
+    2.6, 3.0: 54
+    2.6, 3.5: 23
+
+
+FILE: mitmproxy\examples\contrib\tls_passthrough.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\upstream_pac.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\mapping.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\proxyauth_selenium.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_mapping.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_proxyauth_selenium.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_urldict.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_urlindex.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_urlinjection.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\test_watchdog.py
+--------------------------------------------------------------------------------
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\urldict.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\urlindex.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\urlinjection.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\examples\contrib\webscanner_helper\watchdog.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\examples\contrib\xss_scanner.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 13)
+    2.6, 3.0: 12
+    2.6, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\addonmanager.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isawaitable (total: 1)
+    !2, 3.5: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\addons\anticache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\addons\anticomp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\addons\asgiapp.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\block.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\blocklist.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\browser.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: mitmproxy\mitmproxy\addons\clientplayback.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\command_history.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\comment.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\core.py
+--------------------------------------------------------------------------------
+cause (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\cut.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\disable_h2c.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\dns_resolver.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\dumper.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\errorcheck.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\eventstore.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\export.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\intercept.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\keepserving.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\maplocal.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\mapremote.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\modifybody.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\modifyheaders.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\next_layer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\onboarding.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\onboardingapp\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: mitmproxy\mitmproxy\addons\proxyauth.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\proxyserver.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\readfile.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\save.py
+--------------------------------------------------------------------------------
+cause (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\savehar.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\script.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib.machinery.SourceFileLoader (total: 1)
+    !2, 3.3: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_loader (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\server_side_events.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\serverplayback.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\stickyauth.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\stickycookie.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.cookiejar (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\strip_dns_https_records.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\mitmproxy\addons\termlog.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\tlsconfig.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\update_alt_svc.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\upstream_auth.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\addons\view.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\certs.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\command.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.BoundArguments (total: 1)
+    !2, 3.3: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\command_lexer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: mitmproxy\mitmproxy\connection.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\__init__.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_api.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.runtime_checkable (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_compat.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_registry.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_utils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_css.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_dns.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_graphql.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_http3.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_image\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_image\image_parser.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_image\view.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_javascript.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_json.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_mqtt.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_multipart.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_query.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_raw.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_socketio.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_urlencoded.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_wbxml.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_xml_html.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\_view_zip.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contentviews\base.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\click\__init__.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\imghdr.py
+--------------------------------------------------------------------------------
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\dtls_client_hello.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\exif.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\gif.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\google_protobuf.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\ico.py
+--------------------------------------------------------------------------------
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\jpeg.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\png.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\tls_client_hello.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\kaitaistruct\vlq_base128_le.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\ASCommandResponse.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\ASWBXML.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\ASWBXMLByteQueue.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\ASWBXMLCodePage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\GlobalTokens.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\InvalidDataException.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\contrib\wbxml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\coretypes\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\coretypes\bidi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\coretypes\multidict.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\coretypes\serializable.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.NoneType (total: 1)
+    2.0, 3.10: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\ctx.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\dns.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: mitmproxy\mitmproxy\eventsequence.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\flow.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\flowfilter.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\hooks.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\http.py
+--------------------------------------------------------------------------------
+arguments (total: 10)
+    !2, 3.0: 10
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\io\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\io\compat.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 28)
+    2.6, 3.0: 28
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\io\har.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\io\io.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\io\tnetstring.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 30)
+    2.6, 3.0: 28
+    2.6, 3.5: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\log.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\master.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\net\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\check.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\dns\classes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\domain_names.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\https_records.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\op_codes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\response_codes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\mitmproxy\net\dns\types.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\mitmproxy\net\encoding.py
+--------------------------------------------------------------------------------
+codecs.decode (total: 1)
+    2.4, 3.0: 1
+
+codecs.encode (total: 1)
+    2.4, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\net\free_port.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\http\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\http\cookies.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: mitmproxy\mitmproxy\net\http\headers.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: mitmproxy\mitmproxy\net\http\http1\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\http\http1\assemble.py
+--------------------------------------------------------------------------------
+synonym (total: 20)
+    2.6, 3.0: 12
+    2.6, 3.5: 8
+
+
+FILE: mitmproxy\mitmproxy\net\http\http1\read.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+matching (total: 1)
+    !2, 3.10: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+
+FILE: mitmproxy\mitmproxy\net\http\multipart.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 22)
+    2.6, 3.0: 16
+    2.6, 3.5: 6
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\net\http\status_codes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\http\url.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+synonym (total: 8)
+    2.6, 3.0: 6
+    2.6, 3.5: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\net\http\user_agents.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\net\http\validate.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\net\local_ip.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+
+FILE: mitmproxy\mitmproxy\net\server_spec.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\net\tls.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\options.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\optmanager.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\platform\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\mitmproxy\platform\linux.py
+--------------------------------------------------------------------------------
+socket.inet_ntop (total: 1)
+    2.3, 3.0: 1
+
+struct.unpack_from (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\platform\openbsd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\platform\osx.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: mitmproxy\mitmproxy\platform\pf.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: mitmproxy\mitmproxy\platform\windows.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.inet_ntop (total: 1)
+    2.3, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\proxy\commands.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\context.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\events.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layer.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\proxy\layers\dns.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\__init__.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_base.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_events.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_hooks.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_http1.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 8
+    2.6, 3.5: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_http2.py
+--------------------------------------------------------------------------------
+arguments (total: 9)
+    !2, 3.0: 9
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 12
+    2.6, 3.5: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_http3.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+matching (total: 2)
+    !2, 3.10: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 3
+    2.6, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_http_h2.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_http_h3.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\http\_upstream_proxy.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\modes.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+matching (total: 1)
+    !2, 3.10: 1
+
+socket.inet_ntop (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_client_hello_parser.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_commands.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_events.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_hooks.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_raw_layers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\quic\_stream_layers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 16)
+    !2, 3.0: 16
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\tcp.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\tls.py
+--------------------------------------------------------------------------------
+arguments (total: 14)
+    !2, 3.0: 14
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 22)
+    !2, 3.6: 22
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\udp.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\layers\websocket.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: mitmproxy\mitmproxy\proxy\mode_servers.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: mitmproxy\mitmproxy\proxy\mode_specs.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+str.rpartition (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\server.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\server_hooks.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\tunnel.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\proxy\utils.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\script\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\script\concurrent.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tcp.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\test\taddons.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\test\tflow.py
+--------------------------------------------------------------------------------
+synonym (total: 9)
+    2.6, 3.0: 9
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\test\tutils.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tls.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\mitmproxy\tools\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\cmdline.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\console\commander\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\console\commander\commander.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\commandexecutor.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\commands.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\common.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+math.log2 (total: 1)
+    !2, 3.3: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\consoleaddons.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\defaultkeys.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\console\eventlog.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\flowdetailview.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\flowlist.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\flowview.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\base.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\col_bytes.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\col_subgrid.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\col_text.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\col_viewany.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\grideditor\editors.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\help.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\keybindings.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\keymap.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\layoutwidget.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\master.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\options.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\overlay.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\palettes.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\quickhelp.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\searchable.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\signals.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+slices (total: 5)
+    !2, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\statusbar.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\tabs.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\console\window.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+help (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\dump.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\main.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\web\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\web\app.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+typing.Concatenate (total: 1)
+    !2, 3.10: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\web\master.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\web\static_viewer.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\tools\web\web_columns.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\tools\web\webaddons.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+hmac.compare_digest (total: 1)
+    2.7, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\types.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+codecs.decode (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\udp.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\utils\arg_check.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\asyncio_utils.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\data.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\debug.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.all_tasks (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.redirect_stdout (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+gc.get_objects (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys._current_frames (total: 1)
+    2.5, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\emoji.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\htpasswd.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\human.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\magisk.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\pyinstaller\__init__.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\pyinstaller\hook-mitmproxy.addons.onboardingapp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\utils\pyinstaller\hook-mitmproxy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\utils\pyinstaller\hook-mitmproxy.tools.web.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\utils\signals.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isawaitable (total: 1)
+    !2, 3.5: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ParamSpec (total: 1)
+    !2, 3.10: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.WeakMethod (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\sliding_window.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\spec.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\mitmproxy\utils\strutils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+io (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.maketrans (total: 1)
+    !2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\typecheck.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+object (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\mitmproxy\utils\vt_codes.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\version.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\mitmproxy\websocket.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\release\build.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\release\deploy-microsoft-store.py
+--------------------------------------------------------------------------------
+f-strings (total: 14)
+    !2, 3.6: 14
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.removeprefix (total: 1)
+    !2, 3.9: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\release\deploy.py
+--------------------------------------------------------------------------------
+f-strings (total: 13)
+    !2, 3.6: 13
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: mitmproxy\release\release.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 22)
+    !2, 3.6: 22
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\release\selftest.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\release\specs\mitmdump
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\release\specs\mitmproxy
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\release\specs\mitmweb
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\bench\benchmark.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\conftest.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\examples\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\examples\test_examples.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\filename_matching.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\dumperview.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\helper_tools\getcert
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\hunt_memory_leaks.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+gc.get_count (total: 1)
+    2.5, 3.0: 1
+
+gc.get_objects (total: 1)
+    2.2, 3.0: 1
+
+gc.get_referrers (total: 1)
+    2.2, 3.0: 1
+
+gc.get_stats (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\inspect_dumpfile.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\helper_tools\linkify-changelog.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\loggrep.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\memoryleak.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+threading.active_count (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\helper_tools\memoryleak2.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\helper_tools\passive_close.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\test\individual_coverage.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+os.cpu_count (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tomllib (total: 1)
+    !2, 3.11: 1
+
+
+FILE: mitmproxy\test\mitmproxy\__init__.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_anticache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_anticomp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_asgiapp.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 20)
+    2.6, 3.0: 20
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_block.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_blocklist.py
+--------------------------------------------------------------------------------
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_browser.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_clientplayback.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.Purpose.CLIENT_AUTH (total: 1)
+    2.7, 3.4: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_command_history.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_comment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_core.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_cut.py
+--------------------------------------------------------------------------------
+synonym (total: 18)
+    2.6, 3.0: 18
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_disable_h2c.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_dns_resolver.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+matching (total: 3)
+    !2, 3.10: 3
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.assert_never (total: 1)
+    !2, 3.11: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_dumper.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_errorcheck.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_eventstore.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_export.py
+--------------------------------------------------------------------------------
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 18)
+    2.6, 3.0: 18
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_intercept.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_keepserving.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_maplocal.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_mapremote.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_modifybody.py
+--------------------------------------------------------------------------------
+synonym (total: 17)
+    2.6, 3.0: 17
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_modifyheaders.py
+--------------------------------------------------------------------------------
+synonym (total: 7)
+    2.6, 3.0: 7
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_next_layer.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 29)
+    2.6, 3.0: 29
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_onboarding.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_proxyauth.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_proxyserver.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 50)
+    2.6, 3.0: 50
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_readfile.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_END (total: 1)
+    2.7, 3.1: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_save.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_savehar.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_script.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_server_side_events.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_serverplayback.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_stickyauth.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_stickycookie.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_strip_dns_https_records.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_termlog.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_tlsconfig.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLWantReadError (total: 1)
+    2.7, 3.3: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_update_alt_svc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\addons\test_upstream_auth.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\addons\test_view.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\contentviews\_view_image\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\contentviews\_view_image\test_image_parser.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\_view_image\test_view.py
+--------------------------------------------------------------------------------
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test___init__.py
+--------------------------------------------------------------------------------
+synonym (total: 12)
+    2.6, 3.0: 12
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__api.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__compat.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__registry.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__utils.py
+--------------------------------------------------------------------------------
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_css.py
+--------------------------------------------------------------------------------
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_dns.py
+--------------------------------------------------------------------------------
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_graphql.py
+--------------------------------------------------------------------------------
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_http3.py
+--------------------------------------------------------------------------------
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_javascript.py
+--------------------------------------------------------------------------------
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_json.py
+--------------------------------------------------------------------------------
+synonym (total: 13)
+    2.6, 3.0: 13
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_mqtt.py
+--------------------------------------------------------------------------------
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_multipart.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_query.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_raw.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_socketio.py
+--------------------------------------------------------------------------------
+synonym (total: 18)
+    2.6, 3.0: 18
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_urlencoded.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_wbxml.py
+--------------------------------------------------------------------------------
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_xml_html.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test__view_zip.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: mitmproxy\test\mitmproxy\contentviews\test_base.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\coretypes\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\coretypes\test_bidi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\coretypes\test_multidict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\coretypes\test_serializable.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\addon.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\concurrent_decorator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\concurrent_decorator_class.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\concurrent_decorator_err.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\configure.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\custom_option.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\error.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\import_error.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\load_error.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\recorder\a.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\recorder\b.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\recorder\c.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\recorder\e.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\recorder\recorder.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\same_filename\addon.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\shutdown.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\stream_modify.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\addonscripts\tcp_stream_modify.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\data\servercert\generate.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\test\mitmproxy\io\test_compat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\io\test_har.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\io\test_io.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: mitmproxy\test\mitmproxy\io\test_tnetstring.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+math.factorial (total: 1)
+    2.6, 3.0: 1
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\net\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\data\verificationcerts\generate.py
+--------------------------------------------------------------------------------
+f-strings (total: 20)
+    !2, 3.6: 20
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\net\dns\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_classes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_domain_names.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_https_records.py
+--------------------------------------------------------------------------------
+synonym (total: 11)
+    2.6, 3.0: 11
+
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_op_codes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_response_codes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\dns\test_types.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\http\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\http\http1\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\http\http1\test_assemble.py
+--------------------------------------------------------------------------------
+synonym (total: 25)
+    2.6, 3.0: 25
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\http1\test_read.py
+--------------------------------------------------------------------------------
+synonym (total: 38)
+    2.6, 3.0: 38
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_cookies.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_headers.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+synonym (total: 23)
+    2.6, 3.0: 23
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_multipart.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_status_codes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_url.py
+--------------------------------------------------------------------------------
+synonym (total: 27)
+    2.6, 3.0: 27
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_user_agents.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\http\test_validate.py
+--------------------------------------------------------------------------------
+synonym (total: 7)
+    2.6, 3.0: 7
+
+
+FILE: mitmproxy\test\mitmproxy\net\test_check.py
+--------------------------------------------------------------------------------
+synonym (total: 51)
+    2.6, 3.0: 51
+
+
+FILE: mitmproxy\test\mitmproxy\net\test_encoding.py
+--------------------------------------------------------------------------------
+synonym (total: 19)
+    2.6, 3.0: 19
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\net\test_free_port.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\test_local_ip.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\test_server_spec.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\net\test_tls.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+
+FILE: mitmproxy\test\mitmproxy\net\tools\getcertnames
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\platform\test_pf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\bench.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\conftest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\hyper_h2_test_helpers.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http.py
+--------------------------------------------------------------------------------
+gc.get_objects (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 258)
+    2.6, 3.0: 245
+    2.6, 3.5: 13
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http1.py
+--------------------------------------------------------------------------------
+synonym (total: 33)
+    2.6, 3.0: 33
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http2.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+synonym (total: 87)
+    2.6, 3.0: 87
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http3.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 58)
+    2.6, 3.0: 58
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http_fuzz.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 34)
+    2.6, 3.0: 34
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\http\test_http_version_interop.py
+--------------------------------------------------------------------------------
+synonym (total: 16)
+    2.6, 3.0: 16
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__client_hello_parser.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__commands.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__events.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__hooks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__raw_layers.py
+--------------------------------------------------------------------------------
+synonym (total: 33)
+    2.6, 3.0: 33
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\quic\test__stream_layers.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytes.hex (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 43)
+    2.6, 3.0: 43
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_dns.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_modes.py
+--------------------------------------------------------------------------------
+synonym (total: 50)
+    2.6, 3.0: 50
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_socks5_fuzz.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_tcp.py
+--------------------------------------------------------------------------------
+synonym (total: 16)
+    2.6, 3.0: 16
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_tls.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytes.hex (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.MemoryBIO (total: 1)
+    !2, 3.5: 1
+
+ssl.PROTOCOL_TLS_CLIENT (total: 1)
+    !2, 3.6: 1
+
+ssl.PROTOCOL_TLS_SERVER (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLCertVerificationError (total: 1)
+    !2, 3.7: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.SSLWantReadError (total: 1)
+    2.7, 3.3: 1
+
+ssl.TLSVersion (total: 1)
+    !2, 3.7: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 26)
+    2.6, 3.0: 26
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_tls_fuzz.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_udp.py
+--------------------------------------------------------------------------------
+synonym (total: 13)
+    2.6, 3.0: 13
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\layers\test_websocket.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 69)
+    2.6, 3.0: 69
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_commands.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_context.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_events.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_layer.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_mode_servers.py
+--------------------------------------------------------------------------------
+assignment (total: 6)
+    !2, 3.0: 6
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_mode_specs.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_server.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_server_hooks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_tunnel.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+synonym (total: 35)
+    2.6, 3.0: 35
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_tutils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\test_utils.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: mitmproxy\test\mitmproxy\proxy\tutils.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\script\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\script\test_concurrent.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_addonmanager.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_certs.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_bytes (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\test_command.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_command_lexer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_connection.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\test_ctx.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_dns.py
+--------------------------------------------------------------------------------
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 24)
+    2.6, 3.0: 24
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_eventsequence.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_flow.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\test_flowfilter.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_hooks.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: mitmproxy\test\mitmproxy\test_http.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+email (total: 1)
+    2.2, 3.0: 1
+
+email.utils.formatdate (total: 1)
+    2.4, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 86)
+    2.6, 3.0: 86
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_log.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_master.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_options.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_optmanager.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_proxy.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_taddons.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_tcp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_tls.py
+--------------------------------------------------------------------------------
+synonym (total: 21)
+    2.6, 3.0: 21
+
+
+FILE: mitmproxy\test\mitmproxy\test_typemanager.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_types.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: mitmproxy\test\mitmproxy\test_udp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\test_version.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+runpy (total: 1)
+    2.5, 3.0: 1
+
+runpy.run_path (total: 1)
+    2.7, 3.2: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\test_websocket.py
+--------------------------------------------------------------------------------
+synonym (total: 12)
+    2.6, 3.0: 12
+
+
+FILE: mitmproxy\test\mitmproxy\tools\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\console\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\console\conftest.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_commander.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_common.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_contentview.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_defaultkeys.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_flowview.py
+--------------------------------------------------------------------------------
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_integration.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_keymap.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_master.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_palettes.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_quickhelp.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\console\test_statusbar.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\test_cmdline.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\test_dump.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\test_main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\web\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\web\test_app.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\web\test_master.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\web\test_static_viewer.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\tools\web\test_web_columns.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\tools\web\test_webaddons.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_arg_check.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.redirect_stdout (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_asyncio_utils.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_data.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_debug.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_emoji.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_htpasswd.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_human.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_magisk.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_signals.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_sliding_window.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_spec.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: mitmproxy\test\mitmproxy\utils\test_strutils.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 41)
+    2.6, 3.0: 41
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_typecheck.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: mitmproxy\test\mitmproxy\utils\test_vt_codes.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: mitmproxy\web\gen\backend_consts.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+
+FILE: mitmproxy\web\gen\options_js.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.redirect_stdout (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: mitmproxy\web\gen\state_js.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\web\gen\tflow_js.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+
+FILE: mitmproxy\web\gen\web_columns.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+

@@ -1,0 +1,13 @@
+Statistics for: numba_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 2627
+W: 7339
+C: 2738
+R: 4574
+
+Total messages: 17278
+Average rating: 7.51/10

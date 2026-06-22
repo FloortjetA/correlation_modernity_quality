@@ -1,0 +1,9245 @@
+Statistics for: scikit-learn_pylint.txt
+================================================================================
+
+FILE: .github\scripts\add_or_remove_no_pr_warning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: .github\scripts\label_title_regex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: .spin\cmds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: asv_benchmarks\benchmarks\cluster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 3.57/10
+
+FILE: asv_benchmarks\benchmarks\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 17
+C: 0
+R: 0
+Total messages: 35
+Average rating: 0.00/10
+
+FILE: asv_benchmarks\benchmarks\datasets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.26/10
+
+FILE: asv_benchmarks\benchmarks\decomposition.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.91/10
+
+FILE: asv_benchmarks\benchmarks\ensemble.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 6.60/10
+
+FILE: asv_benchmarks\benchmarks\linear_model.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 0
+Total messages: 15
+Average rating: 6.43/10
+
+FILE: asv_benchmarks\benchmarks\manifold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.26/10
+
+FILE: asv_benchmarks\benchmarks\metrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 1.25/10
+
+FILE: asv_benchmarks\benchmarks\model_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 3.48/10
+
+FILE: asv_benchmarks\benchmarks\neighbors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.55/10
+
+FILE: asv_benchmarks\benchmarks\svm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: asv_benchmarks\benchmarks\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_20newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.67/10
+
+FILE: benchmarks\bench_covertype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.44/10
+
+FILE: benchmarks\bench_feature_expansions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_glm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_glmnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 7.97/10
+
+FILE: benchmarks\bench_hist_gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 4
+Total messages: 19
+Average rating: 6.85/10
+
+FILE: benchmarks\bench_hist_gradient_boosting_adult.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.50/10
+
+FILE: benchmarks\bench_hist_gradient_boosting_categorical_only.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.87/10
+
+FILE: benchmarks\bench_hist_gradient_boosting_higgsboson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 7.69/10
+
+FILE: benchmarks\bench_hist_gradient_boosting_threading.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 4
+Total messages: 21
+Average rating: 7.09/10
+
+FILE: benchmarks\bench_isolation_forest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 1
+C: 0
+R: 0
+Total messages: 7
+Average rating: 6.73/10
+
+FILE: benchmarks\bench_isolation_forest_predict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 2
+R: 2
+Total messages: 8
+Average rating: 7.92/10
+
+FILE: benchmarks\bench_isotonic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.36/10
+
+FILE: benchmarks\bench_kernel_pca_solvers_time_vs_n_components.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_kernel_pca_solvers_time_vs_n_samples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_lasso.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 6.90/10
+
+FILE: benchmarks\bench_lof.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 1
+Total messages: 7
+Average rating: 5.08/10
+
+FILE: benchmarks\bench_mnist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.40/10
+
+FILE: benchmarks\bench_online_ocsvm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 0
+Total messages: 7
+Average rating: 8.33/10
+
+FILE: benchmarks\bench_pca_solvers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 4
+Total messages: 8
+Average rating: 7.18/10
+
+FILE: benchmarks\bench_plot_fastkmeans.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 2
+Total messages: 9
+Average rating: 7.40/10
+
+FILE: benchmarks\bench_plot_hierarchical.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.80/10
+
+FILE: benchmarks\bench_plot_incremental_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.96/10
+
+FILE: benchmarks\bench_plot_lasso_path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.44/10
+
+FILE: benchmarks\bench_plot_neighbors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 6
+Total messages: 7
+Average rating: 8.44/10
+
+FILE: benchmarks\bench_plot_nmf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 33
+C: 2
+R: 19
+Total messages: 58
+Average rating: 2.60/10
+
+FILE: benchmarks\bench_plot_omp_lars.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 8.19/10
+
+FILE: benchmarks\bench_plot_parallel_pairwise.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_plot_polynomial_kernel_approximation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.85/10
+
+FILE: benchmarks\bench_plot_randomized_svd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 23
+C: 0
+R: 9
+Total messages: 37
+Average rating: 5.66/10
+
+FILE: benchmarks\bench_plot_svd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.74/10
+
+FILE: benchmarks\bench_plot_ward.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmarks\bench_random_projections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 2
+Total messages: 10
+Average rating: 7.25/10
+
+FILE: benchmarks\bench_rcv1_logreg_convergence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 13
+C: 0
+R: 0
+Total messages: 17
+Average rating: 5.72/10
+
+FILE: benchmarks\bench_saga.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 13
+C: 3
+R: 13
+Total messages: 40
+Average rating: 3.56/10
+
+FILE: benchmarks\bench_sample_without_replacement.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.92/10
+
+FILE: benchmarks\bench_sgd_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.70/10
+
+FILE: benchmarks\bench_sparsify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.57/10
+
+FILE: benchmarks\bench_text_vectorizers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.18/10
+
+FILE: benchmarks\bench_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 0
+Total messages: 6
+Average rating: 8.21/10
+
+FILE: benchmarks\bench_tsne_mnist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 1
+Total messages: 8
+Average rating: 7.58/10
+
+FILE: benchmarks\plot_tsne_mnist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: build_tools\check-meson-openmp-dependencies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: build_tools\circle\list_versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 5
+Total messages: 8
+Average rating: 8.05/10
+
+FILE: build_tools\generate_authors_table.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 2
+Total messages: 10
+Average rating: 7.59/10
+
+FILE: build_tools\get_comment.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 17
+C: 0
+R: 4
+Total messages: 23
+Average rating: 2.16/10
+
+FILE: build_tools\github\autoclose_prs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.18/10
+
+FILE: build_tools\github\check_wheels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: build_tools\github\vendor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.12/10
+
+FILE: build_tools\update_environments_and_lock_files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 6
+C: 1
+R: 1
+Total messages: 13
+Average rating: 7.11/10
+
+FILE: build_tools\wheels\check_license.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: doc\api_reference.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 7.50/10
+
+FILE: doc\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 2
+R: 3
+Total messages: 21
+Average rating: 8.00/10
+
+FILE: doc\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 8
+R: 0
+Total messages: 17
+Average rating: 6.98/10
+
+FILE: doc\sphinxext\allow_nan_estimators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.23/10
+
+FILE: doc\sphinxext\autoshortsummary.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: doc\sphinxext\doi_role.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 3
+Total messages: 10
+Average rating: 0.00/10
+
+FILE: doc\sphinxext\dropdown_anchors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.26/10
+
+FILE: doc\sphinxext\github_link.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.71/10
+
+FILE: doc\sphinxext\override_pst_pagetoc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.56/10
+
+FILE: doc\sphinxext\sphinx_issues.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 8
+Total messages: 19
+Average rating: 5.00/10
+
+FILE: examples\applications\plot_cyclical_feature_engineering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 2
+Total messages: 14
+Average rating: 7.16/10
+
+FILE: examples\applications\plot_digits_denoising.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.42/10
+
+FILE: examples\applications\plot_face_recognition.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 5
+C: 0
+R: 2
+Total messages: 11
+Average rating: 4.35/10
+
+FILE: examples\applications\plot_model_complexity_influence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.53/10
+
+FILE: examples\applications\plot_out_of_core_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 1
+R: 4
+Total messages: 27
+Average rating: 6.84/10
+
+FILE: examples\applications\plot_outlier_detection_wine.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 8.79/10
+
+FILE: examples\applications\plot_prediction_latency.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 1
+Total messages: 18
+Average rating: 6.21/10
+
+FILE: examples\applications\plot_species_distribution_modeling.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 6
+Total messages: 7
+Average rating: 8.31/10
+
+FILE: examples\applications\plot_stock_market.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.96/10
+
+FILE: examples\applications\plot_time_series_lagged_features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 7.86/10
+
+FILE: examples\applications\plot_tomography_l1_reconstruction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.83/10
+
+FILE: examples\applications\plot_topics_extraction_with_nmf_lda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.59/10
+
+FILE: examples\applications\wikipedia_principal_eigenvector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 3
+Total messages: 14
+Average rating: 6.64/10
+
+FILE: examples\bicluster\plot_bicluster_newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 9.52/10
+
+FILE: examples\bicluster\plot_spectral_biclustering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.28/10
+
+FILE: examples\bicluster\plot_spectral_coclustering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.83/10
+
+FILE: examples\calibration\plot_calibration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.04/10
+
+FILE: examples\calibration\plot_calibration_curve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 7.69/10
+
+FILE: examples\calibration\plot_calibration_multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 7
+Total messages: 7
+Average rating: 8.29/10
+
+FILE: examples\calibration\plot_compare_calibration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 0
+R: 0
+Total messages: 7
+Average rating: 5.49/10
+
+FILE: examples\classification\plot_classification_probability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 0
+Total messages: 6
+Average rating: 5.00/10
+
+FILE: examples\classification\plot_classifier_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.18/10
+
+FILE: examples\classification\plot_digits_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 0
+Total messages: 5
+Average rating: 2.65/10
+
+FILE: examples\classification\plot_lda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.86/10
+
+FILE: examples\classification\plot_lda_qda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 7
+C: 0
+R: 0
+Total messages: 9
+Average rating: 5.08/10
+
+FILE: examples\cluster\plot_adjusted_for_chance_measures.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 0
+Total messages: 12
+Average rating: 3.21/10
+
+FILE: examples\cluster\plot_affinity_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_agglomerative_clustering_metrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.35/10
+
+FILE: examples\cluster\plot_agglomerative_dendrogram.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.80/10
+
+FILE: examples\cluster\plot_birch_vs_minibatchkmeans.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: examples\cluster\plot_bisect_kmeans.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_cluster_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.28/10
+
+FILE: examples\cluster\plot_coin_segmentation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_coin_ward_segmentation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.64/10
+
+FILE: examples\cluster\plot_dbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_dict_face_patches.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.15/10
+
+FILE: examples\cluster\plot_digits_agglomeration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: examples\cluster\plot_digits_linkage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.19/10
+
+FILE: examples\cluster\plot_face_compress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.00/10
+
+FILE: examples\cluster\plot_feature_agglomeration_vs_univariate_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_hdbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 3
+Total messages: 5
+Average rating: 8.36/10
+
+FILE: examples\cluster\plot_inductive_clustering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 4.23/10
+
+FILE: examples\cluster\plot_kmeans_assumptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_kmeans_digits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 3
+C: 0
+R: 0
+Total messages: 6
+Average rating: 5.47/10
+
+FILE: examples\cluster\plot_kmeans_plusplus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_kmeans_silhouette_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: examples\cluster\plot_kmeans_stability_low_dim_dense.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 1
+Total messages: 10
+Average rating: 3.80/10
+
+FILE: examples\cluster\plot_linkage_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.15/10
+
+FILE: examples\cluster\plot_mean_shift.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_mini_batch_kmeans.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_optics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.64/10
+
+FILE: examples\cluster\plot_segmentation_toy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cluster\plot_ward_structured_vs_unstructured.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: examples\compose\plot_column_transformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\compose\plot_column_transformer_mixed_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.33/10
+
+FILE: examples\compose\plot_compare_reduction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.61/10
+
+FILE: examples\compose\plot_digits_pipe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.41/10
+
+FILE: examples\compose\plot_feature_union.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 1
+Total messages: 3
+Average rating: 3.68/10
+
+FILE: examples\compose\plot_transformed_target.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.40/10
+
+FILE: examples\covariance\plot_covariance_estimation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\covariance\plot_lw_vs_oas.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\covariance\plot_mahalanobis_distances.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\covariance\plot_robust_vs_empirical_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.07/10
+
+FILE: examples\covariance\plot_sparse_cov.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.07/10
+
+FILE: examples\cross_decomposition\plot_compare_cross_decomposition.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cross_decomposition\plot_pcr_vs_pls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.02/10
+
+FILE: examples\datasets\plot_random_multilabel_dataset.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.60/10
+
+FILE: examples\decomposition\plot_faces_decomposition.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.18/10
+
+FILE: examples\decomposition\plot_ica_blind_source_separation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\decomposition\plot_ica_vs_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.50/10
+
+FILE: examples\decomposition\plot_image_denoising.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: examples\decomposition\plot_incremental_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 3.75/10
+
+FILE: examples\decomposition\plot_kernel_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\decomposition\plot_pca_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 0
+C: 0
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: examples\decomposition\plot_pca_vs_fa_model_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 0
+Total messages: 8
+Average rating: 5.27/10
+
+FILE: examples\decomposition\plot_pca_vs_lda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.23/10
+
+FILE: examples\decomposition\plot_sparse_coding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 5.71/10
+
+FILE: examples\decomposition\plot_varimax_fa.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\developing_estimators\sklearn_is_fitted.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 3.33/10
+
+FILE: examples\ensemble\plot_adaboost_multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_adaboost_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.92/10
+
+FILE: examples\ensemble\plot_adaboost_twoclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_bias_variance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.83/10
+
+FILE: examples\ensemble\plot_ensemble_oob.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_feature_transformation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.60/10
+
+FILE: examples\ensemble\plot_forest_hist_grad_boosting_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 10
+Total messages: 10
+Average rating: 5.74/10
+
+FILE: examples\ensemble\plot_forest_importances.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_forest_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.10/10
+
+FILE: examples\ensemble\plot_gradient_boosting_categorical.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 3
+Total messages: 10
+Average rating: 6.75/10
+
+FILE: examples\ensemble\plot_gradient_boosting_early_stopping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.78/10
+
+FILE: examples\ensemble\plot_gradient_boosting_oob.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.54/10
+
+FILE: examples\ensemble\plot_gradient_boosting_quantile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 2
+Total messages: 4
+Average rating: 8.75/10
+
+FILE: examples\ensemble\plot_gradient_boosting_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.65/10
+
+FILE: examples\ensemble\plot_gradient_boosting_regularization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_hgbt_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.98/10
+
+FILE: examples\ensemble\plot_isolation_forest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.61/10
+
+FILE: examples\ensemble\plot_monotonic_constraints.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.21/10
+
+FILE: examples\ensemble\plot_random_forest_embedding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\ensemble\plot_random_forest_regression_multioutput.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: examples\ensemble\plot_stack_predictors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.70/10
+
+FILE: examples\ensemble\plot_voting_decision_regions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.63/10
+
+FILE: examples\ensemble\plot_voting_regressor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\feature_selection\plot_f_test_vs_mi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\feature_selection\plot_feature_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.51/10
+
+FILE: examples\feature_selection\plot_feature_selection_pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.88/10
+
+FILE: examples\feature_selection\plot_rfe_digits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: examples\feature_selection\plot_rfe_with_cross_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\feature_selection\plot_select_from_model_diabetes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 0
+C: 1
+R: 0
+Total messages: 10
+Average rating: 1.15/10
+
+FILE: examples\frozen\plot_frozen_examples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\gaussian_process\plot_compare_gpr_krr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.44/10
+
+FILE: examples\gaussian_process\plot_gpc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.86/10
+
+FILE: examples\gaussian_process\plot_gpc_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.97/10
+
+FILE: examples\gaussian_process\plot_gpc_isoprobability.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\gaussian_process\plot_gpc_xor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: examples\gaussian_process\plot_gpr_co2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.04/10
+
+FILE: examples\gaussian_process\plot_gpr_noisy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.81/10
+
+FILE: examples\gaussian_process\plot_gpr_noisy_targets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: examples\gaussian_process\plot_gpr_on_structured_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 7.73/10
+
+FILE: examples\gaussian_process\plot_gpr_prior_posterior.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.15/10
+
+FILE: examples\impute\plot_iterative_imputer_variants_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.98/10
+
+FILE: examples\impute\plot_missing_values.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.72/10
+
+FILE: examples\inspection\plot_causal_interpretation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.96/10
+
+FILE: examples\inspection\plot_linear_model_coefficient_interpretation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 3
+C: 0
+R: 0
+Total messages: 19
+Average rating: 5.00/10
+
+FILE: examples\inspection\plot_partial_dependence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 2
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.06/10
+
+FILE: examples\inspection\plot_partial_dependence_visualization_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.15/10
+
+FILE: examples\inspection\plot_permutation_importance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.33/10
+
+FILE: examples\inspection\plot_permutation_importance_multicollinear.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.31/10
+
+FILE: examples\kernel_approximation\plot_scalable_poly_kernels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_ard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.08/10
+
+FILE: examples\linear_model\plot_bayesian_ridge_curvefit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.65/10
+
+FILE: examples\linear_model\plot_elastic_net_precomputed_gram_matrix_with_weighted_samples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.43/10
+
+FILE: examples\linear_model\plot_huber_vs_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.48/10
+
+FILE: examples\linear_model\plot_lasso_and_elasticnet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.76/10
+
+FILE: examples\linear_model\plot_lasso_dense_vs_sparse_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_lasso_lars_ic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 2
+C: 0
+R: 0
+Total messages: 10
+Average rating: 0.00/10
+
+FILE: examples\linear_model\plot_lasso_lasso_lars_elasticnet_path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_lasso_model_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 0
+C: 0
+R: 0
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: examples\linear_model\plot_logistic_l1_l2_sparsity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_logistic_multinomial.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.46/10
+
+FILE: examples\linear_model\plot_logistic_path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 3.75/10
+
+FILE: examples\linear_model\plot_multi_task_lasso_support.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.61/10
+
+FILE: examples\linear_model\plot_nnls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_ols_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.58/10
+
+FILE: examples\linear_model\plot_omp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_poisson_regression_non_normal_loss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 0
+R: 0
+Total messages: 12
+Average rating: 6.77/10
+
+FILE: examples\linear_model\plot_polynomial_interpolation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.24/10
+
+FILE: examples\linear_model\plot_quantile_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.38/10
+
+FILE: examples\linear_model\plot_ransac.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_ridge_coeffs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_ridge_path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_robust_fit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.51/10
+
+FILE: examples\linear_model\plot_sgd_early_stopping.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 12
+C: 0
+R: 2
+Total messages: 18
+Average rating: 0.00/10
+
+FILE: examples\linear_model\plot_sgd_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 1
+C: 0
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: examples\linear_model\plot_sgd_loss_functions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_sgd_penalties.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_sgd_separating_hyperplane.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_sgd_weighted_samples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_sgdocsvm_vs_ocsvm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.21/10
+
+FILE: examples\linear_model\plot_sparse_logistic_regression_20newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.69/10
+
+FILE: examples\linear_model\plot_sparse_logistic_regression_mnist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_theilsen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\linear_model\plot_tweedie_regression_insurance_claims.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 15
+C: 0
+R: 5
+Total messages: 23
+Average rating: 5.17/10
+
+FILE: examples\manifold\plot_compare_methods.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 8
+C: 0
+R: 0
+Total messages: 12
+Average rating: 3.62/10
+
+FILE: examples\manifold\plot_lle_digits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 3
+C: 1
+R: 0
+Total messages: 11
+Average rating: 1.51/10
+
+FILE: examples\manifold\plot_manifold_sphere.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.80/10
+
+FILE: examples\manifold\plot_mds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 0
+Total messages: 6
+Average rating: 4.34/10
+
+FILE: examples\manifold\plot_swissroll.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\manifold\plot_t_sne_perplexity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\miscellaneous\plot_anomaly_comparison.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.60/10
+
+FILE: examples\miscellaneous\plot_display_object_visualization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\miscellaneous\plot_estimator_representation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: examples\miscellaneous\plot_isotonic_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: examples\miscellaneous\plot_johnson_lindenstrauss_bound.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.51/10
+
+FILE: examples\miscellaneous\plot_kernel_approximation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.78/10
+
+FILE: examples\miscellaneous\plot_kernel_ridge_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.32/10
+
+FILE: examples\miscellaneous\plot_metadata_routing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 42
+C: 1
+R: 0
+Total messages: 46
+Average rating: 1.70/10
+
+FILE: examples\miscellaneous\plot_multilabel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.82/10
+
+FILE: examples\miscellaneous\plot_multioutput_face_completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.53/10
+
+FILE: examples\miscellaneous\plot_outlier_detection_bench.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 2
+R: 3
+Total messages: 9
+Average rating: 8.41/10
+
+FILE: examples\miscellaneous\plot_pipeline_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 6.25/10
+
+FILE: examples\miscellaneous\plot_roc_curve_visualization_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 7.89/10
+
+FILE: examples\miscellaneous\plot_set_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 1
+R: 0
+Total messages: 6
+Average rating: 6.90/10
+
+FILE: examples\mixture\plot_concentration_prior.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 0
+R: 3
+Total messages: 13
+Average rating: 3.09/10
+
+FILE: examples\mixture\plot_gmm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 7.50/10
+
+FILE: examples\mixture\plot_gmm_covariances.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 2
+C: 0
+R: 1
+Total messages: 12
+Average rating: 1.31/10
+
+FILE: examples\mixture\plot_gmm_init.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.50/10
+
+FILE: examples\mixture\plot_gmm_pdf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\mixture\plot_gmm_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.38/10
+
+FILE: examples\mixture\plot_gmm_sin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 6.95/10
+
+FILE: examples\model_selection\plot_confusion_matrix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.15/10
+
+FILE: examples\model_selection\plot_cost_sensitive_learning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 13
+C: 0
+R: 1
+Total messages: 20
+Average rating: 4.74/10
+
+FILE: examples\model_selection\plot_cv_indices.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 13
+C: 0
+R: 2
+Total messages: 16
+Average rating: 0.94/10
+
+FILE: examples\model_selection\plot_cv_predict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\model_selection\plot_det.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.20/10
+
+FILE: examples\model_selection\plot_grid_search_digits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.61/10
+
+FILE: examples\model_selection\plot_grid_search_refit_callable.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.39/10
+
+FILE: examples\model_selection\plot_grid_search_stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 2
+R: 0
+Total messages: 16
+Average rating: 5.96/10
+
+FILE: examples\model_selection\plot_grid_search_text_feature_extraction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.55/10
+
+FILE: examples\model_selection\plot_learning_curve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\model_selection\plot_likelihood_ratios.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 0
+Total messages: 12
+Average rating: 5.68/10
+
+FILE: examples\model_selection\plot_multi_metric_evaluation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\model_selection\plot_nested_cross_validation_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.30/10
+
+FILE: examples\model_selection\plot_permutation_tests_for_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.16/10
+
+FILE: examples\model_selection\plot_precision_recall.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 3
+Total messages: 5
+Average rating: 7.61/10
+
+FILE: examples\model_selection\plot_randomized_search.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.31/10
+
+FILE: examples\model_selection\plot_roc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 2
+C: 0
+R: 7
+Total messages: 14
+Average rating: 5.50/10
+
+FILE: examples\model_selection\plot_roc_crossval.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 1
+Total messages: 6
+Average rating: 3.41/10
+
+FILE: examples\model_selection\plot_successive_halving_heatmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.49/10
+
+FILE: examples\model_selection\plot_successive_halving_iterations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.15/10
+
+FILE: examples\model_selection\plot_train_error_vs_test_error.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\model_selection\plot_tuned_decision_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 0
+Total messages: 7
+Average rating: 2.16/10
+
+FILE: examples\model_selection\plot_underfitting_overfitting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: examples\multiclass\plot_multiclass_overview.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\multioutput\plot_classifier_chain_yeast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neighbors\approximate_nearest_neighbors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 9
+C: 0
+R: 1
+Total messages: 12
+Average rating: 6.10/10
+
+FILE: examples\neighbors\plot_caching_nearest_neighbors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neighbors\plot_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: examples\neighbors\plot_digits_kde_sampling.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 1
+Total messages: 3
+Average rating: 5.86/10
+
+FILE: examples\neighbors\plot_kde_1d.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.32/10
+
+FILE: examples\neighbors\plot_lof_novelty_detection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neighbors\plot_lof_outlier_detection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neighbors\plot_nca_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.30/10
+
+FILE: examples\neighbors\plot_nca_dim_reduction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neighbors\plot_nca_illustration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.74/10
+
+FILE: examples\neighbors\plot_nearest_centroid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.45/10
+
+FILE: examples\neighbors\plot_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: examples\neighbors\plot_species_kde.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.85/10
+
+FILE: examples\neural_networks\plot_mlp_alpha.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.12/10
+
+FILE: examples\neural_networks\plot_mlp_training_curves.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 0
+R: 0
+Total messages: 5
+Average rating: 4.72/10
+
+FILE: examples\neural_networks\plot_mnist_filters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\neural_networks\plot_rbm_logistic_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.72/10
+
+FILE: examples\preprocessing\plot_all_scaling.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 3
+C: 0
+R: 3
+Total messages: 9
+Average rating: 6.39/10
+
+FILE: examples\preprocessing\plot_discretization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.06/10
+
+FILE: examples\preprocessing\plot_discretization_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.39/10
+
+FILE: examples\preprocessing\plot_discretization_strategies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.67/10
+
+FILE: examples\preprocessing\plot_map_data_to_normal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.02/10
+
+FILE: examples\preprocessing\plot_scaling_importance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 4
+C: 0
+R: 0
+Total messages: 8
+Average rating: 5.73/10
+
+FILE: examples\preprocessing\plot_target_encoder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.46/10
+
+FILE: examples\preprocessing\plot_target_encoder_cross_val.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 0
+C: 0
+R: 0
+Total messages: 7
+Average rating: 2.55/10
+
+FILE: examples\release_highlights\plot_release_highlights_0_22_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.49/10
+
+FILE: examples\release_highlights\plot_release_highlights_0_23_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.71/10
+
+FILE: examples\release_highlights\plot_release_highlights_0_24_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 1
+C: 0
+R: 0
+Total messages: 8
+Average rating: 4.15/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_0_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_1_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 1
+R: 1
+Total messages: 6
+Average rating: 6.87/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_2_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.53/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_3_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.56/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_4_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 3
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.00/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_5_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.95/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_6_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.89/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_7_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 0
+Total messages: 3
+Average rating: 6.54/10
+
+FILE: examples\release_highlights\plot_release_highlights_1_8_0.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.84/10
+
+FILE: examples\semi_supervised\plot_label_propagation_digits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 0
+Total messages: 5
+Average rating: 3.59/10
+
+FILE: examples\semi_supervised\plot_label_propagation_digits_active_learning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 0
+Total messages: 5
+Average rating: 5.37/10
+
+FILE: examples\semi_supervised\plot_label_propagation_structure.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\semi_supervised\plot_self_training_varying_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\semi_supervised\plot_semi_supervised_newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 7.09/10
+
+FILE: examples\semi_supervised\plot_semi_supervised_versus_svm_iris.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.15/10
+
+FILE: examples\svm\plot_custom_kernel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 1.58/10
+
+FILE: examples\svm\plot_iris_svc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: examples\svm\plot_linearsvc_support_vectors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_oneclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_rbf_parameters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.58/10
+
+FILE: examples\svm\plot_separating_hyperplane.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_separating_hyperplane_unbalanced.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_svm_anova.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 2
+Total messages: 3
+Average rating: 6.67/10
+
+FILE: examples\svm\plot_svm_kernels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 1
+Total messages: 6
+Average rating: 6.30/10
+
+FILE: examples\svm\plot_svm_margin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_svm_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_svm_scale_c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_svm_tie_breaking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\svm\plot_weighted_samples.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.08/10
+
+FILE: examples\text\plot_document_classification_20newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 1
+R: 1
+Total messages: 17
+Average rating: 6.34/10
+
+FILE: examples\text\plot_document_clustering.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.83/10
+
+FILE: examples\text\plot_hashing_vs_dict_vectorizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.39/10
+
+FILE: examples\tree\plot_cost_complexity_pruning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\tree\plot_iris_dtc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 0
+C: 0
+R: 0
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: examples\tree\plot_tree_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: examples\tree\plot_unveil_tree_structure.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.11/10
+
+FILE: maint_tools\bump-dependencies-versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 1
+Total messages: 9
+Average rating: 6.96/10
+
+FILE: maint_tools\check_xfailed_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: maint_tools\sort_whats_new.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.23/10
+
+FILE: maint_tools\update_tracking_issue.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.70/10
+
+FILE: sklearn\__check_build\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.89/10
+
+FILE: sklearn\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 1
+Total messages: 4
+Average rating: 7.19/10
+
+FILE: sklearn\_build_utils\tempita.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\_build_utils\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 1.67/10
+
+FILE: sklearn\_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 3
+Total messages: 5
+Average rating: 8.14/10
+
+FILE: sklearn\_loss\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\_loss\link.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\_loss\loss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 29
+Total messages: 46
+Average rating: 6.90/10
+
+FILE: sklearn\_loss\tests\test_link.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 4
+R: 1
+Total messages: 7
+Average rating: 7.19/10
+
+FILE: sklearn\_loss\tests\test_loss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 10
+C: 1
+R: 11
+Total messages: 28
+Average rating: 8.36/10
+
+FILE: sklearn\_min_dependencies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 4
+R: 6
+Total messages: 20
+Average rating: 8.37/10
+
+FILE: sklearn\calibration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 16
+Total messages: 29
+Average rating: 7.93/10
+
+FILE: sklearn\cluster\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\cluster\_affinity_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 9
+Total messages: 18
+Average rating: 6.74/10
+
+FILE: sklearn\cluster\_agglomerative.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 5
+R: 20
+Total messages: 46
+Average rating: 6.69/10
+
+FILE: sklearn\cluster\_bicluster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 1
+R: 4
+Total messages: 15
+Average rating: 7.62/10
+
+FILE: sklearn\cluster\_birch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 9
+Total messages: 22
+Average rating: 7.50/10
+
+FILE: sklearn\cluster\_bisect_k_means.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 3
+Total messages: 14
+Average rating: 6.83/10
+
+FILE: sklearn\cluster\_dbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 3
+Total messages: 9
+Average rating: 5.79/10
+
+FILE: sklearn\cluster\_feature_agglomeration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 2
+C: 0
+R: 0
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: sklearn\cluster\_hdbscan\hdbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 12
+C: 1
+R: 13
+Total messages: 29
+Average rating: 6.41/10
+
+FILE: sklearn\cluster\_hdbscan\tests\test_reachibility.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.74/10
+
+FILE: sklearn\cluster\_kmeans.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 59
+C: 1
+R: 33
+Total messages: 102
+Average rating: 4.03/10
+
+FILE: sklearn\cluster\_mean_shift.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 6
+Total messages: 11
+Average rating: 7.63/10
+
+FILE: sklearn\cluster\_optics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 7
+C: 1
+R: 14
+Total messages: 24
+Average rating: 7.42/10
+
+FILE: sklearn\cluster\_spectral.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 5
+Total messages: 15
+Average rating: 6.72/10
+
+FILE: sklearn\cluster\tests\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 3.75/10
+
+FILE: sklearn\cluster\tests\test_affinity_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 14
+C: 0
+R: 0
+Total messages: 16
+Average rating: 6.77/10
+
+FILE: sklearn\cluster\tests\test_bicluster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 1
+Total messages: 6
+Average rating: 8.27/10
+
+FILE: sklearn\cluster\tests\test_birch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 2
+Total messages: 10
+Average rating: 7.74/10
+
+FILE: sklearn\cluster\tests\test_bisect_k_means.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 1
+C: 0
+R: 0
+Total messages: 8
+Average rating: 5.37/10
+
+FILE: sklearn\cluster\tests\test_dbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 11
+C: 1
+R: 1
+Total messages: 17
+Average rating: 7.50/10
+
+FILE: sklearn\cluster\tests\test_feature_agglomeration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\cluster\tests\test_hdbscan.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 11
+C: 1
+R: 0
+Total messages: 15
+Average rating: 8.05/10
+
+FILE: sklearn\cluster\tests\test_hierarchical.py
+--------------------------------------------------------------------------------
+F: 0
+E: 26
+W: 13
+C: 3
+R: 2
+Total messages: 44
+Average rating: 6.12/10
+
+FILE: sklearn\cluster\tests\test_k_means.py
+--------------------------------------------------------------------------------
+F: 0
+E: 21
+W: 48
+C: 1
+R: 3
+Total messages: 73
+Average rating: 5.29/10
+
+FILE: sklearn\cluster\tests\test_mean_shift.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.57/10
+
+FILE: sklearn\cluster\tests\test_optics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 38
+C: 0
+R: 0
+Total messages: 43
+Average rating: 4.35/10
+
+FILE: sklearn\cluster\tests\test_spectral.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 10
+C: 1
+R: 0
+Total messages: 14
+Average rating: 6.85/10
+
+FILE: sklearn\compose\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\compose\_column_transformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 10
+C: 2
+R: 10
+Total messages: 28
+Average rating: 7.83/10
+
+FILE: sklearn\compose\_target.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 3
+Total messages: 8
+Average rating: 7.64/10
+
+FILE: sklearn\compose\tests\test_column_transformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 37
+C: 3
+R: 1
+Total messages: 47
+Average rating: 8.67/10
+
+FILE: sklearn\compose\tests\test_target.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 0
+Total messages: 8
+Average rating: 8.91/10
+
+FILE: sklearn\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 26
+C: 5
+R: 11
+Total messages: 43
+Average rating: 5.80/10
+
+FILE: sklearn\covariance\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\covariance\_elliptic_envelope.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.33/10
+
+FILE: sklearn\covariance\_empirical_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 6.88/10
+
+FILE: sklearn\covariance\_graph_lasso.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 1
+R: 24
+Total messages: 40
+Average rating: 6.21/10
+
+FILE: sklearn\covariance\_robust_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 12
+Total messages: 25
+Average rating: 7.22/10
+
+FILE: sklearn\covariance\_shrunk_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 1
+Total messages: 9
+Average rating: 7.95/10
+
+FILE: sklearn\covariance\tests\test_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 0
+R: 2
+Total messages: 12
+Average rating: 8.33/10
+
+FILE: sklearn\covariance\tests\test_elliptic_envelope.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.21/10
+
+FILE: sklearn\covariance\tests\test_graphical_lasso.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 1
+C: 0
+R: 4
+Total messages: 14
+Average rating: 6.00/10
+
+FILE: sklearn\covariance\tests\test_robust_covariance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 9
+C: 0
+R: 3
+Total messages: 16
+Average rating: 3.54/10
+
+FILE: sklearn\cross_decomposition\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\cross_decomposition\_pls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 32
+C: 1
+R: 15
+Total messages: 48
+Average rating: 5.08/10
+
+FILE: sklearn\cross_decomposition\tests\test_pls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 27
+W: 15
+C: 0
+R: 2
+Total messages: 44
+Average rating: 4.29/10
+
+FILE: sklearn\datasets\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: sklearn\datasets\_arff_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 16
+Total messages: 18
+Average rating: 7.81/10
+
+FILE: sklearn\datasets\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 11
+Total messages: 15
+Average rating: 9.03/10
+
+FILE: sklearn\datasets\_california_housing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.41/10
+
+FILE: sklearn\datasets\_covtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.79/10
+
+FILE: sklearn\datasets\_kddcup99.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 5
+Total messages: 6
+Average rating: 8.91/10
+
+FILE: sklearn\datasets\_lfw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 2
+R: 8
+Total messages: 13
+Average rating: 8.12/10
+
+FILE: sklearn\datasets\_olivetti_faces.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.50/10
+
+FILE: sklearn\datasets\_openml.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 3
+R: 10
+Total messages: 20
+Average rating: 8.17/10
+
+FILE: sklearn\datasets\_rcv1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 7
+R: 4
+Total messages: 13
+Average rating: 8.16/10
+
+FILE: sklearn\datasets\_samples_generator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 21
+Total messages: 27
+Average rating: 8.82/10
+
+FILE: sklearn\datasets\_species_distributions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 2
+Total messages: 6
+Average rating: 7.97/10
+
+FILE: sklearn\datasets\_svmlight_format_io.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 13
+Total messages: 15
+Average rating: 7.45/10
+
+FILE: sklearn\datasets\_twenty_newsgroups.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 12
+Total messages: 15
+Average rating: 7.76/10
+
+FILE: sklearn\datasets\tests\test_20news.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.36/10
+
+FILE: sklearn\datasets\tests\test_arff_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\datasets\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 19
+C: 2
+R: 6
+Total messages: 33
+Average rating: 7.01/10
+
+FILE: sklearn\datasets\tests\test_california_housing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: sklearn\datasets\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 8.09/10
+
+FILE: sklearn\datasets\tests\test_covtype.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: sklearn\datasets\tests\test_kddcup99.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.12/10
+
+FILE: sklearn\datasets\tests\test_lfw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 6
+C: 0
+R: 1
+Total messages: 17
+Average rating: 1.57/10
+
+FILE: sklearn\datasets\tests\test_olivetti_faces.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\datasets\tests\test_openml.py
+--------------------------------------------------------------------------------
+F: 0
+E: 69
+W: 18
+C: 2
+R: 18
+Total messages: 107
+Average rating: 1.40/10
+
+FILE: sklearn\datasets\tests\test_rcv1.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.51/10
+
+FILE: sklearn\datasets\tests\test_samples_generator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 5
+C: 3
+R: 4
+Total messages: 17
+Average rating: 8.29/10
+
+FILE: sklearn\datasets\tests\test_svmlight_format.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 41
+C: 0
+R: 3
+Total messages: 48
+Average rating: 5.78/10
+
+FILE: sklearn\decomposition\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\decomposition\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 36
+W: 0
+C: 0
+R: 1
+Total messages: 37
+Average rating: 0.00/10
+
+FILE: sklearn\decomposition\_dict_learning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 33
+C: 1
+R: 30
+Total messages: 68
+Average rating: 5.49/10
+
+FILE: sklearn\decomposition\_factor_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 7.56/10
+
+FILE: sklearn\decomposition\_fastica.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 14
+C: 0
+R: 12
+Total messages: 27
+Average rating: 6.43/10
+
+FILE: sklearn\decomposition\_incremental_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 0
+R: 5
+Total messages: 32
+Average rating: 0.52/10
+
+FILE: sklearn\decomposition\_kernel_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 0
+R: 3
+Total messages: 21
+Average rating: 4.59/10
+
+FILE: sklearn\decomposition\_lda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 0
+R: 9
+Total messages: 27
+Average rating: 6.97/10
+
+FILE: sklearn\decomposition\_nmf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 43
+C: 1
+R: 40
+Total messages: 87
+Average rating: 6.15/10
+
+FILE: sklearn\decomposition\_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 28
+C: 0
+R: 12
+Total messages: 40
+Average rating: 4.93/10
+
+FILE: sklearn\decomposition\_sparse_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 9
+C: 0
+R: 6
+Total messages: 19
+Average rating: 2.89/10
+
+FILE: sklearn\decomposition\_truncated_svd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 2
+Total messages: 8
+Average rating: 6.56/10
+
+FILE: sklearn\decomposition\tests\test_dict_learning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 26
+W: 13
+C: 3
+R: 0
+Total messages: 42
+Average rating: 5.98/10
+
+FILE: sklearn\decomposition\tests\test_factor_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.33/10
+
+FILE: sklearn\decomposition\tests\test_fastica.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 5
+C: 0
+R: 2
+Total messages: 20
+Average rating: 6.56/10
+
+FILE: sklearn\decomposition\tests\test_incremental_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 19
+W: 2
+C: 0
+R: 0
+Total messages: 21
+Average rating: 6.26/10
+
+FILE: sklearn\decomposition\tests\test_kernel_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 1
+C: 1
+R: 2
+Total messages: 12
+Average rating: 7.80/10
+
+FILE: sklearn\decomposition\tests\test_nmf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 27
+C: 1
+R: 4
+Total messages: 47
+Average rating: 6.37/10
+
+FILE: sklearn\decomposition\tests\test_online_lda.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 4
+C: 0
+R: 0
+Total messages: 16
+Average rating: 6.65/10
+
+FILE: sklearn\decomposition\tests\test_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 43
+W: 3
+C: 1
+R: 10
+Total messages: 57
+Average rating: 5.44/10
+
+FILE: sklearn\decomposition\tests\test_sparse_pca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 0
+C: 0
+R: 1
+Total messages: 17
+Average rating: 5.42/10
+
+FILE: sklearn\decomposition\tests\test_truncated_svd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 0
+R: 1
+Total messages: 13
+Average rating: 6.00/10
+
+FILE: sklearn\discriminant_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 39
+C: 1
+R: 12
+Total messages: 52
+Average rating: 5.17/10
+
+FILE: sklearn\dummy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 5
+Total messages: 22
+Average rating: 6.90/10
+
+FILE: sklearn\ensemble\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\ensemble\_bagging.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 16
+C: 1
+R: 19
+Total messages: 40
+Average rating: 6.73/10
+
+FILE: sklearn\ensemble\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 3
+C: 0
+R: 2
+Total messages: 9
+Average rating: 6.29/10
+
+FILE: sklearn\ensemble\_bootstrap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: sklearn\ensemble\_forest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 28
+C: 1
+R: 36
+Total messages: 70
+Average rating: 5.72/10
+
+FILE: sklearn\ensemble\_gb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 51
+C: 1
+R: 30
+Total messages: 94
+Average rating: 4.17/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\binning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 4
+Total messages: 11
+Average rating: 7.67/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 42
+C: 1
+R: 26
+Total messages: 83
+Average rating: 5.63/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\grower.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 11
+Total messages: 11
+Average rating: 9.14/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\predictor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_binning.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 1
+Total messages: 7
+Average rating: 8.71/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_bitset.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_compare_lightgbm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 0
+R: 3
+Total messages: 7
+Average rating: 7.53/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 23
+W: 28
+C: 3
+R: 8
+Total messages: 62
+Average rating: 6.90/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_grower.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 1
+C: 0
+R: 5
+Total messages: 13
+Average rating: 8.33/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_histogram.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.58/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_monotonic_constraints.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.29/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_predictor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.75/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_splitting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 1
+C: 1
+R: 15
+Total messages: 22
+Average rating: 8.28/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\tests\test_warm_start.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 1
+Total messages: 10
+Average rating: 6.52/10
+
+FILE: sklearn\ensemble\_hist_gradient_boosting\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 5
+Total messages: 8
+Average rating: 6.18/10
+
+FILE: sklearn\ensemble\_iforest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 4
+Total messages: 10
+Average rating: 7.68/10
+
+FILE: sklearn\ensemble\_stacking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 14
+C: 1
+R: 10
+Total messages: 29
+Average rating: 6.29/10
+
+FILE: sklearn\ensemble\_voting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 6
+C: 0
+R: 6
+Total messages: 19
+Average rating: 5.55/10
+
+FILE: sklearn\ensemble\_weight_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 10
+C: 1
+R: 12
+Total messages: 24
+Average rating: 7.26/10
+
+FILE: sklearn\ensemble\tests\test_bagging.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 46
+C: 2
+R: 8
+Total messages: 58
+Average rating: 6.45/10
+
+FILE: sklearn\ensemble\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 4
+C: 0
+R: 0
+Total messages: 9
+Average rating: 3.73/10
+
+FILE: sklearn\ensemble\tests\test_bootstrap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.65/10
+
+FILE: sklearn\ensemble\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 6.43/10
+
+FILE: sklearn\ensemble\tests\test_forest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 122
+C: 3
+R: 14
+Total messages: 153
+Average rating: 4.74/10
+
+FILE: sklearn\ensemble\tests\test_gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 104
+C: 9
+R: 2
+Total messages: 119
+Average rating: 5.65/10
+
+FILE: sklearn\ensemble\tests\test_iforest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 2
+C: 0
+R: 0
+Total messages: 12
+Average rating: 7.08/10
+
+FILE: sklearn\ensemble\tests\test_stacking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 4
+C: 1
+R: 5
+Total messages: 24
+Average rating: 7.06/10
+
+FILE: sklearn\ensemble\tests\test_voting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 31
+W: 38
+C: 0
+R: 3
+Total messages: 72
+Average rating: 1.64/10
+
+FILE: sklearn\ensemble\tests\test_weight_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 21
+C: 5
+R: 8
+Total messages: 39
+Average rating: 6.37/10
+
+FILE: sklearn\exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.43/10
+
+FILE: sklearn\experimental\enable_halving_search_cv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\experimental\enable_hist_gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\experimental\enable_iterative_imputer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\experimental\tests\test_enable_hist_gradient_boosting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\experimental\tests\test_enable_iterative_imputer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\experimental\tests\test_enable_successive_halving.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\_arff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 2
+R: 14
+Total messages: 27
+Average rating: 8.58/10
+
+FILE: sklearn\externals\_array_api_compat_vendor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\_numpydoc\docscrape.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 12
+Total messages: 19
+Average rating: 9.09/10
+
+FILE: sklearn\externals\_packaging\_structures.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\_packaging\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.71/10
+
+FILE: sklearn\externals\_scipy\sparse\csgraph\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\_scipy\sparse\csgraph\_laplacian.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 15
+Total messages: 15
+Average rating: 7.95/10
+
+FILE: sklearn\externals\array_api_compat\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\_internal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.67/10
+
+FILE: sklearn\externals\array_api_compat\common\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\common\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 6
+Total messages: 10
+Average rating: 9.12/10
+
+FILE: sklearn\externals\array_api_compat\common\_fft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\common\_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 19
+R: 7
+Total messages: 35
+Average rating: 7.95/10
+
+FILE: sklearn\externals\array_api_compat\common\_linalg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 9.19/10
+
+FILE: sklearn\externals\array_api_compat\common\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 9.59/10
+
+FILE: sklearn\externals\array_api_compat\cupy\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: sklearn\externals\array_api_compat\cupy\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.20/10
+
+FILE: sklearn\externals\array_api_compat\cupy\_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 6.76/10
+
+FILE: sklearn\externals\array_api_compat\cupy\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\cupy\fft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.85/10
+
+FILE: sklearn\externals\array_api_compat\cupy\linalg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: sklearn\externals\array_api_compat\dask\array\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.38/10
+
+FILE: sklearn\externals\array_api_compat\dask\array\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 0
+Total messages: 13
+Average rating: 7.02/10
+
+FILE: sklearn\externals\array_api_compat\dask\array\_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.15/10
+
+FILE: sklearn\externals\array_api_compat\dask\array\fft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\dask\array\linalg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.70/10
+
+FILE: sklearn\externals\array_api_compat\numpy\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.71/10
+
+FILE: sklearn\externals\array_api_compat\numpy\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 8.02/10
+
+FILE: sklearn\externals\array_api_compat\numpy\_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.89/10
+
+FILE: sklearn\externals\array_api_compat\numpy\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\numpy\fft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\numpy\linalg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 9.40/10
+
+FILE: sklearn\externals\array_api_compat\torch\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 0.00/10
+
+FILE: sklearn\externals\array_api_compat\torch\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 4
+R: 9
+Total messages: 20
+Average rating: 8.90/10
+
+FILE: sklearn\externals\array_api_compat\torch\_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 2
+R: 1
+Total messages: 10
+Average rating: 6.30/10
+
+FILE: sklearn\externals\array_api_compat\torch\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\torch\fft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_compat\torch\linalg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 0
+Total messages: 8
+Average rating: 7.89/10
+
+FILE: sklearn\externals\array_api_extra\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_extra\_delegation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 9.19/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_at.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 3
+Total messages: 5
+Average rating: 9.21/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_backends.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_funcs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 2
+Total messages: 5
+Average rating: 9.71/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_lazy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 3
+Total messages: 9
+Average rating: 8.76/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_testing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 3
+Total messages: 8
+Average rating: 8.69/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_utils\_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_utils\_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 9.61/10
+
+FILE: sklearn\externals\array_api_extra\_lib\_utils\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\externals\array_api_extra\testing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 0
+Total messages: 6
+Average rating: 9.41/10
+
+FILE: sklearn\externals\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 0.00/10
+
+FILE: sklearn\feature_extraction\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\feature_extraction\_dict_vectorizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 7.72/10
+
+FILE: sklearn\feature_extraction\_hash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.70/10
+
+FILE: sklearn\feature_extraction\_stop_words.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\feature_extraction\image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 6
+Total messages: 8
+Average rating: 8.92/10
+
+FILE: sklearn\feature_extraction\tests\test_dict_vectorizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.48/10
+
+FILE: sklearn\feature_extraction\tests\test_feature_hasher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.80/10
+
+FILE: sklearn\feature_extraction\tests\test_image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 17
+C: 0
+R: 1
+Total messages: 19
+Average rating: 7.54/10
+
+FILE: sklearn\feature_extraction\tests\test_text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 21
+C: 3
+R: 6
+Total messages: 40
+Average rating: 8.37/10
+
+FILE: sklearn\feature_extraction\text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 16
+Total messages: 30
+Average rating: 8.62/10
+
+FILE: sklearn\feature_selection\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\feature_selection\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.49/10
+
+FILE: sklearn\feature_selection\_from_model.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 5
+Total messages: 14
+Average rating: 7.28/10
+
+FILE: sklearn\feature_selection\_mutual_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 5
+Total messages: 5
+Average rating: 9.10/10
+
+FILE: sklearn\feature_selection\_rfe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 1
+R: 9
+Total messages: 25
+Average rating: 6.77/10
+
+FILE: sklearn\feature_selection\_sequential.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 5
+Total messages: 11
+Average rating: 6.59/10
+
+FILE: sklearn\feature_selection\_univariate_selection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 1
+R: 9
+Total messages: 23
+Average rating: 7.35/10
+
+FILE: sklearn\feature_selection\_variance_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 5.53/10
+
+FILE: sklearn\feature_selection\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.17/10
+
+FILE: sklearn\feature_selection\tests\test_chi2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.24/10
+
+FILE: sklearn\feature_selection\tests\test_feature_select.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 4
+C: 3
+R: 0
+Total messages: 12
+Average rating: 9.05/10
+
+FILE: sklearn\feature_selection\tests\test_from_model.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 21
+C: 0
+R: 1
+Total messages: 24
+Average rating: 7.77/10
+
+FILE: sklearn\feature_selection\tests\test_mutual_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.23/10
+
+FILE: sklearn\feature_selection\tests\test_rfe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 53
+W: 10
+C: 2
+R: 0
+Total messages: 65
+Average rating: 2.67/10
+
+FILE: sklearn\feature_selection\tests\test_sequential.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.51/10
+
+FILE: sklearn\feature_selection\tests\test_variance_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\frozen\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\frozen\_frozen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 6.51/10
+
+FILE: sklearn\frozen\tests\test_frozen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 0
+Total messages: 17
+Average rating: 5.68/10
+
+FILE: sklearn\gaussian_process\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\gaussian_process\_gpc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 22
+C: 0
+R: 11
+Total messages: 35
+Average rating: 5.48/10
+
+FILE: sklearn\gaussian_process\_gpr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 10
+Total messages: 24
+Average rating: 6.56/10
+
+FILE: sklearn\gaussian_process\kernels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 1
+R: 25
+Total messages: 32
+Average rating: 8.75/10
+
+FILE: sklearn\gaussian_process\tests\_mini_sequence_kernel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 7.60/10
+
+FILE: sklearn\gaussian_process\tests\test_gpc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 0
+R: 0
+Total messages: 10
+Average rating: 7.66/10
+
+FILE: sklearn\gaussian_process\tests\test_gpr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 24
+C: 0
+R: 0
+Total messages: 33
+Average rating: 6.81/10
+
+FILE: sklearn\gaussian_process\tests\test_kernels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.34/10
+
+FILE: sklearn\impute\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\impute\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 14
+C: 1
+R: 17
+Total messages: 35
+Average rating: 7.51/10
+
+FILE: sklearn\impute\_iterative.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 2
+R: 9
+Total messages: 26
+Average rating: 7.16/10
+
+FILE: sklearn\impute\_knn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 1
+Total messages: 6
+Average rating: 8.25/10
+
+FILE: sklearn\impute\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 0
+Total messages: 12
+Average rating: 4.86/10
+
+FILE: sklearn\impute\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\impute\tests\test_impute.py
+--------------------------------------------------------------------------------
+F: 0
+E: 26
+W: 10
+C: 1
+R: 5
+Total messages: 42
+Average rating: 7.90/10
+
+FILE: sklearn\impute\tests\test_knn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 9.38/10
+
+FILE: sklearn\inspection\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\inspection\_partial_dependence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 6
+Total messages: 7
+Average rating: 9.03/10
+
+FILE: sklearn\inspection\_pd_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\inspection\_permutation_importance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 8.49/10
+
+FILE: sklearn\inspection\_plot\decision_boundary.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 6
+R: 9
+Total messages: 22
+Average rating: 7.02/10
+
+FILE: sklearn\inspection\_plot\partial_dependence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 7
+R: 28
+Total messages: 54
+Average rating: 6.46/10
+
+FILE: sklearn\inspection\_plot\tests\test_boundary_decision_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 94
+C: 4
+R: 2
+Total messages: 110
+Average rating: 0.34/10
+
+FILE: sklearn\inspection\_plot\tests\test_plot_partial_dependence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 67
+C: 1
+R: 25
+Total messages: 94
+Average rating: 4.31/10
+
+FILE: sklearn\inspection\tests\test_partial_dependence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 22
+W: 63
+C: 2
+R: 4
+Total messages: 91
+Average rating: 2.55/10
+
+FILE: sklearn\inspection\tests\test_pd_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\inspection\tests\test_permutation_importance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 3
+C: 0
+R: 1
+Total messages: 14
+Average rating: 7.02/10
+
+FILE: sklearn\isotonic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 7.30/10
+
+FILE: sklearn\kernel_approximation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 1
+R: 5
+Total messages: 30
+Average rating: 6.88/10
+
+FILE: sklearn\kernel_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.23/10
+
+FILE: sklearn\linear_model\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\linear_model\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 18
+C: 0
+R: 13
+Total messages: 32
+Average rating: 6.53/10
+
+FILE: sklearn\linear_model\_bayes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 18
+Total messages: 36
+Average rating: 5.79/10
+
+FILE: sklearn\linear_model\_coordinate_descent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 27
+C: 2
+R: 48
+Total messages: 79
+Average rating: 6.50/10
+
+FILE: sklearn\linear_model\_glm\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\linear_model\_glm\_newton_solver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 28
+C: 0
+R: 4
+Total messages: 41
+Average rating: 3.01/10
+
+FILE: sklearn\linear_model\_glm\glm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 17
+C: 0
+R: 9
+Total messages: 30
+Average rating: 3.60/10
+
+FILE: sklearn\linear_model\_glm\tests\test_glm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 15
+C: 2
+R: 15
+Total messages: 36
+Average rating: 8.05/10
+
+FILE: sklearn\linear_model\_huber.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 0
+R: 5
+Total messages: 12
+Average rating: 6.41/10
+
+FILE: sklearn\linear_model\_least_angle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 27
+C: 1
+R: 33
+Total messages: 79
+Average rating: 4.76/10
+
+FILE: sklearn\linear_model\_linear_loss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 21
+Total messages: 26
+Average rating: 7.66/10
+
+FILE: sklearn\linear_model\_logistic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 49
+C: 2
+R: 24
+Total messages: 83
+Average rating: 5.33/10
+
+FILE: sklearn\linear_model\_omp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 25
+Total messages: 36
+Average rating: 7.02/10
+
+FILE: sklearn\linear_model\_passive_aggressive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 5
+Total messages: 9
+Average rating: 4.21/10
+
+FILE: sklearn\linear_model\_perceptron.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 4.00/10
+
+FILE: sklearn\linear_model\_quantile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 5
+Total messages: 10
+Average rating: 6.62/10
+
+FILE: sklearn\linear_model\_ransac.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 4
+R: 8
+Total messages: 19
+Average rating: 7.64/10
+
+FILE: sklearn\linear_model\_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 43
+C: 2
+R: 54
+Total messages: 102
+Average rating: 6.78/10
+
+FILE: sklearn\linear_model\_sag.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 7
+Total messages: 7
+Average rating: 8.08/10
+
+FILE: sklearn\linear_model\_stochastic_gradient.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 88
+C: 1
+R: 58
+Total messages: 153
+Average rating: 1.97/10
+
+FILE: sklearn\linear_model\_theil_sen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 3
+Total messages: 10
+Average rating: 7.57/10
+
+FILE: sklearn\linear_model\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 22
+W: 10
+C: 0
+R: 9
+Total messages: 41
+Average rating: 7.14/10
+
+FILE: sklearn\linear_model\tests\test_bayes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 6
+C: 0
+R: 1
+Total messages: 14
+Average rating: 6.60/10
+
+FILE: sklearn\linear_model\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 1
+Total messages: 7
+Average rating: 6.05/10
+
+FILE: sklearn\linear_model\tests\test_coordinate_descent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 22
+W: 16
+C: 3
+R: 20
+Total messages: 61
+Average rating: 7.83/10
+
+FILE: sklearn\linear_model\tests\test_huber.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.21/10
+
+FILE: sklearn\linear_model\tests\test_least_angle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 30
+W: 41
+C: 3
+R: 0
+Total messages: 74
+Average rating: 3.35/10
+
+FILE: sklearn\linear_model\tests\test_linear_loss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 6
+C: 0
+R: 7
+Total messages: 21
+Average rating: 6.54/10
+
+FILE: sklearn\linear_model\tests\test_logistic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 62
+W: 73
+C: 1
+R: 21
+Total messages: 157
+Average rating: 4.95/10
+
+FILE: sklearn\linear_model\tests\test_omp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 8.64/10
+
+FILE: sklearn\linear_model\tests\test_passive_aggressive.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 14
+C: 0
+R: 2
+Total messages: 24
+Average rating: 5.14/10
+
+FILE: sklearn\linear_model\tests\test_perceptron.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 7
+C: 0
+R: 0
+Total messages: 10
+Average rating: 4.10/10
+
+FILE: sklearn\linear_model\tests\test_quantile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 1
+R: 1
+Total messages: 7
+Average rating: 8.35/10
+
+FILE: sklearn\linear_model\tests\test_ransac.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 32
+C: 0
+R: 1
+Total messages: 35
+Average rating: 6.00/10
+
+FILE: sklearn\linear_model\tests\test_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 50
+W: 50
+C: 3
+R: 37
+Total messages: 140
+Average rating: 6.17/10
+
+FILE: sklearn\linear_model\tests\test_sag.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 6
+C: 0
+R: 15
+Total messages: 28
+Average rating: 8.04/10
+
+FILE: sklearn\linear_model\tests\test_sgd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 57
+W: 58
+C: 1
+R: 10
+Total messages: 126
+Average rating: 5.51/10
+
+FILE: sklearn\linear_model\tests\test_sparse_coordinate_descent.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 5
+Total messages: 8
+Average rating: 8.81/10
+
+FILE: sklearn\linear_model\tests\test_theil_sen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 7
+C: 0
+R: 0
+Total messages: 13
+Average rating: 7.29/10
+
+FILE: sklearn\manifold\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\manifold\_classical_mds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 4.75/10
+
+FILE: sklearn\manifold\_isomap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 2
+Total messages: 15
+Average rating: 5.06/10
+
+FILE: sklearn\manifold\_locally_linear.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 12
+Total messages: 22
+Average rating: 7.60/10
+
+FILE: sklearn\manifold\_mds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 11
+Total messages: 28
+Average rating: 5.10/10
+
+FILE: sklearn\manifold\_spectral_embedding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 9
+Total messages: 22
+Average rating: 7.06/10
+
+FILE: sklearn\manifold\_t_sne.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 17
+Total messages: 30
+Average rating: 7.28/10
+
+FILE: sklearn\manifold\tests\test_classical_mds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.52/10
+
+FILE: sklearn\manifold\tests\test_isomap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.81/10
+
+FILE: sklearn\manifold\tests\test_locally_linear.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.71/10
+
+FILE: sklearn\manifold\tests\test_mds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.09/10
+
+FILE: sklearn\manifold\tests\test_spectral_embedding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 4
+C: 0
+R: 1
+Total messages: 18
+Average rating: 6.39/10
+
+FILE: sklearn\manifold\tests\test_t_sne.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 1
+R: 5
+Total messages: 18
+Average rating: 8.98/10
+
+FILE: sklearn\metrics\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\metrics\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 8.90/10
+
+FILE: sklearn\metrics\_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 6
+C: 1
+R: 39
+Total messages: 49
+Average rating: 8.37/10
+
+FILE: sklearn\metrics\_pairwise_distances_reduction\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\metrics\_pairwise_distances_reduction\_dispatcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 8
+Total messages: 16
+Average rating: 4.20/10
+
+FILE: sklearn\metrics\_plot\confusion_matrix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 8
+Total messages: 15
+Average rating: 4.85/10
+
+FILE: sklearn\metrics\_plot\det_curve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 6.98/10
+
+FILE: sklearn\metrics\_plot\precision_recall_curve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 10
+Total messages: 17
+Average rating: 5.49/10
+
+FILE: sklearn\metrics\_plot\regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 2
+Total messages: 9
+Average rating: 6.46/10
+
+FILE: sklearn\metrics\_plot\roc_curve.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 10
+Total messages: 16
+Average rating: 4.72/10
+
+FILE: sklearn\metrics\_plot\tests\test_common_curve_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 36
+C: 0
+R: 6
+Total messages: 42
+Average rating: 6.10/10
+
+FILE: sklearn\metrics\_plot\tests\test_confusion_matrix_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 3
+Total messages: 12
+Average rating: 8.47/10
+
+FILE: sklearn\metrics\_plot\tests\test_det_curve_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 2
+R: 3
+Total messages: 9
+Average rating: 6.33/10
+
+FILE: sklearn\metrics\_plot\tests\test_precision_recall_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 15
+C: 8
+R: 3
+Total messages: 32
+Average rating: 6.64/10
+
+FILE: sklearn\metrics\_plot\tests\test_predict_error_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 2
+Total messages: 11
+Average rating: 5.00/10
+
+FILE: sklearn\metrics\_plot\tests\test_roc_curve_display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 18
+C: 8
+R: 8
+Total messages: 36
+Average rating: 6.05/10
+
+FILE: sklearn\metrics\_ranking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 16
+Total messages: 19
+Average rating: 8.99/10
+
+FILE: sklearn\metrics\_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 11
+Total messages: 29
+Average rating: 7.11/10
+
+FILE: sklearn\metrics\_scorer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 1
+R: 8
+Total messages: 21
+Average rating: 7.92/10
+
+FILE: sklearn\metrics\cluster\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\metrics\cluster\_bicluster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: sklearn\metrics\cluster\_supervised.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 3
+Total messages: 5
+Average rating: 9.43/10
+
+FILE: sklearn\metrics\cluster\_unsupervised.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.83/10
+
+FILE: sklearn\metrics\cluster\tests\test_bicluster.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\metrics\cluster\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 7
+C: 0
+R: 0
+Total messages: 9
+Average rating: 7.16/10
+
+FILE: sklearn\metrics\cluster\tests\test_supervised.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 9.25/10
+
+FILE: sklearn\metrics\cluster\tests\test_unsupervised.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 0
+C: 0
+R: 0
+Total messages: 9
+Average rating: 6.72/10
+
+FILE: sklearn\metrics\pairwise.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 12
+Total messages: 19
+Average rating: 9.26/10
+
+FILE: sklearn\metrics\tests\test_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 3
+C: 3
+R: 7
+Total messages: 26
+Average rating: 9.41/10
+
+FILE: sklearn\metrics\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 4
+C: 2
+R: 11
+Total messages: 21
+Average rating: 9.35/10
+
+FILE: sklearn\metrics\tests\test_dist_metrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 4
+Total messages: 11
+Average rating: 8.66/10
+
+FILE: sklearn\metrics\tests\test_pairwise.py
+--------------------------------------------------------------------------------
+F: 0
+E: 42
+W: 2
+C: 3
+R: 19
+Total messages: 66
+Average rating: 7.06/10
+
+FILE: sklearn\metrics\tests\test_pairwise_distances_reduction.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 0
+C: 3
+R: 29
+Total messages: 48
+Average rating: 7.13/10
+
+FILE: sklearn\metrics\tests\test_ranking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 8
+C: 1
+R: 4
+Total messages: 23
+Average rating: 9.29/10
+
+FILE: sklearn\metrics\tests\test_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 1
+R: 5
+Total messages: 11
+Average rating: 8.93/10
+
+FILE: sklearn\metrics\tests\test_score_objects.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 42
+C: 3
+R: 5
+Total messages: 56
+Average rating: 7.51/10
+
+FILE: sklearn\mixture\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\mixture\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 15
+C: 0
+R: 4
+Total messages: 34
+Average rating: 3.12/10
+
+FILE: sklearn\mixture\_bayesian_mixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 43
+C: 0
+R: 4
+Total messages: 47
+Average rating: 0.55/10
+
+FILE: sklearn\mixture\_gaussian_mixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 1
+R: 11
+Total messages: 32
+Average rating: 6.41/10
+
+FILE: sklearn\mixture\tests\test_bayesian_mixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 8
+C: 0
+R: 0
+Total messages: 26
+Average rating: 4.44/10
+
+FILE: sklearn\mixture\tests\test_gaussian_mixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 41
+W: 9
+C: 2
+R: 11
+Total messages: 63
+Average rating: 6.56/10
+
+FILE: sklearn\mixture\tests\test_mixture.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.00/10
+
+FILE: sklearn\model_selection\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\model_selection\_classification_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 10
+C: 0
+R: 5
+Total messages: 21
+Average rating: 5.88/10
+
+FILE: sklearn\model_selection\_plot.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 9
+C: 1
+R: 10
+Total messages: 25
+Average rating: 1.61/10
+
+FILE: sklearn\model_selection\_search.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 12
+Total messages: 30
+Average rating: 8.15/10
+
+FILE: sklearn\model_selection\_search_successive_halving.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 2
+R: 7
+Total messages: 24
+Average rating: 6.23/10
+
+FILE: sklearn\model_selection\_split.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 41
+C: 2
+R: 11
+Total messages: 56
+Average rating: 7.25/10
+
+FILE: sklearn\model_selection\_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 32
+Total messages: 42
+Average rating: 8.10/10
+
+FILE: sklearn\model_selection\tests\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 1
+Total messages: 7
+Average rating: 0.00/10
+
+FILE: sklearn\model_selection\tests\test_classification_threshold.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 2
+C: 0
+R: 0
+Total messages: 8
+Average rating: 8.51/10
+
+FILE: sklearn\model_selection\tests\test_plot.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 3
+R: 8
+Total messages: 35
+Average rating: 6.35/10
+
+FILE: sklearn\model_selection\tests\test_search.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 206
+C: 6
+R: 25
+Total messages: 248
+Average rating: 4.36/10
+
+FILE: sklearn\model_selection\tests\test_split.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 111
+C: 2
+R: 9
+Total messages: 140
+Average rating: 5.92/10
+
+FILE: sklearn\model_selection\tests\test_successive_halving.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 9
+C: 0
+R: 9
+Total messages: 20
+Average rating: 8.07/10
+
+FILE: sklearn\model_selection\tests\test_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 39
+W: 200
+C: 19
+R: 32
+Total messages: 290
+Average rating: 2.44/10
+
+FILE: sklearn\multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 1
+R: 9
+Total messages: 32
+Average rating: 6.96/10
+
+FILE: sklearn\multioutput.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 1
+R: 7
+Total messages: 30
+Average rating: 6.99/10
+
+FILE: sklearn\naive_bayes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 24
+C: 1
+R: 9
+Total messages: 41
+Average rating: 6.72/10
+
+FILE: sklearn\neighbors\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\neighbors\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 47
+C: 1
+R: 22
+Total messages: 70
+Average rating: 5.91/10
+
+FILE: sklearn\neighbors\_classification.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 7
+Total messages: 10
+Average rating: 8.89/10
+
+FILE: sklearn\neighbors\_graph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 6
+Total messages: 14
+Average rating: 4.10/10
+
+FILE: sklearn\neighbors\_kde.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 6
+Total messages: 13
+Average rating: 6.27/10
+
+FILE: sklearn\neighbors\_lof.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 2
+Total messages: 12
+Average rating: 5.90/10
+
+FILE: sklearn\neighbors\_nca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 4
+C: 1
+R: 5
+Total messages: 12
+Average rating: 7.69/10
+
+FILE: sklearn\neighbors\_nearest_centroid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 6
+Total messages: 16
+Average rating: 6.18/10
+
+FILE: sklearn\neighbors\_regression.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 8.71/10
+
+FILE: sklearn\neighbors\_unsupervised.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 0.00/10
+
+FILE: sklearn\neighbors\tests\test_ball_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 8
+C: 1
+R: 2
+Total messages: 15
+Average rating: 5.81/10
+
+FILE: sklearn\neighbors\tests\test_graph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.71/10
+
+FILE: sklearn\neighbors\tests\test_kd_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.39/10
+
+FILE: sklearn\neighbors\tests\test_kde.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 4
+C: 1
+R: 5
+Total messages: 16
+Average rating: 6.73/10
+
+FILE: sklearn\neighbors\tests\test_lof.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 0
+Total messages: 8
+Average rating: 8.69/10
+
+FILE: sklearn\neighbors\tests\test_nca.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 13
+C: 0
+R: 0
+Total messages: 23
+Average rating: 6.90/10
+
+FILE: sklearn\neighbors\tests\test_nearest_centroid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 2
+R: 0
+Total messages: 12
+Average rating: 7.41/10
+
+FILE: sklearn\neighbors\tests\test_neighbors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 32
+W: 43
+C: 1
+R: 43
+Total messages: 119
+Average rating: 6.79/10
+
+FILE: sklearn\neighbors\tests\test_neighbors_pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 0
+R: 1
+Total messages: 6
+Average rating: 7.57/10
+
+FILE: sklearn\neighbors\tests\test_neighbors_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 1
+R: 6
+Total messages: 20
+Average rating: 6.56/10
+
+FILE: sklearn\neighbors\tests\test_quad_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.50/10
+
+FILE: sklearn\neural_network\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\neural_network\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.91/10
+
+FILE: sklearn\neural_network\_multilayer_perceptron.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 51
+C: 1
+R: 25
+Total messages: 82
+Average rating: 4.13/10
+
+FILE: sklearn\neural_network\_rbm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 2
+Total messages: 17
+Average rating: 5.62/10
+
+FILE: sklearn\neural_network\_stochastic_optimizers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 4
+Total messages: 6
+Average rating: 7.38/10
+
+FILE: sklearn\neural_network\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\neural_network\tests\test_mlp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 24
+C: 2
+R: 4
+Total messages: 38
+Average rating: 7.60/10
+
+FILE: sklearn\neural_network\tests\test_rbm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 4
+C: 0
+R: 0
+Total messages: 8
+Average rating: 7.48/10
+
+FILE: sklearn\neural_network\tests\test_stochastic_optimizers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.14/10
+
+FILE: sklearn\pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 9
+Total messages: 20
+Average rating: 9.08/10
+
+FILE: sklearn\preprocessing\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\preprocessing\_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 65
+C: 1
+R: 11
+Total messages: 85
+Average rating: 6.49/10
+
+FILE: sklearn\preprocessing\_discretization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 6
+Total messages: 11
+Average rating: 8.06/10
+
+FILE: sklearn\preprocessing\_encoders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 14
+C: 1
+R: 23
+Total messages: 50
+Average rating: 6.94/10
+
+FILE: sklearn\preprocessing\_function_transformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 8.99/10
+
+FILE: sklearn\preprocessing\_label.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 10
+Total messages: 27
+Average rating: 7.82/10
+
+FILE: sklearn\preprocessing\_polynomial.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 17
+C: 1
+R: 16
+Total messages: 37
+Average rating: 7.30/10
+
+FILE: sklearn\preprocessing\_target_encoder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 3
+R: 9
+Total messages: 20
+Average rating: 6.67/10
+
+FILE: sklearn\preprocessing\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.82/10
+
+FILE: sklearn\preprocessing\tests\test_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 46
+W: 41
+C: 1
+R: 10
+Total messages: 98
+Average rating: 7.55/10
+
+FILE: sklearn\preprocessing\tests\test_discretization.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 13
+C: 0
+R: 0
+Total messages: 14
+Average rating: 7.83/10
+
+FILE: sklearn\preprocessing\tests\test_encoders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 5
+Total messages: 8
+Average rating: 9.82/10
+
+FILE: sklearn\preprocessing\tests\test_function_transformer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 8
+Total messages: 12
+Average rating: 8.67/10
+
+FILE: sklearn\preprocessing\tests\test_label.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 5
+Total messages: 8
+Average rating: 9.59/10
+
+FILE: sklearn\preprocessing\tests\test_polynomial.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 10
+C: 1
+R: 19
+Total messages: 36
+Average rating: 7.92/10
+
+FILE: sklearn\preprocessing\tests\test_target_encoder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 1
+C: 0
+R: 7
+Total messages: 23
+Average rating: 7.26/10
+
+FILE: sklearn\random_projection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 6
+Total messages: 13
+Average rating: 7.38/10
+
+FILE: sklearn\semi_supervised\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\semi_supervised\_label_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 0
+R: 8
+Total messages: 24
+Average rating: 5.07/10
+
+FILE: sklearn\semi_supervised\_self_training.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 4
+Total messages: 13
+Average rating: 6.96/10
+
+FILE: sklearn\semi_supervised\tests\test_label_propagation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 8.19/10
+
+FILE: sklearn\semi_supervised\tests\test_self_training.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.46/10
+
+FILE: sklearn\svm\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\svm\_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 18
+W: 36
+C: 1
+R: 20
+Total messages: 75
+Average rating: 3.49/10
+
+FILE: sklearn\svm\_bounds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.95/10
+
+FILE: sklearn\svm\_classes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 11
+Total messages: 23
+Average rating: 5.41/10
+
+FILE: sklearn\svm\tests\test_bounds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\svm\tests\test_sparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 0
+R: 1
+Total messages: 6
+Average rating: 9.05/10
+
+FILE: sklearn\svm\tests\test_svm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 34
+C: 8
+R: 3
+Total messages: 52
+Average rating: 7.81/10
+
+FILE: sklearn\tests\metadata_routing_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 42
+C: 1
+R: 5
+Total messages: 48
+Average rating: 4.94/10
+
+FILE: sklearn\tests\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 25
+W: 38
+C: 4
+R: 3
+Total messages: 70
+Average rating: 5.55/10
+
+FILE: sklearn\tests\test_build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tests\test_calibration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 36
+C: 2
+R: 9
+Total messages: 54
+Average rating: 7.40/10
+
+FILE: sklearn\tests\test_check_build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tests\test_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 0
+Total messages: 8
+Average rating: 8.89/10
+
+FILE: sklearn\tests\test_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.97/10
+
+FILE: sklearn\tests\test_discriminant_analysis.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 36
+C: 1
+R: 3
+Total messages: 45
+Average rating: 6.26/10
+
+FILE: sklearn\tests\test_docstring_parameters.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 7
+Total messages: 11
+Average rating: 8.82/10
+
+FILE: sklearn\tests\test_docstring_parameters_consistency.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tests\test_docstrings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 0
+Total messages: 12
+Average rating: 6.04/10
+
+FILE: sklearn\tests\test_dummy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 0
+C: 0
+R: 0
+Total messages: 11
+Average rating: 8.74/10
+
+FILE: sklearn\tests\test_init.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.71/10
+
+FILE: sklearn\tests\test_isotonic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 2
+C: 0
+R: 0
+Total messages: 7
+Average rating: 9.17/10
+
+FILE: sklearn\tests\test_kernel_approximation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 15
+C: 0
+R: 1
+Total messages: 25
+Average rating: 6.62/10
+
+FILE: sklearn\tests\test_kernel_ridge.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.02/10
+
+FILE: sklearn\tests\test_metadata_routing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 142
+C: 6
+R: 1
+Total messages: 154
+Average rating: 0.00/10
+
+FILE: sklearn\tests\test_metaestimators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 23
+C: 1
+R: 9
+Total messages: 34
+Average rating: 3.45/10
+
+FILE: sklearn\tests\test_metaestimators_metadata_routing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 3
+Total messages: 12
+Average rating: 8.58/10
+
+FILE: sklearn\tests\test_min_dependencies_readme.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.41/10
+
+FILE: sklearn\tests\test_multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 6
+C: 0
+R: 0
+Total messages: 10
+Average rating: 9.30/10
+
+FILE: sklearn\tests\test_multioutput.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 68
+C: 0
+R: 2
+Total messages: 75
+Average rating: 4.82/10
+
+FILE: sklearn\tests\test_naive_bayes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 9
+W: 32
+C: 1
+R: 2
+Total messages: 44
+Average rating: 7.26/10
+
+FILE: sklearn\tests\test_pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 57
+W: 74
+C: 1
+R: 10
+Total messages: 142
+Average rating: 5.82/10
+
+FILE: sklearn\tests\test_public_functions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: sklearn\tests\test_random_projection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 17
+C: 0
+R: 6
+Total messages: 26
+Average rating: 6.52/10
+
+FILE: sklearn\tree\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tree\_classes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 20
+Total messages: 32
+Average rating: 7.53/10
+
+FILE: sklearn\tree\_export.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 2
+C: 4
+R: 32
+Total messages: 50
+Average rating: 6.50/10
+
+FILE: sklearn\tree\_reingold_tilford.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 8.85/10
+
+FILE: sklearn\tree\tests\test_export.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 9.20/10
+
+FILE: sklearn\tree\tests\test_fenwick.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.33/10
+
+FILE: sklearn\tree\tests\test_monotonic_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 4
+Total messages: 6
+Average rating: 9.23/10
+
+FILE: sklearn\tree\tests\test_reingold_tilford.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tree\tests\test_split.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 8
+Total messages: 9
+Average rating: 8.40/10
+
+FILE: sklearn\tree\tests\test_swap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\tree\tests\test_tree.py
+--------------------------------------------------------------------------------
+F: 0
+E: 17
+W: 187
+C: 3
+R: 6
+Total messages: 213
+Average rating: 5.28/10
+
+FILE: sklearn\utils\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_arpack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_array_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 5
+R: 17
+Total messages: 32
+Average rating: 8.53/10
+
+FILE: sklearn\utils\_available_if.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_bunch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.70/10
+
+FILE: sklearn\utils\_chunking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_dataframe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_encode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 9.23/10
+
+FILE: sklearn\utils\_indexing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 1
+R: 14
+Total messages: 19
+Average rating: 8.49/10
+
+FILE: sklearn\utils\_mask.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.78/10
+
+FILE: sklearn\utils\_metadata_requests.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 11
+R: 14
+Total messages: 48
+Average rating: 7.08/10
+
+FILE: sklearn\utils\_missing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: sklearn\utils\_mocking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 3
+Total messages: 17
+Average rating: 6.44/10
+
+FILE: sklearn\utils\_optional_dependencies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.18/10
+
+FILE: sklearn\utils\_param_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 26
+C: 1
+R: 8
+Total messages: 37
+Average rating: 7.04/10
+
+FILE: sklearn\utils\_plotting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 7
+Total messages: 9
+Average rating: 8.92/10
+
+FILE: sklearn\utils\_pprint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 19
+Total messages: 35
+Average rating: 6.42/10
+
+FILE: sklearn\utils\_repr_html\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.86/10
+
+FILE: sklearn\utils\_repr_html\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_repr_html\estimator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 5
+R: 10
+Total messages: 27
+Average rating: 6.51/10
+
+FILE: sklearn\utils\_repr_html\features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_repr_html\fitted_attributes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_repr_html\params.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_repr_html\tests\test_attributes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.50/10
+
+FILE: sklearn\utils\_repr_html\tests\test_estimator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 0
+R: 0
+Total messages: 22
+Average rating: 7.57/10
+
+FILE: sklearn\utils\_repr_html\tests\test_features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.39/10
+
+FILE: sklearn\utils\_repr_html\tests\test_js.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.46/10
+
+FILE: sklearn\utils\_repr_html\tests\test_params.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.68/10
+
+FILE: sklearn\utils\_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 8.33/10
+
+FILE: sklearn\utils\_set_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 9.46/10
+
+FILE: sklearn\utils\_show_versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.74/10
+
+FILE: sklearn\utils\_sparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.67/10
+
+FILE: sklearn\utils\_tags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.20/10
+
+FILE: sklearn\utils\_test_common\instance_generator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 3
+R: 282
+Total messages: 286
+Average rating: 0.00/10
+
+FILE: sklearn\utils\_testing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 12
+R: 29
+Total messages: 59
+Average rating: 7.79/10
+
+FILE: sklearn\utils\_unique.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\_user_interface.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\class_weight.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 4
+Total messages: 5
+Average rating: 8.78/10
+
+FILE: sklearn\utils\deprecation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.59/10
+
+FILE: sklearn\utils\discovery.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 6
+R: 1
+Total messages: 8
+Average rating: 8.62/10
+
+FILE: sklearn\utils\estimator_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 50
+W: 83
+C: 15
+R: 55
+Total messages: 203
+Average rating: 7.43/10
+
+FILE: sklearn\utils\extmath.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 10
+Total messages: 14
+Average rating: 9.11/10
+
+FILE: sklearn\utils\fixes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 9
+Total messages: 17
+Average rating: 8.50/10
+
+FILE: sklearn\utils\graph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 7.91/10
+
+FILE: sklearn\utils\metadata_routing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\metaestimators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 9
+Total messages: 12
+Average rating: 8.55/10
+
+FILE: sklearn\utils\optimize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 9
+Total messages: 12
+Average rating: 8.06/10
+
+FILE: sklearn\utils\parallel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.23/10
+
+FILE: sklearn\utils\random.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.52/10
+
+FILE: sklearn\utils\sparsefuncs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 9
+Total messages: 10
+Average rating: 9.07/10
+
+FILE: sklearn\utils\stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.64/10
+
+FILE: sklearn\utils\tests\test_arpack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_array_api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 21
+C: 3
+R: 11
+Total messages: 38
+Average rating: 7.60/10
+
+FILE: sklearn\utils\tests\test_arrayfuncs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.22/10
+
+FILE: sklearn\utils\tests\test_bunch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: sklearn\utils\tests\test_chunking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.46/10
+
+FILE: sklearn\utils\tests\test_class_weight.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_cython_blas.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 0
+C: 0
+R: 4
+Total messages: 15
+Average rating: 4.75/10
+
+FILE: sklearn\utils\tests\test_dataframe.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.27/10
+
+FILE: sklearn\utils\tests\test_deprecation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.43/10
+
+FILE: sklearn\utils\tests\test_encode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_estimator_checks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 59
+C: 6
+R: 14
+Total messages: 83
+Average rating: 7.42/10
+
+FILE: sklearn\utils\tests\test_extmath.py
+--------------------------------------------------------------------------------
+F: 0
+E: 23
+W: 5
+C: 1
+R: 5
+Total messages: 34
+Average rating: 7.35/10
+
+FILE: sklearn\utils\tests\test_fast_dict.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.39/10
+
+FILE: sklearn\utils\tests\test_fixes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_graph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_indexing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 2
+C: 4
+R: 2
+Total messages: 14
+Average rating: 8.67/10
+
+FILE: sklearn\utils\tests\test_mask.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_metaestimators.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_missing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_mocking.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 0
+Total messages: 12
+Average rating: 6.57/10
+
+FILE: sklearn\utils\tests\test_multiclass.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 2
+R: 2
+Total messages: 9
+Average rating: 8.56/10
+
+FILE: sklearn\utils\tests\test_murmurhash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.96/10
+
+FILE: sklearn\utils\tests\test_optimize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.53/10
+
+FILE: sklearn\utils\tests\test_parallel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 3
+C: 0
+R: 1
+Total messages: 9
+Average rating: 5.66/10
+
+FILE: sklearn\utils\tests\test_param_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 23
+C: 0
+R: 0
+Total messages: 24
+Average rating: 6.95/10
+
+FILE: sklearn\utils\tests\test_plotting.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 0
+R: 0
+Total messages: 19
+Average rating: 6.32/10
+
+FILE: sklearn\utils\tests\test_pprint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 17
+R: 20
+Total messages: 44
+Average rating: 7.02/10
+
+FILE: sklearn\utils\tests\test_random.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.50/10
+
+FILE: sklearn\utils\tests\test_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 18
+C: 0
+R: 0
+Total messages: 22
+Average rating: 5.00/10
+
+FILE: sklearn\utils\tests\test_seq_dataset.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 14
+C: 0
+R: 0
+Total messages: 18
+Average rating: 4.21/10
+
+FILE: sklearn\utils\tests\test_set_output.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 19
+C: 2
+R: 1
+Total messages: 23
+Average rating: 7.62/10
+
+FILE: sklearn\utils\tests\test_shortest_path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.61/10
+
+FILE: sklearn\utils\tests\test_show_versions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.97/10
+
+FILE: sklearn\utils\tests\test_sparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 5.86/10
+
+FILE: sklearn\utils\tests\test_sparsefuncs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 4
+C: 1
+R: 7
+Total messages: 27
+Average rating: 8.07/10
+
+FILE: sklearn\utils\tests\test_stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 0
+C: 0
+R: 3
+Total messages: 15
+Average rating: 6.00/10
+
+FILE: sklearn\utils\tests\test_tags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 7.16/10
+
+FILE: sklearn\utils\tests\test_testing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 2
+R: 2
+Total messages: 23
+Average rating: 8.36/10
+
+FILE: sklearn\utils\tests\test_typedefs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_unique.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_user_interface.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\tests\test_validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 32
+C: 3
+R: 5
+Total messages: 55
+Average rating: 8.20/10
+
+FILE: sklearn\utils\tests\test_weight_vector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: sklearn\utils\validation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 1
+C: 7
+R: 27
+Total messages: 39
+Average rating: 8.86/10
+
+================================================================================
+Overall average rating: 7.59/10

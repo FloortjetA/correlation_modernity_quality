@@ -1,0 +1,5478 @@
+Feature statistics for repository: ipython
+================================================================================
+
+FILE: ipython\IPython\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\alias.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\application.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\async_helpers.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.CO_COROUTINE (total: 1)
+    !2, 3.5: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\core\autocall.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\builtin_trap.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\compilerop.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\core\completer.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.isidentifier (total: 1)
+    !2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\core\completerlib.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.machinery.all_suffixes (total: 1)
+    !2, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+zipimport (total: 1)
+    2.3, 3.0: 1
+
+zipimport.zipimporter (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: ipython\IPython\core\crashhandler.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\debugger.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reprlib (total: 1)
+    !2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\debugger_backport.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+types.CellType (total: 1)
+    !2, 3.8: 1
+
+
+FILE: ipython\IPython\core\display.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\display_functions.py
+--------------------------------------------------------------------------------
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\display_trap.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\displayhook.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\displaypub.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\doctb.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\error.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\events.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\extensions.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\formatters.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\getipython.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\guarded_eval.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.UserDict (total: 1)
+    !2, 3.0: 1
+
+collections.UserList (total: 1)
+    !2, 3.0: 1
+
+collections.UserString (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.GenericAlias (total: 1)
+    !2, 3.9: 1
+
+types.MethodDescriptorType (total: 1)
+    !2, 3.7: 1
+
+types.UnionType (total: 1)
+    !2, 3.10: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.LiteralString (total: 1)
+    !2, 3.11: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+typing.get_origin (total: 1)
+    !2, 3.8: 1
+
+typing.is_typeddict (total: 1)
+    !2, 3.10: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\history.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+os.register_at_fork (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.WeakSet (total: 1)
+    2.7, 3.0: 1
+
+weakref.finalize (total: 1)
+    !2, 3.4: 1
+
+
+FILE: ipython\IPython\core\historyapp.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: ipython\IPython\core\hooks.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\core\inputtransformer2.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.PyCF_ALLOW_TOP_LEVEL_AWAIT (total: 1)
+    !2, 3.8: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\core\interactiveshell.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 5)
+    !2, 3.0: 5
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.CO_COROUTINE (total: 1)
+    !2, 3.5: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+runpy (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\kitty.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\latex_symbols.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\logger.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\macro.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\magic.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: ipython\IPython\core\magic_arguments.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\magics\ast_mod.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\magics\auto.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\magics\basic.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\code.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\config.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\display.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\magics\execution.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.fsum (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+pstats.Stats (total: 1)
+    2.3, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\extension.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\history.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\logging.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\namespace.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\osm.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 4)
+    !2, 3.0: 4
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\packaging.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\pylab.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\magics\script.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+codecs.getincrementaldecoder (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\oinspect.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.cleandoc (total: 1)
+    2.6, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\page.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+msvcrt.getwch (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\core\payload.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\core\payloadpage.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\prefilter.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\profileapp.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\core\profiledir.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\pylabtools.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\release.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\core\shellapp.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.flags (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\splitinput.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\tbtools.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+pydoc (total: 1)
+    2.1, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\tips.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\core\ultratb.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+traceback.StackSummary (total: 1)
+    !2, 3.5: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\core\usage.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\display.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\extensions\autoreload.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+gc.get_referrers (total: 1)
+    2.2, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+importlib.util.source_from_cache (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\extensions\deduperreload\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\extensions\deduperreload\deduperreload.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+ast.unparse (total: 1)
+    !2, 3.9: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\extensions\deduperreload\deduperreload_patching.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\extensions\storemagic.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\extensions\tests\test_deduperreload.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\external\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\external\pickleshare.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\external\qt_for_kernel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\external\qt_loaders.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+importlib.abc.MetaPathFinder (total: 1)
+    !2, 3.3: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+operator.attrgetter (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\lib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\lib\backgroundjobs.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\lib\clipboard.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tkinter (total: 1)
+    !2, 3.0: 1
+
+
+FILE: ipython\IPython\lib\deepreload.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\lib\demo.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\lib\display.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+array.array.tobytes (total: 1)
+    !2, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.fsdecode (total: 1)
+    !2, 3.2: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: ipython\IPython\lib\editorhooks.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\lib\guisupport.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\lib\latextools.py
+--------------------------------------------------------------------------------
+base64.encodebytes (total: 1)
+    !2, 3.1: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\lib\lexers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\lib\pretty.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\paths.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\sphinxext\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\sphinxext\custom_doctests.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\sphinxext\ipython_console_highlighting.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\sphinxext\ipython_directive.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\debugger.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\embed.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\interactiveshell.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\ipapp.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\magics.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\prompts.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\asyncio.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\pt_inputhooks\glut.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\gtk.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\pt_inputhooks\gtk3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\pt_inputhooks\gtk4.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\pt_inputhooks\osx.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.c_bool (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\pyglet.py
+--------------------------------------------------------------------------------
+timeit (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\qt.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\tk.py
+--------------------------------------------------------------------------------
+tkinter (total: 1)
+    !2, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\pt_inputhooks\wx.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\ptutils.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\shortcuts\__init__.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+property (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\shortcuts\auto_match.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\terminal\shortcuts\auto_suggest.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\terminal\shortcuts\filters.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\testing\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\decorators.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\testing\globalipapp.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\testing\ipunittest.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+doctest.DocTestFinder (total: 1)
+    2.4, 3.0: 1
+
+doctest.DocTestRunner (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\testing\plugin\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\plugin\dtexample.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\plugin\ipdoctest.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+doctest.DocTestFinder (total: 1)
+    2.4, 3.0: 1
+
+doctest.DocTestParser (total: 1)
+    2.4, 3.0: 1
+
+doctest.DocTestRunner (total: 1)
+    2.4, 3.0: 1
+
+doctest.Example (total: 1)
+    2.4, 3.0: 1
+
+doctest.OutputChecker (total: 1)
+    2.4, 3.0: 1
+
+doctest.SKIP (total: 1)
+    2.5, 3.0: 1
+
+doctest.register_optionflag (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\IPython\testing\plugin\pytest_ipdoctest.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 11)
+    !2, 3.0: 11
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+doctest.REPORT_CDIFF (total: 1)
+    2.4, 3.0: 1
+
+doctest.REPORT_NDIFF (total: 1)
+    2.4, 3.0: 1
+
+doctest.REPORT_ONLY_FIRST_FAILURE (total: 1)
+    2.4, 3.0: 1
+
+doctest.REPORT_UDIFF (total: 1)
+    2.4, 3.0: 1
+
+doctest.SKIP (total: 1)
+    2.5, 3.0: 1
+
+doctest.register_optionflag (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.unwrap (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\testing\plugin\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\plugin\simple.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\plugin\simplevars.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\testing\plugin\test_ipdoctest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\testing\plugin\test_refs.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\testing\skipdoctest.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\testing\tools.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\IPython\utils\PyColorize.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 25)
+    !2, 3.6: 25
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\_process_cli.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\_process_common.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.shlex.whitespace_split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\_process_emscripten.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\_process_posix.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\utils\_process_win32.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\_process_win32_controller.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\IPython\utils\_sysinfo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\capture.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\coloransi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\contexts.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\data.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\decorators.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\dir2.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\docs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\encoding.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\eventful.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\frame.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\generics.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.singledispatch (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\importstring.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\io.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\ipstruct.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\jsonutil.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\log.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\module_paths.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+
+FILE: ipython\IPython\utils\openpy.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tokenize.open (total: 1)
+    !2, 3.2: 1
+
+
+FILE: ipython\IPython\utils\path.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_ino (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+
+FILE: ipython\IPython\utils\process.py
+--------------------------------------------------------------------------------
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\IPython\utils\py3compat.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\sentinel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\IPython\utils\strdispatch.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\sysinfo.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\IPython\utils\syspathcontext.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\tempdir.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\terminal.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\text.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+string.Formatter (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\IPython\utils\timing.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+time.process_time (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\tokenutil.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.pairwise (total: 1)
+    !2, 3.10: 1
+
+tokenize.generate_tokens (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\IPython\utils\wildcard.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\_build_meta.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\docs\autogen_api.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\docs\autogen_config.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.cleandoc (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\docs\autogen_magics.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\docs\autogen_shortcuts.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: ipython\docs\source\conf.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tomllib (total: 1)
+    !2, 3.11: 1
+
+
+FILE: ipython\docs\sphinxext\apigen.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\docs\sphinxext\configtraits.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\docs\sphinxext\magics.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\examples\Embedding\embed_class_long.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\examples\Embedding\embed_class_short.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\examples\Embedding\embed_function.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\examples\Embedding\start_ipython_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\examples\IPython Kernel\example-demo.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\examples\IPython Kernel\gui\gui-glut.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\examples\IPython Kernel\gui\gui-gtk4.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\examples\IPython Kernel\gui\gui-qt.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\examples\IPython Kernel\ipython-get-history.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: ipython\examples\auto_suggest_llm.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\examples\utils\cwd_prompt.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\setup.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\setupbase.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\bad_all.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\conftest.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\fake_ext_dir\daft_extension.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\fake_llm.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tests\nonascii.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\nonascii2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\print_argv.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\refbug.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\simpleerr.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: ipython\tests\tclass.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_alias.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_application.py
+--------------------------------------------------------------------------------
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_async_helpers.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_autocall.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_backgroundjobs.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tests\test_capture.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: ipython\tests\test_clipboard.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_compilerop.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: ipython\tests\test_completer.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.groupby (total: 1)
+    2.4, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.releaselevel (total: 1)
+    2.7, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_completerlib.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_cve.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: ipython\tests\test_debug_magic.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_debugger.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.gettrace (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_decorators.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_decorators_2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_deepreload.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: ipython\tests\test_dir2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_display.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_display_2.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_displayhook.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_editorhooks.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_embed.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\tests\test_events.py
+--------------------------------------------------------------------------------
+slices (total: 2)
+    !2, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_exceptiongroup_tb.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_extension.py
+--------------------------------------------------------------------------------
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: ipython\tests\test_formatters.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.partialmethod (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\tests\test_guarded_eval.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+float.is_integer (total: 1)
+    2.6, 3.0: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.LiteralString (total: 1)
+    !2, 3.11: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\tests\test_handlers.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_help.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_history.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: ipython\tests\test_hooks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_imports.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_importstring.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_inputtransformer2.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_inputtransformer2_line.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_interactiveshell.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_interactivshell.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_io.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_iplib.py
+--------------------------------------------------------------------------------
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_ipunittest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_latextools.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_logger.py
+--------------------------------------------------------------------------------
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+
+FILE: ipython\tests\test_magic.py
+--------------------------------------------------------------------------------
+builtins (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.abc.MetaPathFinder (total: 1)
+    !2, 3.3: 1
+
+importlib.invalidate_caches (total: 1)
+    !2, 3.3: 1
+
+importlib.util.spec_from_loader (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.samefile (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+signal.raise_signal (total: 1)
+    !2, 3.8: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_magic_arguments.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_magic_terminal.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_module_paths.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_oinspect.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.Parameter (total: 1)
+    !2, 3.3: 1
+
+inspect.Signature (total: 1)
+    !2, 3.3: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.releaselevel (total: 1)
+    2.7, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: ipython\tests\test_openpy.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_page.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_path.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_paths.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_prefilter.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tests\test_pretty.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.UserList (total: 1)
+    !2, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_process.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+
+FILE: ipython\tests\test_profile.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_pt_inputhooks.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_pycolorize.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_pylabtools.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tests\test_qt_loaders.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: ipython\tests\test_run.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_shellapp.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_shortcuts.py
+--------------------------------------------------------------------------------
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tests\test_splitinput.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_storemagic.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.samefile (total: 1)
+    !2, 3.5: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_sysinfo.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_tempdir.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tests\test_text.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tests\test_tips.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tests\test_tokenutil.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: ipython\tests\test_tools.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_ultratb.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_wildcard.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tests\test_zzz_autoreload.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 47)
+    !2, 3.6: 47
+
+io (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: ipython\tools\build_release
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tools\check_sources.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tools\fixup_whats_new_pr.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tools\gen_latex_symbols.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.isidentifier (total: 1)
+    !2, 3.0: 1
+
+
+FILE: ipython\tools\make_tarball.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: ipython\tools\retar.py
+--------------------------------------------------------------------------------
+bz2 (total: 1)
+    2.3, 3.0: 1
+
+bz2.open (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+tarfile.TarInfo.pax_headers (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tools\tests\embed\embed1.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: ipython\tools\tests\embed\embed2.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tools\tests\embed\embed3.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: ipython\tools\tests\embed\embed_flufl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tools\tests\embed\embed_no_flufl.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: ipython\tools\tests\heartbeat\hb_gil.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: ipython\tools\tests\inline_figshow.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: ipython\tools\testupload
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tools\toollib.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: ipython\tools\update_whatsnew.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+

@@ -1,0 +1,5471 @@
+Feature statistics for repository: certbot
+================================================================================
+
+FILE: certbot\acme\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\examples\http01_example.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: certbot\acme\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\src\acme\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\src\acme\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\src\acme\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\src\acme\_internal\tests\challenges_test.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\client_test.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\conftest.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\crypto_util_test.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\errors_test.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\fields_test.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\jose_test.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\jws_test.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\messages_test.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\standalone_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.Thread.is_alive (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\test_util.py
+--------------------------------------------------------------------------------
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\_internal\tests\util_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\acme\src\acme\challenges.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\client.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\crypto_util.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\acme\src\acme\errors.py
+--------------------------------------------------------------------------------
+arguments (total: 7)
+    !2, 3.0: 7
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\fields.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\jws.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\messages.py
+--------------------------------------------------------------------------------
+arguments (total: 11)
+    !2, 3.0: 11
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\standalone.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\acme\src\acme\util.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-apache\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: certbot\certbot-apache\src\certbot_apache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-apache\src\certbot_apache\_internal\entrypoint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\assets\hook.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\certbot_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\certbot_tests\assertions.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+os.stat.st_gid (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\certbot_tests\context.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\certbot_tests\test_main.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\conftest.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\nginx_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\nginx_tests\context.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\nginx_tests\nginx_config.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\nginx_tests\test_main.py
+--------------------------------------------------------------------------------
+ssl (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\rfc2136_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\rfc2136_tests\context.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\rfc2136_tests\test_main.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\acme_server.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\certbot_call.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\constants.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\dns_server.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socket.socket.settimeout (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\misc.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\pebble_artifacts.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\pebble_ocsp_server.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\certbot_integration_tests\utils\proxy.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-ci\src\snap_integration_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\snap_integration_tests\conftest.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot-ci\src\snap_integration_tests\dns_tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-ci\src\snap_integration_tests\dns_tests\test_main.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-compatibility-test\nginx\roundtrip.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot-compatibility-test\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\apache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\apache\common.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\common.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\nginx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\configurators\nginx\common.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\errors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\interfaces.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\test_driver.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\util.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: certbot\certbot-compatibility-test\src\certbot_compatibility_test\validator.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+socket.create_connection (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-cloudflare\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-cloudflare\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-cloudflare\src\certbot_dns_cloudflare\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-cloudflare\src\certbot_dns_cloudflare\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-cloudflare\src\certbot_dns_cloudflare\_internal\dns_cloudflare.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-cloudflare\src\certbot_dns_cloudflare\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-cloudflare\src\certbot_dns_cloudflare\_internal\tests\dns_cloudflare_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-digitalocean\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-digitalocean\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-digitalocean\src\certbot_dns_digitalocean\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-digitalocean\src\certbot_dns_digitalocean\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-digitalocean\src\certbot_dns_digitalocean\_internal\dns_digitalocean.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-digitalocean\src\certbot_dns_digitalocean\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-digitalocean\src\certbot_dns_digitalocean\_internal\tests\dns_digitalocean_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-dnsimple\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsimple\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-dnsimple\src\certbot_dns_dnsimple\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsimple\src\certbot_dns_dnsimple\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsimple\src\certbot_dns_dnsimple\_internal\dns_dnsimple.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-dnsimple\src\certbot_dns_dnsimple\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsimple\src\certbot_dns_dnsimple\_internal\tests\dns_dnsimple_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-dnsmadeeasy\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsmadeeasy\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-dnsmadeeasy\src\certbot_dns_dnsmadeeasy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsmadeeasy\src\certbot_dns_dnsmadeeasy\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsmadeeasy\src\certbot_dns_dnsmadeeasy\_internal\dns_dnsmadeeasy.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-dnsmadeeasy\src\certbot_dns_dnsmadeeasy\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-dnsmadeeasy\src\certbot_dns_dnsmadeeasy\_internal\tests\dns_dnsmadeeasy_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-gehirn\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-gehirn\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-gehirn\src\certbot_dns_gehirn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-gehirn\src\certbot_dns_gehirn\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-gehirn\src\certbot_dns_gehirn\_internal\dns_gehirn.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-gehirn\src\certbot_dns_gehirn\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-gehirn\src\certbot_dns_gehirn\_internal\tests\dns_gehirn_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-google\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-google\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-google\src\certbot_dns_google\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-google\src\certbot_dns_google\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-google\src\certbot_dns_google\_internal\dns_google.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-google\src\certbot_dns_google\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-google\src\certbot_dns_google\_internal\tests\dns_google_test.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-linode\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-linode\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-linode\src\certbot_dns_linode\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-linode\src\certbot_dns_linode\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-linode\src\certbot_dns_linode\_internal\dns_linode.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-linode\src\certbot_dns_linode\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-linode\src\certbot_dns_linode\_internal\tests\dns_linode_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-luadns\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-luadns\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-luadns\src\certbot_dns_luadns\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-luadns\src\certbot_dns_luadns\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-luadns\src\certbot_dns_luadns\_internal\dns_luadns.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-luadns\src\certbot_dns_luadns\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-luadns\src\certbot_dns_luadns\_internal\tests\dns_luadns_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-nsone\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-nsone\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-nsone\src\certbot_dns_nsone\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-nsone\src\certbot_dns_nsone\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-nsone\src\certbot_dns_nsone\_internal\dns_nsone.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-nsone\src\certbot_dns_nsone\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-nsone\src\certbot_dns_nsone\_internal\tests\dns_nsone_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-ovh\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-ovh\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-ovh\src\certbot_dns_ovh\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-ovh\src\certbot_dns_ovh\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-ovh\src\certbot_dns_ovh\_internal\dns_ovh.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-ovh\src\certbot_dns_ovh\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-ovh\src\certbot_dns_ovh\_internal\tests\dns_ovh_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-rfc2136\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-rfc2136\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-rfc2136\src\certbot_dns_rfc2136\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-rfc2136\src\certbot_dns_rfc2136\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-rfc2136\src\certbot_dns_rfc2136\_internal\dns_rfc2136.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-rfc2136\src\certbot_dns_rfc2136\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-rfc2136\src\certbot_dns_rfc2136\_internal\tests\dns_rfc2136_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-route53\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-route53\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\_internal\dns_route53.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\_internal\tests\conftest.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-route53\src\certbot_dns_route53\_internal\tests\dns_route53_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-dns-sakuracloud\docs\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-sakuracloud\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: certbot\certbot-dns-sakuracloud\src\certbot_dns_sakuracloud\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-sakuracloud\src\certbot_dns_sakuracloud\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-sakuracloud\src\certbot_dns_sakuracloud\_internal\dns_sakuracloud.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot-dns-sakuracloud\src\certbot_dns_sakuracloud\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-dns-sakuracloud\src\certbot_dns_sakuracloud\_internal\tests\dns_sakuracloud_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot-nginx\setup.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: certbot\certbot-nginx\src\certbot_nginx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot-nginx\src\certbot_nginx\_internal\entrypoint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\docs\conf.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\examples\plugins\certbot_example_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\examples\plugins\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\setup.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: certbot\certbot\src\certbot\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\account.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\auth_handler.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cert_manager.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+format (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\__init__.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\cli_constants.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\cli_utils.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+matching (total: 2)
+    !2, 3.10: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\group_adder.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\helpful.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\paths_parser.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\plugins_parsing.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\subparsers.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\cli\verb_help.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\client.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\constants.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\display\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\display\completer.py
+--------------------------------------------------------------------------------
+glob.iglob (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\display\dummy_readline.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\display\obj.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\display\util.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\eff.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\error_handler.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\hooks.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\lock.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.stat.st_dev (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_ino (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\log.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\main.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\ocsp.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\apache_util.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\apacheparser.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\assertions.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\augeasparser.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\configurator.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\constants.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\display_ops.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\dualparser.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\entrypoint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\http_01.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\interfaces.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\obj.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_alpine.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_arch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_centos.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_darwin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_debian.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_fedora.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_gentoo.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_suse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\override_void.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\parser.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Collection (total: 1)
+    !2, 3.6: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\apache\parsernode_util.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\disco.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\manual.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\configurator.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.inet_pton (total: 1)
+    2.3, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\constants.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\display_ops.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\http_01.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\nginxparser.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+operator.index (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.SupportsIndex (total: 1)
+    !2, 3.8: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\obj.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\parser.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\nginx\parser_obj.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\null.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\selection.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\standalone.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\plugins\webroot.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\renewal.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\san.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+matching (total: 3)
+    !2, 3.10: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\snap_config.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\storage.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.lexists (total: 1)
+    2.4, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\account_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\auth_handler_test.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\cert_manager_test.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\cli_test.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\client_test.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\compat\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\compat\filesystem_test.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+unittest.skipUnless (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\compat\misc_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\compat\os_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\configuration_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\conftest.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\crypto_util_test.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\completer_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\internal_util_test.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\obj_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\ops_test.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\display\util_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\eff_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\error_handler_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\errors_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\helpful_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\hook_test.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\lock_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\log_test.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\main_test.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 11)
+    !2, 3.0: 11
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\ocsp_test.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\apache-conf-files\apache-conf-test-pebble.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\augeasnode_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\autohsts_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\centos_test.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\complex_parsing_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\configurator_reverter_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\configurator_test.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\conftest.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\constants_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\debian_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\display_ops_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\dualnode_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\entrypoint_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\fedora_test.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\gentoo_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\http_01_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\obj_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\parser_test.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\parsernode_configurator_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\parsernode_test.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\parsernode_util_test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\apache\util.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\common_test.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\disco_test.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\dns_common_test.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\enhancements_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\manual_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\configurator_test.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\display_ops_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\http_01_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\nginxparser_test.py
+--------------------------------------------------------------------------------
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\obj_test.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\parser_obj_test.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\parser_test.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\nginx\test_util.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\null_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\selection_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\standalone_test.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\storage_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\util_test.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\plugins\webroot_test.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\renewal_test.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\renewupdater_test.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\reverter_test.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\san_test.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\storage_test.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+os.path.lexists (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 18)
+    2.6, 3.0: 18
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+zoneinfo (total: 1)
+    !2, 3.9: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\tests\util_test.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipUnless (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\_internal\updater.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\achallenges.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\compat\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\compat\_path.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.absolute_import (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\compat\filesystem.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.absolute_import (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_gid (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_uid (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\compat\misc.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.absolute_import (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\compat\os.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.absolute_import (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\configuration.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\crypto_util.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\display\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\display\ops.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\display\util.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\errors.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\interfaces.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\main.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\ocsp.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\plugins\apache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\plugins\common.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\dns_common.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\dns_common_lexicon.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\dns_test_common.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\dns_test_common_lexicon.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\enhancements.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\nginx.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\plugins\storage.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\plugins\util.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: certbot\certbot\src\certbot\reverter.py
+--------------------------------------------------------------------------------
+csv (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.lexists (total: 1)
+    2.4, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\certbot\src\certbot\tests\acme_util.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\certbot\src\certbot\tests\util.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+importlib.resources (total: 1)
+    !2, 3.7: 1
+
+importlib.resources.as_file (total: 1)
+    !2, 3.9: 1
+
+importlib.resources.files (total: 1)
+    !2, 3.9: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: certbot\certbot\src\certbot\util.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.inet_pton (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\letstest\letstest\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\letstest\letstest\multitester.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: certbot\letstest\scripts\version.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: certbot\letstest\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\linter_plugin.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: certbot\tests\modification-check.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: certbot\tools\extract_changelog.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\tools\finish_release.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: certbot\tools\notify_mattermost.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: certbot\tools\pip_install.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.absolute_import (total: 1)
+    2.5, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: certbot\tools\pipstrap.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: certbot\tools\snap\build_remote.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.kill (total: 1)
+    2.6, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: certbot\tools\venv.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+

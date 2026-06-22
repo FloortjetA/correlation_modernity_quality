@@ -1,0 +1,13 @@
+Statistics for: pip_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 278
+W: 1905
+C: 1450
+R: 1021
+
+Total messages: 4655
+Average rating: 8.61/10

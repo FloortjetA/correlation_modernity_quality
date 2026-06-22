@@ -1,0 +1,5454 @@
+Feature statistics for repository: aiohttp
+================================================================================
+
+FILE: aiohttp\aiohttp\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\_cookie_helpers.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\_websocket\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\aiohttp\_websocket\helpers.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.8: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+struct.Struct (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\_websocket\models.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\_websocket\reader.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\_websocket\reader_c.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\aiohttp\_websocket\reader_py.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\_websocket\writer.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+random.getrandbits (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\abc.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\base_protocol.py
+--------------------------------------------------------------------------------
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\client.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 7)
+    !2, 3.0: 7
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 19)
+    !2, 3.0: 19
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+typing.final (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\client_exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\client_middleware_digest_auth.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\client_middlewares.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\client_proto.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+slices (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\client_reqrep.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+traceback.StackSummary (total: 1)
+    !2, 3.5: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\client_ws.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+slices (total: 15)
+    !2, 3.0: 15
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: aiohttp\aiohttp\compression_utils.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+slices (total: 14)
+    !2, 3.0: 14
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\connector.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+cause (total: 10)
+    !2, 3.0: 10
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl.OP_NO_COMPRESSION (total: 1)
+    2.7, 3.3: 1
+
+ssl.OP_NO_SSLv2 (total: 1)
+    2.7, 3.2: 1
+
+ssl.OP_NO_SSLv3 (total: 1)
+    2.7, 3.2: 1
+
+ssl.PROTOCOL_TLS_CLIENT (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.SSLContext.check_hostname (total: 1)
+    !2, 3.4: 1
+
+ssl.SSLContext.set_alpn_protocols (total: 1)
+    2.7, 3.5: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\cookiejar.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+heapq (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.accumulate (total: 1)
+    !2, 3.2: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\formdata.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\hdrs.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\helpers.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 2)
+    !2, 3.3: 2
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.isfuture (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+email.policy (total: 1)
+    !2, 3.3: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+functools.total_ordering (total: 1)
+    2.7, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 7)
+    !2, 3.0: 7
+
+str.partition (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.flags (total: 1)
+    2.6, 3.0: 1
+
+sys.flags.dev_mode (total: 1)
+    !2, 3.7: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.ContextManager (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+typing.final (total: 1)
+    !2, 3.8: 1
+
+typing.get_args (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\http.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\aiohttp\http_exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+textwrap.indent (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\aiohttp\http_parser.py
+--------------------------------------------------------------------------------
+None (total: 3)
+    !2, 3.3: 3
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 42)
+    2.6, 3.0: 42
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\http_websocket.py
+--------------------------------------------------------------------------------
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\http_writer.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: aiohttp\aiohttp\log.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\multipart.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 30)
+    2.6, 3.0: 30
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\payload.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+anext (total: 1)
+    !2, 3.10: 1
+
+arguments (total: 10)
+    !2, 3.0: 10
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\pytest_plugin.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isasyncgenfunction (total: 1)
+    !2, 3.6: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+slices (total: 6)
+    !2, 3.0: 6
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\resolver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\streams.py
+--------------------------------------------------------------------------------
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 19)
+    2.6, 3.0: 19
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\tcp_helpers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+
+FILE: aiohttp\aiohttp\test_utils.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+slices (total: 22)
+    !2, 3.0: 22
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.IsolatedAsyncioTestCase (total: 1)
+    !2, 3.8: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\tracing.py
+--------------------------------------------------------------------------------
+slices (total: 3)
+    !2, 3.0: 3
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\typedefs.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\web.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.all_tasks (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+os.PathLike (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_app.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.AbstractAsyncContextManager (total: 1)
+    !2, 3.7: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 9)
+    !2, 3.0: 9
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.final (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_exceptions.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_fileresponse.py
+--------------------------------------------------------------------------------
+ConnectionResetError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 11)
+    !2, 3.0: 11
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\aiohttp\web_log.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\web_middlewares.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_protocol.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+ConnectionResetError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\web_request.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_response.py
+--------------------------------------------------------------------------------
+arguments (total: 9)
+    !2, 3.0: 9
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_routedef.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\web_runner.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 10)
+    !2, 3.0: 10
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\web_server.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+slices (total: 2)
+    !2, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\aiohttp\web_urldispatcher.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 16)
+    !2, 3.0: 16
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+cause (total: 4)
+    !2, 3.0: 4
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 32)
+    !2, 3.6: 32
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.expanduser (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\aiohttp\web_ws.py
+--------------------------------------------------------------------------------
+ConnectionResetError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+StopAsyncIteration (total: 1)
+    !2, 3.5: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 15)
+    !2, 3.0: 15
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: aiohttp\aiohttp\worker.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+signal.siginterrupt (total: 1)
+    2.6, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\docs\code\client_middleware_cookbook.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aiohttp\docs\conf.py
+--------------------------------------------------------------------------------
+f-strings (total: 22)
+    !2, 3.6: 22
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\examples\background_tasks.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\basic_auth_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\cli_app.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\examples\client_auth.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\client_json.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\client_ws.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\combined_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\examples\curl.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\digest_auth_qop_auth.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\fake_server.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.Purpose.CLIENT_AUTH (total: 1)
+    2.7, 3.4: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+
+FILE: aiohttp\examples\logging_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\examples\lowlevel_srv.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\examples\retry_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\examples\server_simple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: aiohttp\examples\static_files.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: aiohttp\examples\token_refresh_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+http (total: 1)
+    !2, 3.0: 1
+
+http.HTTPStatus (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\examples\web_classview.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\examples\web_cookies.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\examples\web_rewrite_headers_middleware.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\examples\web_srv.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\examples\web_srv_route_deco.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\examples\web_srv_route_table.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\examples\web_ws.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\requirements\sync-direct-runtime-deps.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tomllib (total: 1)
+    !2, 3.11: 1
+
+
+FILE: aiohttp\setup.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+str.format_map (total: 1)
+    !2, 3.2: 1
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\autobahn\client\client.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+
+FILE: aiohttp\tests\autobahn\server\server.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\tests\autobahn\test_autobahn.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\conftest.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+socket.create_server (total: 1)
+    !2, 3.8: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_SERVER (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format_map (total: 1)
+    !2, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aiohttp\tests\isolated\check_for_client_response_leak.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+socket.create_server (total: 1)
+    !2, 3.8: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aiohttp\tests\isolated\check_for_request_leak.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+socket.create_server (total: 1)
+    !2, 3.8: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_base_protocol.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_client.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_client_request.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_client_ws.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: aiohttp\tests\test_benchmarks_cookiejar.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\tests\test_benchmarks_http_websocket.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: aiohttp\tests\test_benchmarks_http_writer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\tests\test_benchmarks_web_fileresponse.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_web_middleware.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_web_request.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\tests\test_benchmarks_web_response.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\tests\test_benchmarks_web_urldispatcher.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_circular_imports.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_classbasedview.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_client_connection.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_client_exceptions.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pickle.HIGHEST_PROTOCOL (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: aiohttp\tests\test_client_fingerprint.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_client_functional.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_SERVER (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 109)
+    2.6, 3.0: 109
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: aiohttp\tests\test_client_middleware.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_client_middleware_digest_auth.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_client_proto.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_client_request.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.isfuture (total: 1)
+    !2, 3.5: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 50)
+    2.6, 3.0: 50
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_client_response.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_client_session.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\tests\test_client_ws.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_client_ws_functional.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 36)
+    2.6, 3.0: 36
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_compression_utils.py
+--------------------------------------------------------------------------------
+synonym (total: 16)
+    2.6, 3.0: 16
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aiohttp\tests\test_connector.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_CLIENT (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\tests\test_cookie_helpers.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_cookiejar.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+heapq (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_flowcontrol_streams.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 28)
+    2.6, 3.0: 28
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_formdata.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 22)
+    2.6, 3.0: 22
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_helpers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.current_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\tests\test_http_exceptions.py
+--------------------------------------------------------------------------------
+pickle.HIGHEST_PROTOCOL (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aiohttp\tests\test_http_parser.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 311)
+    2.6, 3.0: 308
+    2.6, 3.5: 3
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: aiohttp\tests\test_http_writer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+memoryview.cast (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 210)
+    2.6, 3.0: 210
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 8)
+    !2, 3.5: 8
+
+
+FILE: aiohttp\tests\test_imports.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\tests\test_leaks.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aiohttp\tests\test_loop.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aiohttp\tests\test_multipart.py
+--------------------------------------------------------------------------------
+anext (total: 1)
+    !2, 3.10: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+assignment (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 188)
+    2.6, 3.0: 188
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_multipart_helpers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aiohttp\tests\test_payload.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+memoryview (total: 1)
+    2.7, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 101)
+    2.6, 3.0: 101
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_proxy.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_proxy_functional.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+sys.implementation (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+typing.Unpack (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aiohttp\tests\test_pytest_plugin.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\tests\test_resolver.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Collection (total: 1)
+    !2, 3.6: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_route_def.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_run_app.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+contextvars (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 17)
+    !2, 3.6: 17
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aiohttp\tests\test_streams.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.isfuture (total: 1)
+    !2, 3.5: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+gc.get_referents (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.groupby (total: 1)
+    2.4, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 205)
+    2.6, 3.0: 205
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_tcp_helpers.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_test_utils.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.assert_type (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_tracing.py
+--------------------------------------------------------------------------------
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.assert_type (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_urldispatch.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.home (total: 1)
+    !2, 3.5: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: aiohttp\tests\test_web_app.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_web_cli.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_web_exceptions.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+pickle.HIGHEST_PROTOCOL (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_web_functional.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.to_thread (total: 1)
+    !2, 3.9: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 46)
+    2.6, 3.0: 46
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_web_log.py
+--------------------------------------------------------------------------------
+contextvars (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_web_middleware.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Awaitable (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_web_protocol.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_web_request.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_SERVER (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+synonym (total: 21)
+    2.6, 3.0: 21
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\tests\test_web_request_handler.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_web_response.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+gzip.decompress (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 28)
+    2.6, 3.0: 28
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aiohttp\tests\test_web_runner.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_web_sendfile.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_web_sendfile_functional.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bz2 (total: 1)
+    2.3, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+gzip.compress (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_web_server.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_web_urldispatcher.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 28)
+    2.6, 3.0: 28
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tests\test_web_websocket.py
+--------------------------------------------------------------------------------
+ConnectionResetError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+time.get_clock_info (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: aiohttp\tests\test_web_websocket_functional.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 27)
+    2.6, 3.0: 27
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NoReturn (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.WeakSet (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: aiohttp\tests\test_websocket_data_queue.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_websocket_handshake.py
+--------------------------------------------------------------------------------
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aiohttp\tests\test_websocket_parser.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+pickle.HIGHEST_PROTOCOL (total: 1)
+    2.3, 3.0: 1
+
+random.getrandbits (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 71)
+    2.6, 3.0: 71
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_websocket_writer.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 39)
+    2.6, 3.0: 39
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tests\test_worker.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.PROTOCOL_TLS_CLIENT (total: 1)
+    !2, 3.6: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aiohttp\tools\bench-asyncio-write.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aiohttp\tools\check_changes.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\tools\check_sum.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aiohttp\tools\cleanup_changes.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aiohttp\tools\gen.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+

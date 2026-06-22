@@ -1,0 +1,13 @@
+Statistics for: ray_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 4467
+W: 29603
+C: 6788
+R: 8353
+
+Total messages: 49212
+Average rating: 7.53/10

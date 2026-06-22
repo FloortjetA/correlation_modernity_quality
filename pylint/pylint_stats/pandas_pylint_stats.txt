@@ -1,0 +1,13 @@
+Statistics for: pandas_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 408
+W: 13969
+C: 1667
+R: 3683
+
+Total messages: 19727
+Average rating: 8.16/10

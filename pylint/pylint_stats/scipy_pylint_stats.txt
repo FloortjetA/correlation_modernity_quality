@@ -1,0 +1,13 @@
+Statistics for: scipy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 5092
+W: 11553
+C: 1504
+R: 5901
+
+Total messages: 24050
+Average rating: 7.03/10

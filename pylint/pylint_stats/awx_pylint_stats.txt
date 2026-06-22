@@ -1,0 +1,13 @@
+Statistics for: awx_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 365
+W: 4466
+C: 8249
+R: 2724
+
+Total messages: 15804
+Average rating: 6.34/10

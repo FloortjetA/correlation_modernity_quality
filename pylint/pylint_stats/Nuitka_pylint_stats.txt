@@ -1,0 +1,13 @@
+Statistics for: Nuitka_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 653
+W: 3036
+C: 962
+R: 2360
+
+Total messages: 7011
+Average rating: 8.32/10

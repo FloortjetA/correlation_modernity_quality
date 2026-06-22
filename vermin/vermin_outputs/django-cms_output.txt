@@ -1,0 +1,3665 @@
+Detecting python files..
+Analyzing 452 files using 20 processes..
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\__main__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\__init__.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\forms.py
+  L93: `yield from` requires !2, 3.3
+  L131: f-strings require !2, 3.6
+  L165: super() without arguments requires !2, 3.0
+  L175: f-strings require !2, 3.6
+  L176: f-strings require !2, 3.6
+  L183: function decorators require 2.4, 3.0
+  L232: super() without arguments requires !2, 3.0
+  L236: function decorators require 2.4, 3.0
+  L240: function decorators require 2.4, 3.0
+  L275: super() without arguments requires !2, 3.0
+  L314: f-strings require !2, 3.6
+  L479: super() without arguments requires !2, 3.0
+  L503: super() without arguments requires !2, 3.0
+  L592: super() without arguments requires !2, 3.0
+  L602: function decorators require 2.4, 3.0
+  L607: super() without arguments requires !2, 3.0
+  L630: f-strings require !2, 3.6
+  L678: super() without arguments requires !2, 3.0
+  L736: super() without arguments requires !2, 3.0
+  L780: function decorators require 2.4, 3.0
+  L785: super() without arguments requires !2, 3.0
+  L871: dict comprehensions require 2.7, 3.0
+  L892: super() without arguments requires !2, 3.0
+  L908: super() without arguments requires !2, 3.0
+  L920: named expressions require !2, 3.8
+  L949: super() without arguments requires !2, 3.0
+  L969: f-strings require !2, 3.6
+  L978: super() without arguments requires !2, 3.0
+  L1048: super() without arguments requires !2, 3.0
+  L1070: super() without arguments requires !2, 3.0
+  L1079 C15: 'any' member requires 2.5, 3.0
+  L1090: f-strings require !2, 3.6
+  L1097: super() without arguments requires !2, 3.0
+  L1123: super() without arguments requires !2, 3.0
+  L1163 C70: 'dict' member requires 2.2, 3.0
+  L1260: super() without arguments requires !2, 3.0
+  L1263: super() without arguments requires !2, 3.0
+  L1320: f-strings require !2, 3.6
+  L1324: super() without arguments requires !2, 3.0
+  L1340: super() without arguments requires !2, 3.0
+  L1349: super() without arguments requires !2, 3.0
+  L1371: super() without arguments requires !2, 3.0
+  L1400: super() without arguments requires !2, 3.0
+  L1400 C15: 'super' member requires 2.2, 3.0
+  L1481 C15: 'bool' member requires 2.2, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\pageadmin.py
+  L1 C5: '__future__' module requires 2.1, 3.0
+  L1 C5: '__future__.annotations' member requires !2, 3.7
+  L3 C7: 'json' module requires 2.6, 3.0
+  L5 C5: 'collections' module requires 2.4, 3.0
+  L5 C5: 'collections.namedtuple' member requires 2.6, 3.0
+  L99: annotations require !2, 3.0
+  L99: union types as `X | Y` require !2, 3.10
+  L108: f-strings require !2, 3.6
+  L114: f-strings require !2, 3.6
+  L116: f-strings require !2, 3.6
+  L117: f-strings require !2, 3.6
+  L126: super() without arguments requires !2, 3.0
+  L137: class decorators require 2.6, 3.0
+  L183: f-strings require !2, 3.6
+  L192: super() without arguments requires !2, 3.0
+  L211: f-strings require !2, 3.6
+  L230: super() without arguments requires !2, 3.0
+  L239: super() without arguments requires !2, 3.0
+  L248 C60: 'type' member requires 2.2, 3.0
+  L250: super() without arguments requires !2, 3.0
+  L326: function decorators require 2.4, 3.0
+  L400: super() without arguments requires !2, 3.0
+  L424: super() without arguments requires !2, 3.0
+  L510: function decorators require 2.4, 3.0
+  L621: function decorators require 2.4, 3.0
+  L660 C15: 'any' member requires 2.5, 3.0
+  L741: class decorators require 2.6, 3.0
+  L776: f-strings require !2, 3.6
+  L785: super() without arguments requires !2, 3.0
+  L796: super() without arguments requires !2, 3.0
+  L800: f-strings require !2, 3.6
+  L812: super() without arguments requires !2, 3.0
+  L836: super() without arguments requires !2, 3.0
+  L911: super() without arguments requires !2, 3.0
+  L941: super() without arguments requires !2, 3.0
+  L955: super() without arguments requires !2, 3.0
+  L974: named expressions require !2, 3.8
+  L1153: function decorators require 2.4, 3.0
+  L1169 C34: 'dict' member requires 2.2, 3.0
+  L1180: function decorators require 2.4, 3.0
+  L1225: super() without arguments requires !2, 3.0
+  L1225 C15: 'super' member requires 2.2, 3.0
+  L1267: function decorators require 2.4, 3.0
+  L1346: dict comprehensions require 2.7, 3.0
+  L1399: function decorators require 2.4, 3.0
+  L1406: function decorators require 2.4, 3.0
+  L1414: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\permissionadmin.py
+  L54: function decorators require 2.4, 3.0
+  L109: super() without arguments requires !2, 3.0
+  L109 C22: 'super' member requires 2.2, 3.0
+  L161: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\placeholderadmin.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L2 C7: 'uuid' module requires 2.5, 3.0
+  L3 C7: 'warnings' module requires 2.1, 3.0
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L53 C14: 'object' member requires 2.2, 3.0
+  L87: function decorators require 2.4, 3.0
+  L155: annotations require !2, 3.0
+  L159: f-strings require !2, 3.6
+  L166: super() without arguments requires !2, 3.0
+  L166 C30: 'super' member requires 2.2, 3.0
+  L168: annotations require !2, 3.0
+  L171: f-strings require !2, 3.6
+  L174: annotations require !2, 3.0
+  L189: class decorators require 2.6, 3.0
+  L216: annotations require !2, 3.0
+  L220: f-strings require !2, 3.6
+  L240: annotations require !2, 3.0
+  L247: annotations require !2, 3.0
+  L264 C18: 'dict' member requires 2.2, 3.0
+  L366: function decorators require 2.4, 3.0
+  L429: dict comprehensions require 2.7, 3.0
+  L452: function decorators require 2.4, 3.0
+  L628: function decorators require 2.4, 3.0
+  L665: function decorators require 2.4, 3.0
+  L1027: function decorators require 2.4, 3.0
+  L1103: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\settingsadmin.py
+  L2 C7: 'json' module requires 2.6, 3.0
+  L3 C5: 'functools' module requires 2.5, 3.0
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L27: class decorators require 2.6, 3.0
+  L46: function decorators require 2.4, 3.0
+  L54: super() without arguments requires !2, 3.0
+  L54 C15: 'super' member requires 2.2, 3.0
+  L122: `with` requires 2.5, 3.0
+  L128: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\useradmin.py
+  L22: variable annotations require !2, 3.6
+  L47: super() without arguments requires !2, 3.0
+  L52: super() without arguments requires !2, 3.0
+  L58: super() without arguments requires !2, 3.0
+  L65: super() without arguments requires !2, 3.0
+  L72: super() without arguments requires !2, 3.0
+  L93: super() without arguments requires !2, 3.0
+  L108: super() without arguments requires !2, 3.0
+  L108 C8: 'super' member requires 2.2, 3.0
+  L130 C29: 'enumerate' member requires 2.3, 3.0
+  L137: f-strings require !2, 3.6
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\admin\utils.py
+  L2 C7: 'typing' module requires !2, 3.5
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L56: annotations require !2, 3.0
+  L73: annotations require !2, 3.0
+  L84: annotations require !2, 3.0
+  L95: annotations require !2, 3.0
+  L102: annotations require !2, 3.0
+  L105: super() without arguments requires !2, 3.0
+  L110: function decorators require 2.4, 3.0
+  L111: annotations require !2, 3.0
+  L168: variable annotations require !2, 3.6
+  L169: variable annotations require !2, 3.6
+  L170: variable annotations require !2, 3.6
+  L172: annotations require !2, 3.0
+  L172: union types as `X | Y` require !2, 3.10
+  L173: super() without arguments requires !2, 3.0
+  L189: super() without arguments requires !2, 3.0
+  L200: super() without arguments requires !2, 3.0
+  L236: union types as `X | Y` require !2, 3.10
+  L236: variable annotations require !2, 3.6
+  L245: variable annotations require !2, 3.6
+  L249: variable annotations require !2, 3.6
+  L254: union types as `X | Y` require !2, 3.10
+  L254: variable annotations require !2, 3.6
+  L277: super() without arguments requires !2, 3.0
+  L284: f-strings require !2, 3.6
+  L297: f-strings require !2, 3.6
+  L330: annotations require !2, 3.0
+  L352: annotations require !2, 3.0
+  L356: union types as `X | Y` require !2, 3.10
+  L388: annotations require !2, 3.0
+  L391: super() without arguments requires !2, 3.0
+  L393: annotations require !2, 3.0
+  L397: annotations require !2, 3.0
+  L403: f-strings require !2, 3.6
+  L404: f-strings require !2, 3.6
+  L406: f-strings require !2, 3.6
+  L413: function decorators require 2.4, 3.0
+  L414: annotations require !2, 3.0
+  L416: dict comprehensions require 2.7, 3.0
+  L420: annotations require !2, 3.0
+  L425: annotations require !2, 3.0
+  L425: union types as `X | Y` require !2, 3.10
+  L432: f-strings require !2, 3.6
+  L432 C11: 'callable' member requires 2.0, 3.2
+  L433: f-strings require !2, 3.6
+  L436: annotations require !2, 3.0
+  L444: annotations require !2, 3.0
+  L447: super() without arguments requires !2, 3.0
+  L453: annotations require !2, 3.0
+  L456: union types as `X | Y` require !2, 3.10
+  L462: generalized unpacking requires !2, 3.5
+  L462: super() without arguments requires !2, 3.0
+  L472: annotations require !2, 3.0
+  L476: union types as `X | Y` require !2, 3.10
+  L480: super() without arguments requires !2, 3.0
+  L482: annotations require !2, 3.0
+  L486: union types as `X | Y` require !2, 3.10
+  L490: super() without arguments requires !2, 3.0
+  L492: annotations require !2, 3.0
+  L497: super() without arguments requires !2, 3.0
+  L509: annotations require !2, 3.0
+  L509: union types as `X | Y` require !2, 3.10
+  L555: annotations require !2, 3.0
+  L557: super() without arguments requires !2, 3.0
+  L558 C21: 'type' member requires 2.2, 3.0
+  L570: f-strings require !2, 3.6
+  L580: annotations require !2, 3.0
+  L593: annotations require !2, 3.0
+  L594: f-strings require !2, 3.6
+  L595: f-strings require !2, 3.6
+  L604: annotations require !2, 3.0
+  L607: annotations require !2, 3.0
+  L625: annotations require !2, 3.0
+  L628: annotations require !2, 3.0
+  L635: annotations require !2, 3.0
+  L645: annotations require !2, 3.0
+  L653: annotations require !2, 3.0
+  L658: annotations require !2, 3.0
+  L667: annotations require !2, 3.0
+  L667: union types as `X | Y` require !2, 3.10
+  L675: annotations require !2, 3.0
+  L679: super() without arguments requires !2, 3.0
+  L690: dict comprehensions require 2.7, 3.0
+  L693: annotations require !2, 3.0
+  L695: super() without arguments requires !2, 3.0
+  L696: dict comprehensions require 2.7, 3.0
+  L733: super() without arguments requires !2, 3.0
+  L751: super() without arguments requires !2, 3.0
+  L763: variable annotations require !2, 3.6
+  L777: dict comprehensions require 2.7, 3.0
+  L777: generalized unpacking requires !2, 3.5
+  L789: dict comprehensions require 2.7, 3.0
+  L789: generalized unpacking requires !2, 3.5
+  L795: super() without arguments requires !2, 3.0
+  L803: annotations require !2, 3.0
+  L808: f-strings require !2, 3.6
+  L822: annotations require !2, 3.0
+  L825: f-strings require !2, 3.6
+  L826: f-strings require !2, 3.6
+  L830 C23: 'dict' member requires 2.2, 3.0
+  L833: super() without arguments requires !2, 3.0
+  L833 C15: 'super' member requires 2.2, 3.0
+  L855: annotations require !2, 3.0
+  L857: dict comprehensions require 2.7, 3.0
+  L860: generalized unpacking requires !2, 3.5
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\api.py
+  L40 C7: 'warnings' module requires 2.1, 3.0
+  L127: function decorators require 2.4, 3.0
+  L287: function decorators require 2.4, 3.0
+  L396: function decorators require 2.4, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\app_base.py
+  L1 C5: 'abc' module requires 2.6, 3.0
+  L42: super() without arguments requires !2, 3.0
+  L42 C15: 'super' member requires 2.2, 3.0
+  L140: function decorators require 2.4, 3.0
+  L141: annotations require !2, 3.0
+  L186: function decorators require 2.4, 3.0
+
+!2, 3.9      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\app_registration.py
+  L1 C7: 'inspect' module requires 2.1, 3.0
+  L2 C5: 'functools' module requires 2.5, 3.0
+  L3 C5: 'importlib' module requires 2.7, 3.1
+  L74: f-strings require !2, 3.6
+  L101: function decorators require 2.4, 3.0
+  L113: function decorators require 2.4, 3.0
+  L113: 'functools.cache' member requires !2, 3.9
+  L113: 'functools.cache' user function decorator requires !2, 3.9
+  L138: f-strings require !2, 3.6
+  L176: f-strings require !2, 3.6
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\apphook_pool.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L81: 'sorted(key)' requires 2.4, 3.0
+  L81 C16: 'sorted' member requires 2.4, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\appresolver.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L2 C5: 'importlib' module requires 2.7, 3.1
+  L57: super() without arguments requires !2, 3.0
+  L57 C8: 'super' member requires 2.2, 3.0
+  L59: function decorators require 2.4, 3.0
+  L71: function decorators require 2.4, 3.0
+  L119: f-strings require !2, 3.6
+  L216: annotations require !2, 3.0
+  L216: union types as `X | Y` require !2, 3.10
+  L254: `"..{}..".format(..)` requires 2.7, 3.0
+  L254: 'str.format' member requires 2.6, 3.0
+  L269: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\apps.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cache\__init__.py
+  L87: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cache\choices.py
+  L7: `"..{}..".format(..)` requires 2.7, 3.0
+  L11: `"..{}..".format(..)` requires 2.7, 3.0
+  L11: 'str.format' member requires 2.6, 3.0
+  L19: f-strings require !2, 3.6
+  L21: f-strings require !2, 3.6
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cache\page.py
+  L1 C7: 'hashlib' module requires 2.5, 3.0
+  L2 C5: 'datetime' module requires 2.3, 3.0
+  L73 C33: 'set' member requires 2.4, 3.0
+  L86 C41: 'sorted' member requires 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cache\permissions.py
+  L16: `"..{}..".format(..)` requires 2.7, 3.0
+  L16: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cache\placeholder.py
+  L19 C7: 'hashlib' module requires 2.5, 3.0
+  L38: f-strings require !2, 3.6
+  L100: f-strings require !2, 3.6
+  L129: 'str.format' member requires 2.6, 3.0
+
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cms_config.py
+  L1 C5: 'collections.abc' module requires !2, 3.3
+  L2 C5: 'functools' module requires 2.5, 3.0
+  L2 C5: 'functools.cached_property' member requires !2, 3.8
+  L3 C5: 'logging' module requires 2.3, 3.0
+  L39: function decorators require 2.4, 3.0
+  L40: annotations require !2, 3.0
+  L52: dict comprehensions require 2.7, 3.0
+  L53: named expressions require !2, 3.8
+  L53 C25: 'next' member requires 2.6, 3.0
+  L55: f-strings require !2, 3.6
+  L56 C77: 'type' member requires 2.2, 3.0
+  L64: unpacking assignment requires !2, 3.0
+  L66: f-strings require !2, 3.6
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cms_menus.py
+  L2 C5: 'collections' module requires 2.4, 3.0
+  L2 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L3 C5: 'collections.abc' module requires !2, 3.3
+  L3 C5: 'collections.abc.Generator' member requires !2, 3.5
+  L27: annotations require !2, 3.0
+  L53: dict comprehensions require 2.7, 3.0
+  L56 C43: 'frozenset' member requires 2.4, 3.0
+  L59: annotations require !2, 3.0
+  L89: union types as `X | Y` require !2, 3.10
+  L89: keyword-only parameters require !2, 3.0
+  L99: super() without arguments requires !2, 3.0
+  L101: annotations require !2, 3.0
+  L119: super() without arguments requires !2, 3.0
+  L119 C8: 'super' member requires 2.2, 3.0
+  L143: annotations require !2, 3.0
+  L163: annotations require !2, 3.0
+  L166: union types as `X | Y` require !2, 3.10
+  L198: f-strings require !2, 3.6
+  L199: f-strings require !2, 3.6
+  L212: f-strings require !2, 3.6
+  L221: f-strings require !2, 3.6
+  L235: annotations require !2, 3.0
+  L304: annotations require !2, 3.0
+  L317: annotations require !2, 3.0
+  L350 C15: 'next' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cms_plugins.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cms_toolbars.py
+  L84: class decorators require 2.6, 3.0
+  L94: super() without arguments requires !2, 3.0
+  L94 C8: 'super' member requires 2.2, 3.0
+  L158 C15: 'any' member requires 2.5, 3.0
+  L231: class decorators require 2.6, 3.0
+  L248: class decorators require 2.6, 3.0
+  L261: annotations require !2, 3.0
+  L266: annotations require !2, 3.0
+  L270: annotations require !2, 3.0
+  L271: named expressions require !2, 3.8
+  L277: class decorators require 2.6, 3.0
+  L359: `"..{}..".format(..)` requires 2.7, 3.0
+  L359: 'str.format' member requires 2.6, 3.0
+  L360: f-strings require !2, 3.6
+  L421: class decorators require 2.6, 3.0
+  L443: `with` requires 2.5, 3.0
+  L519: f-strings require !2, 3.6
+  L532: f-strings require !2, 3.6
+  L544: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\cms_wizards.py
+  L25: super() without arguments requires !2, 3.0
+  L39: super() without arguments requires !2, 3.0
+  L39 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\constants.py
+  L32 C7: 'object' member requires 2.2, 3.0
+  L66: annotations require !2, 3.0
+  L67: f-strings require !2, 3.6
+
+!2, 3.9      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\context_processors.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L15: function decorators require 2.4, 3.0
+  L15: 'functools.cache' member requires !2, 3.9
+  L15: 'functools.cache' user function decorator requires !2, 3.9
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\exceptions.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\extensions\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\extensions\admin.py
+  L26: super() without arguments requires !2, 3.0
+  L39: function decorators require 2.4, 3.0
+  L50: f-strings require !2, 3.6
+  L58: super() without arguments requires !2, 3.0
+  L71: super() without arguments requires !2, 3.0
+  L86: function decorators require 2.4, 3.0
+  L97: f-strings require !2, 3.6
+  L105: super() without arguments requires !2, 3.0
+  L105 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\extensions\extension_pool.py
+  L9 C39: 'set' member requires 2.4, 3.0
+  L35: f-strings require !2, 3.6
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\extensions\models.py
+  L25: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\extensions\toolbar.py
+  L60: f-strings require !2, 3.6
+  L62: `"..{}..".format(..)` requires 2.7, 3.0
+  L63: f-strings require !2, 3.6
+  L87: f-strings require !2, 3.6
+  L89: `"..{}..".format(..)` requires 2.7, 3.0
+  L89: 'str.format' member requires 2.6, 3.0
+  L90: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\fields.py
+  L46: super() without arguments requires !2, 3.0
+  L70: super() without arguments requires !2, 3.0
+  L105: super() without arguments requires !2, 3.0
+  L110: super() without arguments requires !2, 3.0
+  L116: super() without arguments requires !2, 3.0
+  L116 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\login.py
+  L8: super() without arguments requires !2, 3.0
+  L8 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\utils.py
+  L49: dict comprehensions require 2.7, 3.0
+  L57: f-strings require !2, 3.6
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\validators.py
+  L1 C5: 'typing' module requires !2, 3.5
+  L29: annotations require !2, 3.0
+  L30: union types as `X | Y` require !2, 3.10
+  L55: f-strings require !2, 3.6
+  L73: f-strings require !2, 3.6
+  L75: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\widgets.py
+  L33: super() without arguments requires !2, 3.0
+  L81: super() without arguments requires !2, 3.0
+  L108: super() without arguments requires !2, 3.0
+  L128: super() without arguments requires !2, 3.0
+  L142: super() without arguments requires !2, 3.0
+  L176: super() without arguments requires !2, 3.0
+  L179: super() without arguments requires !2, 3.0
+  L227: super() without arguments requires !2, 3.0
+  L230: dict comprehensions require 2.7, 3.0
+  L234: dict comprehensions require 2.7, 3.0
+  L246: super() without arguments requires !2, 3.0
+  L246 C18: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\forms\wizards.py
+  L44: super() without arguments requires !2, 3.0
+  L64: function decorators require 2.4, 3.0
+  L90: f-strings require !2, 3.6
+  L96: `"..{}..".format(..)` requires 2.7, 3.0
+  L96: 'str.format' member requires 2.6, 3.0
+  L130: function decorators require 2.4, 3.0
+  L134: super() without arguments requires !2, 3.0
+  L134 C26: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\__init__.py
+!2, 3.1      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\cms.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L33: super() without arguments requires !2, 3.0
+  L33 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.7      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\startcmsproject.py
+  L3 C7: 'subprocess' module requires 2.4, 3.0
+  L22: super() without arguments requires !2, 3.0
+  L32: super() without arguments requires !2, 3.0
+  L51: f-strings require !2, 3.6
+  L55: f-strings require !2, 3.6
+  L89: f-strings require !2, 3.6
+  L91: f-strings require !2, 3.6
+  L92: f-strings require !2, 3.6
+  L114: f-strings require !2, 3.6
+  L115: f-strings require !2, 3.6
+  L117: 'subprocess.run(capture_output)' requires !2, 3.7
+  L122: f-strings require !2, 3.6
+  L135: 'subprocess.run' member requires !2, 3.5
+  L139: f-strings require !2, 3.6
+  L144: function decorators require 2.4, 3.0
+  L146: 'sys.base_prefix' member requires !2, 3.3
+  L151: super() without arguments requires !2, 3.0
+  L161: f-strings require !2, 3.6
+  L165: f-strings require !2, 3.6
+  L169: super() without arguments requires !2, 3.0
+  L169 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\__init__.py
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\base.py
+  L2 C5: 'collections' module requires 2.4, 3.0
+  L2 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L74 C30: 'set' member requires 2.4, 3.0
+  L87: set comprehensions require 2.7, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\check.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\copy.py
+  L22: f-strings require !2, 3.6
+  L27: f-strings require !2, 3.6
+  L82: f-strings require !2, 3.6
+  L106: f-strings require !2, 3.6
+  L112: `"..{}..".format(..)` requires 2.7, 3.0
+  L112: 'str.format' member requires 2.6, 3.0
+  L118: f-strings require !2, 3.6
+  L124: f-strings require !2, 3.6
+  L172: `with` requires 2.5, 3.0
+  L182: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\delete_orphaned_plugins.py
+  L69: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\list.py
+  L29: `"..{}..".format(..)` requires 2.7, 3.0
+  L33: `"..{}..".format(..)` requires 2.7, 3.0
+  L33: 'str.format' member requires 2.6, 3.0
+  L54 C24: 'set' member requires 2.4, 3.0
+  L102: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\tree.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L22: `yield from` requires !2, 3.3
+  L107: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\commands\subcommands\uninstall.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\management\djangocms.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\menu_bases.py
+  L16: super() without arguments requires !2, 3.0
+  L16 C8: 'super' member requires 2.2, 3.0
+  L22: function decorators require 2.4, 3.0
+  L36: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\__init__.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\language.py
+  L8: super() without arguments requires !2, 3.0
+  L8 C8: 'super' member requires 2.2, 3.0
+  L14: coroutines (async) require !2, 3.5
+  L15: coroutines (await) require !2, 3.5
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\page.py
+  L25: coroutines (async) require !2, 3.5
+  L27: coroutines (await) require !2, 3.5
+
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\toolbar.py
+  L39: super() without arguments requires !2, 3.0
+  L39 C8: 'super' member requires 2.2, 3.0
+  L96: named expressions require !2, 3.8
+  L108: coroutines (async) require !2, 3.5
+  L110: coroutines (await) require !2, 3.5
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\user.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\middleware\utils.py
+  L15: coroutines (async) require !2, 3.5
+  L17: coroutines (await) require !2, 3.5
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0001_initial.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0001_initial_squashed_0022_auto_20180620_1551.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0002_auto_20140816_1918.py
+  L9: `"..{}..".format(..)` requires 2.7, 3.0
+  L9: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0003_auto_20140926_2347.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0004_auto_20140924_1038.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0005_auto_20140924_1039.py
+  L48: `"..{}..".format(..)` requires 2.7, 3.0
+  L60: `"..{}..".format(..)` requires 2.7, 3.0
+  L61: `"..{}..".format(..)` requires 2.7, 3.0
+  L61: 'str.format' member requires 2.6, 3.0
+  L70: super() without arguments requires !2, 3.0
+  L96: super() without arguments requires !2, 3.0
+  L96 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0006_auto_20140924_1110.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0007_auto_20141028_1559.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0008_auto_20150121_0059.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0008_auto_20150208_2149.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0009_merge.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0010_migrate_use_structure.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L2 C7: 'functools' module requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0011_auto_20150419_1006.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0012_auto_20150607_2207.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0013_urlconfrevision.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0014_auto_20160404_1908.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0015_auto_20160421_0000.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0016_auto_20160608_1535.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0017_pagetype.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0018_create_pagenode.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0019_set_pagenode.py
+  L41: dict comprehensions require 2.7, 3.0
+  L71: super() without arguments requires !2, 3.0
+  L71 C19: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0020_old_tree_cleanup.py
+  L69: super() without arguments requires !2, 3.0
+  L69 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0021_auto_20180507_1432.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0022_auto_20180620_1551.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0023_placeholder_source_field.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0024_set_plugin_absolute_position.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0025_remove_plugin_tree_fields.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0026_title_placeholders.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0027_title_placeholders_data_migration.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L2 C7: 'warnings' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0028_remove_page_placeholders.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0029_create_title_fields_and_url_model.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0030_auto_20180810_0629.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0031_remove_fields.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0032_remove_title_to_pagecontent.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0033_placeholder_source_data_migration.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0034_remove_pagecontent_placeholders.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0035_auto_20230822_2208.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0035_auto_20230822_2208_squashed_0036_auto_20240311_1028.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0036_auto_20240311_1028.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0037_merge_page_treenode.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0038_alter_page_site.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0039_remove_page_languages_alter_pageurl_unique_together.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0040_alter_pageuser_created_by_and_more.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0041_alter_pageurl_unique_together_pageurl_site_and_more.py
+  L3 C5: 'collections' module requires 2.4, 3.0
+  L3 C5: 'collections.defaultdict' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\0042_remove_placeholderreference_placeholder_ref_and_more.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\migrations\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\aliaspluginmodel.py
+  L40: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\apphooks_reload.py
+  L1 C7: 'uuid' module requires 2.5, 3.0
+  L17: super() without arguments requires !2, 3.0
+  L17 C8: 'super' member requires 2.2, 3.0
+  L19: function decorators require 2.4, 3.0
+  L30: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\contentmodels.py
+  L150: f-strings require !2, 3.6
+  L153: f-strings require !2, 3.6
+  L165: super() without arguments requires !2, 3.0
+  L165 C8: 'super' member requires 2.2, 3.0
+  L171 C14: 'bool' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\fields.py
+  L1 C5: 'itertools' module requires 2.3, 3.0
+  L26: super() without arguments requires !2, 3.0
+  L33: super() without arguments requires !2, 3.0
+  L61: super() without arguments requires !2, 3.0
+  L64: super() without arguments requires !2, 3.0
+  L90: super() without arguments requires !2, 3.0
+  L90 C8: 'super' member requires 2.2, 3.0
+  L97: function decorators require 2.4, 3.0
+  L102 C15: 'all' member requires 2.5, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\managers.py
+  L2 C7: 'functools' module requires 2.5, 3.0
+  L89 C15: 'warnings' module requires 2.1, 3.0
+  L152: super() without arguments requires !2, 3.0
+  L157: `yield from` requires !2, 3.3
+  L157: super() without arguments requires !2, 3.0
+  L160: super() without arguments requires !2, 3.0
+  L165: super() without arguments requires !2, 3.0
+  L171: super() without arguments requires !2, 3.0
+  L171 C16: 'super' member requires 2.2, 3.0
+  L268: 'functools.reduce' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\pagemodel.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L2 C5: 'logging' module requires 2.3, 3.0
+  L139: super() without arguments requires !2, 3.0
+  L157: f-strings require !2, 3.6
+  L160: function decorators require 2.4, 3.0
+  L169: function decorators require 2.4, 3.0
+  L174 C16: 'frozenset' member requires 2.4, 3.0
+  L182: super() without arguments requires !2, 3.0
+  L189: super() without arguments requires !2, 3.0
+  L209: function decorators require 2.4, 3.0
+  L354: `with` requires 2.5, 3.0
+  L393: f-strings require !2, 3.6
+  L453: f-strings require !2, 3.6
+  L454: f-strings require !2, 3.6
+  L491: f-strings require !2, 3.6
+  L497: `"..{}..".format(..)` requires 2.7, 3.0
+  L497: 'str.format' member requires 2.6, 3.0
+  L611 C22: 'bool' member requires 2.2, 3.0
+  L618: super() without arguments requires !2, 3.0
+  L618 C8: 'super' member requires 2.2, 3.0
+  L680: function decorators require 2.4, 3.0
+  L762: f-strings require !2, 3.6
+  L801: f-strings require !2, 3.6
+  L843: dict comprehensions require 2.7, 3.0
+  L845 C15: 'next' member requires 2.6, 3.0
+  L874: annotations require !2, 3.0
+  L953 C23: 'all' member requires 2.5, 3.0
+  L961: function decorators require 2.4, 3.0
+  L965: function decorators require 2.4, 3.0
+  L1116: f-strings require !2, 3.6
+  L1122: `with` requires 2.5, 3.0
+  L1132: f-strings require !2, 3.6
+  L1140: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\permissionmodels.py
+  L100: super() without arguments requires !2, 3.0
+  L138: function decorators require 2.4, 3.0
+  L149: super() without arguments requires !2, 3.0
+  L158 C15: 'all' member requires 2.5, 3.0
+  L160: function decorators require 2.4, 3.0
+  L174: function decorators require 2.4, 3.0
+  L227: annotations require !2, 3.0
+  L250: annotations require !2, 3.0
+  L261: f-strings require !2, 3.6
+  L291: f-strings require !2, 3.6
+  L294: super() without arguments requires !2, 3.0
+  L294 C8: 'super' member requires 2.2, 3.0
+  L309 C15: 'warnings' module requires 2.1, 3.0
+  L324: `yield from` requires !2, 3.3
+  L331: `yield from` requires !2, 3.3
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\placeholdermodel.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L2 C5: 'datetime' module requires 2.3, 3.0
+  L3 C5: 'typing' module requires !2, 3.5
+  L62: f-strings require !2, 3.6
+  L108 C20: 'type' member requires 2.2, 3.0
+  L203 C15: 'next' member requires 2.6, 3.0
+  L235 C11: 'property' member requires 2.2, 3.0
+  L407 C20: 'set' member requires 2.4, 3.0
+  L421 C40: 'iter' member requires 2.2, 3.0
+  L436 C15: 'sorted' member requires 2.4, 3.0
+  L449: annotations require !2, 3.0
+  L641: `with` requires 2.5, 3.0
+  L756: f-strings require !2, 3.6
+
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\placeholderpluginmodel.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L1 C5: 'functools.cached_property' member requires !2, 3.8
+  L20: function decorators require 2.4, 3.0
+
+!2, 3.9      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\pluginmodel.py
+  L1 C5: '__future__' module requires 2.1, 3.0
+  L1 C5: '__future__.annotations' member requires !2, 3.7
+  L5 C7: 'warnings' module requires 2.1, 3.0
+  L6 C5: 'datetime' module requires 2.3, 3.0
+  L7 C5: 'functools' module requires 2.5, 3.0
+  L7 C5: 'functools.cached_property' member requires !2, 3.8
+  L23: function decorators require 2.4, 3.0
+  L49: function decorators require 2.4, 3.0
+  L49: 'functools.cache' member requires !2, 3.9
+  L49: 'functools.cache' user function decorator requires !2, 3.9
+  L72: 'str.format' member requires 2.6, 3.0
+  L104: super() without arguments requires !2, 3.0
+  L119 C33: 'any' member requires 2.5, 3.0
+  L202: f-strings require !2, 3.6
+  L214: function decorators require 2.4, 3.0
+  L289: super() without arguments requires !2, 3.0
+  L289 C8: 'super' member requires 2.2, 3.0
+  L307: function decorators require 2.4, 3.0
+  L356: annotations require !2, 3.0
+  L359: annotations require !2, 3.0
+  L362: annotations require !2, 3.0
+  L380: annotations require !2, 3.0
+  L382: f-strings require !2, 3.6
+  L413: function decorators require 2.4, 3.0
+  L464: f-strings require !2, 3.6
+  L466: f-strings require !2, 3.6
+  L472: f-strings require !2, 3.6
+  L474: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\query.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L63: super() without arguments requires !2, 3.0
+  L79: super() without arguments requires !2, 3.0
+  L93: super() without arguments requires !2, 3.0
+  L93 C15: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\models\settingmodels.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\operations\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\operations\helpers.py
+  L1 C7: 'uuid' module requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\page_rendering.py
+  L25 C21: 'any' member requires 2.5, 3.0
+  L66: exception cause requires !2, 3.0
+  L75 C18: 'dict' member requires 2.2, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\plugin_base.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L3 C5: 'collections.abc' module requires !2, 3.3
+  L4 C5: 'functools' module requires 2.5, 3.0
+  L32: super() without arguments requires !2, 3.0
+  L56 C30: 'type' member requires 2.2, 3.0
+  L99: annotations require !2, 3.0
+  L301: super() without arguments requires !2, 3.0
+  L334: function decorators require 2.4, 3.0
+  L369: function decorators require 2.4, 3.0
+  L375 C15: 'bool' member requires 2.2, 3.0
+  L377: function decorators require 2.4, 3.0
+  L378: 'functools.lru_cache' member requires !2, 3.2
+  L378: 'functools.lru_cache' user function decorator requires !2, 3.8
+  L379: annotations require !2, 3.0
+  L379: union types as `X | Y` require !2, 3.10
+  L394: function decorators require 2.4, 3.0
+  L396: annotations require !2, 3.0
+  L396: union types as `X | Y` require !2, 3.10
+  L493: super() without arguments requires !2, 3.0
+  L495: annotations require !2, 3.0
+  L498: union types as `X | Y` require !2, 3.10
+  L499: union types as `X | Y` require !2, 3.10
+  L500: union types as `X | Y` require !2, 3.10
+  L501: union types as `X | Y` require !2, 3.10
+  L545: generalized unpacking requires !2, 3.5
+  L574 C22: 'next' member requires 2.6, 3.0
+  L578: generalized unpacking requires !2, 3.5
+  L626: super() without arguments requires !2, 3.0
+  L706: f-strings require !2, 3.6
+  L712: super() without arguments requires !2, 3.0
+  L712 C20: 'super' member requires 2.2, 3.0
+  L727: function decorators require 2.4, 3.0
+  L735: function decorators require 2.4, 3.0
+  L737: annotations require !2, 3.0
+  L737: union types as `X | Y` require !2, 3.10
+  L750: function decorators require 2.4, 3.0
+  L751: annotations require !2, 3.0
+  L751: union types as `X | Y` require !2, 3.10
+  L766: function decorators require 2.4, 3.0
+  L768: annotations require !2, 3.0
+  L769: union types as `X | Y` require !2, 3.10
+  L807: function decorators require 2.4, 3.0
+  L809: annotations require !2, 3.0
+  L809: union types as `X | Y` require !2, 3.10
+  L833 C18: 'property' member requires 2.2, 3.0
+  L835: function decorators require 2.4, 3.0
+  L845: function decorators require 2.4, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\plugin_pool.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L2 C5: 'functools' module requires 2.5, 3.0
+  L3 C5: 'operator.attrgetter' member requires 2.4, 3.0
+  L23: variable annotations require !2, 3.6
+  L24: variable annotations require !2, 3.6
+  L25: variable annotations require !2, 3.6
+  L26: variable annotations require !2, 3.6
+  L34: function decorators require 2.4, 3.0
+  L35: annotations require !2, 3.0
+  L36 C15: 'any' member requires 2.5, 3.0
+  L38: annotations require !2, 3.0
+  L48: annotations require !2, 3.0
+  L55: 'sorted(key)' requires 2.4, 3.0
+  L55 C23: 'dict' member requires 2.2, 3.0
+  L57: annotations require !2, 3.0
+  L62: annotations require !2, 3.0
+  L76 C20: 'type' member requires 2.2, 3.0
+  L117: annotations require !2, 3.0
+  L129: f-strings require !2, 3.6
+  L137: annotations require !2, 3.0
+  L149: function decorators require 2.4, 3.0
+  L149: 'functools.lru_cache' member requires !2, 3.2
+  L149: 'functools.lru_cache' user function decorator requires !2, 3.8
+  L150: annotations require !2, 3.0
+  L171: f-strings require !2, 3.6
+  L181: annotations require !2, 3.0
+  L183: union types as `X | Y` require !2, 3.10
+  L184: union types as `X | Y` require !2, 3.10
+  L226: annotations require !2, 3.0
+  L228: f-strings require !2, 3.6
+  L233: annotations require !2, 3.0
+  L234 C18: 'set' member requires 2.4, 3.0
+  L238: annotations require !2, 3.0
+  L244: annotations require !2, 3.0
+  L257: f-strings require !2, 3.6
+  L265: annotations require !2, 3.0
+  L268: function decorators require 2.4, 3.0
+  L269: annotations require !2, 3.0
+  L270 C15: 'sorted' member requires 2.4, 3.0
+  L272: function decorators require 2.4, 3.0
+  L273: annotations require !2, 3.0
+  L277: function decorators require 2.4, 3.0
+  L278: annotations require !2, 3.0
+  L282: annotations require !2, 3.0
+  L305: f-strings require !2, 3.6
+  L314: f-strings require !2, 3.6
+  L315: f-strings require !2, 3.6
+  L316: f-strings require !2, 3.6
+  L317: f-strings require !2, 3.6
+  L318: f-strings require !2, 3.6
+  L319: f-strings require !2, 3.6
+  L324: annotations require !2, 3.0
+  L338 C56: 'all' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\plugin_processors.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\plugin_rendering.py
+  L1 C7: 'contextlib' module requires 2.5, 3.0
+  L2 C7: 'logging' module requires 2.3, 3.0
+  L4 C5: 'collections' module requires 2.4, 3.0
+  L4 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L5 C5: 'collections.abc' module requires !2, 3.3
+  L5 C5: 'collections.abc.Generator' member requires !2, 3.5
+  L6 C5: 'functools' module requires 2.5, 3.0
+  L7 C5: 'typing' module requires !2, 3.5
+  L44: annotations require !2, 3.0
+  L47: `yield from` requires !2, 3.3
+  L60: annotations require !2, 3.0
+  L90: variable annotations require !2, 3.6
+  L91: variable annotations require !2, 3.6
+  L93: annotations require !2, 3.0
+  L102: function decorators require 2.4, 3.0
+  L103: annotations require !2, 3.0
+  L106: function decorators require 2.4, 3.0
+  L107: annotations require !2, 3.0
+  L110: function decorators require 2.4, 3.0
+  L114: function decorators require 2.4, 3.0
+  L118: function decorators require 2.4, 3.0
+  L119: annotations require !2, 3.0
+  L124: function decorators require 2.4, 3.0
+  L125: annotations require !2, 3.0
+  L128: annotations require !2, 3.0
+  L138: annotations require !2, 3.0
+  L138: union types as `X | Y` require !2, 3.10
+  L147: annotations require !2, 3.0
+  L149 C19: 'warnings' module requires 2.1, 3.0
+  L166: annotations require !2, 3.0
+  L180: annotations require !2, 3.0
+  L187: annotations require !2, 3.0
+  L187: union types as `X | Y` require !2, 3.10
+  L198: annotations require !2, 3.0
+  L199: variable annotations require !2, 3.6
+  L206: annotations require !2, 3.0
+  L210: annotations require !2, 3.0
+  L225: annotations require !2, 3.0
+  L226: super() without arguments requires !2, 3.0
+  L236: annotations require !2, 3.0
+  L240: union types as `X | Y` require !2, 3.10
+  L241: union types as `X | Y` require !2, 3.10
+  L244: union types as `X | Y` require !2, 3.10
+  L245: union types as `X | Y` require !2, 3.10
+  L304: exception cause requires !2, 3.0
+  L304: raise ... from None requires !2, 3.3
+  L344: `with` requires 2.5, 3.0
+  L344: 'contextlib.nullcontext' member requires !2, 3.7
+  L352: annotations require !2, 3.0
+  L352: union types as `X | Y` require !2, 3.10
+  L366: annotations require !2, 3.0
+  L377 C72: 'type' member requires 2.2, 3.0
+  L388: f-strings require !2, 3.6
+  L400: annotations require !2, 3.0
+  L405: union types as `X | Y` require !2, 3.10
+  L471 C26: 'bool' member requires 2.2, 3.0
+  L477: annotations require !2, 3.0
+  L481: union types as `X | Y` require !2, 3.10
+  L523: annotations require !2, 3.0
+  L526: f-strings require !2, 3.6
+  L533: f-strings require !2, 3.6
+  L535: f-strings require !2, 3.6
+  L536: f-strings require !2, 3.6
+  L545: f-strings require !2, 3.6
+  L559: f-strings require !2, 3.6
+  L562: annotations require !2, 3.0
+  L568: union types as `X | Y` require !2, 3.10
+  L569: union types as `X | Y` require !2, 3.10
+  L623: named expressions require !2, 3.8
+  L713: super() without arguments requires !2, 3.0
+  L716: `yield from` requires !2, 3.3
+  L771: super() without arguments requires !2, 3.0
+  L786: super() without arguments requires !2, 3.0
+  L786 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\signals\__init__.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L41: function decorators require 2.4, 3.0
+  L59: super() without arguments requires !2, 3.0
+  L63: f-strings require !2, 3.6
+  L68: super() without arguments requires !2, 3.0
+  L68 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\signals\apphook.py
+  L1 C7: 'logging' module requires 2.3, 3.0
+  L42 C17: 'importlib' module requires 2.7, 3.1
+  L42 C17: 'importlib.reload' member requires !2, 3.4
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\signals\log_entries.py
+  L1 C7: 'json' module requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\signals\pagecontent.py
+  L4 C7: 'logging' module requires 2.3, 3.0
+  L15: function decorators require 2.4, 3.0
+  L32: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\signals\permissions.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\sitemaps\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\sitemaps\cms_sitemap.py
+  L14: `yield from` requires !2, 3.3
+  L50: variable annotations require !2, 3.6
+  L51: variable annotations require !2, 3.6
+  L54: annotations require !2, 3.0
+  L119: super() without arguments requires !2, 3.0
+  L119 C15: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templates.py
+  L21: function decorators require 2.4, 3.0
+  L25: function decorators require 2.4, 3.0
+  L29: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templatetags\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templatetags\cms_admin.py
+  L21: f-strings require !2, 3.6
+  L41: f-strings require !2, 3.6
+  L85: function decorators require 2.4, 3.0
+  L105: function decorators require 2.4, 3.0
+  L113: f-strings require !2, 3.6
+  L128: f-strings require !2, 3.6
+  L133: f-strings require !2, 3.6
+  L155: class decorators require 2.6, 3.0
+  L184: function decorators require 2.4, 3.0
+  L207: function decorators require 2.4, 3.0
+  L217: class decorators require 2.6, 3.0
+  L251: function decorators require 2.4, 3.0
+  L259: class decorators require 2.6, 3.0
+  L267: function decorators require 2.4, 3.0
+  L293: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templatetags\cms_js_tags.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L14: function decorators require 2.4, 3.0
+  L22: function decorators require 2.4, 3.0
+  L30: function decorators require 2.4, 3.0
+  L47: function decorators require 2.4, 3.0
+  L56: class decorators require 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templatetags\cms_static.py
+  L9: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\templatetags\cms_tags.py
+  L2 C5: 'collections' module requires 2.4, 3.0
+  L2 C5: 'collections.namedtuple' member requires 2.6, 3.0
+  L2 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L4 C5: 'datetime' module requires 2.3, 3.0
+  L51 C7: 'object' member requires 2.2, 3.0
+  L150: function decorators require 2.4, 3.0
+  L179: function decorators require 2.4, 3.0
+  L215: super() without arguments requires !2, 3.0
+  L242: super() without arguments requires !2, 3.0
+  L274: super() without arguments requires !2, 3.0
+  L346 C22: 'any' member requires 2.5, 3.0
+  L495: super() without arguments requires !2, 3.0
+  L532: `with` requires 2.5, 3.0
+  L535: f-strings require !2, 3.6
+  L538: f-strings require !2, 3.6
+  L545: f-strings require !2, 3.6
+  L563: f-strings require !2, 3.6
+  L567: f-strings require !2, 3.6
+  L578: f-strings require !2, 3.6
+  L585: f-strings require !2, 3.6
+  L610 C11: 'callable' member requires 2.0, 3.2
+  L678: f-strings require !2, 3.6
+  L933: super() without arguments requires !2, 3.0
+  L933 C15: 'super' member requires 2.2, 3.0
+  L949: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\fixtures\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\fixtures\fakemlng.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\fixtures\menus.py
+  L22: `with` requires 2.5, 3.0
+  L55: `with` requires 2.5, 3.0
+  L88: `with` requires 2.5, 3.0
+  L121: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\fixtures\navextenders.py
+  L20: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\fixtures\templatetags.py
+  L10: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_using_non_feature\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_bad_cms_file\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_config\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_cms_feature_and_config\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_feature_not_implemented\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_config_classes\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_app_class\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_file\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_file\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_file\apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_file\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\app_without_cms_file\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\backwards_wizards\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\backwards_wizards\cms_wizards.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\backwards_wizards\wizards.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\brokenpluginapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\brokenpluginapp\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\bunch_of_plugins\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\bunch_of_plugins\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\cms_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\custom_templates\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\customuserapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\customuserapp\admin.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\customuserapp\models.py
+  L2 C5: 'urllib.parse' module requires !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\emailuserapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\emailuserapp\admin.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\emailuserapp\forms.py
+  L68: super() without arguments requires !2, 3.0
+  L102: super() without arguments requires !2, 3.0
+  L102 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\emailuserapp\models.py
+  L1 C5: 'urllib.parse' module requires !2, 3.0
+  L106: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\extensionapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\extensionapp\admin.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\extensionapp\cms_toolbars.py
+  L14: class decorators require 2.6, 3.0
+  L47: class decorators require 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\extensionapp\models.py
+  L23: class decorators require 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\fakemlng\__init__.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\fakemlng\models.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L1 C5: 'functools.cached_property' member requires !2, 3.8
+  L18: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\fourth_cms_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\fourth_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\mti_pluginapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\mti_pluginapp\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\mti_pluginapp\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\nested_plugins_app\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\nested_plugins_app\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\noadmin_urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\nonroot_urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\objectpermissionsapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\objectpermissionsapp\backends.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\objectpermissionsapp\models.py
+  L57: super() without arguments requires !2, 3.0
+  L57 C15: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholder_relation_field_app\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholder_relation_field_app\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholder_relation_field_app\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholder_relation_field_app\urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholder_relation_field_app\views.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\cms_apps.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\cms_config.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\cms_plugins.py
+  L18: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\cms_toolbars.py
+  L14: class decorators require 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\exceptions.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\models.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L1 C5: 'functools.cached_property' member requires !2, 3.8
+  L38: function decorators require 2.4, 3.0
+  L43: super() without arguments requires !2, 3.0
+  L43 C8: 'super' member requires 2.2, 3.0
+  L73: function decorators require 2.4, 3.0
+  L77: function decorators require 2.4, 3.0
+  L88: function decorators require 2.4, 3.0
+  L92: function decorators require 2.4, 3.0
+  L101: function decorators require 2.4, 3.0
+  L106: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\urls.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp\views.py
+  L81: super() without arguments requires !2, 3.0
+  L84: super() without arguments requires !2, 3.0
+  L84 C18: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\placeholderapp_urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\caching\__init__.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\caching\cms_plugins.py
+  L1 C5: 'datetime' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\caching\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\link\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\link\cms_plugins.py
+  L16: super() without arguments requires !2, 3.0
+  L26: super() without arguments requires !2, 3.0
+  L26 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\link\models.py
+  L20: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\admin.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\cms_plugins.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\models.py
+  L11: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\meta\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\meta\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\meta\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\cms_plugins.py
+  L19: super() without arguments requires !2, 3.0
+  L19 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\forms.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\models.py
+  L11: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\cms_plugins.py
+  L17: super() without arguments requires !2, 3.0
+  L17 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\forms.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\one_thing\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\one_thing\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\cms_plugins.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\style\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\style\cms_plugins.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\style\models.py
+  L55: f-strings require !2, 3.6
+  L60: `"..{}..".format(..)` requires 2.7, 3.0
+  L60: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\validation\__init__.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\validation\cms_plugins.py
+  L35 C22: 'property' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\pluginapp\plugins\validation\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\admin.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\cms_apps.py
+  L52: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\cms_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\cms_menus.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\cms_toolbars.py
+  L12: class decorators require 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\cms_wizards.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\forms.py
+  L17: super() without arguments requires !2, 3.0
+  L17 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\models.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L1 C5: 'functools.cached_property' member requires !2, 3.8
+  L16: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\ns_urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls2.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_childapp.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_example.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_excluded.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_extra.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_parentapp.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\urls_sample_config.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\sampleapp\views.py
+  L12: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\second_cms_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\second_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\template_backends.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\templates\inner_dir\custom_templates\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\templates\inner_dir\custom_templates_2\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\third_cms_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\third_urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\urls.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\urls_2.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\urls_3.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\urls_for_apphook_tests.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\project\urls_no18n.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\runners.py
+  print(expr) requires 2.0, 3.0
+  L24: super() without arguments requires !2, 3.0
+  L29: super() without arguments requires !2, 3.0
+  L33: super() without arguments requires !2, 3.0
+  L33 C8: 'super' member requires 2.2, 3.0
+  L34 C18: 'sorted' member requires 2.4, 3.0
+  L35: 'sorted(key)' requires 2.4, 3.0
+  L35: 'sorted(reverse)' requires 2.4, 3.0
+  L41: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\testcases.py
+  print(expr) requires 2.0, 3.0
+  L1 C7: 'json' module requires 2.6, 3.0
+  L3 C7: 'warnings' module requires 2.1, 3.0
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L96: super() without arguments requires !2, 3.0
+  L106: super() without arguments requires !2, 3.0
+  L106 C8: 'super' member requires 2.2, 3.0
+  L209 C20: 'dict' member requires 2.2, 3.0
+  L302: f-strings require !2, 3.6
+  L312: f-strings require !2, 3.6
+  L349: `with` requires 2.5, 3.0
+  L428 C23: 'iter' member requires 2.2, 3.0
+  L466 C24: 'set' member requires 2.4, 3.0
+  L474: f-strings require !2, 3.6
+  L476: f-strings require !2, 3.6
+  L498: f-strings require !2, 3.6
+  L560: f-strings require !2, 3.6
+  L562: f-strings require !2, 3.6
+  L584: f-strings require !2, 3.6
+  L586: f-strings require !2, 3.6
+  L596: f-strings require !2, 3.6
+  L598: f-strings require !2, 3.6
+  L608: f-strings require !2, 3.6
+  L610: f-strings require !2, 3.6
+  L620: f-strings require !2, 3.6
+  L622: f-strings require !2, 3.6
+  L632: f-strings require !2, 3.6
+  L634: f-strings require !2, 3.6
+  L644: f-strings require !2, 3.6
+  L646: f-strings require !2, 3.6
+  L656: `"..{}..".format(..)` requires 2.7, 3.0
+  L656: 'str.format' member requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\tmpdir.py
+  L5 C5: 'contextlib' module requires 2.5, 3.0
+  L6 C5: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L9: function decorators require 2.4, 3.0
+  L18: 'os.stat.st_mode' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\context_managers.py
+  L2 C5: 'contextlib' module requires 2.5, 3.0
+  L3 C5: 'io' module requires 2.6, 3.0
+  L5 C5: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L43: super() without arguments requires !2, 3.0
+  L43 C8: 'super' member requires 2.2, 3.0
+  L130: function decorators require 2.4, 3.0
+  L138: function decorators require 2.4, 3.0
+  L154: function decorators require 2.4, 3.0
+  L179: function decorators require 2.4, 3.0
+  L184: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\fuzzy_int.py
+  L3: super() without arguments requires !2, 3.0
+  L3 C14: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\grouper.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\menu_extender.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\mock.py
+  L18: super() without arguments requires !2, 3.0
+  L18 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\test_utils\util\static_analysis.py
+  L2 C5: 'io' module requires 2.6, 3.0
+  L10: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_admin.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L38: function decorators require 2.4, 3.0
+  L42: function decorators require 2.4, 3.0
+  L86: `with` requires 2.5, 3.0
+  L92: function decorators require 2.4, 3.0
+  L121: `with` requires 2.5, 3.0
+  L138: `with` requires 2.5, 3.0
+  L150: `with` requires 2.5, 3.0
+  L160: `with` requires 2.5, 3.0
+  L174: `with` requires 2.5, 3.0
+  L183: `with` requires 2.5, 3.0
+  L194: `with` requires 2.5, 3.0
+  L214: `with` requires 2.5, 3.0
+  L232: `with` requires 2.5, 3.0
+  L257: `with` requires 2.5, 3.0
+  L280: `with` requires 2.5, 3.0
+  L284: `with` requires 2.5, 3.0
+  L291: `with` requires 2.5, 3.0
+  L295: `with` requires 2.5, 3.0
+  L316: `with` requires 2.5, 3.0
+  L340: `with` requires 2.5, 3.0
+  L344: `with` requires 2.5, 3.0
+  L348: `with` requires 2.5, 3.0
+  L371: `with` requires 2.5, 3.0
+  L404: `with` requires 2.5, 3.0
+  L419: `with` requires 2.5, 3.0
+  L434: `with` requires 2.5, 3.0
+  L441: function decorators require 2.4, 3.0
+  L495: `with` requires 2.5, 3.0
+  L508: `with` requires 2.5, 3.0
+  L512: `with` requires 2.5, 3.0
+  L516: `with` requires 2.5, 3.0
+  L519: `with` requires 2.5, 3.0
+  L522: `with` requires 2.5, 3.0
+  L526: `with` requires 2.5, 3.0
+  L538: `with` requires 2.5, 3.0
+  L553: `with` requires 2.5, 3.0
+  L557: `with` requires 2.5, 3.0
+  L576: `with` requires 2.5, 3.0
+  L580: `with` requires 2.5, 3.0
+  L595: `with` requires 2.5, 3.0
+  L607: function decorators require 2.4, 3.0
+  L649: f-strings require !2, 3.6
+  L658 C15: 'type' member requires 2.2, 3.0
+  L692: `"..{}..".format(..)` requires 2.7, 3.0
+  L696 C46: 'dict' member requires 2.2, 3.0
+  L717: `with` requires 2.5, 3.0
+  L734: `with` requires 2.5, 3.0
+  L762: `with` requires 2.5, 3.0
+  L783: `with` requires 2.5, 3.0
+  L784: `with` requires 2.5, 3.0
+  L807: `with` requires 2.5, 3.0
+  L808: `with` requires 2.5, 3.0
+  L811: `"..{}..".format(..)` requires 2.7, 3.0
+  L817: `"..{}..".format(..)` requires 2.7, 3.0
+  L826: function decorators require 2.4, 3.0
+  L839: `with` requires 2.5, 3.0
+  L845: function decorators require 2.4, 3.0
+  L865: `with` requires 2.5, 3.0
+  L874: function decorators require 2.4, 3.0
+  L885: `with` requires 2.5, 3.0
+  L897: `with` requires 2.5, 3.0
+  L906: `with` requires 2.5, 3.0
+  L915: `with` requires 2.5, 3.0
+  L926: `with` requires 2.5, 3.0
+  L949: 'str.format' member requires 2.6, 3.0
+  L952: `with` requires 2.5, 3.0
+  L959: `with` requires 2.5, 3.0
+  L972: `with` requires 2.5, 3.0
+  L981: `with` requires 2.5, 3.0
+  L989: `with` requires 2.5, 3.0
+  L1006: `with` requires 2.5, 3.0
+  L1024: `with` requires 2.5, 3.0
+  L1025: `with` requires 2.5, 3.0
+  L1033: `with` requires 2.5, 3.0
+  L1112 C71: 'set' member requires 2.4, 3.0
+  L1132: `with` requires 2.5, 3.0
+  L1140: `with` requires 2.5, 3.0
+  L1163: f-strings require !2, 3.6
+  L1194: `with` requires 2.5, 3.0
+  L1218: `with` requires 2.5, 3.0
+  L1244: `with` requires 2.5, 3.0
+  L1271: `with` requires 2.5, 3.0
+  L1299: `with` requires 2.5, 3.0
+  L1326: `with` requires 2.5, 3.0
+  L1353: `with` requires 2.5, 3.0
+  L1381: `with` requires 2.5, 3.0
+  L1416: `with` requires 2.5, 3.0
+  L1419: f-strings require !2, 3.6
+  L1424: f-strings require !2, 3.6
+  L1437: f-strings require !2, 3.6
+  L1441: function decorators require 2.4, 3.0
+  L1451: `with` requires 2.5, 3.0
+  L1460: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_api.py
+  L2 C5: 'unittest.mock' module requires !2, 3.3
+  L45: `with` requires 2.5, 3.0
+  L53: f-strings require !2, 3.6
+  L55: `with` requires 2.5, 3.0
+  L176: `with` requires 2.5, 3.0
+  L197: f-strings require !2, 3.6
+  L200: `with` requires 2.5, 3.0
+  L274: `with` requires 2.5, 3.0
+  L275: `with` requires 2.5, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_app_registration.py
+  L1 C5: 'importlib' module requires 2.7, 3.1
+  L2 C5: 'unittest.mock' module requires !2, 3.3
+  L16: function decorators require 2.4, 3.0
+  L31: function decorators require 2.4, 3.0
+  L48: function decorators require 2.4, 3.0
+  L60: function decorators require 2.4, 3.0
+  L67: `with` requires 2.5, 3.0
+  L70: function decorators require 2.4, 3.0
+  L75: `with` requires 2.5, 3.0
+  L78: function decorators require 2.4, 3.0
+  L83: `with` requires 2.5, 3.0
+  L86: function decorators require 2.4, 3.0
+  L91: `with` requires 2.5, 3.0
+  L104: function decorators require 2.4, 3.0
+  L134: function decorators require 2.4, 3.0
+  L164: function decorators require 2.4, 3.0
+  L186: function decorators require 2.4, 3.0
+  L211: function decorators require 2.4, 3.0
+  L229: function decorators require 2.4, 3.0
+  L286: function decorators require 2.4, 3.0
+  L309: function decorators require 2.4, 3.0
+  L317: function decorators require 2.4, 3.0
+  L375: `with` requires 2.5, 3.0
+  L398: `with` requires 2.5, 3.0
+  L421: `with` requires 2.5, 3.0
+  L437: `with` requires 2.5, 3.0
+  L463: `with` requires 2.5, 3.0
+  L488: function decorators require 2.4, 3.0
+  L514: `with` requires 2.5, 3.0
+  L531: `with` requires 2.5, 3.0
+  L552: `with` requires 2.5, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_apphook_reload_language_variants.py
+  L15 C5: 'unittest.mock' module requires !2, 3.3
+  L26: class decorators require 2.6, 3.0
+  L47: `with` requires 2.5, 3.0
+  L48: `with` requires 2.5, 3.0
+  L83: function decorators require 2.4, 3.0
+  L92: `with` requires 2.5, 3.0
+  L116: function decorators require 2.4, 3.0
+  L143: function decorators require 2.4, 3.0
+  L150: `with` requires 2.5, 3.0
+  L173: function decorators require 2.4, 3.0
+  L200: function decorators require 2.4, 3.0
+  L207: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_apphooks.py
+  L115: function decorators require 2.4, 3.0
+  L124: function decorators require 2.4, 3.0
+  L136: function decorators require 2.4, 3.0
+  L162: `with` requires 2.5, 3.0
+  L191: function decorators require 2.4, 3.0
+  L202: function decorators require 2.4, 3.0
+  L215: function decorators require 2.4, 3.0
+  L257 C20: 'type' member requires 2.2, 3.0
+  L267: function decorators require 2.4, 3.0
+  L270: `with` requires 2.5, 3.0
+  L282: `with` requires 2.5, 3.0
+  L295: function decorators require 2.4, 3.0
+  L299: `with` requires 2.5, 3.0
+  L311: function decorators require 2.4, 3.0
+  L322: `with` requires 2.5, 3.0
+  L331: `with` requires 2.5, 3.0
+  L343: function decorators require 2.4, 3.0
+  L348: class decorators require 2.6, 3.0
+  L353: class decorators require 2.6, 3.0
+  L361 C21: 'dict' member requires 2.2, 3.0
+  L365: function decorators require 2.4, 3.0
+  L376: `with` requires 2.5, 3.0
+  L383: `with` requires 2.5, 3.0
+  L390: `with` requires 2.5, 3.0
+  L391: `with` requires 2.5, 3.0
+  L397: `with` requires 2.5, 3.0
+  L404: function decorators require 2.4, 3.0
+  L409: `with` requires 2.5, 3.0
+  L424: function decorators require 2.4, 3.0
+  L427: `with` requires 2.5, 3.0
+  L440: function decorators require 2.4, 3.0
+  L443: `with` requires 2.5, 3.0
+  L458: function decorators require 2.4, 3.0
+  L462: `with` requires 2.5, 3.0
+  L474: function decorators require 2.4, 3.0
+  L499: `with` requires 2.5, 3.0
+  L503: `with` requires 2.5, 3.0
+  L509: function decorators require 2.4, 3.0
+  L512: `with` requires 2.5, 3.0
+  L521: function decorators require 2.4, 3.0
+  L524: `with` requires 2.5, 3.0
+  L540: function decorators require 2.4, 3.0
+  L555: `with` requires 2.5, 3.0
+  L561: `with` requires 2.5, 3.0
+  L570: function decorators require 2.4, 3.0
+  L577: `with` requires 2.5, 3.0
+  L584: function decorators require 2.4, 3.0
+  L596: function decorators require 2.4, 3.0
+  L606: function decorators require 2.4, 3.0
+  L621: function decorators require 2.4, 3.0
+  L636: class decorators require 2.6, 3.0
+  L644: class decorators require 2.6, 3.0
+  L649: function decorators require 2.4, 3.0
+  L655: `with` requires 2.5, 3.0
+  L663: `with` requires 2.5, 3.0
+  L671: function decorators require 2.4, 3.0
+  L674: `with` requires 2.5, 3.0
+  L688: `with` requires 2.5, 3.0
+  L711: function decorators require 2.4, 3.0
+  L714: `with` requires 2.5, 3.0
+  L737: function decorators require 2.4, 3.0
+  L756: function decorators require 2.4, 3.0
+  L794: function decorators require 2.4, 3.0
+  L806: `with` requires 2.5, 3.0
+  L812: `with` requires 2.5, 3.0
+  L823: `with` requires 2.5, 3.0
+  L835: `with` requires 2.5, 3.0
+  L847: `with` requires 2.5, 3.0
+  L862: `with` requires 2.5, 3.0
+  L888: function decorators require 2.4, 3.0
+  L901: `with` requires 2.5, 3.0
+  L903: `with` requires 2.5, 3.0
+  L917: `with` requires 2.5, 3.0
+  L923: function decorators require 2.4, 3.0
+  L966: function decorators require 2.4, 3.0
+  L993: function decorators require 2.4, 3.0
+  L1020: function decorators require 2.4, 3.0
+  L1046: `with` requires 2.5, 3.0
+  L1060: `with` requires 2.5, 3.0
+  L1074: `with` requires 2.5, 3.0
+  L1086: f-strings require !2, 3.6
+  L1142: f-strings require !2, 3.6
+  L1145: `with` requires 2.5, 3.0
+  L1172: class decorators require 2.6, 3.0
+  L1200: f-strings require !2, 3.6
+  L1232: function decorators require 2.4, 3.0
+  L1242: `with` requires 2.5, 3.0
+  L1255: function decorators require 2.4, 3.0
+  L1288: f-strings require !2, 3.6
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_cache.py
+  L43: super() without arguments requires !2, 3.0
+  L49: super() without arguments requires !2, 3.0
+  L64: `with` requires 2.5, 3.0
+  L71: `with` requires 2.5, 3.0
+  L74: `with` requires 2.5, 3.0
+  L81: `with` requires 2.5, 3.0
+  L87 C20: 'dict' member requires 2.2, 3.0
+  L91: `with` requires 2.5, 3.0
+  L92: `with` requires 2.5, 3.0
+  L94: `with` requires 2.5, 3.0
+  L98: `with` requires 2.5, 3.0
+  L99: `with` requires 2.5, 3.0
+  L126: `with` requires 2.5, 3.0
+  L131: `with` requires 2.5, 3.0
+  L139: `with` requires 2.5, 3.0
+  L149: `with` requires 2.5, 3.0
+  L150: `with` requires 2.5, 3.0
+  L156: `with` requires 2.5, 3.0
+  L162: `with` requires 2.5, 3.0
+  L164: `with` requires 2.5, 3.0
+  L172: `with` requires 2.5, 3.0
+  L174: `with` requires 2.5, 3.0
+  L175: `with` requires 2.5, 3.0
+  L205: `with` requires 2.5, 3.0
+  L209: `with` requires 2.5, 3.0
+  L245: `with` requires 2.5, 3.0
+  L249: `with` requires 2.5, 3.0
+  L280: `with` requires 2.5, 3.0
+  L284: `with` requires 2.5, 3.0
+  L329: `with` requires 2.5, 3.0
+  L333: `with` requires 2.5, 3.0
+  L348: `with` requires 2.5, 3.0
+  L385: `with` requires 2.5, 3.0
+  L389: `with` requires 2.5, 3.0
+  L404: `with` requires 2.5, 3.0
+  L426: `with` requires 2.5, 3.0
+  L434: `with` requires 2.5, 3.0
+  L440: `with` requires 2.5, 3.0
+  L443: `with` requires 2.5, 3.0
+  L451: `with` requires 2.5, 3.0
+  L456: `with` requires 2.5, 3.0
+  L470: `with` requires 2.5, 3.0
+  L471: `with` requires 2.5, 3.0
+  L476: `with` requires 2.5, 3.0
+  L481: `with` requires 2.5, 3.0
+  L495: `with` requires 2.5, 3.0
+  L517: `with` requires 2.5, 3.0
+  L525: `with` requires 2.5, 3.0
+  L530: `with` requires 2.5, 3.0
+  L557: `with` requires 2.5, 3.0
+  L571: `with` requires 2.5, 3.0
+  L619: super() without arguments requires !2, 3.0
+  L651: super() without arguments requires !2, 3.0
+  L651 C8: 'super' member requires 2.2, 3.0
+  L709: 'str.format' member requires 2.6, 3.0
+  L799: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_check.py
+  L1 C5: 'contextlib' module requires 2.5, 3.0
+  L19: function decorators require 2.4, 3.0
+  L32: super() without arguments requires !2, 3.0
+  L32 C8: 'super' member requires 2.2, 3.0
+  L60: f-strings require !2, 3.6
+  L71: `with` requires 2.5, 3.0
+  L80: `with` requires 2.5, 3.0
+  L89: `with` requires 2.5, 3.0
+  L98: `with` requires 2.5, 3.0
+  L102: `with` requires 2.5, 3.0
+  L120: `with` requires 2.5, 3.0
+  L145: `with` requires 2.5, 3.0
+  L170: `with` requires 2.5, 3.0
+  L183: `with` requires 2.5, 3.0
+  L196: `with` requires 2.5, 3.0
+  L204: `with` requires 2.5, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_cms_config_wizards.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L53: `with` requires 2.5, 3.0
+  L64: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_extensions.py
+  L206 C31: 'enumerate' member requires 2.3, 3.0
+  L290: `with` requires 2.5, 3.0
+  L311: `with` requires 2.5, 3.0
+  L357: `with` requires 2.5, 3.0
+  L395: `with` requires 2.5, 3.0
+  L396: f-strings require !2, 3.6
+  L418: `with` requires 2.5, 3.0
+  L419: f-strings require !2, 3.6
+  L424: `with` requires 2.5, 3.0
+  L478: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_fixture_loading.py
+  L7 C9: 'io' module requires 2.6, 3.0
+  L25: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L33: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_forms.py
+  L1 C5: 'html' module requires !2, 3.0
+  L1 C5: 'html.unescape' member requires !2, 3.4
+  L87: `with` requires 2.5, 3.0
+  L106: `with` requires 2.5, 3.0
+  L139 C17: 'dict' member requires 2.2, 3.0
+  L148: `with` requires 2.5, 3.0
+  L304: f-strings require !2, 3.6
+  L371: `with` requires 2.5, 3.0
+  L377: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_grouper_admin.py
+  L26: annotations require !2, 3.0
+  L36: annotations require !2, 3.0
+  L55: annotations require !2, 3.0
+  L65: annotations require !2, 3.0
+  L88: `with` requires 2.5, 3.0
+  L90: f-strings require !2, 3.6
+  L99: `with` requires 2.5, 3.0
+  L101: f-strings require !2, 3.6
+  L104: f-strings require !2, 3.6
+  L113: `with` requires 2.5, 3.0
+  L115: f-strings require !2, 3.6
+  L118: f-strings require !2, 3.6
+  L168: annotations require !2, 3.0
+  L176: `with` requires 2.5, 3.0
+  L218 C36: 'dict' member requires 2.2, 3.0
+  L230: function decorators require 2.4, 3.0
+  L254: `with` requires 2.5, 3.0
+  L258: f-strings require !2, 3.6
+  L260: annotations require !2, 3.0
+  L262: `with` requires 2.5, 3.0
+  L265: f-strings require !2, 3.6
+  L269: annotations require !2, 3.0
+  L273: `with` requires 2.5, 3.0
+  L282: f-strings require !2, 3.6
+  L286: annotations require !2, 3.0
+  L289: dict comprehensions require 2.7, 3.0
+  L292: `with` requires 2.5, 3.0
+  L295: f-strings require !2, 3.6
+  L306: `with` requires 2.5, 3.0
+  L308: f-strings require !2, 3.6
+  L324: annotations require !2, 3.0
+  L326: `with` requires 2.5, 3.0
+  L332: annotations require !2, 3.0
+  L336: `with` requires 2.5, 3.0
+  L343: annotations require !2, 3.0
+  L345: `with` requires 2.5, 3.0
+  L358: `with` requires 2.5, 3.0
+  L360: f-strings require !2, 3.6
+  L381: annotations require !2, 3.0
+  L382: `with` requires 2.5, 3.0
+  L395: function decorators require 2.4, 3.0
+  L396: annotations require !2, 3.0
+  L400: `with` requires 2.5, 3.0
+  L426: annotations require !2, 3.0
+  L431: function decorators require 2.4, 3.0
+  L432: annotations require !2, 3.0
+  L436: annotations require !2, 3.0
+  L446: `with` requires 2.5, 3.0
+  L454: annotations require !2, 3.0
+  L465: `with` requires 2.5, 3.0
+  L473: annotations require !2, 3.0
+  L483: `with` requires 2.5, 3.0
+  L497: annotations require !2, 3.0
+  L508: `with` requires 2.5, 3.0
+  L521: annotations require !2, 3.0
+  L530: `with` requires 2.5, 3.0
+  L538: annotations require !2, 3.0
+  L548: `with` requires 2.5, 3.0
+  L556: annotations require !2, 3.0
+  L565: `with` requires 2.5, 3.0
+  L577: annotations require !2, 3.0
+  L587: `with` requires 2.5, 3.0
+  L599: function decorators require 2.4, 3.0
+  L601: super() without arguments requires !2, 3.0
+  L607: annotations require !2, 3.0
+  L608: super() without arguments requires !2, 3.0
+  L626: annotations require !2, 3.0
+  L628: super() without arguments requires !2, 3.0
+  L628 C8: 'super' member requires 2.2, 3.0
+  L632: f-strings require !2, 3.6
+  L636: f-strings require !2, 3.6
+  L654: `with` requires 2.5, 3.0
+  L660: `with` requires 2.5, 3.0
+  L664: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_helpers.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_i18n.py
+  L1 C5: 'importlib' module requires 2.7, 3.1
+  L2 C5: 'unittest.mock' module requires !2, 3.3
+  L15: class decorators require 2.6, 3.0
+  L83: class decorators require 2.6, 3.0
+  L143: class decorators require 2.6, 3.0
+  L214: class decorators require 2.6, 3.0
+  L285: class decorators require 2.6, 3.0
+  L319: function decorators require 2.4, 3.0
+  L322: `with` requires 2.5, 3.0
+  L326: function decorators require 2.4, 3.0
+  L329: `with` requires 2.5, 3.0
+  L334: function decorators require 2.4, 3.0
+  L337: `with` requires 2.5, 3.0
+  L341: function decorators require 2.4, 3.0
+  L344: `with` requires 2.5, 3.0
+  L350: class decorators require 2.6, 3.0
+  L377: class decorators require 2.6, 3.0
+  L416: function decorators require 2.4, 3.0
+  L450: function decorators require 2.4, 3.0
+  L476: function decorators require 2.4, 3.0
+  L514: `with` requires 2.5, 3.0
+  L527: `with` requires 2.5, 3.0
+  L541: function decorators require 2.4, 3.0
+  L582: function decorators require 2.4, 3.0
+  L611: class decorators require 2.6, 3.0
+  L648: class decorators require 2.6, 3.0
+  L667: function decorators require 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_log_entries.py
+  L51: `with` requires 2.5, 3.0
+  L72: `with` requires 2.5, 3.0
+  L97: `with` requires 2.5, 3.0
+  L127: `with` requires 2.5, 3.0
+  L155: `with` requires 2.5, 3.0
+  L185: `with` requires 2.5, 3.0
+  L215: `with` requires 2.5, 3.0
+  L219: `with` requires 2.5, 3.0
+  L292: `with` requires 2.5, 3.0
+  L325: `with` requires 2.5, 3.0
+  L353: `with` requires 2.5, 3.0
+  L380: `with` requires 2.5, 3.0
+  L418: `with` requires 2.5, 3.0
+  L457: `with` requires 2.5, 3.0
+  L490: `with` requires 2.5, 3.0
+  L537: `with` requires 2.5, 3.0
+  L564: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_mail.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_management.py
+  L2 C5: 'io' module requires 2.6, 3.0
+  L39: function decorators require 2.4, 3.0
+  L41: `with` requires 2.5, 3.0
+  L55: `with` requires 2.5, 3.0
+  L109: function decorators require 2.4, 3.0
+  L111: `with` requires 2.5, 3.0
+  L126: function decorators require 2.4, 3.0
+  L216: function decorators require 2.4, 3.0
+  L291: function decorators require 2.4, 3.0
+  L332: function decorators require 2.4, 3.0
+  L366: function decorators require 2.4, 3.0
+  L377: `with` requires 2.5, 3.0
+  L424: set literals require 2.7, 3.0
+  L472: set literals require 2.7, 3.0
+  L484: `with` requires 2.5, 3.0
+  L495: `with` requires 2.5, 3.0
+  L525 C27: 'enumerate' member requires 2.3, 3.0
+  L576: set literals require 2.7, 3.0
+  L699: set literals require 2.7, 3.0
+  L699 C43: 'set' member requires 2.4, 3.0
+  L712: `with` requires 2.5, 3.0
+  L743: function decorators require 2.4, 3.0
+  L784: function decorators require 2.4, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_menu.py
+  L57: super() without arguments requires !2, 3.0
+  L67: super() without arguments requires !2, 3.0
+  L75: super() without arguments requires !2, 3.0
+  L86: super() without arguments requires !2, 3.0
+  L86 C8: 'super' member requires 2.2, 3.0
+  L149: `with` requires 2.5, 3.0
+  L150: `with` requires 2.5, 3.0
+  L180: `with` requires 2.5, 3.0
+  L181: `with` requires 2.5, 3.0
+  L224: `with` requires 2.5, 3.0
+  L291: `with` requires 2.5, 3.0
+  L298: `with` requires 2.5, 3.0
+  L328: `with` requires 2.5, 3.0
+  L340 C37: 'enumerate' member requires 2.3, 3.0
+  L355: `with` requires 2.5, 3.0
+  L368: `with` requires 2.5, 3.0
+  L387: `with` requires 2.5, 3.0
+  L396: `with` requires 2.5, 3.0
+  L401: `with` requires 2.5, 3.0
+  L428: `with` requires 2.5, 3.0
+  L455: `with` requires 2.5, 3.0
+  L468: `with` requires 2.5, 3.0
+  L477: `with` requires 2.5, 3.0
+  L721: `with` requires 2.5, 3.0
+  L748: `with` requires 2.5, 3.0
+  L749: `with` requires 2.5, 3.0
+  L769: `with` requires 2.5, 3.0
+  L1029: `with` requires 2.5, 3.0
+  L1050: `with` requires 2.5, 3.0
+  L1111: `with` requires 2.5, 3.0
+  L1130: `with` requires 2.5, 3.0
+  L1165: `with` requires 2.5, 3.0
+  L1176: `with` requires 2.5, 3.0
+  L1210: class decorators require 2.6, 3.0
+  L1250: f-strings require !2, 3.6
+  L1252: 'zip(strict)' requires !2, 3.10
+  L1256: f-strings require !2, 3.6
+  L1429: `with` requires 2.5, 3.0
+  L1590: `with` requires 2.5, 3.0
+  L1592: `with` requires 2.5, 3.0
+  L1642: class decorators require 2.6, 3.0
+  L1667: `with` requires 2.5, 3.0
+  L1678: function decorators require 2.4, 3.0
+  L1682: `with` requires 2.5, 3.0
+  L1693: function decorators require 2.4, 3.0
+  L1697: `with` requires 2.5, 3.0
+  L1710: `with` requires 2.5, 3.0
+  L1722: `with` requires 2.5, 3.0
+  L1736: `with` requires 2.5, 3.0
+  L1746: `with` requires 2.5, 3.0
+  L1764: `with` requires 2.5, 3.0
+  L1782: `with` requires 2.5, 3.0
+  L1793: class decorators require 2.6, 3.0
+  L1806 C13: 'dict' member requires 2.2, 3.0
+  L1828 C23: 'type' member requires 2.2, 3.0
+  L1840 C33: 'sorted' member requires 2.4, 3.0
+  L1843: class decorators require 2.6, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_menu_page_viewperm.py
+  L61: super() without arguments requires !2, 3.0
+  L64: super() without arguments requires !2, 3.0
+  L64 C8: 'super' member requires 2.2, 3.0
+  L247 C20: 'dict' member requires 2.2, 3.0
+  L280 C15: 'type' member requires 2.2, 3.0
+  L283: dict comprehensions require 2.7, 3.0
+  L286: class decorators require 2.6, 3.0
+  L543: class decorators require 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_menu_page_viewperm_staff.py
+  L11: class decorators require 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_menu_utils.py
+  L69: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_migrations.py
+  L1 C5: 'io' module requires 2.6, 3.0
+  L9: function decorators require 2.4, 3.0
+  L28: f-strings require !2, 3.6
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_multilingual.py
+  L30: class decorators require 2.6, 3.0
+  L60 C24: 'bool' member requires 2.2, 3.0
+  L69: `with` requires 2.5, 3.0
+  L132: `with` requires 2.5, 3.0
+  L141: `with` requires 2.5, 3.0
+  L154: `with` requires 2.5, 3.0
+  L174: `with` requires 2.5, 3.0
+  L186: `with` requires 2.5, 3.0
+  L210: `with` requires 2.5, 3.0
+  L234: `with` requires 2.5, 3.0
+  L235: `with` requires 2.5, 3.0
+  L267: `with` requires 2.5, 3.0
+  L273: `with` requires 2.5, 3.0
+  L287: `with` requires 2.5, 3.0
+  L294: `with` requires 2.5, 3.0
+  L316: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_navextender.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_nested_plugins.py
+  L17: 'zip(strict)' requires !2, 3.10
+  L454: `with` requires 2.5, 3.0
+  L483: f-strings require !2, 3.6
+  L503: `with` requires 2.5, 3.0
+  L534: f-strings require !2, 3.6
+  L570: `with` requires 2.5, 3.0
+  L608: f-strings require !2, 3.6
+  L610: f-strings require !2, 3.6
+  L612: f-strings require !2, 3.6
+  L632: f-strings require !2, 3.6
+  L637: f-strings require !2, 3.6
+  L642: f-strings require !2, 3.6
+  L709: `with` requires 2.5, 3.0
+  L738: f-strings require !2, 3.6
+  L773: `with` requires 2.5, 3.0
+  L837: f-strings require !2, 3.6
+  L839: f-strings require !2, 3.6
+  L841: f-strings require !2, 3.6
+  L861: f-strings require !2, 3.6
+  L866: f-strings require !2, 3.6
+  L871: f-strings require !2, 3.6
+  L927: `with` requires 2.5, 3.0
+  L1008: 'random.sample' member requires 2.3, 3.0
+  L1022: 'enumerate(start)' requires 2.6, 3.0
+  L1022 C25: 'enumerate' member requires 2.3, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_no_i18n.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L45: class decorators require 2.6, 3.0
+  L49: super() without arguments requires !2, 3.0
+  L52: super() without arguments requires !2, 3.0
+  L52 C8: 'super' member requires 2.2, 3.0
+  L74: `with` requires 2.5, 3.0
+  L85 C20: 'dict' member requires 2.2, 3.0
+  L102: `with` requires 2.5, 3.0
+  L150: function decorators require 2.4, 3.0
+  L153: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_nonroot.py
+  L10: class decorators require 2.6, 3.0
+  L15: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_page.py
+  L1 C7: 'datetime' module requires 2.3, 3.0
+  L2 C7: 'functools' module requires 2.5, 3.0
+  L4 C5: 'unittest' module requires 2.1, 3.0
+  L4 C5: 'unittest.skipIf' member requires 2.7, 3.1
+  L69: `with` requires 2.5, 3.0
+  L88: `with` requires 2.5, 3.0
+  L177: function decorators require 2.4, 3.0
+  L215: `with` requires 2.5, 3.0
+  L224: `with` requires 2.5, 3.0
+  L251: `with` requires 2.5, 3.0
+  L288: f-strings require !2, 3.6
+  L291: f-strings require !2, 3.6
+  L293: `with` requires 2.5, 3.0
+  L323: `with` requires 2.5, 3.0
+  L434: `with` requires 2.5, 3.0
+  L438: `with` requires 2.5, 3.0
+  L443: `with` requires 2.5, 3.0
+  L497: `with` requires 2.5, 3.0
+  L499: `with` requires 2.5, 3.0
+  L503: `with` requires 2.5, 3.0
+  L507: `with` requires 2.5, 3.0
+  L512: `with` requires 2.5, 3.0
+  L547: `with` requires 2.5, 3.0
+  L551: `with` requires 2.5, 3.0
+  L617: f-strings require !2, 3.6
+  L625: f-strings require !2, 3.6
+  L642: `with` requires 2.5, 3.0
+  L661: `with` requires 2.5, 3.0
+  L683: `with` requires 2.5, 3.0
+  L713: `with` requires 2.5, 3.0
+  L722: `with` requires 2.5, 3.0
+  L741: `with` requires 2.5, 3.0
+  L742 C38: 'enumerate' member requires 2.3, 3.0
+  L841: `with` requires 2.5, 3.0
+  L865: `with` requires 2.5, 3.0
+  L999: `with` requires 2.5, 3.0
+  L1020: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_page_admin.py
+  L1 C7: 'datetime' module requires 2.3, 3.0
+  L2 C7: 'json' module requires 2.6, 3.0
+  L5 C5: 'unittest' module requires 2.1, 3.0
+  L5 C5: 'unittest.skipUnless' member requires 2.7, 3.1
+  L162: `with` requires 2.5, 3.0
+  L174: `with` requires 2.5, 3.0
+  L187: `with` requires 2.5, 3.0
+  L204: `with` requires 2.5, 3.0
+  L208: `with` requires 2.5, 3.0
+  L240: `with` requires 2.5, 3.0
+  L268: `with` requires 2.5, 3.0
+  L297: `with` requires 2.5, 3.0
+  L309: `"..{}..".format(..)` requires 2.7, 3.0
+  L315: `"..{}..".format(..)` requires 2.7, 3.0
+  L334: `with` requires 2.5, 3.0
+  L335: `with` requires 2.5, 3.0
+  L340: `"..{}..".format(..)` requires 2.7, 3.0
+  L346: `"..{}..".format(..)` requires 2.7, 3.0
+  L355: `with` requires 2.5, 3.0
+  L360: `"..{}..".format(..)` requires 2.7, 3.0
+  L366: `"..{}..".format(..)` requires 2.7, 3.0
+  L375: `with` requires 2.5, 3.0
+  L380: `"..{}..".format(..)` requires 2.7, 3.0
+  L386: `"..{}..".format(..)` requires 2.7, 3.0
+  L400: `with` requires 2.5, 3.0
+  L419: `with` requires 2.5, 3.0
+  L431: `with` requires 2.5, 3.0
+  L432: `with` requires 2.5, 3.0
+  L437: `with` requires 2.5, 3.0
+  L438: `with` requires 2.5, 3.0
+  L443: `with` requires 2.5, 3.0
+  L444: `with` requires 2.5, 3.0
+  L449: `with` requires 2.5, 3.0
+  L450: `with` requires 2.5, 3.0
+  L455: `with` requires 2.5, 3.0
+  L456: `with` requires 2.5, 3.0
+  L461: `with` requires 2.5, 3.0
+  L462: `with` requires 2.5, 3.0
+  L468: `with` requires 2.5, 3.0
+  L469: `with` requires 2.5, 3.0
+  L480: `with` requires 2.5, 3.0
+  L498: `with` requires 2.5, 3.0
+  L518: `with` requires 2.5, 3.0
+  L539: f-strings require !2, 3.6
+  L540: 'datetime.datetime.strptime' member requires 2.5, 3.0
+  L561: `with` requires 2.5, 3.0
+  L607: `with` requires 2.5, 3.0
+  L621: `with` requires 2.5, 3.0
+  L639: `with` requires 2.5, 3.0
+  L659: `with` requires 2.5, 3.0
+  L699: `with` requires 2.5, 3.0
+  L704: `with` requires 2.5, 3.0
+  L738: `with` requires 2.5, 3.0
+  L739: `with` requires 2.5, 3.0
+  L766: `with` requires 2.5, 3.0
+  L767: `with` requires 2.5, 3.0
+  L802: `with` requires 2.5, 3.0
+  L806: `with` requires 2.5, 3.0
+  L841: `with` requires 2.5, 3.0
+  L849: `with` requires 2.5, 3.0
+  L883: `with` requires 2.5, 3.0
+  L893: `with` requires 2.5, 3.0
+  L904: `with` requires 2.5, 3.0
+  L936: `with` requires 2.5, 3.0
+  L956: `with` requires 2.5, 3.0
+  L1025: `with` requires 2.5, 3.0
+  L1061: `with` requires 2.5, 3.0
+  L1076: `with` requires 2.5, 3.0
+  L1150: `with` requires 2.5, 3.0
+  L1154: `with` requires 2.5, 3.0
+  L1164: function decorators require 2.4, 3.0
+  L1181: `with` requires 2.5, 3.0
+  L1191: `with` requires 2.5, 3.0
+  L1195: function decorators require 2.4, 3.0
+  L1204: `"..{}..".format(..)` requires 2.7, 3.0
+  L1210: `"..{}..".format(..)` requires 2.7, 3.0
+  L1216: `with` requires 2.5, 3.0
+  L1228: function decorators require 2.4, 3.0
+  L1252: `with` requires 2.5, 3.0
+  L1262: `with` requires 2.5, 3.0
+  L1266: function decorators require 2.4, 3.0
+  L1280: `with` requires 2.5, 3.0
+  L1292: `with` requires 2.5, 3.0
+  L1306: function decorators require 2.4, 3.0
+  L1336: `with` requires 2.5, 3.0
+  L1348: `with` requires 2.5, 3.0
+  L1362: `with` requires 2.5, 3.0
+  L1376: `with` requires 2.5, 3.0
+  L1391: `with` requires 2.5, 3.0
+  L1420: `with` requires 2.5, 3.0
+  L1427: `with` requires 2.5, 3.0
+  L1446: `with` requires 2.5, 3.0
+  L1457: `with` requires 2.5, 3.0
+  L1464: `with` requires 2.5, 3.0
+  L1490: `"..{}..".format(..)` requires 2.7, 3.0
+  L1490: 'str.format' member requires 2.6, 3.0
+  L1505: `with` requires 2.5, 3.0
+  L1506: `with` requires 2.5, 3.0
+  L1525: `with` requires 2.5, 3.0
+  L1537: `with` requires 2.5, 3.0
+  L1547: `with` requires 2.5, 3.0
+  L1582: `with` requires 2.5, 3.0
+  L1604: `with` requires 2.5, 3.0
+  L1630: `with` requires 2.5, 3.0
+  L1642: f-strings require !2, 3.6
+  L1655: `with` requires 2.5, 3.0
+  L1679: `with` requires 2.5, 3.0
+  L1702: `with` requires 2.5, 3.0
+  L1703: `with` requires 2.5, 3.0
+  L1716: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L1730: `with` requires 2.5, 3.0
+  L1731: `with` requires 2.5, 3.0
+  L1741: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L1744: function decorators require 2.4, 3.0
+  L1763: `with` requires 2.5, 3.0
+  L1791: `with` requires 2.5, 3.0
+  L1798: f-strings require !2, 3.6
+  L1799: f-strings require !2, 3.6
+  L1804: `with` requires 2.5, 3.0
+  L1805: f-strings require !2, 3.6
+  L1822: `with` requires 2.5, 3.0
+  L1837: f-strings require !2, 3.6
+  L1841: `with` requires 2.5, 3.0
+  L1869: `with` requires 2.5, 3.0
+  L1880: `with` requires 2.5, 3.0
+  L1889: set comprehensions require 2.7, 3.0
+  L1895: `with` requires 2.5, 3.0
+  L1922: `with` requires 2.5, 3.0
+  L1942: `with` requires 2.5, 3.0
+  L1968: function decorators require 2.4, 3.0
+  L1971: `with` requires 2.5, 3.0
+  L1978: function decorators require 2.4, 3.0
+  L1986: `with` requires 2.5, 3.0
+  L1991: function decorators require 2.4, 3.0
+  L2000: `with` requires 2.5, 3.0
+  L2078: f-strings require !2, 3.6
+  L2111: f-strings require !2, 3.6
+  L2116: class decorators require 2.6, 3.0
+  L2136: `with` requires 2.5, 3.0
+  L2147: `with` requires 2.5, 3.0
+  L2163: `with` requires 2.5, 3.0
+  L2169: `with` requires 2.5, 3.0
+  L2188: `with` requires 2.5, 3.0
+  L2208: `with` requires 2.5, 3.0
+  L2217: `with` requires 2.5, 3.0
+  L2242: `with` requires 2.5, 3.0
+  L2267: `with` requires 2.5, 3.0
+  L2276: `with` requires 2.5, 3.0
+  L2295: `with` requires 2.5, 3.0
+  L2316: `with` requires 2.5, 3.0
+  L2327: `with` requires 2.5, 3.0
+  L2352: `with` requires 2.5, 3.0
+  L2378: `with` requires 2.5, 3.0
+  L2389: `with` requires 2.5, 3.0
+  L2412: `with` requires 2.5, 3.0
+  L2434: `with` requires 2.5, 3.0
+  L2445: `with` requires 2.5, 3.0
+  L2471: `with` requires 2.5, 3.0
+  L2496: `with` requires 2.5, 3.0
+  L2516: `with` requires 2.5, 3.0
+  L2537: `with` requires 2.5, 3.0
+  L2554: `with` requires 2.5, 3.0
+  L2573: `with` requires 2.5, 3.0
+  L2608: `with` requires 2.5, 3.0
+  L2645: `with` requires 2.5, 3.0
+  L2683: `with` requires 2.5, 3.0
+  L2729: `with` requires 2.5, 3.0
+  L2771: `with` requires 2.5, 3.0
+  L2811: `with` requires 2.5, 3.0
+  L2845: `with` requires 2.5, 3.0
+  L2882: `with` requires 2.5, 3.0
+  L2923: `with` requires 2.5, 3.0
+  L2971: `with` requires 2.5, 3.0
+  L3015: `with` requires 2.5, 3.0
+  L3057: `with` requires 2.5, 3.0
+  L3072: `with` requires 2.5, 3.0
+  L3129: `with` requires 2.5, 3.0
+  L3134: `with` requires 2.5, 3.0
+  L3156: `with` requires 2.5, 3.0
+  L3179: `with` requires 2.5, 3.0
+  L3200: `with` requires 2.5, 3.0
+  L3225: `with` requires 2.5, 3.0
+  L3249: `with` requires 2.5, 3.0
+  L3272: `with` requires 2.5, 3.0
+  L3298: `with` requires 2.5, 3.0
+  L3324: `with` requires 2.5, 3.0
+  L3356: `with` requires 2.5, 3.0
+  L3391: `with` requires 2.5, 3.0
+  L3428: `with` requires 2.5, 3.0
+  L3462: `with` requires 2.5, 3.0
+  L3514: `with` requires 2.5, 3.0
+  L3541: `with` requires 2.5, 3.0
+  L3560: `with` requires 2.5, 3.0
+  L3584: `with` requires 2.5, 3.0
+  L3610: `with` requires 2.5, 3.0
+  L3616: class decorators require 2.6, 3.0
+  L3644: `with` requires 2.5, 3.0
+  L3673: `with` requires 2.5, 3.0
+  L3705: `with` requires 2.5, 3.0
+  L3710 C29: 'next' member requires 2.6, 3.0
+  L3732: `with` requires 2.5, 3.0
+  L3738: `with` requires 2.5, 3.0
+  L3761: `with` requires 2.5, 3.0
+  L3785: `with` requires 2.5, 3.0
+  L3794: `with` requires 2.5, 3.0
+  L3820: `with` requires 2.5, 3.0
+  L3846: `with` requires 2.5, 3.0
+  L3855: `with` requires 2.5, 3.0
+  L3879: `with` requires 2.5, 3.0
+  L3905: `with` requires 2.5, 3.0
+  L3916: `with` requires 2.5, 3.0
+  L3945: `with` requires 2.5, 3.0
+  L3975: `with` requires 2.5, 3.0
+  L3986: `with` requires 2.5, 3.0
+  L4014: `with` requires 2.5, 3.0
+  L4041: `with` requires 2.5, 3.0
+  L4052: `with` requires 2.5, 3.0
+  L4083: `with` requires 2.5, 3.0
+  L4113: `with` requires 2.5, 3.0
+  L4148: `with` requires 2.5, 3.0
+  L4185: `with` requires 2.5, 3.0
+  L4223: `with` requires 2.5, 3.0
+  L4269: `with` requires 2.5, 3.0
+  L4311: `with` requires 2.5, 3.0
+  L4351: `with` requires 2.5, 3.0
+  L4385: `with` requires 2.5, 3.0
+  L4422: `with` requires 2.5, 3.0
+  L4463: `with` requires 2.5, 3.0
+  L4511: `with` requires 2.5, 3.0
+  L4555: `with` requires 2.5, 3.0
+  L4597: `with` requires 2.5, 3.0
+  L4625: `with` requires 2.5, 3.0
+  L4652: `with` requires 2.5, 3.0
+  L4677: `with` requires 2.5, 3.0
+  L4706: `with` requires 2.5, 3.0
+  L4734: `with` requires 2.5, 3.0
+  L4761: `with` requires 2.5, 3.0
+  L4791: `with` requires 2.5, 3.0
+  L4821: `with` requires 2.5, 3.0
+  L4858: `with` requires 2.5, 3.0
+  L4897: `with` requires 2.5, 3.0
+  L4938: `with` requires 2.5, 3.0
+  L4976: `with` requires 2.5, 3.0
+  L4997: `with` requires 2.5, 3.0
+  L5015: `with` requires 2.5, 3.0
+  L5039: `with` requires 2.5, 3.0
+  L5065: `with` requires 2.5, 3.0
+  L5071: class decorators require 2.6, 3.0
+  L5079: class decorators require 2.6, 3.0
+  L5083: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_page_user_admin.py
+  L39: class decorators require 2.6, 3.0
+  L54: `with` requires 2.5, 3.0
+  L65: `with` requires 2.5, 3.0
+  L76: `with` requires 2.5, 3.0
+  L82: `with` requires 2.5, 3.0
+  L96: `with` requires 2.5, 3.0
+  L110: `with` requires 2.5, 3.0
+  L135: `with` requires 2.5, 3.0
+  L160: `with` requires 2.5, 3.0
+  L176: `with` requires 2.5, 3.0
+  L191: `with` requires 2.5, 3.0
+  L197: class decorators require 2.6, 3.0
+  L219: `with` requires 2.5, 3.0
+  L230: `with` requires 2.5, 3.0
+  L245: `with` requires 2.5, 3.0
+  L251: `with` requires 2.5, 3.0
+  L273: `with` requires 2.5, 3.0
+  L295: `with` requires 2.5, 3.0
+  L328: `with` requires 2.5, 3.0
+  L361: `with` requires 2.5, 3.0
+  L395: `with` requires 2.5, 3.0
+  L433: `with` requires 2.5, 3.0
+  L460: `with` requires 2.5, 3.0
+  L483: `with` requires 2.5, 3.0
+  L507: `with` requires 2.5, 3.0
+  L537: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_page_user_group_admin.py
+  L38: class decorators require 2.6, 3.0
+  L48: `with` requires 2.5, 3.0
+  L59: `with` requires 2.5, 3.0
+  L70: `with` requires 2.5, 3.0
+  L76: `with` requires 2.5, 3.0
+  L89: `with` requires 2.5, 3.0
+  L102: `with` requires 2.5, 3.0
+  L117: `with` requires 2.5, 3.0
+  L131: `with` requires 2.5, 3.0
+  L147: `with` requires 2.5, 3.0
+  L162: `with` requires 2.5, 3.0
+  L168: class decorators require 2.6, 3.0
+  L188: `with` requires 2.5, 3.0
+  L199: `with` requires 2.5, 3.0
+  L214: `with` requires 2.5, 3.0
+  L220: `with` requires 2.5, 3.0
+  L241: `with` requires 2.5, 3.0
+  L262: `with` requires 2.5, 3.0
+  L286: `with` requires 2.5, 3.0
+  L311: `with` requires 2.5, 3.0
+  L338: `with` requires 2.5, 3.0
+  L368: `with` requires 2.5, 3.0
+  L395: `with` requires 2.5, 3.0
+  L418: `with` requires 2.5, 3.0
+  L443: `with` requires 2.5, 3.0
+  L471: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_permissions.py
+  L19: class decorators require 2.6, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_permmod.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L26: class decorators require 2.6, 3.0
+  L76: `with` requires 2.5, 3.0
+  L120: `with` requires 2.5, 3.0
+  L133: `with` requires 2.5, 3.0
+  L138: `with` requires 2.5, 3.0
+  L143: `with` requires 2.5, 3.0
+  L147: function decorators require 2.4, 3.0
+  L164: `with` requires 2.5, 3.0
+  L181: `with` requires 2.5, 3.0
+  L217: `with` requires 2.5, 3.0
+  L228: `with` requires 2.5, 3.0
+  L240: `with` requires 2.5, 3.0
+  L263: `with` requires 2.5, 3.0
+  L277: `with` requires 2.5, 3.0
+  L283: `with` requires 2.5, 3.0
+  L291: `with` requires 2.5, 3.0
+  L305: `with` requires 2.5, 3.0
+  L325 C15: 'type' member requires 2.2, 3.0
+  L338: class decorators require 2.6, 3.0
+  L348: function decorators require 2.4, 3.0
+  L351: `with` requires 2.5, 3.0
+  L358: `with` requires 2.5, 3.0
+  L363: function decorators require 2.4, 3.0
+  L368: `with` requires 2.5, 3.0
+  L378: `with` requires 2.5, 3.0
+  L388: `with` requires 2.5, 3.0
+  L394: function decorators require 2.4, 3.0
+  L399: `with` requires 2.5, 3.0
+  L405: class decorators require 2.6, 3.0
+  L418: `with` requires 2.5, 3.0
+  L432: `with` requires 2.5, 3.0
+  L447: `with` requires 2.5, 3.0
+  L460: class decorators require 2.6, 3.0
+  L470: super() without arguments requires !2, 3.0
+  L470 C8: 'super' member requires 2.2, 3.0
+  L479: `with` requires 2.5, 3.0
+  L492: `with` requires 2.5, 3.0
+  L509: `with` requires 2.5, 3.0
+  L526: `with` requires 2.5, 3.0
+  L542: `with` requires 2.5, 3.0
+  L559: `with` requires 2.5, 3.0
+  L622: `with` requires 2.5, 3.0
+  L634: `with` requires 2.5, 3.0
+  L653: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_placeholder.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L184: `with` requires 2.5, 3.0
+  L323: dict comprehensions require 2.7, 3.0
+  L324: 'dict.fromkeys' member requires 2.3, 3.0
+  L397: `with` requires 2.5, 3.0
+  L425: `with` requires 2.5, 3.0
+  L462: `with` requires 2.5, 3.0
+  L482: `with` requires 2.5, 3.0
+  L560: function decorators require 2.4, 3.0
+  L579: f-strings require !2, 3.6
+  L581: function decorators require 2.4, 3.0
+  L598: f-strings require !2, 3.6
+  L667: `with` requires 2.5, 3.0
+  L708: `with` requires 2.5, 3.0
+  L715: `with` requires 2.5, 3.0
+  L791: `with` requires 2.5, 3.0
+  L806: `with` requires 2.5, 3.0
+  L807: `with` requires 2.5, 3.0
+  L840: `with` requires 2.5, 3.0
+  L864: `with` requires 2.5, 3.0
+  L884 C22: 'format' member requires 2.6, 3.0
+  L892: set literals require 2.7, 3.0
+  L912: set literals require 2.7, 3.0
+  L928 C38: 'set' member requires 2.4, 3.0
+  L930: function decorators require 2.4, 3.0
+  L966: function decorators require 2.4, 3.0
+  L1026: `with` requires 2.5, 3.0
+  L1051: `with` requires 2.5, 3.0
+  L1058: `with` requires 2.5, 3.0
+  L1078: `with` requires 2.5, 3.0
+  L1103: `with` requires 2.5, 3.0
+  L1130: class decorators require 2.6, 3.0
+  L1211: f-strings require !2, 3.6
+  L1212: f-strings require !2, 3.6
+  L1228: `with` requires 2.5, 3.0
+  L1246: `with` requires 2.5, 3.0
+  L1274: `yield from` requires !2, 3.3
+  L1575 C49: 'enumerate' member requires 2.3, 3.0
+  L1638 C29: 'sorted' member requires 2.4, 3.0
+  L1669: `with` requires 2.5, 3.0
+  L1669: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L1675 C32: 'any' member requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_placeholder_admin.py
+  L25: `with` requires 2.5, 3.0
+  L42: `with` requires 2.5, 3.0
+  L58: `with` requires 2.5, 3.0
+  L85: `with` requires 2.5, 3.0
+  L118: `with` requires 2.5, 3.0
+  L139: `with` requires 2.5, 3.0
+  L156: `with` requires 2.5, 3.0
+  L171: `with` requires 2.5, 3.0
+  L192: function decorators require 2.4, 3.0
+  L215: `with` requires 2.5, 3.0
+  L216: `with` requires 2.5, 3.0
+  L219: f-strings require !2, 3.6
+  L219: 'enumerate(start)' requires 2.6, 3.0
+  L237: function decorators require 2.4, 3.0
+  L261: `with` requires 2.5, 3.0
+  L262: `with` requires 2.5, 3.0
+  L265: f-strings require !2, 3.6
+  L265 C85: 'enumerate' member requires 2.3, 3.0
+  L301: `with` requires 2.5, 3.0
+  L302: f-strings require !2, 3.6
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_placeholder_app_admin.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L88: `with` requires 2.5, 3.0
+  L89: `with` requires 2.5, 3.0
+  L98: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L115: `with` requires 2.5, 3.0
+  L116: `with` requires 2.5, 3.0
+  L130: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L145: `with` requires 2.5, 3.0
+  L146: `with` requires 2.5, 3.0
+  L164: `with` requires 2.5, 3.0
+  L165: `with` requires 2.5, 3.0
+  L172: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L189: `with` requires 2.5, 3.0
+  L190: `with` requires 2.5, 3.0
+  L199: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L212: `with` requires 2.5, 3.0
+  L213: `with` requires 2.5, 3.0
+  L240: `with` requires 2.5, 3.0
+  L261: `with` requires 2.5, 3.0
+  L270: `with` requires 2.5, 3.0
+  L290: `with` requires 2.5, 3.0
+  L314: `with` requires 2.5, 3.0
+  L326: `with` requires 2.5, 3.0
+  L349: `with` requires 2.5, 3.0
+  L371: `with` requires 2.5, 3.0
+  L381: `with` requires 2.5, 3.0
+  L404: `with` requires 2.5, 3.0
+  L428: `with` requires 2.5, 3.0
+  L438: `with` requires 2.5, 3.0
+  L468: `with` requires 2.5, 3.0
+  L504: `with` requires 2.5, 3.0
+  L518: `with` requires 2.5, 3.0
+  L540: `with` requires 2.5, 3.0
+  L553: `with` requires 2.5, 3.0
+  L576: `with` requires 2.5, 3.0
+  L599: `with` requires 2.5, 3.0
+  L634: `with` requires 2.5, 3.0
+  L683: `with` requires 2.5, 3.0
+  L721: `with` requires 2.5, 3.0
+  L766: `with` requires 2.5, 3.0
+  L785: `with` requires 2.5, 3.0
+  L838: `with` requires 2.5, 3.0
+  L858: `with` requires 2.5, 3.0
+  L878: `with` requires 2.5, 3.0
+  L879: `with` requires 2.5, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_placeholder_checks.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L19: `with` requires 2.5, 3.0
+  L30: `with` requires 2.5, 3.0
+  L60: `with` requires 2.5, 3.0
+  L69: `with` requires 2.5, 3.0
+  L69 C62: 'property' member requires 2.2, 3.0
+  L71: 'unittest.mock.Mock.assert_not_called' member requires !2, 3.5
+  L113: `with` requires 2.5, 3.0
+  L128: `with` requires 2.5, 3.0
+  L144: `with` requires 2.5, 3.0
+  L167: `with` requires 2.5, 3.0
+  L186: `with` requires 2.5, 3.0
+  L204: `with` requires 2.5, 3.0
+  L220: `with` requires 2.5, 3.0
+  L246: `with` requires 2.5, 3.0
+  L263: `with` requires 2.5, 3.0
+  L275: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_placeholder_operation_signals.py
+  L55: `with` requires 2.5, 3.0
+  L59: `with` requires 2.5, 3.0
+  L76: `with` requires 2.5, 3.0
+  L80: `with` requires 2.5, 3.0
+  L104: `with` requires 2.5, 3.0
+  L107: `with` requires 2.5, 3.0
+  L129: `with` requires 2.5, 3.0
+  L132: `with` requires 2.5, 3.0
+  L157: `with` requires 2.5, 3.0
+  L158: `with` requires 2.5, 3.0
+  L180: `with` requires 2.5, 3.0
+  L181: `with` requires 2.5, 3.0
+  L214: `with` requires 2.5, 3.0
+  L215: `with` requires 2.5, 3.0
+  L249: `with` requires 2.5, 3.0
+  L250: `with` requires 2.5, 3.0
+  L290: `with` requires 2.5, 3.0
+  L291: `with` requires 2.5, 3.0
+  L327: `with` requires 2.5, 3.0
+  L328: `with` requires 2.5, 3.0
+  L369: `with` requires 2.5, 3.0
+  L370: `with` requires 2.5, 3.0
+  L406: `with` requires 2.5, 3.0
+  L407: `with` requires 2.5, 3.0
+  L453: `with` requires 2.5, 3.0
+  L454: `with` requires 2.5, 3.0
+  L498: `with` requires 2.5, 3.0
+  L499: `with` requires 2.5, 3.0
+  L534: `with` requires 2.5, 3.0
+  L535: `with` requires 2.5, 3.0
+  L567: `with` requires 2.5, 3.0
+  L568: `with` requires 2.5, 3.0
+  L598: `with` requires 2.5, 3.0
+  L599: `with` requires 2.5, 3.0
+  L620: `with` requires 2.5, 3.0
+  L621: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_plugin_renderers.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.deque' member requires 2.4, 3.0
+  L41: `with` requires 2.5, 3.0
+  L53: f-strings require !2, 3.6
+  L70: `with` requires 2.5, 3.0
+  L73: f-strings require !2, 3.6
+  L87: function decorators require 2.4, 3.0
+  L94: function decorators require 2.4, 3.0
+  L96: `with` requires 2.5, 3.0
+  L101: `with` requires 2.5, 3.0
+  L188: `with` requires 2.5, 3.0
+  L197: `with` requires 2.5, 3.0
+  L209: `with` requires 2.5, 3.0
+  L219: `with` requires 2.5, 3.0
+  L228: `with` requires 2.5, 3.0
+  L242: `with` requires 2.5, 3.0
+  L247: function decorators require 2.4, 3.0
+  L258: `with` requires 2.5, 3.0
+  L259: `with` requires 2.5, 3.0
+  L324: f-strings require !2, 3.6
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_plugins.py
+  L1 C7: 'datetime' module requires 2.3, 3.0
+  L3 C7: 'warnings' module requires 2.1, 3.0
+  L4 C5: 'contextlib' module requires 2.5, 3.0
+  L5 C5: 'unittest' module requires 2.1, 3.0
+  L5 C5: 'unittest.mock' module requires !2, 3.3
+  L5 C5: 'unittest.skipIf' member requires 2.7, 3.1
+  L50: function decorators require 2.4, 3.0
+  L120: super() without arguments requires !2, 3.0
+  L153: function decorators require 2.4, 3.0
+  L160: `with` requires 2.5, 3.0
+  L184: `with` requires 2.5, 3.0
+  L231: `with` requires 2.5, 3.0
+  L240: `with` requires 2.5, 3.0
+  L255: `with` requires 2.5, 3.0
+  L266: `with` requires 2.5, 3.0
+  L288: `with` requires 2.5, 3.0
+  L327: `with` requires 2.5, 3.0
+  L440 C45: 'set' member requires 2.4, 3.0
+  L494: 'zip(strict)' requires !2, 3.10
+  L591: `with` requires 2.5, 3.0
+  L663: f-strings require !2, 3.6
+  L664: f-strings require !2, 3.6
+  L688 C15: 'io' module requires 2.6, 3.0
+  L723: `with` requires 2.5, 3.0
+  L723: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L746: `with` requires 2.5, 3.0
+  L776: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L787: `with` requires 2.5, 3.0
+  L825: `with` requires 2.5, 3.0
+  L829: `with` requires 2.5, 3.0
+  L843: `with` requires 2.5, 3.0
+  L860: `with` requires 2.5, 3.0
+  L874: `with` requires 2.5, 3.0
+  L884: `with` requires 2.5, 3.0
+  L897: `with` requires 2.5, 3.0
+  L906: `with` requires 2.5, 3.0
+  L931: `with` requires 2.5, 3.0
+  L966: `with` requires 2.5, 3.0
+  L995: `with` requires 2.5, 3.0
+  L996: `with` requires 2.5, 3.0
+  L1013: `with` requires 2.5, 3.0
+  L1022: class decorators require 2.6, 3.0
+  L1034: `with` requires 2.5, 3.0
+  L1036: 'random.sample' member requires 2.3, 3.0
+  L1042: 'enumerate(start)' requires 2.6, 3.0
+  L1042 C29: 'enumerate' member requires 2.3, 3.0
+  L1054: `with` requires 2.5, 3.0
+  L1061: `with` requires 2.5, 3.0
+  L1065: `with` requires 2.5, 3.0
+  L1073: `with` requires 2.5, 3.0
+  L1086: `with` requires 2.5, 3.0
+  L1090: `with` requires 2.5, 3.0
+  L1103: `with` requires 2.5, 3.0
+  L1106: `with` requires 2.5, 3.0
+  L1113: `with` requires 2.5, 3.0
+  L1127: `with` requires 2.5, 3.0
+  L1227: f-strings require !2, 3.6
+  L1410: `with` requires 2.5, 3.0
+  L1495: `with` requires 2.5, 3.0
+  L1509: super() without arguments requires !2, 3.0
+  L1514: super() without arguments requires !2, 3.0
+  L1514 C8: 'super' member requires 2.2, 3.0
+  L1527: class decorators require 2.6, 3.0
+  L1583: class decorators require 2.6, 3.0
+  L1588: function decorators require 2.4, 3.0
+  L1592: function decorators require 2.4, 3.0
+  L1596: function decorators require 2.4, 3.0
+  L1619: class decorators require 2.6, 3.0
+  L1647: class decorators require 2.6, 3.0
+  L1652: function decorators require 2.4, 3.0
+  L1656: function decorators require 2.4, 3.0
+  L1660: function decorators require 2.4, 3.0
+  L1666: `with` requires 2.5, 3.0
+  L1692: class decorators require 2.6, 3.0
+  L1697: function decorators require 2.4, 3.0
+  L1701: function decorators require 2.4, 3.0
+  L1705: function decorators require 2.4, 3.0
+  L1759: `with` requires 2.5, 3.0
+  L1787: `with` requires 2.5, 3.0
+  L1791 C26: 'next' member requires 2.6, 3.0
+  L1811: `with` requires 2.5, 3.0
+  L1839: `with` requires 2.5, 3.0
+  L1856 C27: 'type' member requires 2.2, 3.0
+  L1859 C12: 'dict' member requires 2.2, 3.0
+  L1862: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_po.py
+  L3 C7: 'subprocess' module requires 2.4, 3.0
+  L5 C5: 'pathlib' module requires !2, 3.4
+  L22: f-strings require !2, 3.6
+  L32 C15: 'set' member requires 2.4, 3.0
+  L41: 'os.walk' member requires 2.3, 3.0
+  L69: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_rendering.py
+  L27: f-strings require !2, 3.6
+  L38: class decorators require 2.6, 3.0
+  L46: super() without arguments requires !2, 3.0
+  L70: `with` requires 2.5, 3.0
+  L88: class decorators require 2.6, 3.0
+  L99: super() without arguments requires !2, 3.0
+  L99 C8: 'super' member requires 2.2, 3.0
+  L102: `with` requires 2.5, 3.0
+  L267: function decorators require 2.4, 3.0
+  L284: function decorators require 2.4, 3.0
+  L307: function decorators require 2.4, 3.0
+  L325: class decorators require 2.6, 3.0
+  L350: f-strings require !2, 3.6
+  L370: `with` requires 2.5, 3.0
+  L391: `with` requires 2.5, 3.0
+  L408: f-strings require !2, 3.6
+  L545: `with` requires 2.5, 3.0
+  L621: function decorators require 2.4, 3.0
+  L632: function decorators require 2.4, 3.0
+  L647: function decorators require 2.4, 3.0
+  L656: function decorators require 2.4, 3.0
+  L735: function decorators require 2.4, 3.0
+  L737: `with` requires 2.5, 3.0
+  L746: `with` requires 2.5, 3.0
+  L762: f-strings require !2, 3.6
+  L783: `with` requires 2.5, 3.0
+  L800: 'str.format' member requires 2.6, 3.0
+  L804: class decorators require 2.6, 3.0
+  L937: set literals require 2.7, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_security.py
+  L210: 'str.format' member requires 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_settings.py
+  L12: function decorators require 2.4, 3.0
+  L22: function decorators require 2.4, 3.0
+  L29: function decorators require 2.4, 3.0
+  L36: function decorators require 2.4, 3.0
+  L46: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_signals.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L20: class decorators require 2.6, 3.0
+  L26: `with` requires 2.5, 3.0
+  L26: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L31 C12: 'any' member requires 2.5, 3.0
+  L38: `with` requires 2.5, 3.0
+  L39: `with` requires 2.5, 3.0
+  L40: `with` requires 2.5, 3.0
+  L65: `with` requires 2.5, 3.0
+  L66: `with` requires 2.5, 3.0
+  L75: `with` requires 2.5, 3.0
+  L88: `with` requires 2.5, 3.0
+  L89: `with` requires 2.5, 3.0
+  L90: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_site.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L22: `with` requires 2.5, 3.0
+  L37: `with` requires 2.5, 3.0
+  L40: f-strings require !2, 3.6
+  L44: `with` requires 2.5, 3.0
+  L53: `with` requires 2.5, 3.0
+  L66: function decorators require 2.4, 3.0
+  L68: `with` requires 2.5, 3.0
+  L75: function decorators require 2.4, 3.0
+  L77: `with` requires 2.5, 3.0
+  L78: `with` requires 2.5, 3.0
+  L78: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L81 C32: 'any' member requires 2.5, 3.0
+  L84: function decorators require 2.4, 3.0
+  L86: `with` requires 2.5, 3.0
+  L100: `with` requires 2.5, 3.0
+  L101: f-strings require !2, 3.6
+  L106: `with` requires 2.5, 3.0
+  L112: `with` requires 2.5, 3.0
+  L118: `with` requires 2.5, 3.0
+  L124: `with` requires 2.5, 3.0
+  L139: `with` requires 2.5, 3.0
+  L149: f-strings require !2, 3.6
+  L156: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_sitemap.py
+  L36: `with` requires 2.5, 3.0
+  L86: f-strings require !2, 3.6
+  L88: f-strings require !2, 3.6
+  L102: f-strings require !2, 3.6
+  L104: f-strings require !2, 3.6
+  L117: `with` requires 2.5, 3.0
+  L119: f-strings require !2, 3.6
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_static_analysis.py
+  L2 C5: 'unittest' module requires 2.1, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_templates.py
+  print(expr) requires 2.0, 3.0
+  L2 C5: 'importlib.machinery.SourceFileLoader' member requires !2, 3.3
+  L36: function decorators require 2.4, 3.0
+  L45 C15: 'FileNotFoundError' member requires !2, 3.3
+  L46: f-strings require !2, 3.6
+  L48: f-strings require !2, 3.6
+  L60 C41: 'set' member requires 2.4, 3.0
+  L62: function decorators require 2.4, 3.0
+  L73: function decorators require 2.4, 3.0
+  L82: `with` requires 2.5, 3.0
+  L88: function decorators require 2.4, 3.0
+  L96: `with` requires 2.5, 3.0
+  L113: `with` requires 2.5, 3.0
+  L132: `with` requires 2.5, 3.0
+  L135: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_templatetags.py
+  L3 C5: 'unittest.mock' module requires !2, 3.3
+  L67: f-strings require !2, 3.6
+  L68: f-strings require !2, 3.6
+  L69: f-strings require !2, 3.6
+  L78: f-strings require !2, 3.6
+  L79: f-strings require !2, 3.6
+  L98: f-strings require !2, 3.6
+  L99: f-strings require !2, 3.6
+  L125: `with` requires 2.5, 3.0
+  L140: `with` requires 2.5, 3.0
+  L141: `with` requires 2.5, 3.0
+  L154: `with` requires 2.5, 3.0
+  L169: `with` requires 2.5, 3.0
+  L183: super() without arguments requires !2, 3.0
+  L183 C16: 'super' member requires 2.2, 3.0
+  L241: function decorators require 2.4, 3.0
+  L312: `with` requires 2.5, 3.0
+  L318: `with` requires 2.5, 3.0
+  L329: `with` requires 2.5, 3.0
+  L351: `with` requires 2.5, 3.0
+  L357: `with` requires 2.5, 3.0
+  L367: `with` requires 2.5, 3.0
+  L373: `with` requires 2.5, 3.0
+  L393: `with` requires 2.5, 3.0
+  L405: `with` requires 2.5, 3.0
+  L460: `with` requires 2.5, 3.0
+  L510: `with` requires 2.5, 3.0
+  L514: `with` requires 2.5, 3.0
+  L530: `with` requires 2.5, 3.0
+  L537: `with` requires 2.5, 3.0
+  L555: `with` requires 2.5, 3.0
+  L581: 'str.format' member requires 2.6, 3.0
+  L619: f-strings require !2, 3.6
+  L638: `with` requires 2.5, 3.0
+  L653: `with` requires 2.5, 3.0
+  L685: `with` requires 2.5, 3.0
+  L706: `with` requires 2.5, 3.0
+  L725: `with` requires 2.5, 3.0
+  L747: `with` requires 2.5, 3.0
+  L762: `with` requires 2.5, 3.0
+  L778: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_toolbar.py
+  L1 C7: 'datetime' module requires 2.3, 3.0
+  L3 C5: 'types.SimpleNamespace' member requires !2, 3.3
+  L4 C5: 'unittest.mock' module requires !2, 3.3
+  L88: class decorators require 2.6, 3.0
+  L90: function decorators require 2.4, 3.0
+  L95: function decorators require 2.4, 3.0
+  L101: function decorators require 2.4, 3.0
+  L106: function decorators require 2.4, 3.0
+  L111: function decorators require 2.4, 3.0
+  L118: function decorators require 2.4, 3.0
+  L125: function decorators require 2.4, 3.0
+  L156: function decorators require 2.4, 3.0
+  L191: `with` requires 2.5, 3.0
+  L196: `with` requires 2.5, 3.0
+  L205: `with` requires 2.5, 3.0
+  L216: `with` requires 2.5, 3.0
+  L221: `with` requires 2.5, 3.0
+  L226: class decorators require 2.6, 3.0
+  L260: function decorators require 2.4, 3.0
+  L272: `with` requires 2.5, 3.0
+  L286: `with` requires 2.5, 3.0
+  L413: function decorators require 2.4, 3.0
+  L453: `with` requires 2.5, 3.0
+  L471: `with` requires 2.5, 3.0
+  L484: `with` requires 2.5, 3.0
+  L503: `with` requires 2.5, 3.0
+  L514: `with` requires 2.5, 3.0
+  L529: `with` requires 2.5, 3.0
+  L541: `with` requires 2.5, 3.0
+  L558: `with` requires 2.5, 3.0
+  L592: `with` requires 2.5, 3.0
+  L597: f-strings require !2, 3.6
+  L702: f-strings require !2, 3.6
+  L706: function decorators require 2.4, 3.0
+  L709: `"..{}..".format(..)` requires 2.7, 3.0
+  L714: function decorators require 2.4, 3.0
+  L722: `with` requires 2.5, 3.0
+  L723: `with` requires 2.5, 3.0
+  L748: `with` requires 2.5, 3.0
+  L778 C24: 'all' member requires 2.5, 3.0
+  L815: f-strings require !2, 3.6
+  L842: function decorators require 2.4, 3.0
+  L849: `with` requires 2.5, 3.0
+  L857: `with` requires 2.5, 3.0
+  L866: `with` requires 2.5, 3.0
+  L872: `with` requires 2.5, 3.0
+  L941: dict comprehensions require 2.7, 3.0
+  L945 C47: 'sorted' member requires 2.4, 3.0
+  L975: `with` requires 2.5, 3.0
+  L1056: `with` requires 2.5, 3.0
+  L1073: `with` requires 2.5, 3.0
+  L1079: function decorators require 2.4, 3.0
+  L1103: `with` requires 2.5, 3.0
+  L1126: super() without arguments requires !2, 3.0
+  L1132: super() without arguments requires !2, 3.0
+  L1137: `with` requires 2.5, 3.0
+  L1148: `with` requires 2.5, 3.0
+  L1159: `with` requires 2.5, 3.0
+  L1167: function decorators require 2.4, 3.0
+  L1179: function decorators require 2.4, 3.0
+  L1190: class decorators require 2.6, 3.0
+  L1196: super() without arguments requires !2, 3.0
+  L1196 C8: 'super' member requires 2.2, 3.0
+  L1325: f-strings require !2, 3.6
+  L1327: f-strings require !2, 3.6
+  L1344: f-strings require !2, 3.6
+  L1346: f-strings require !2, 3.6
+  L1348: f-strings require !2, 3.6
+  L1434: `with` requires 2.5, 3.0
+  L1613: f-strings require !2, 3.6
+  L1617: f-strings require !2, 3.6
+  L1748: `"..{}..".format(..)` requires 2.7, 3.0
+  L1753: f-strings require !2, 3.6
+  L1777: `"..{}..".format(..)` requires 2.7, 3.0
+  L1782: f-strings require !2, 3.6
+  L1801: `"..{}..".format(..)` requires 2.7, 3.0
+  L1806: `"..{}..".format(..)` requires 2.7, 3.0
+  L1828: `"..{}..".format(..)` requires 2.7, 3.0
+  L1833: `"..{}..".format(..)` requires 2.7, 3.0
+  L1849: f-strings require !2, 3.6
+  L1852: f-strings require !2, 3.6
+  L1901: `with` requires 2.5, 3.0
+  L1902: `with` requires 2.5, 3.0
+  L1906: f-strings require !2, 3.6
+  L2069: 'str.format' member requires 2.6, 3.0
+  L2122: f-strings require !2, 3.6
+  L2130: f-strings require !2, 3.6
+  L2138: f-strings require !2, 3.6
+  L2155: function decorators require 2.4, 3.0
+  L2169: f-strings require !2, 3.6
+  L2170: f-strings require !2, 3.6
+  L2176: function decorators require 2.4, 3.0
+  L2193: `with` requires 2.5, 3.0
+  L2201: `with` requires 2.5, 3.0
+  L2204: f-strings require !2, 3.6
+  L2205: f-strings require !2, 3.6
+  L2220: `with` requires 2.5, 3.0
+  L2238: function decorators require 2.4, 3.0
+  L2249: `with` requires 2.5, 3.0
+  L2275: f-strings require !2, 3.6
+  L2285: function decorators require 2.4, 3.0
+  L2302: function decorators require 2.4, 3.0
+  L2319: function decorators require 2.4, 3.0
+  L2337: function decorators require 2.4, 3.0
+  L2357: function decorators require 2.4, 3.0
+  L2377: function decorators require 2.4, 3.0
+  L2395: function decorators require 2.4, 3.0
+  L2412: function decorators require 2.4, 3.0
+  L2489: `with` requires 2.5, 3.0
+  L2499 C15: 'json' module requires 2.6, 3.0
+  L2541: f-strings require !2, 3.6
+  L2551: f-strings require !2, 3.6
+  L2567: f-strings require !2, 3.6
+  L2575: f-strings require !2, 3.6
+  L2614: f-strings require !2, 3.6
+  L2633: `with` requires 2.5, 3.0
+  L2647: `with` requires 2.5, 3.0
+  L2706 C15: 'object' member requires 2.2, 3.0
+  L2716: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_toolbar_enabled_models.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L59: `with` requires 2.5, 3.0
+  L62: function decorators require 2.4, 3.0
+  L76: f-strings require !2, 3.6
+  L143: `with` requires 2.5, 3.0
+  L157: `with` requires 2.5, 3.0
+  L167: `with` requires 2.5, 3.0
+  L181: `with` requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_toolbar_pool.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L57: `with` requires 2.5, 3.0
+  L64: `with` requires 2.5, 3.0
+  L71 C25: 'type' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_urlutils.py
+  L17: `with` requires 2.5, 3.0
+  L22: `with` requires 2.5, 3.0
+  L25: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_views.py
+  L67: class decorators require 2.6, 3.0
+  L76: super() without arguments requires !2, 3.0
+  L76 C8: 'super' member requires 2.2, 3.0
+  L81: `with` requires 2.5, 3.0
+  L87: `with` requires 2.5, 3.0
+  L123: f-strings require !2, 3.6
+  L125: `with` requires 2.5, 3.0
+  L137: f-strings require !2, 3.6
+  L145: `with` requires 2.5, 3.0
+  L145: multiple context expressions in a `with` statement require 2.7, 3.1
+  L146: `with` requires 2.5, 3.0
+  L150: `with` requires 2.5, 3.0
+  L214: function decorators require 2.4, 3.0
+  L226: function decorators require 2.4, 3.0
+  L240: `with` requires 2.5, 3.0
+  L246: `with` requires 2.5, 3.0
+  L258: f-strings require !2, 3.6
+  L262: `with` requires 2.5, 3.0
+  L274: `with` requires 2.5, 3.0
+  L280: `with` requires 2.5, 3.0
+  L303: `with` requires 2.5, 3.0
+  L303: multiple context expressions in a `with` statement require 2.7, 3.1
+  L309: f-strings require !2, 3.6
+  L354: function decorators require 2.4, 3.0
+  L423: `with` requires 2.5, 3.0
+  L432: class decorators require 2.6, 3.0
+  L458: `with` requires 2.5, 3.0
+  L459: `with` requires 2.5, 3.0
+  L462: `with` requires 2.5, 3.0
+  L466: `with` requires 2.5, 3.0
+  L474: `with` requires 2.5, 3.0
+  L475: `with` requires 2.5, 3.0
+  L484: `with` requires 2.5, 3.0
+  L486: `with` requires 2.5, 3.0
+  L493: annotations require !2, 3.0
+  L503: annotations require !2, 3.0
+  L520: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_widgets.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\tests\test_wizards.py
+  L1 C5: 'unittest.mock' module requires !2, 3.3
+  L73: 'zip(strict)' requires !2, 3.10
+  L76 C27: 'enumerate' member requires 2.3, 3.0
+  L78: f-strings require !2, 3.6
+  L80: function decorators require 2.4, 3.0
+  L82: super() without arguments requires !2, 3.0
+  L122: super() without arguments requires !2, 3.0
+  L122 C8: 'super' member requires 2.2, 3.0
+  L166: `with` requires 2.5, 3.0
+  L192: `with` requires 2.5, 3.0
+  L199: `with` requires 2.5, 3.0
+  L209: `with` requires 2.5, 3.0
+  L274: `with` requires 2.5, 3.0
+  L286: function decorators require 2.4, 3.0
+  L320: `with` requires 2.5, 3.0
+  L321: `with` requires 2.5, 3.0
+  L344: f-strings require !2, 3.6
+  L350: `with` requires 2.5, 3.0
+  L385: `with` requires 2.5, 3.0
+  L403: `with` requires 2.5, 3.0
+  L416: `with` requires 2.5, 3.0
+  L435: `with` requires 2.5, 3.0
+  L454: `with` requires 2.5, 3.0
+  L456: f-strings require !2, 3.6
+  L457: f-strings require !2, 3.6
+  L470: `with` requires 2.5, 3.0
+  L490: `with` requires 2.5, 3.0
+  L509: `with` requires 2.5, 3.0
+  L517: `with` requires 2.5, 3.0
+  L536: `with` requires 2.5, 3.0
+  L612: `with` requires 2.5, 3.0
+  L671: function decorators require 2.4, 3.0
+  L696: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar\items.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L2 C5: 'abc' module requires 2.6, 3.0
+  L3 C5: 'collections' module requires 2.4, 3.0
+  L3 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L122 C19: 'object' member requires 2.2, 3.0
+  L124 C15: 'all' member requires 2.5, 3.0
+  L151: 'sorted(key)' requires 2.4, 3.0
+  L151 C22: 'sorted' member requires 2.4, 3.0
+  L245: function decorators require 2.4, 3.0
+  L269: super() without arguments requires !2, 3.0
+  L351: super() without arguments requires !2, 3.0
+  L381: super() without arguments requires !2, 3.0
+  L442: super() without arguments requires !2, 3.0
+  L587: super() without arguments requires !2, 3.0
+  L661: super() without arguments requires !2, 3.0
+  L661 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar\toolbar.py
+  L1 C7: 'functools' module requires 2.5, 3.0
+  L3 C5: 'collections' module requires 2.4, 3.0
+  L3 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L43: function decorators require 2.4, 3.0
+  L57: function decorators require 2.4, 3.0
+  L63: function decorators require 2.4, 3.0
+  L76: function decorators require 2.4, 3.0
+  L82: function decorators require 2.4, 3.0
+  L88: function decorators require 2.4, 3.0
+  L94: function decorators require 2.4, 3.0
+  L100: function decorators require 2.4, 3.0
+  L112: function decorators require 2.4, 3.0
+  L119: function decorators require 2.4, 3.0
+  L124: function decorators require 2.4, 3.0
+  L128: function decorators require 2.4, 3.0
+  L132: function decorators require 2.4, 3.0
+  L153: super() without arguments requires !2, 3.0
+  L178: `with` requires 2.5, 3.0
+  L265: function decorators require 2.4, 3.0
+  L269: function decorators require 2.4, 3.0
+  L311: function decorators require 2.4, 3.0
+  L418: f-strings require !2, 3.6
+  L497 C40: 'reversed' member requires 2.4, 3.0
+  L500: function decorators require 2.4, 3.0
+  L504: 'functools.reduce' member requires 2.6, 3.0
+  L532: `with` requires 2.5, 3.0
+  L574: `with` requires 2.5, 3.0
+  L582: `with` requires 2.5, 3.0
+  L591: `with` requires 2.5, 3.0
+  L595: f-strings require !2, 3.6
+  L599 C13: 'type' member requires 2.2, 3.0
+  L599 C82: 'dict' member requires 2.2, 3.0
+  L613: super() without arguments requires !2, 3.0
+  L613 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar\utils.py
+  L1 C5: '__future__' module requires 2.1, 3.0
+  L1 C5: '__future__.annotations' member requires !2, 3.7
+  L3 C7: 'json' module requires 2.6, 3.0
+  L4 C5: 'collections' module requires 2.4, 3.0
+  L4 C5: 'collections.deque' member requires 2.4, 3.0
+  L4 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L5 C5: 'typing' module requires !2, 3.5
+  L29: annotations require !2, 3.0
+  L49: annotations require !2, 3.0
+  L63: annotations require !2, 3.0
+  L72: annotations require !2, 3.0
+  L77 C17: 'frozenset' member requires 2.4, 3.0
+  L79 C18: 'reversed' member requires 2.4, 3.0
+  L89: annotations require !2, 3.0
+  L92: union types as `X | Y` require !2, 3.10
+  L93: union types as `X | Y` require !2, 3.10
+  L143: `with` requires 2.5, 3.0
+  L157 C25: 'all' member requires 2.5, 3.0
+  L162 C17: 'next' member requires 2.6, 3.0
+  L167: generalized unpacking requires !2, 3.5
+  L170: annotations require !2, 3.0
+  L170: union types as `X | Y` require !2, 3.10
+  L179: generalized unpacking requires !2, 3.5
+  L193: annotations require !2, 3.0
+  L200: annotations require !2, 3.0
+  L206: annotations require !2, 3.0
+  L206: union types as `X | Y` require !2, 3.10
+  L225: f-strings require !2, 3.6
+  L227: f-strings require !2, 3.6
+  L231: annotations require !2, 3.0
+  L231: union types as `X | Y` require !2, 3.10
+  L238: `with` requires 2.5, 3.0
+  L250: annotations require !2, 3.0
+  L250: union types as `X | Y` require !2, 3.10
+  L262: annotations require !2, 3.0
+  L262: union types as `X | Y` require !2, 3.10
+  L274: annotations require !2, 3.0
+  L274: union types as `X | Y` require !2, 3.10
+  L287: annotations require !2, 3.0
+  L287: union types as `X | Y` require !2, 3.10
+  L302: `with` requires 2.5, 3.0
+  L320: f-strings require !2, 3.6
+  L325: annotations require !2, 3.0
+  L359: dict comprehensions require 2.7, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar_base.py
+  L30: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\toolbar_pool.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L44: f-strings require !2, 3.6
+  L51: f-strings require !2, 3.6
+  L61 C15: 'sum' member requires 2.3, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\urls.py
+  L29: keyword-only parameters require !2, 3.0
+  L31: super() without arguments requires !2, 3.0
+  L31 C8: 'super' member requires 2.2, 3.0
+  L33: function decorators require 2.4, 3.0
+  L38: function decorators require 2.4, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\__init__.py
+  L2 C5: 'typing' module requires !2, 3.5
+  L18: annotations require !2, 3.0
+  L25 C15: 'warnings' module requires 2.1, 3.0
+  L43: annotations require !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\admin.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\apphook_reload.py
+  L1 C7: 'logging' module requires 2.3, 3.0
+  L3 C7: 'uuid' module requires 2.5, 3.0
+  L6 C5: 'importlib' module requires 2.7, 3.1
+  L6 C5: 'importlib.reload' member requires !2, 3.4
+  L7 C5: 'threading.local' member requires 2.4, 3.0
+  L90: f-strings require !2, 3.6
+  L92 C44: 'type' member requires 2.2, 3.0
+  L99: `"..{}..".format(..)` requires 2.7, 3.0
+  L99: 'str.format' member requires 2.6, 3.0
+  L104: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\check.py
+  L1 C7: 'inspect' module requires 2.1, 3.0
+  L2 C5: 'contextlib' module requires 2.5, 3.0
+  L3 C5: 'itertools' module requires 2.3, 3.0
+  L75: `"..{}..".format(..)` requires 2.7, 3.0
+  L79: `"..{}..".format(..)` requires 2.7, 3.0
+  L83: `"..{}..".format(..)` requires 2.7, 3.0
+  L87: `"..{}..".format(..)` requires 2.7, 3.0
+  L89: function decorators require 2.4, 3.0
+  L106: function decorators require 2.4, 3.0
+  L127: super() without arguments requires !2, 3.0
+  L127 C8: 'super' member requires 2.2, 3.0
+  L161: function decorators require 2.4, 3.0
+  L163: `with` requires 2.5, 3.0
+  L196: function decorators require 2.4, 3.0
+  L198: `with` requires 2.5, 3.0
+  L226: function decorators require 2.4, 3.0
+  L228: `with` requires 2.5, 3.0
+  L242: function decorators require 2.4, 3.0
+  L244: `with` requires 2.5, 3.0
+  L266: function decorators require 2.4, 3.0
+  L268: `with` requires 2.5, 3.0
+  L280: function decorators require 2.4, 3.0
+  L284: `with` requires 2.5, 3.0
+  L295: `"..{}..".format(..)` requires 2.7, 3.0
+  L296: 'str.format' member requires 2.6, 3.0
+  L308: function decorators require 2.4, 3.0
+  L316: f-strings require !2, 3.6
+  L324: `with` requires 2.5, 3.0
+  L333: f-strings require !2, 3.6
+  L342: f-strings require !2, 3.6
+  L362: f-strings require !2, 3.6
+  L379: function decorators require 2.4, 3.0
+  L381: `with` requires 2.5, 3.0
+  L403: f-strings require !2, 3.6
+  L417: function decorators require 2.4, 3.0
+  L421: `with` requires 2.5, 3.0
+  L432: function decorators require 2.4, 3.0
+  L436: `with` requires 2.5, 3.0
+  L443: f-strings require !2, 3.6
+  L449: f-strings require !2, 3.6
+  L470: f-strings require !2, 3.6
+  L479: `with` requires 2.5, 3.0
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\compat\__init__.py
+  L1 C5: 'platform' module requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\compat\dj.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\compat\forms.py
+  L1 C7: 'importlib' module requires 2.7, 3.1
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\compat\response.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\compat\warnings.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\conf.py
+  L2 C5: 'functools' module requires 2.5, 3.0
+  L3 C5: 'typing' module requires !2, 3.5
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L26 C9: 'importlib.machinery.SourceFileLoader' member requires !2, 3.3
+  L58: f-strings require !2, 3.6
+  L120: function decorators require 2.4, 3.0
+  L125: function decorators require 2.4, 3.0
+  L130: function decorators require 2.4, 3.0
+  L135: function decorators require 2.4, 3.0
+  L140: function decorators require 2.4, 3.0
+  L145: annotations require !2, 3.0
+  L234: f-strings require !2, 3.6
+  L275 C37: 'dict' member requires 2.2, 3.0
+  L316: annotations require !2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\decorators.py
+  L1 C5: 'urllib.parse' module requires !2, 3.0
+  L51 C30: 'dict' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\encoder.py
+  L16 C19: 'type' member requires 2.2, 3.0
+  L22: super() without arguments requires !2, 3.0
+  L27: super() without arguments requires !2, 3.0
+  L27 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\helpers.py
+  L67: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\i18n.py
+  L1 C5: 'contextlib' module requires 2.5, 3.0
+  L18 C15: 'warnings' module requires 2.1, 3.0
+  L20: f-strings require !2, 3.6
+  L28: function decorators require 2.4, 3.0
+  L142 C11: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\mail.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\page.py
+  L19 C21: 'frozenset' member requires 2.4, 3.0
+  L49: f-strings require !2, 3.6
+  L54 C9: 'warnings' module requires 2.1, 3.0
+  L90 C25: 'bool' member requires 2.2, 3.0
+  L118: dict comprehensions require 2.7, 3.0
+  L139: f-strings require !2, 3.6
+  L144: f-strings require !2, 3.6
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\page_permissions.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L83: function decorators require 2.4, 3.0
+  L105: function decorators require 2.4, 3.0
+  L114: function decorators require 2.4, 3.0
+  L122: function decorators require 2.4, 3.0
+  L126 C15: 'warnings' module requires 2.1, 3.0
+  L142: function decorators require 2.4, 3.0
+  L162: function decorators require 2.4, 3.0
+  L174: function decorators require 2.4, 3.0
+  L194: function decorators require 2.4, 3.0
+  L219: function decorators require 2.4, 3.0
+  L231: function decorators require 2.4, 3.0
+  L243: function decorators require 2.4, 3.0
+  L255: function decorators require 2.4, 3.0
+  L267: function decorators require 2.4, 3.0
+  L313: function decorators require 2.4, 3.0
+  L325: function decorators require 2.4, 3.0
+  L331: function decorators require 2.4, 3.0
+  L339 C51: 'bool' member requires 2.2, 3.0
+  L342: function decorators require 2.4, 3.0
+  L514 C50: 'any' member requires 2.5, 3.0
+
+!2, 3.7      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\permissions.py
+  L1 C5: 'collections' module requires 2.4, 3.0
+  L1 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L2 C5: 'contextlib' module requires 2.5, 3.0
+  L3 C5: 'contextvars' module requires !2, 3.7
+  L4 C5: 'functools' module requires 2.5, 3.0
+  L4 C5: 'functools.lru_cache' member requires !2, 3.2
+  L18: variable annotations require !2, 3.6
+  L44: function decorators require 2.4, 3.0
+  L146: function decorators require 2.4, 3.0
+  L174: function decorators require 2.4, 3.0
+  L176 C14: 'set' member requires 2.4, 3.0
+  L188: function decorators require 2.4, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\placeholder.py
+  L3 C7: 'warnings' module requires 2.1, 3.0
+  L4 C5: 'collections' module requires 2.4, 3.0
+  L4 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L4 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L5 C5: 'functools' module requires 2.5, 3.0
+  L5 C5: 'functools.cache' member requires !2, 3.9
+  L6 C5: 'typing' module requires !2, 3.5
+  L61 C23: 'any' member requires 2.5, 3.0
+  L65 C22: 'set' member requires 2.4, 3.0
+  L67: f-strings require !2, 3.6
+  L70: dict comprehensions require 2.7, 3.0
+  L79: dict comprehensions require 2.7, 3.0
+  L100: annotations require !2, 3.0
+  L100: union types as `X | Y` require !2, 3.10
+  L119: f-strings require !2, 3.6
+  L125: named expressions require !2, 3.8
+  L173: 'sorted(key)' requires 2.4, 3.0
+  L173 C11: 'sorted' member requires 2.4, 3.0
+  L182 C11: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L223 C23: 'callable' member requires 2.0, 3.2
+  L277: annotations require !2, 3.0
+  L289: f-strings require !2, 3.6
+  L364: annotations require !2, 3.0
+  L368: dict comprehensions require 2.7, 3.0
+  L371: dict comprehensions require 2.7, 3.0
+  L401: annotations require !2, 3.0
+  L423: annotations require !2, 3.0
+  L424: union types as `X | Y` require !2, 3.10
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\plugins.py
+  L1 C7: 'logging' module requires 2.3, 3.0
+  L3 C5: 'collections' module requires 2.4, 3.0
+  L3 C5: 'collections.deque' member requires 2.4, 3.0
+  L3 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L3 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L4 C5: 'collections.abc' module requires !2, 3.3
+  L6 C5: 'itertools' module requires 2.3, 3.0
+  L7 C5: 'operator.itemgetter' member requires 2.5, 3.0
+  L25: annotations require !2, 3.0
+  L30: annotations require !2, 3.0
+  L152 C11: 'sum' member requires 2.3, 3.0
+  L164 C18: 'reversed' member requires 2.4, 3.0
+  L400: annotations require !2, 3.0
+  L402: union types as `X | Y` require !2, 3.10
+  L404: union types as `X | Y` require !2, 3.10
+  L433: f-strings require !2, 3.6
+  L443: dict comprehensions require 2.7, 3.0
+
+!2, 3.1      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\request_ip_resolvers.py
+  L1 C7: 'importlib' module requires 2.7, 3.1
+  L21: exception cause requires !2, 3.0
+  L25: exception cause requires !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\setup.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\utils\urlutils.py
+  L2 C5: 'collections.abc' module requires !2, 3.3
+  L3 C5: 'typing' module requires !2, 3.5
+  L4 C5: 'urllib.parse' module requires !2, 3.0
+  L91: f-strings require !2, 3.6
+  L98: annotations require !2, 3.0
+  L100: union types as `X | Y` require !2, 3.10
+  L101: union types as `X | Y` require !2, 3.10
+  L104: union types as `X | Y` require !2, 3.10
+  L106: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\views.py
+  L1 C5: 'urllib.parse' module requires !2, 3.0
+  L54: f-strings require !2, 3.6
+  L58: f-strings require !2, 3.6
+  L170 C30: 'next' member requires 2.6, 3.0
+  L170 C35: 'iter' member requires 2.2, 3.0
+  L228: function decorators require 2.4, 3.0
+  L253: exception cause requires !2, 3.0
+  L262: exception cause requires !2, 3.0
+  L289: exception cause requires !2, 3.0
+  L303 C58: 'dict' member requires 2.2, 3.0
+  L324: exception cause requires !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\forms.py
+  L21 C17: 'type' member requires 2.2, 3.0
+  L34: super() without arguments requires !2, 3.0
+  L36: function decorators require 2.4, 3.0
+  L40: function decorators require 2.4, 3.0
+  L51: super() without arguments requires !2, 3.0
+  L76: super() without arguments requires !2, 3.0
+  L76 C8: 'super' member requires 2.2, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\helpers.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\urls.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\views.py
+  L39: super() without arguments requires !2, 3.0
+  L57: super() without arguments requires !2, 3.0
+  L70: f-strings require !2, 3.6
+  L77: super() without arguments requires !2, 3.0
+  L81: super() without arguments requires !2, 3.0
+  L101: super() without arguments requires !2, 3.0
+  L101 C18: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\wizard_base.py
+  L1 C7: 'hashlib' module requires 2.5, 3.0
+  L29: 'sorted(key)' requires 2.4, 3.0
+  L29 C11: 'sorted' member requires 2.4, 3.0
+  L102: function decorators require 2.4, 3.0
+  L152: f-strings require !2, 3.6
+  L167: f-strings require !2, 3.6
+  L194: `with` requires 2.5, 3.0
+  L208: function decorators require 2.4, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\cms\wizards\wizard_pool.py
+  L43 C15: 'warnings' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\docs\_ext\djangocms.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\docs\conf.py
+  L15 C7: 'datetime' module requires 2.3, 3.0
+  L95: f-strings require !2, 3.6
+  L311: 'os.makedirs(exist_ok)' requires !2, 3.2
+  L313: `with` requires 2.5, 3.0
+  L316: `with` requires 2.5, 3.0
+  L319: `with` requires 2.5, 3.0
+  L322: `with` requires 2.5, 3.0
+  L325: `with` requires 2.5, 3.0
+  L328: `with` requires 2.5, 3.0
+
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\docs\django_settings.py
+  L2 C5: 'pathlib' module requires !2, 3.4
+
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\manage.py
+  L2 C7: 'argparse' module requires 2.7, 3.2
+  L6 C7: 'warnings' module requires 2.1, 3.0
+  L36: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L44: annotations require !2, 3.0
+  L55: 'sum(start)' requires !2, 3.8
+  L55 C20: 'sum' member requires 2.3, 3.0
+  L205: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\apps.py
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\base.py
+  L1 C5: 'typing' module requires !2, 3.5
+  L22: annotations require !2, 3.0
+  L76: variable annotations require !2, 3.6
+  L77: variable annotations require !2, 3.6
+  L78: variable annotations require !2, 3.6
+  L79: variable annotations require !2, 3.6
+  L80: union types as `X | Y` require !2, 3.10
+  L80: variable annotations require !2, 3.6
+  L82: annotations require !2, 3.0
+  L87: union types as `X | Y` require !2, 3.10
+  L88: union types as `X | Y` require !2, 3.10
+  L104: variable annotations require !2, 3.6
+  L105: variable annotations require !2, 3.6
+  L106: variable annotations require !2, 3.6
+  L124: f-strings require !2, 3.6
+  L126: annotations require !2, 3.0
+  L132: annotations require !2, 3.0
+  L138: annotations require !2, 3.0
+  L150: annotations require !2, 3.0
+  L154 C15: 'sum' member requires 2.3, 3.0
+  L156: annotations require !2, 3.0
+  L165: annotations require !2, 3.0
+  L178: function decorators require 2.4, 3.0
+  L179: annotations require !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\exceptions.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\menu_pool.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L2 C5: 'logging' module requires 2.3, 3.0
+  L90 C17: 'type' member requires 2.2, 3.0
+  L123: function decorators require 2.4, 3.0
+  L127: f-strings require !2, 3.6
+  L130: f-strings require !2, 3.6
+  L138: function decorators require 2.4, 3.0
+  L212 C19: 'next' member requires 2.6, 3.0
+  L324: f-strings require !2, 3.6
+  L364: f-strings require !2, 3.6
+  L387: set comprehensions require 2.7, 3.0
+  L387 C15: 'sorted' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\migrations\0001_initial.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\migrations\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\models.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\modifiers.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\templatetags\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\templatetags\menu_tags.py
+  L1 C5: 'urllib.parse' module requires !2, 3.0
+  L108: class decorators require 2.6, 3.0
+  L178: class decorators require 2.6, 3.0
+  L193: class decorators require 2.6, 3.0
+  L266: class decorators require 2.6, 3.0
+  L296 C27: 'bool' member requires 2.2, 3.0
+  L313 C19: 'next' member requires 2.6, 3.0
+  L338: `with` requires 2.5, 3.0
+  L358: class decorators require 2.6, 3.0
+  L413: class decorators require 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\menus\utils.py
+  L46 C11: 'sum' member requires 2.3, 3.0
+  L157: function decorators require 2.4, 3.0
+  L263: `with` requires 2.5, 3.0
+  L286: `with` requires 2.5, 3.0
+  L295: f-strings require !2, 3.6
+  L296: `with` requires 2.5, 3.0
+  L303: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\setup.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\django-cms\testserver.py
+  print(expr) requires 2.0, 3.0
+  L5 C7: 'warnings' module requires 2.1, 3.0
+  L36: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L83: f-strings require !2, 3.6
+  L88: f-strings require !2, 3.6
+  L92: f-strings require !2, 3.6
+  L164: `with` requires 2.5, 3.0
+
+Tips:
+- Generic or literal annotations might be in use. If so, try using: --eval-annotations
+  But check the caveat section: https://github.com/netromdk/vermin#caveats
+- You're using potentially backported modules: argparse, contextvars, importlib, typing
+  If so, try using the following for better results: --backport argparse --backport contextvars --backport importlib --backport typing
+- Since '# novm' or '# novermin' weren't used, a speedup can be achieved using: --no-parse-comments
+(disable using: --no-tips)
+
+Minimum required versions: 3.10
+Incompatible versions:     2

@@ -1,0 +1,3518 @@
+Feature statistics for repository: sqlmap
+================================================================================
+
+FILE: sqlmap\extra\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\beep\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\beep\beep.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\extra\cloak\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\cloak\cloak.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\extra\dbgtool\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\dbgtool\dbgtool.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\extra\icmpsh\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\icmpsh\icmpsh_m.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\shutils\duplicates.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\extra\shutils\newlines.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\extra\vulnserver\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\extra\vulnserver\vulnserver.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\controller\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\controller\action.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\controller\checks.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.getaddrinfo (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\controller\controller.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\controller\handler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\agent.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\core\bigarray.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+sys.getsizeof (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\core\common.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+codecs.decode (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.isgenerator (total: 1)
+    2.6, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+socket.has_ipv6 (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+sys.setdefaultencoding (total: 1)
+    2.0, !3: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+threading.Thread.is_alive (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.GeneratorType (total: 1)
+    2.2, 3.0: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\core\compat.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cmp_to_key (total: 1)
+    2.7, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\lib\core\convert.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\data.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\datatype.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\decorators.py
+--------------------------------------------------------------------------------
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\core\defaults.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\dicts.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\dump.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\core\enums.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\exception.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\log.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\core\option.py
+--------------------------------------------------------------------------------
+StopIteration (total: 2)
+    2.2, 3.0: 2
+
+UnicodeDecodeError (total: 2)
+    2.3, 3.0: 2
+
+__future__ (total: 2)
+    2.1, 3.0: 2
+
+__future__.division (total: 2)
+    2.2, 3.0: 2
+
+all (total: 2)
+    2.5, 3.0: 2
+
+any (total: 2)
+    2.5, 3.0: 2
+
+bool (total: 2)
+    2.2, 3.0: 2
+
+collections (total: 2)
+    2.4, 3.0: 2
+
+collections.deque (total: 2)
+    2.4, 3.0: 2
+
+dict (total: 2)
+    2.2, 3.0: 2
+
+frozenset (total: 2)
+    2.4, 3.0: 2
+
+functools (total: 2)
+    2.5, 3.0: 2
+
+inspect (total: 2)
+    2.1, 3.0: 2
+
+inspect.signature (total: 2)
+    !2, 3.3: 2
+
+iter (total: 2)
+    2.2, 3.0: 2
+
+json (total: 2)
+    2.6, 3.0: 2
+
+logging (total: 2)
+    2.3, 3.0: 2
+
+next (total: 2)
+    2.6, 3.0: 2
+
+os.path.realpath (total: 2)
+    2.2, 3.0: 2
+
+random.sample (total: 2)
+    2.3, 3.0: 2
+
+re.finditer (total: 2)
+    2.2, 3.0: 2
+
+set (total: 2)
+    2.4, 3.0: 2
+
+socket.create_connection (total: 2)
+    2.6, 3.0: 2
+
+socket.getaddrinfo (total: 2)
+    2.2, 3.0: 2
+
+socket.getdefaulttimeout (total: 2)
+    2.3, 3.0: 2
+
+socket.setdefaulttimeout (total: 2)
+    2.3, 3.0: 2
+
+sorted (total: 2)
+    2.4, 3.0: 2
+
+tempfile.gettempdir (total: 2)
+    2.3, 3.0: 2
+
+tempfile.mkdtemp (total: 2)
+    2.3, 3.0: 2
+
+tempfile.mkstemp (total: 2)
+    2.3, 3.0: 2
+
+traceback.format_exc (total: 2)
+    2.4, 3.0: 2
+
+xml.etree.ElementTree (total: 2)
+    2.5, 3.0: 2
+
+
+FILE: sqlmap\lib\core\optiondict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\patch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\profiling.py
+--------------------------------------------------------------------------------
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\lib\core\readlineng.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\replication.py
+--------------------------------------------------------------------------------
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\lib\core\revision.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\core\session.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\settings.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: sqlmap\lib\core\shell.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\core\subprocessng.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: sqlmap\lib\core\target.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\core\testing.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\lib\core\threads.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+threading.Thread.is_alive (total: 1)
+    2.6, 3.0: 1
+
+threading.active_count (total: 1)
+    2.6, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\core\unescaper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\core\update.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\core\wordlist.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\lib\parse\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\parse\banner.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\parse\cmdline.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\parse\configfile.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\parse\handler.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\parse\headers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\parse\html.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\parse\payloads.py
+--------------------------------------------------------------------------------
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\lib\parse\sitemap.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\request\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\request\basic.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 9
+    2.6, 3.5: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+
+FILE: sqlmap\lib\request\basicauthhandler.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\request\chunkedhandler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\request\comparison.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\request\connect.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+socket.setdefaulttimeout (total: 1)
+    2.3, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+
+FILE: sqlmap\lib\request\direct.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\request\dns.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+socket.socket.settimeout (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 15
+    2.6, 3.5: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\lib\request\httpshandler.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+socket.create_connection (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: sqlmap\lib\request\inject.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\lib\request\methodrequest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\request\pkihandler.py
+--------------------------------------------------------------------------------
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+
+FILE: sqlmap\lib\request\rangehandler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\request\redirecthandler.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: sqlmap\lib\request\templates.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\takeover\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\takeover\abstraction.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\lib\takeover\icmpsh.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\takeover\metasploit.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\takeover\registry.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\takeover\udf.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\takeover\web.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+os.SEEK_END (total: 1)
+    2.5, 3.0: 1
+
+os.SEEK_SET (total: 1)
+    2.5, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\takeover\xp_cmdshell.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\lib\techniques\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\blind\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\blind\inference.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\techniques\dns\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\dns\test.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\dns\use.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\error\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\error\use.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\techniques\union\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\techniques\union\test.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\techniques\union\use.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\utils\api.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\brute.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\crawler.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\deps.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\getch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\utils\gui.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\har.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: sqlmap\lib\utils\hash.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 9)
+    2.6, 3.0: 9
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+zipfile.ZipFile.open (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\hashdb.py
+--------------------------------------------------------------------------------
+RecursionError (total: 2)
+    !2, 3.5: 2
+
+any (total: 2)
+    2.5, 3.0: 2
+
+hashlib (total: 2)
+    2.5, 3.0: 2
+
+property (total: 2)
+    2.2, 3.0: 2
+
+sqlite3 (total: 2)
+    2.5, 3.0: 2
+
+
+FILE: sqlmap\lib\utils\pivotdumptable.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+
+FILE: sqlmap\lib\utils\progress.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\purge.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+
+FILE: sqlmap\lib\utils\safe2bin.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\search.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\sgmllib.py
+--------------------------------------------------------------------------------
+__future__ (total: 2)
+    2.1, 3.0: 2
+
+__future__.print_function (total: 2)
+    2.6, 3.0: 2
+
+_markupbase (total: 2)
+    !2, 3.0: 2
+
+print(expr) (total: 2)
+    2.0, 3.0: 2
+
+
+FILE: sqlmap\lib\utils\sqlalchemy.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\timeout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\utils\tui.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.Popen.terminate (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\lib\utils\versioncheck.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\lib\utils\xrange.py
+--------------------------------------------------------------------------------
+numbers (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\access\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\access\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\altibase\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\cache\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cache\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\clickhouse\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cratedb\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\cubrid\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\cubrid\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\db2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\db2\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\db2\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\db2\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\db2\fingerprint.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\db2\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\db2\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\derby\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\derby\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\extremedb\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\firebird\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\firebird\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\frontbase\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\h2\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\hsqldb\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\hsqldb\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\informix\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\informix\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\enumeration.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\maxdb\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\maxdb\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mckoi\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\mimersql\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mimersql\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\monetdb\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\monetdb\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mssqlserver\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mssqlserver\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\mssqlserver\enumeration.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\mssqlserver\filesystem.py
+--------------------------------------------------------------------------------
+codecs.decode (total: 2)
+    2.4, 3.0: 2
+
+
+FILE: sqlmap\plugins\dbms\mssqlserver\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mssqlserver\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mssqlserver\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mysql\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mysql\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\mysql\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mysql\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mysql\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\mysql\syntax.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\mysql\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\oracle\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\oracle\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\oracle\enumeration.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\oracle\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\oracle\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\oracle\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\oracle\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\connector.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\postgresql\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\postgresql\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\presto\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\presto\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\raima\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\snowflake\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\snowflake\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\spanner\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\sqlite\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sqlite\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sybase\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sybase\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\sybase\enumeration.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\sybase\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sybase\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sybase\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\sybase\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\connector.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\plugins\dbms\vertica\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\vertica\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\enumeration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\filesystem.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\dbms\virtuoso\takeover.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\generic\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\generic\connector.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\generic\custom.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\databases.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\entries.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\enumeration.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\filesystem.py
+--------------------------------------------------------------------------------
+codecs.encode (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\fingerprint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\generic\misc.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\search.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\syntax.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\plugins\generic\takeover.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\plugins\generic\users.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: sqlmap\sqlmap.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+sys.dont_write_bytecode (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+threading.active_count (total: 1)
+    2.6, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: sqlmap\sqlmapapi.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sys.dont_write_bytecode (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: sqlmap\tamper\0eunion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\apostrophemask.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\apostrophenullencode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\appendnullbyte.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\base64encode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\between.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\binary.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\bluecoat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\chardoubleencode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\charencode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\charunicodeencode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\charunicodeescape.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\commalesslimit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\commalessmid.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\commentbeforeparentheses.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\concat2concatws.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\decentities.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\dunion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\equaltolike.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\equaltorlike.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\escapequotes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\greatest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\halfversionedmorekeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\hex2char.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\hexentities.py
+--------------------------------------------------------------------------------
+format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\tamper\htmlencode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\if2case.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\ifnull2casewhenisnull.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\ifnull2ifisnull.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\informationschemacomment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\least.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\lowercase.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\luanginx.py
+--------------------------------------------------------------------------------
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\tamper\luanginxmore.py
+--------------------------------------------------------------------------------
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\tamper\misunion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\modsecurityversioned.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\modsecurityzeroversioned.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\multiplespaces.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\ord2ascii.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\overlongutf8.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\overlongutf8more.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\percentage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\plus2concat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\plus2fnconcat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\randomcase.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\randomcomments.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\schemasplit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\scientific.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\sleep2getlock.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\sp_password.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\tamper\space2comment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2dash.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2hash.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2morecomment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2morehash.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2mssqlblank.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2mssqlhash.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2mysqlblank.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2mysqldash.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2plus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\space2randomblank.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\substring2leftright.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\symboliclogical.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\unionalltounion.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\unmagicquotes.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\tamper\uppercase.py
+--------------------------------------------------------------------------------
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\tamper\varnish.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\versionedkeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\versionedmorekeywords.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\tamper\xforwardedfor.py
+--------------------------------------------------------------------------------
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\ansistrm\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\ansistrm\ansistrm.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\beautifulsoup\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\beautifulsoup\beautifulsoup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\bottle\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\bottle\bottle.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\__init__.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\big5freq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\big5prober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\chardistribution.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\charsetgroupprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\charsetprober.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: sqlmap\thirdparty\chardet\codingstatemachine.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\compat.py
+--------------------------------------------------------------------------------
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\cp949prober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\enums.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\escprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\escsm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\eucjpprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\euckrfreq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\euckrprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\euctwfreq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\euctwprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\gb2312freq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\gb2312prober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\hebrewprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\jisfreq.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\jpcntx.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\langbulgarianmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langcyrillicmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langgreekmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langhebrewmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langhungarianmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langthaimodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\langturkishmodel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\latin1prober.py
+--------------------------------------------------------------------------------
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\mbcharsetprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\mbcsgroupprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\mbcssm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\chardet\sbcharsetprober.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\sbcsgroupprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\sjisprober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\universaldetector.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: sqlmap\thirdparty\chardet\utf8prober.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\chardet\version.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\clientform\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\clientform\clientform.py
+--------------------------------------------------------------------------------
+HTMLParser (total: 1)
+    2.2, !3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+sgmllib.SGMLParseError (total: 1)
+    2.1, !3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+unichr (total: 1)
+    2.0, !3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\colorama\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\colorama\ansi.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\colorama\ansitowin32.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\colorama\initialise.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\colorama\win32.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\colorama\winterm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\fcrypt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\fcrypt\fcrypt.py
+--------------------------------------------------------------------------------
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\identywaf\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\identywaf\identYwaf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\keepalive\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\keepalive\keepalive.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\magic\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\magic\magic.py
+--------------------------------------------------------------------------------
+ctypes (total: 2)
+    2.5, 3.0: 2
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+sys.getfilesystemencoding (total: 2)
+    2.3, 3.0: 2
+
+
+FILE: sqlmap\thirdparty\multipart\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\multipart\multipartpost.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 21)
+    2.6, 3.0: 14
+    2.6, 3.5: 7
+
+
+FILE: sqlmap\thirdparty\odict\__init__.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\odict\ordereddict.py
+--------------------------------------------------------------------------------
+collections (total: 2)
+    2.4, 3.0: 2
+
+collections.abc (total: 2)
+    !2, 3.3: 2
+
+iter (total: 2)
+    2.2, 3.0: 2
+
+reversed (total: 2)
+    2.4, 3.0: 2
+
+
+FILE: sqlmap\thirdparty\pydes\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\pydes\pyDes.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\six\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\socks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\socks\socks.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+socket.create_connection (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+
+FILE: sqlmap\thirdparty\termcolor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\termcolor\termcolor.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: sqlmap\thirdparty\wininetpton\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: sqlmap\thirdparty\wininetpton\win_inet_pton.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+socket.inet_ntop (total: 1)
+    2.3, 3.0: 1
+
+socket.inet_pton (total: 1)
+    2.3, 3.0: 1
+
+

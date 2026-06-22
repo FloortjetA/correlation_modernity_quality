@@ -1,0 +1,1665 @@
+Statistics for: aiohttp_pylint.txt
+================================================================================
+
+FILE: aiohttp\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.79/10
+
+FILE: aiohttp\_cookie_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 1
+R: 1
+Total messages: 3
+Average rating: 9.24/10
+
+FILE: aiohttp\_websocket\helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.51/10
+
+FILE: aiohttp\_websocket\models.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\_websocket\reader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\_websocket\reader_c.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 0.00/10
+
+FILE: aiohttp\_websocket\reader_py.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 7
+Total messages: 13
+Average rating: 9.08/10
+
+FILE: aiohttp\_websocket\writer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 2
+Total messages: 6
+Average rating: 8.48/10
+
+FILE: aiohttp\abc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.42/10
+
+FILE: aiohttp\base_protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 45
+C: 4
+R: 21
+Total messages: 70
+Average rating: 7.08/10
+
+FILE: aiohttp\client_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 3
+Total messages: 4
+Average rating: 9.51/10
+
+FILE: aiohttp\client_middleware_digest_auth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 6
+Total messages: 8
+Average rating: 9.16/10
+
+FILE: aiohttp\client_middlewares.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\client_proto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 3
+Total messages: 5
+Average rating: 9.36/10
+
+FILE: aiohttp\client_reqrep.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 4
+R: 11
+Total messages: 25
+Average rating: 9.19/10
+
+FILE: aiohttp\client_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 7
+Total messages: 14
+Average rating: 8.92/10
+
+FILE: aiohttp\compression_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 4
+Total messages: 5
+Average rating: 9.43/10
+
+FILE: aiohttp\connector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 7
+C: 3
+R: 18
+Total messages: 30
+Average rating: 9.09/10
+
+FILE: aiohttp\cookiejar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 6
+Total messages: 10
+Average rating: 9.39/10
+
+FILE: aiohttp\formdata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.55/10
+
+FILE: aiohttp\hdrs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 4
+R: 5
+Total messages: 17
+Average rating: 9.30/10
+
+FILE: aiohttp\http.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\http_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\http_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 20
+Total messages: 29
+Average rating: 8.91/10
+
+FILE: aiohttp\http_websocket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\http_writer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 4
+Total messages: 7
+Average rating: 9.21/10
+
+FILE: aiohttp\log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\multipart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 1
+R: 15
+Total messages: 28
+Average rating: 9.00/10
+
+FILE: aiohttp\payload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 4
+R: 2
+Total messages: 16
+Average rating: 8.93/10
+
+FILE: aiohttp\pytest_plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 2
+R: 5
+Total messages: 21
+Average rating: 6.84/10
+
+FILE: aiohttp\resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.61/10
+
+FILE: aiohttp\streams.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 2
+Total messages: 7
+Average rating: 9.53/10
+
+FILE: aiohttp\tcp_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: aiohttp\test_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 24
+C: 0
+R: 6
+Total messages: 33
+Average rating: 6.93/10
+
+FILE: aiohttp\tracing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 1
+Total messages: 4
+Average rating: 9.47/10
+
+FILE: aiohttp\typedefs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: aiohttp\web.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 5
+Total messages: 7
+Average rating: 8.81/10
+
+FILE: aiohttp\web_app.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 5
+Total messages: 15
+Average rating: 8.42/10
+
+FILE: aiohttp\web_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.71/10
+
+FILE: aiohttp\web_fileresponse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 7
+Total messages: 9
+Average rating: 8.84/10
+
+FILE: aiohttp\web_log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 1
+R: 3
+Total messages: 28
+Average rating: 1.86/10
+
+FILE: aiohttp\web_middlewares.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.50/10
+
+FILE: aiohttp\web_protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 3
+R: 7
+Total messages: 22
+Average rating: 8.68/10
+
+FILE: aiohttp\web_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 10
+Total messages: 19
+Average rating: 8.90/10
+
+FILE: aiohttp\web_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 2
+R: 13
+Total messages: 19
+Average rating: 9.08/10
+
+FILE: aiohttp\web_routedef.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.81/10
+
+FILE: aiohttp\web_runner.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 0
+R: 3
+Total messages: 9
+Average rating: 8.82/10
+
+FILE: aiohttp\web_server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.64/10
+
+FILE: aiohttp\web_urldispatcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 8
+Total messages: 22
+Average rating: 9.19/10
+
+FILE: aiohttp\web_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 7
+Total messages: 19
+Average rating: 8.87/10
+
+FILE: aiohttp\worker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 11
+C: 1
+R: 1
+Total messages: 23
+Average rating: 3.58/10
+
+FILE: docs\code\client_middleware_cookbook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.31/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.96/10
+
+FILE: examples\background_tasks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\basic_auth_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\cli_app.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\client_auth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\client_json.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\client_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.30/10
+
+FILE: examples\combined_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.57/10
+
+FILE: examples\curl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\digest_auth_qop_auth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\fake_server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.55/10
+
+FILE: examples\logging_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\lowlevel_srv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.00/10
+
+FILE: examples\retry_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.76/10
+
+FILE: examples\server_simple.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\static_files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\token_refresh_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: examples\web_classview.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: examples\web_cookies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.39/10
+
+FILE: examples\web_rewrite_headers_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.47/10
+
+FILE: examples\web_srv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.38/10
+
+FILE: examples\web_srv_route_deco.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.24/10
+
+FILE: examples\web_srv_route_table.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.18/10
+
+FILE: examples\web_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: requirements\sync-direct-runtime-deps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.00/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\autobahn\client\client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\autobahn\server\server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.75/10
+
+FILE: tests\autobahn\test_autobahn.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.54/10
+
+FILE: tests\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 0
+R: 1
+Total messages: 20
+Average rating: 7.28/10
+
+FILE: tests\isolated\check_for_client_response_leak.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\isolated\check_for_request_leak.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_base_protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 37
+C: 0
+R: 0
+Total messages: 37
+Average rating: 4.39/10
+
+FILE: tests\test_benchmarks_client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 33
+C: 0
+R: 0
+Total messages: 33
+Average rating: 6.93/10
+
+FILE: tests\test_benchmarks_client_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 0
+Total messages: 14
+Average rating: 4.40/10
+
+FILE: tests\test_benchmarks_client_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_benchmarks_cookiejar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_benchmarks_http_websocket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 0
+Total messages: 12
+Average rating: 4.55/10
+
+FILE: tests\test_benchmarks_http_writer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_benchmarks_web_fileresponse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.50/10
+
+FILE: tests\test_benchmarks_web_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.70/10
+
+FILE: tests\test_benchmarks_web_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_benchmarks_web_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_benchmarks_web_urldispatcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 3
+R: 2
+Total messages: 25
+Average rating: 7.81/10
+
+FILE: tests\test_circular_imports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_classbasedview.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_client_connection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 47
+C: 2
+R: 0
+Total messages: 49
+Average rating: 0.00/10
+
+FILE: tests\test_client_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_client_fingerprint.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_client_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 233
+C: 4
+R: 5
+Total messages: 247
+Average rating: 7.86/10
+
+FILE: tests\test_client_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 1
+R: 4
+Total messages: 18
+Average rating: 9.26/10
+
+FILE: tests\test_client_middleware_digest_auth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 83
+C: 6
+R: 6
+Total messages: 95
+Average rating: 4.91/10
+
+FILE: tests\test_client_proto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 0
+R: 0
+Total messages: 23
+Average rating: 6.53/10
+
+FILE: tests\test_client_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 242
+C: 4
+R: 1
+Total messages: 247
+Average rating: 2.99/10
+
+FILE: tests\test_client_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 145
+C: 1
+R: 1
+Total messages: 147
+Average rating: 2.95/10
+
+FILE: tests\test_client_session.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 232
+C: 6
+R: 17
+Total messages: 255
+Average rating: 0.00/10
+
+FILE: tests\test_client_ws.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 1
+R: 0
+Total messages: 26
+Average rating: 8.57/10
+
+FILE: tests\test_client_ws_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 2
+R: 0
+Total messages: 23
+Average rating: 9.41/10
+
+FILE: tests\test_compression_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.78/10
+
+FILE: tests\test_connector.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 536
+C: 5
+R: 5
+Total messages: 547
+Average rating: 3.52/10
+
+FILE: tests\test_cookie_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 6
+R: 0
+Total messages: 22
+Average rating: 9.27/10
+
+FILE: tests\test_cookiejar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 64
+C: 2
+R: 1
+Total messages: 67
+Average rating: 7.35/10
+
+FILE: tests\test_flowcontrol_streams.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 48
+C: 1
+R: 0
+Total messages: 49
+Average rating: 0.00/10
+
+FILE: tests\test_formdata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 0
+R: 0
+Total messages: 22
+Average rating: 6.31/10
+
+FILE: tests\test_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 2
+R: 9
+Total messages: 24
+Average rating: 8.91/10
+
+FILE: tests\test_http_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_http_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 405
+C: 8
+R: 1
+Total messages: 414
+Average rating: 1.21/10
+
+FILE: tests\test_http_writer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 230
+C: 15
+R: 0
+Total messages: 245
+Average rating: 1.03/10
+
+FILE: tests\test_imports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.43/10
+
+FILE: tests\test_multipart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 192
+C: 1
+R: 3
+Total messages: 196
+Average rating: 4.44/10
+
+FILE: tests\test_multipart_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.95/10
+
+FILE: tests\test_payload.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 2
+R: 3
+Total messages: 32
+Average rating: 8.86/10
+
+FILE: tests\test_proxy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 49
+C: 1
+R: 0
+Total messages: 50
+Average rating: 5.19/10
+
+FILE: tests\test_proxy_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 81
+C: 2
+R: 3
+Total messages: 86
+Average rating: 4.95/10
+
+FILE: tests\test_pytest_plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.72/10
+
+FILE: tests\test_resolver.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 62
+C: 0
+R: 0
+Total messages: 68
+Average rating: 3.12/10
+
+FILE: tests\test_route_def.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 37
+C: 0
+R: 0
+Total messages: 37
+Average rating: 4.39/10
+
+FILE: tests\test_run_app.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 51
+C: 4
+R: 0
+Total messages: 56
+Average rating: 7.33/10
+
+FILE: tests\test_streams.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 91
+C: 2
+R: 2
+Total messages: 95
+Average rating: 7.54/10
+
+FILE: tests\test_tcp_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: tests\test_test_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 30
+C: 0
+R: 0
+Total messages: 31
+Average rating: 6.25/10
+
+FILE: tests\test_tracing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_urldispatch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 164
+C: 2
+R: 1
+Total messages: 167
+Average rating: 4.38/10
+
+FILE: tests\test_web_app.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 0
+R: 1
+Total messages: 27
+Average rating: 8.22/10
+
+FILE: tests\test_web_cli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.02/10
+
+FILE: tests\test_web_exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.79/10
+
+FILE: tests\test_web_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 78
+C: 1
+R: 1
+Total messages: 81
+Average rating: 8.52/10
+
+FILE: tests\test_web_log.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 36
+C: 1
+R: 0
+Total messages: 37
+Average rating: 5.42/10
+
+FILE: tests\test_web_middleware.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 1
+R: 0
+Total messages: 24
+Average rating: 7.22/10
+
+FILE: tests\test_web_protocol.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 4.07/10
+
+FILE: tests\test_web_request.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 1
+R: 1
+Total messages: 27
+Average rating: 8.85/10
+
+FILE: tests\test_web_request_handler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.80/10
+
+FILE: tests\test_web_response.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 59
+C: 2
+R: 2
+Total messages: 63
+Average rating: 8.10/10
+
+FILE: tests\test_web_runner.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 40
+C: 0
+R: 0
+Total messages: 40
+Average rating: 3.94/10
+
+FILE: tests\test_web_sendfile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 0
+Total messages: 16
+Average rating: 5.83/10
+
+FILE: tests\test_web_sendfile_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 56
+C: 2
+R: 2
+Total messages: 60
+Average rating: 7.49/10
+
+FILE: tests\test_web_server.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 9.59/10
+
+FILE: tests\test_web_urldispatcher.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 16
+C: 1
+R: 4
+Total messages: 22
+Average rating: 8.77/10
+
+FILE: tests\test_web_websocket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 123
+C: 0
+R: 0
+Total messages: 123
+Average rating: 2.71/10
+
+FILE: tests\test_web_websocket_functional.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 0
+Total messages: 17
+Average rating: 9.55/10
+
+FILE: tests\test_websocket_data_queue.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 0
+Total messages: 10
+Average rating: 0.00/10
+
+FILE: tests\test_websocket_handshake.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 0
+R: 0
+Total messages: 27
+Average rating: 4.67/10
+
+FILE: tests\test_websocket_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 170
+C: 12
+R: 3
+Total messages: 185
+Average rating: 0.00/10
+
+FILE: tests\test_websocket_writer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 40
+C: 5
+R: 3
+Total messages: 48
+Average rating: 1.76/10
+
+FILE: tests\test_worker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 37
+C: 0
+R: 0
+Total messages: 37
+Average rating: 4.06/10
+
+FILE: tools\bench-asyncio-write.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 0
+R: 0
+Total messages: 6
+Average rating: 7.37/10
+
+FILE: tools\check_changes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tools\check_sum.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tools\cleanup_changes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: tools\gen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 2
+Total messages: 9
+Average rating: 7.19/10
+
+================================================================================
+Overall average rating: 7.83/10

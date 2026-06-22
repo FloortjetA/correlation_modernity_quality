@@ -1,0 +1,13 @@
+Statistics for: Pillow_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 69
+W: 1094
+C: 144
+R: 404
+
+Total messages: 1711
+Average rating: 9.01/10

@@ -1,0 +1,2965 @@
+Statistics for: Pillow_pylint.txt
+================================================================================
+
+FILE: .github\workflows\system-info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.12/10
+
+FILE: Tests\createfontdatachunk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\helper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 9.43/10
+
+FILE: Tests\oss-fuzz\fuzz_font.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: Tests\oss-fuzz\fuzz_pillow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.24/10
+
+FILE: Tests\oss-fuzz\fuzzers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\oss-fuzz\test_fuzzers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_000_sanity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.83/10
+
+FILE: Tests\test_arro3.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.62/10
+
+FILE: Tests\test_arrow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 11
+W: 5
+C: 0
+R: 0
+Total messages: 16
+Average rating: 2.31/10
+
+FILE: Tests\test_binary.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_bmp_reference.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.04/10
+
+FILE: Tests\test_box_blur.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.59/10
+
+FILE: Tests\test_color_lut.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 9.20/10
+
+FILE: Tests\test_core_resources.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.34/10
+
+FILE: Tests\test_decompression_bomb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_deprecate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_apng.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.94/10
+
+FILE: Tests\test_file_avif.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.78/10
+
+FILE: Tests\test_file_blp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_bmp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.79/10
+
+FILE: Tests\test_file_bufrstub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.27/10
+
+FILE: Tests\test_file_container.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_cur.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: Tests\test_file_dcx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_dds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.78/10
+
+FILE: Tests\test_file_eps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_fits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_fli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: Tests\test_file_fpx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_ftex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_gbr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.29/10
+
+FILE: Tests\test_file_gd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_gif.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 9.77/10
+
+FILE: Tests\test_file_gimpgradient.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_gimppalette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.67/10
+
+FILE: Tests\test_file_gribstub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.27/10
+
+FILE: Tests\test_file_hdf5stub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.82/10
+
+FILE: Tests\test_file_icns.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_ico.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_im.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_imt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_iptc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.56/10
+
+FILE: Tests\test_file_jpeg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 2
+Total messages: 16
+Average rating: 9.31/10
+
+FILE: Tests\test_file_jpeg2k.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 0
+R: 2
+Total messages: 20
+Average rating: 8.18/10
+
+FILE: Tests\test_file_libtiff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 1
+Total messages: 7
+Average rating: 9.76/10
+
+FILE: Tests\test_file_libtiff_small.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_mcidas.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_mic.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_mpeg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_mpo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 9.49/10
+
+FILE: Tests\test_file_msp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_palm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_pcd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_pcx.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_pdf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_pixar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_png.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 1
+Total messages: 12
+Average rating: 9.41/10
+
+FILE: Tests\test_file_ppm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_psd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 9.06/10
+
+FILE: Tests\test_file_qoi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_sgi.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_spider.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_sun.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_tar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.46/10
+
+FILE: Tests\test_file_tga.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_tiff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 3
+R: 1
+Total messages: 11
+Average rating: 9.60/10
+
+FILE: Tests\test_file_tiff_metadata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.71/10
+
+FILE: Tests\test_file_wal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_webp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.59/10
+
+FILE: Tests\test_file_webp_alpha.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_webp_animated.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_webp_lossless.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_webp_metadata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.41/10
+
+FILE: Tests\test_file_wmf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.67/10
+
+FILE: Tests\test_file_xbm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_xpm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_file_xvthumb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_font_bdf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_font_crash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_font_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_font_pcf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.62/10
+
+FILE: Tests\test_font_pcf_charsets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_fontfile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.08/10
+
+FILE: Tests\test_format_hsv.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_format_lab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 4
+R: 1
+Total messages: 17
+Average rating: 9.42/10
+
+FILE: Tests\test_image_access.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 9.29/10
+
+FILE: Tests\test_image_array.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.49/10
+
+FILE: Tests\test_image_convert.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_copy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_crop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_draft.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_entropy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_filter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.62/10
+
+FILE: Tests\test_image_frombytes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_fromqimage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getbands.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getbbox.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getcolors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getdata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getextrema.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getim.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getpalette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_getprojection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_histogram.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_load.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_mode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.23/10
+
+FILE: Tests\test_image_paste.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.82/10
+
+FILE: Tests\test_image_point.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_putalpha.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_putdata.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.26/10
+
+FILE: Tests\test_image_putpalette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_quantize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_reduce.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.52/10
+
+FILE: Tests\test_image_resample.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_resize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 8.28/10
+
+FILE: Tests\test_image_rotate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_split.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_thumbnail.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_tobitmap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_tobytes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_image_transform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 2
+Total messages: 4
+Average rating: 9.42/10
+
+FILE: Tests\test_image_transpose.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagechops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagecms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 6
+C: 1
+R: 0
+Total messages: 11
+Average rating: 8.89/10
+
+FILE: Tests\test_imagecolor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: Tests\test_imagedraw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 1
+Total messages: 6
+Average rating: 9.82/10
+
+FILE: Tests\test_imagedraw2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: Tests\test_imageenhance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagefile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 21
+C: 0
+R: 0
+Total messages: 21
+Average rating: 7.59/10
+
+FILE: Tests\test_imagefont.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 79
+C: 1
+R: 2
+Total messages: 82
+Average rating: 5.84/10
+
+FILE: Tests\test_imagefontctl.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagefontpil.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.27/10
+
+FILE: Tests\test_imagegrab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 0
+C: 0
+R: 4
+Total messages: 9
+Average rating: 6.29/10
+
+FILE: Tests\test_imagemath_lambda_eval.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagemath_unsafe_eval.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagemorph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imageops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 9.53/10
+
+FILE: Tests\test_imageops_usm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 7.83/10
+
+FILE: Tests\test_imagepalette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.76/10
+
+FILE: Tests\test_imagepath.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.88/10
+
+FILE: Tests\test_imageqt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.41/10
+
+FILE: Tests\test_imagesequence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.60/10
+
+FILE: Tests\test_imageshow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 6.38/10
+
+FILE: Tests\test_imagestat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 0
+Total messages: 9
+Average rating: 3.70/10
+
+FILE: Tests\test_imagetext.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 1
+Total messages: 9
+Average rating: 7.95/10
+
+FILE: Tests\test_imagetk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.64/10
+
+FILE: Tests\test_imagewin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_imagewin_pointers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 1
+Total messages: 15
+Average rating: 3.62/10
+
+FILE: Tests\test_lib_image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_lib_pack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.90/10
+
+FILE: Tests\test_locale.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_map.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_mode_i16.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.53/10
+
+FILE: Tests\test_nanoarrow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.70/10
+
+FILE: Tests\test_numpy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 1
+R: 0
+Total messages: 5
+Average rating: 8.58/10
+
+FILE: Tests\test_pdfparser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_pickle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.19/10
+
+FILE: Tests\test_psdraw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_pyarrow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 0
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.53/10
+
+FILE: Tests\test_pyroma.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_qt_image_qapplication.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 0
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.43/10
+
+FILE: Tests\test_qt_image_toqimage.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_sgi_crash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_shell_injection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.33/10
+
+FILE: Tests\test_tiff_crashes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_tiff_ifdrational.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.60/10
+
+FILE: Tests\test_uploader.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: Tests\test_util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.12/10
+
+FILE: Tests\test_webp_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: _custom_build\backend.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.39/10
+
+FILE: checks\32bit_segfault_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_fli_oob.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: checks\check_fli_overflow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_icns_dos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_imaging_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.67/10
+
+FILE: checks\check_j2k_dos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_j2k_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.29/10
+
+FILE: checks\check_j2k_overflow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_jp2_overflow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: checks\check_jpeg_leaks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_large_memory.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_large_memory_numpy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_libtiff_segfault.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_png_dos.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: checks\check_release_notes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 1.67/10
+
+FILE: checks\check_wheel.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.63/10
+
+FILE: conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 0
+Total messages: 5
+Average rating: 7.59/10
+
+FILE: docs\dater.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.89/10
+
+FILE: docs\example\DdsImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 5
+Total messages: 17
+Average rating: 7.64/10
+
+FILE: docs\example\anchors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 5.91/10
+
+FILE: selftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 21
+C: 1
+R: 6
+Total messages: 30
+Average rating: 8.67/10
+
+FILE: src\PIL\AvifImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 5
+Total messages: 7
+Average rating: 9.06/10
+
+FILE: src\PIL\BdfFontFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.42/10
+
+FILE: src\PIL\BlpImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 1
+R: 6
+Total messages: 23
+Average rating: 8.12/10
+
+FILE: src\PIL\BmpImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 8
+Total messages: 14
+Average rating: 8.69/10
+
+FILE: src\PIL\BufrStubImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: src\PIL\ContainerIO.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\CurImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: src\PIL\DcxImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.57/10
+
+FILE: src\PIL\DdsImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 0
+R: 7
+Total messages: 19
+Average rating: 8.97/10
+
+FILE: src\PIL\EpsImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 8
+C: 1
+R: 6
+Total messages: 19
+Average rating: 7.81/10
+
+FILE: src\PIL\ExifTags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.83/10
+
+FILE: src\PIL\FitsImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.89/10
+
+FILE: src\PIL\FliImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 1
+Total messages: 6
+Average rating: 8.33/10
+
+FILE: src\PIL\FontFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.71/10
+
+FILE: src\PIL\FpxImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 6.89/10
+
+FILE: src\PIL\FtexImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.07/10
+
+FILE: src\PIL\GbrImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.40/10
+
+FILE: src\PIL\GdImageFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.18/10
+
+FILE: src\PIL\GifImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 32
+C: 4
+R: 18
+Total messages: 55
+Average rating: 7.89/10
+
+FILE: src\PIL\GimpGradientFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 1
+C: 0
+R: 3
+Total messages: 6
+Average rating: 7.43/10
+
+FILE: src\PIL\GimpPaletteFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\GribStubImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: src\PIL\Hdf5StubImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: src\PIL\IcnsImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 26
+C: 0
+R: 2
+Total messages: 28
+Average rating: 6.39/10
+
+FILE: src\PIL\IcoImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 3
+Total messages: 15
+Average rating: 7.80/10
+
+FILE: src\PIL\ImImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 3
+Total messages: 14
+Average rating: 7.90/10
+
+FILE: src\PIL\Image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 100
+C: 35
+R: 39
+Total messages: 177
+Average rating: 7.56/10
+
+FILE: src\PIL\ImageChops.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 0
+R: 0
+Total messages: 19
+Average rating: 2.69/10
+
+FILE: src\PIL\ImageCms.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 8
+R: 9
+Total messages: 19
+Average rating: 8.89/10
+
+FILE: src\PIL\ImageColor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 2
+Total messages: 5
+Average rating: 8.94/10
+
+FILE: src\PIL\ImageDraw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 4
+R: 31
+Total messages: 46
+Average rating: 7.64/10
+
+FILE: src\PIL\ImageDraw2.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.27/10
+
+FILE: src\PIL\ImageEnhance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 19
+C: 2
+R: 15
+Total messages: 41
+Average rating: 7.61/10
+
+FILE: src\PIL\ImageFilter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 2
+Total messages: 8
+Average rating: 9.29/10
+
+FILE: src\PIL\ImageFont.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 1
+R: 16
+Total messages: 37
+Average rating: 6.61/10
+
+FILE: src\PIL\ImageGrab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 11
+Total messages: 18
+Average rating: 7.60/10
+
+FILE: src\PIL\ImageMath.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.76/10
+
+FILE: src\PIL\ImageMode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageMorph.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 8.17/10
+
+FILE: src\PIL\ImageOps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 10
+Total messages: 14
+Average rating: 8.97/10
+
+FILE: src\PIL\ImagePalette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 1
+Total messages: 3
+Average rating: 9.62/10
+
+FILE: src\PIL\ImagePath.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageQt.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.49/10
+
+FILE: src\PIL\ImageSequence.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageShow.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 7
+Total messages: 11
+Average rating: 8.48/10
+
+FILE: src\PIL\ImageStat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageText.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 11
+Total messages: 13
+Average rating: 8.81/10
+
+FILE: src\PIL\ImageTk.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 1
+Total messages: 5
+Average rating: 8.88/10
+
+FILE: src\PIL\ImageTransform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\ImageWin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 6
+Total messages: 6
+Average rating: 8.72/10
+
+FILE: src\PIL\ImtImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.48/10
+
+FILE: src\PIL\IptcImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 1
+R: 3
+Total messages: 11
+Average rating: 7.66/10
+
+FILE: src\PIL\Jpeg2KImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 0
+R: 10
+Total messages: 22
+Average rating: 8.04/10
+
+FILE: src\PIL\JpegImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 28
+C: 3
+R: 9
+Total messages: 40
+Average rating: 7.74/10
+
+FILE: src\PIL\JpegPresets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\McIdasImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.03/10
+
+FILE: src\PIL\MicImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.64/10
+
+FILE: src\PIL\MpegImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\MpoImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 2
+Total messages: 17
+Average rating: 5.62/10
+
+FILE: src\PIL\MspImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.28/10
+
+FILE: src\PIL\PSDraw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 7.97/10
+
+FILE: src\PIL\PaletteFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\PalmImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 7.69/10
+
+FILE: src\PIL\PcdImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: src\PIL\PcfFontFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 0
+R: 3
+Total messages: 20
+Average rating: 5.71/10
+
+FILE: src\PIL\PcxImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.71/10
+
+FILE: src\PIL\PdfImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 8
+Total messages: 12
+Average rating: 7.96/10
+
+FILE: src\PIL\PdfParser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 16
+Total messages: 25
+Average rating: 9.19/10
+
+FILE: src\PIL\PixarImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: src\PIL\PngImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 88
+C: 2
+R: 21
+Total messages: 112
+Average rating: 6.68/10
+
+FILE: src\PIL\PpmImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 4
+Total messages: 9
+Average rating: 9.03/10
+
+FILE: src\PIL\PsdImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 5
+Total messages: 18
+Average rating: 7.60/10
+
+FILE: src\PIL\QoiImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 8.79/10
+
+FILE: src\PIL\SgiImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 1
+Total messages: 6
+Average rating: 8.45/10
+
+FILE: src\PIL\SpiderImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 2
+R: 3
+Total messages: 18
+Average rating: 7.67/10
+
+FILE: src\PIL\SunImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 8.25/10
+
+FILE: src\PIL\TarIO.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 1
+Total messages: 5
+Average rating: 3.60/10
+
+FILE: src\PIL\TgaImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 4
+Total messages: 11
+Average rating: 7.66/10
+
+FILE: src\PIL\TiffImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 69
+C: 5
+R: 19
+Total messages: 93
+Average rating: 7.96/10
+
+FILE: src\PIL\TiffTags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.68/10
+
+FILE: src\PIL\WalImageFile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.93/10
+
+FILE: src\PIL\WebPImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 4
+Total messages: 10
+Average rating: 8.58/10
+
+FILE: src\PIL\WmfImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.24/10
+
+FILE: src\PIL\XVThumbImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.09/10
+
+FILE: src\PIL\XbmImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.00/10
+
+FILE: src\PIL\XpmImagePlugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.07/10
+
+FILE: src\PIL\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.71/10
+
+FILE: src\PIL\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\_binary.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\_deprecate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 8.80/10
+
+FILE: src\PIL\_tkinter_finder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\_util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\_version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: src\PIL\features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 4
+Total messages: 11
+Average rating: 8.21/10
+
+FILE: src\PIL\report.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: winbuild\build_prepare.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 20
+R: 4
+Total messages: 29
+Average rating: 8.20/10
+
+================================================================================
+Overall average rating: 9.01/10

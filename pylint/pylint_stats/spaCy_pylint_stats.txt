@@ -1,0 +1,13 @@
+Statistics for: spaCy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 24
+W: 1556
+C: 991
+R: 637
+
+Total messages: 3209
+Average rating: 8.61/10

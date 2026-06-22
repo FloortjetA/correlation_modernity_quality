@@ -1,0 +1,524 @@
+Feature statistics for repository: pandas
+================================================================================
+
+FILE: pandas\asv_bench\benchmarks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\algorithms.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: pandas\asv_bench\benchmarks\algos\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\algos\isin.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: pandas\asv_bench\benchmarks\arithmetic.py
+--------------------------------------------------------------------------------
+operator.eq (total: 1)
+    2.2, 3.0: 1
+
+operator.floordiv (total: 1)
+    2.2, 3.0: 1
+
+operator.ge (total: 1)
+    2.2, 3.0: 1
+
+operator.gt (total: 1)
+    2.2, 3.0: 1
+
+operator.le (total: 1)
+    2.2, 3.0: 1
+
+operator.lt (total: 1)
+    2.2, 3.0: 1
+
+operator.ne (total: 1)
+    2.2, 3.0: 1
+
+operator.pow (total: 1)
+    2.3, 3.0: 1
+
+operator.truediv (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\array.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\attrs_caching.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\boolean.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\categoricals.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\ctors.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: pandas\asv_bench\benchmarks\dtypes.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: pandas\asv_bench\benchmarks\eval.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\finalize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\frame_ctor.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: pandas\asv_bench\benchmarks\frame_methods.py
+--------------------------------------------------------------------------------
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+next (total: 1)
+    2.6, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\gil.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\groupby.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\hash_functions.py
+--------------------------------------------------------------------------------
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: pandas\asv_bench\benchmarks\index_cached_properties.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\index_object.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: pandas\asv_bench\benchmarks\indexing.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\indexing_engines.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\inference.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\io\csv.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+io (total: 1)
+    2.6, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\excel.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\hdf.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: pandas\asv_bench\benchmarks\io\json.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\parsers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\io\pickle.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\sas.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\sql.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\stata.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\io\style.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\join_merge.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+
+FILE: pandas\asv_bench\benchmarks\libs.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: pandas\asv_bench\benchmarks\multiindex_object.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: pandas\asv_bench\benchmarks\package.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\pandas_vb_common.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: pandas\asv_bench\benchmarks\period.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\plotting.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.ExitStack (total: 1)
+    !2, 3.3: 1
+
+importlib.machinery.ModuleSpec (total: 1)
+    !2, 3.4: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+os.fsdecode (total: 1)
+    !2, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: pandas\asv_bench\benchmarks\reindex.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+
+FILE: pandas\asv_bench\benchmarks\replace.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\reshape.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\rolling.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\series_methods.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\sparse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\stat_ops.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\strftime.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\strings.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\timedelta.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\timeseries.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: pandas\asv_bench\benchmarks\tslibs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\tslibs\fields.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: pandas\asv_bench\benchmarks\tslibs\normalize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: pandas\asv_bench\benchmarks\tslibs\offsets.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+

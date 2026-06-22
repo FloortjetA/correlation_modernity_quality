@@ -1,0 +1,13 @@
+Statistics for: mypy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 109
+W: 2886
+C: 472
+R: 2430
+
+Total messages: 5897
+Average rating: 8.58/10

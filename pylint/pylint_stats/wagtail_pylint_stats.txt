@@ -1,0 +1,13 @@
+Statistics for: wagtail_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 340
+W: 2231
+C: 1561
+R: 937
+
+Total messages: 5069
+Average rating: 8.80/10

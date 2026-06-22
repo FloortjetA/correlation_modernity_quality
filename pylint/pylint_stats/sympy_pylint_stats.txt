@@ -1,0 +1,13 @@
+Statistics for: sympy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 4
+E: 17049
+W: 17921
+C: 12646
+R: 9304
+
+Total messages: 56924
+Average rating: 7.15/10

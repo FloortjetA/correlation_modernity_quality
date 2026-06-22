@@ -1,0 +1,13 @@
+Statistics for: certbot_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 26
+W: 539
+C: 665
+R: 219
+
+Total messages: 1449
+Average rating: 8.97/10

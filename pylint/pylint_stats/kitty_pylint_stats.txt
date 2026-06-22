@@ -1,0 +1,13 @@
+Statistics for: kitty_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 2
+E: 125
+W: 1401
+C: 2995
+R: 891
+
+Total messages: 5414
+Average rating: 7.73/10

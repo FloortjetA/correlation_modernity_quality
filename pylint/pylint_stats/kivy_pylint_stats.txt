@@ -1,0 +1,13 @@
+Statistics for: kivy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 554
+W: 3050
+C: 926
+R: 958
+
+Total messages: 5488
+Average rating: 7.58/10

@@ -1,0 +1,13 @@
+Statistics for: zulip_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 64
+W: 1517
+C: 1014
+R: 1371
+
+Total messages: 3966
+Average rating: 9.09/10

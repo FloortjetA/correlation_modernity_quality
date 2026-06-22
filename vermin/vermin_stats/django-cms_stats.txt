@@ -1,0 +1,3719 @@
+Feature statistics for repository: django-cms
+================================================================================
+
+FILE: django-cms\cms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\admin\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\admin\forms.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 25)
+    !2, 3.0: 25
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\admin\pageadmin.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 15)
+    !2, 3.0: 15
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\admin\permissionadmin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\admin\placeholderadmin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\admin\settingsadmin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\admin\useradmin.py
+--------------------------------------------------------------------------------
+arguments (total: 7)
+    !2, 3.0: 7
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\admin\utils.py
+--------------------------------------------------------------------------------
+arguments (total: 18)
+    !2, 3.0: 18
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\api.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\app_base.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\app_registration.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\apphook_pool.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\appresolver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\cache\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\cache\choices.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\cache\page.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\cache\permissions.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\cache\placeholder.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\cms_config.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\cms_menus.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\cms_toolbars.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\cms_wizards.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\constants.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\context_processors.py
+--------------------------------------------------------------------------------
+decorator (total: 1)
+    !2, 3.9: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+
+FILE: django-cms\cms\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\extensions\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\extensions\admin.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\extensions\extension_pool.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\extensions\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\extensions\toolbar.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\forms\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\forms\fields.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\forms\login.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\forms\utils.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\forms\validators.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: django-cms\cms\forms\widgets.py
+--------------------------------------------------------------------------------
+arguments (total: 9)
+    !2, 3.0: 9
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\forms\wizards.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\management\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\management\commands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\management\commands\cms.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\management\commands\startcmsproject.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.base_prefix (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\management\commands\subcommands\base.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\check.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\management\commands\subcommands\copy.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\delete_orphaned_plugins.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\list.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\tree.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\management\commands\subcommands\uninstall.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\management\djangocms.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\menu_bases.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\middleware\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\middleware\language.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\middleware\page.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\middleware\toolbar.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\middleware\user.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\middleware\utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0001_initial.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0001_initial_squashed_0022_auto_20180620_1551.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0002_auto_20140816_1918.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0003_auto_20140926_2347.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0004_auto_20140924_1038.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0005_auto_20140924_1039.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0006_auto_20140924_1110.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0007_auto_20141028_1559.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0008_auto_20150121_0059.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0008_auto_20150208_2149.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0009_merge.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0010_migrate_use_structure.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0011_auto_20150419_1006.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0012_auto_20150607_2207.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0013_urlconfrevision.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0014_auto_20160404_1908.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0015_auto_20160421_0000.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0016_auto_20160608_1535.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0017_pagetype.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0018_create_pagenode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0019_set_pagenode.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0020_old_tree_cleanup.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0021_auto_20180507_1432.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0022_auto_20180620_1551.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0023_placeholder_source_field.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0024_set_plugin_absolute_position.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0025_remove_plugin_tree_fields.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0026_title_placeholders.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0027_title_placeholders_data_migration.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0028_remove_page_placeholders.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0029_create_title_fields_and_url_model.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0030_auto_20180810_0629.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0031_remove_fields.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0032_remove_title_to_pagecontent.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0033_placeholder_source_data_migration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0034_remove_pagecontent_placeholders.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0035_auto_20230822_2208.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0035_auto_20230822_2208_squashed_0036_auto_20240311_1028.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0036_auto_20240311_1028.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0037_merge_page_treenode.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0038_alter_page_site.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0039_remove_page_languages_alter_pageurl_unique_together.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0040_alter_pageuser_created_by_and_more.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\0041_alter_pageurl_unique_together_pageurl_site_and_more.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: django-cms\cms\migrations\0042_remove_placeholderreference_placeholder_ref_and_more.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\migrations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\models\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\models\aliaspluginmodel.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\models\apphooks_reload.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: django-cms\cms\models\contentmodels.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\models\fields.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\models\managers.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\pagemodel.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\permissionmodels.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\placeholdermodel.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\placeholderpluginmodel.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+
+FILE: django-cms\cms\models\pluginmodel.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.9: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\query.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\models\settingmodels.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\operations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\operations\helpers.py
+--------------------------------------------------------------------------------
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: django-cms\cms\page_rendering.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\plugin_base.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: django-cms\cms\plugin_pool.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decorator (total: 1)
+    !2, 3.8: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+operator.attrgetter (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\plugin_processors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\plugin_rendering.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\signals\__init__.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\signals\apphook.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\signals\log_entries.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\signals\pagecontent.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\signals\permissions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\sitemaps\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\sitemaps\cms_sitemap.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\templates.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\templatetags\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\templatetags\cms_admin.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: django-cms\cms\templatetags\cms_js_tags.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\templatetags\cms_static.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\templatetags\cms_tags.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\fixtures\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\fixtures\fakemlng.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\fixtures\menus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\fixtures\navextenders.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\fixtures\templatetags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_using_non_feature\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_bad_cms_file\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_config\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_cms_feature_and_config\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_feature_not_implemented\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_config_classes\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_with_two_cms_feature_classes\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_app_class\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_file\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_file\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_file\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_file\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\app_without_cms_file\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\backwards_wizards\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\backwards_wizards\cms_wizards.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\backwards_wizards\wizards.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\brokenpluginapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\brokenpluginapp\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\bunch_of_plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\bunch_of_plugins\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\cms_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\custom_templates\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\customuserapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\customuserapp\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\customuserapp\models.py
+--------------------------------------------------------------------------------
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\emailuserapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\emailuserapp\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\emailuserapp\forms.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\emailuserapp\models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\extensionapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\extensionapp\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\extensionapp\cms_toolbars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\extensionapp\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\fakemlng\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\fakemlng\models.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+
+FILE: django-cms\cms\test_utils\project\fourth_cms_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\fourth_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\mti_pluginapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\mti_pluginapp\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\mti_pluginapp\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\nested_plugins_app\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\nested_plugins_app\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\noadmin_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\nonroot_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\objectpermissionsapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\objectpermissionsapp\backends.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\objectpermissionsapp\models.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\placeholder_relation_field_app\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholder_relation_field_app\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholder_relation_field_app\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholder_relation_field_app\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholder_relation_field_app\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\cms_apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\cms_toolbars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\models.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\placeholderapp\views.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\placeholderapp_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\caching\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\caching\cms_plugins.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\caching\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\extra_context\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\link\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\link\cms_plugins.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\link\models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\manytomany_rel\models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\meta\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\meta\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\meta\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\cms_plugins.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\forms.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multicolumn\models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\cms_plugins.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\forms.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\multiwrap\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\no_custom_model\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\one_thing\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\one_thing\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\revdesc\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\style\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\style\cms_plugins.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\style\models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\validation\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\validation\cms_plugins.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\pluginapp\plugins\validation\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\cms_apps.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\test_utils\project\sampleapp\cms_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\cms_menus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\cms_toolbars.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\cms_wizards.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\forms.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\project\sampleapp\models.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+
+FILE: django-cms\cms\test_utils\project\sampleapp\ns_urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_childapp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_example.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_excluded.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_extra.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_parentapp.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\urls_sample_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\sampleapp\views.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\second_cms_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\second_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\template_backends.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\templates\inner_dir\custom_templates\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\templates\inner_dir\custom_templates_2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\third_cms_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\third_urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\urls_2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\urls_3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\urls_for_apphook_tests.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\project\urls_no18n.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\runners.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\testcases.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\tmpdir.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\util\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\util\context_managers.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\util\fuzzy_int.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\util\grouper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\util\menu_extender.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\test_utils\util\mock.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\test_utils\util\static_analysis.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_admin.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_api.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_app_registration.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_apphook_reload_language_variants.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_apphooks.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_cache.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_check.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_cms_config_wizards.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_extensions.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: django-cms\cms\tests\test_fixture_loading.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_forms.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.unescape (total: 1)
+    !2, 3.4: 1
+
+
+FILE: django-cms\cms\tests\test_grouper_admin.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_helpers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_i18n.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_log_entries.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_mail.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_management.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_menu.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_menu_page_viewperm.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_menu_page_viewperm_staff.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_menu_utils.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_migrations.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_multilingual.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_navextender.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_nested_plugins.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_no_i18n.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_nonroot.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_page.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: django-cms\cms\tests\test_page_admin.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipUnless (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: django-cms\cms\tests\test_page_user_admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_page_user_group_admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_permissions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_permmod.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_placeholder.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+format (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_placeholder_admin.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: django-cms\cms\tests\test_placeholder_app_admin.py
+--------------------------------------------------------------------------------
+synonym (total: 4)
+    2.6, 3.0: 4
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_placeholder_checks.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.Mock.assert_not_called (total: 1)
+    !2, 3.5: 1
+
+
+FILE: django-cms\cms\tests\test_placeholder_operation_signals.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_plugin_renderers.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: django-cms\cms\tests\test_plugins.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+io (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_po.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_rendering.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_security.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_settings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_signals.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_site.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_sitemap.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: django-cms\cms\tests\test_static_analysis.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_templates.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib.machinery.SourceFileLoader (total: 1)
+    !2, 3.3: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_templatetags.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_toolbar.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 28)
+    !2, 3.6: 28
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_toolbar_enabled_models.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\tests\test_toolbar_pool.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_urlutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_views.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\tests\test_widgets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\tests\test_wizards.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: django-cms\cms\toolbar\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\toolbar\items.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\toolbar\toolbar.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\toolbar\utils.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: django-cms\cms\toolbar_base.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\toolbar_pool.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\urls.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\utils\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\utils\admin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\utils\apphook_reload.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: django-cms\cms\utils\check.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\utils\compat\__init__.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\utils\compat\dj.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: django-cms\cms\utils\compat\forms.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: django-cms\cms\utils\compat\response.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\utils\compat\warnings.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\utils\conf.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib.machinery.SourceFileLoader (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\utils\decorators.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\utils\encoder.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\utils\helpers.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\cms\utils\i18n.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\utils\mail.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\utils\page.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\utils\page_permissions.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\utils\permissions.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextvars (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\utils\placeholder.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cache (total: 1)
+    !2, 3.9: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\utils\plugins.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\cms\utils\request_ip_resolvers.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: django-cms\cms\utils\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\utils\urlutils.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\views.py
+--------------------------------------------------------------------------------
+cause (total: 4)
+    !2, 3.0: 4
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\cms\wizards\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\wizards\forms.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\wizards\helpers.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\cms\wizards\urls.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\cms\wizards\views.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\cms\wizards\wizard_base.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: django-cms\cms\wizards\wizard_pool.py
+--------------------------------------------------------------------------------
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\docs\_ext\djangocms.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\docs\conf.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: django-cms\docs\django_settings.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: django-cms\manage.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: django-cms\menus\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\apps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\base.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: django-cms\menus\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\menu_pool.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: django-cms\menus\migrations\0001_initial.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\migrations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\models.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\modifiers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\templatetags\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\menus\templatetags\menu_tags.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: django-cms\menus\utils.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: django-cms\setup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: django-cms\testserver.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+

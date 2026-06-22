@@ -1,0 +1,8218 @@
+Feature statistics for repository: electrum
+================================================================================
+
+FILE: electrum\contrib\add_cosigner
+--------------------------------------------------------------------------------
+f-strings (total: 19)
+    !2, 3.6: 19
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: electrum\contrib\android\apkdiff.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+zipfile.ZipFile.open (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\contrib\android\get_apk_versioncode.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\contrib\android\p4a_recipes\cffi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\cryptography\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\hostpython3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\libffi\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\libiconv\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\libsecp256k1\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\libzbar\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\openssl\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\packaging\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\ply\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\plyer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pycparser\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pycryptodomex\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pyjnius\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pyparsing\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pyqt6\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pyqt6sip\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\pyqt_builder\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\python3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\qt6\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\setuptools\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\sip\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\six\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\sqlite3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\toml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\tomli\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\android\p4a_recipes\util.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\contrib\ban_unicode.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: electrum\contrib\ci\claude_security_review.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\contrib\deterministic-build\find_restricted_dependencies.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\contrib\locale\push_locale.py
+--------------------------------------------------------------------------------
+f-strings (total: 19)
+    !2, 3.6: 19
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: electrum\contrib\locale\stats.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\contrib\make_download
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\contrib\make_plugin
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+zipimport (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: electrum\contrib\print_electrum_version.py
+--------------------------------------------------------------------------------
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\contrib\sign_packages
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: electrum\electrum\__init__.py
+--------------------------------------------------------------------------------
+os.add_dll_directory (total: 1)
+    !2, 3.8: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\_vendor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\_vendor\distutils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\_vendor\distutils\version.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: electrum\electrum\_vendor\pyperclip\__init__.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.get_errno (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+shutil.which (total: 1)
+    !2, 3.3: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\electrum\address_synchronizer.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\base_crash_reporter.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: electrum\electrum\bip21.py
+--------------------------------------------------------------------------------
+cause (total: 5)
+    !2, 3.0: 5
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\bip32.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\bip39_recovery.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\bitcoin.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+int.bit_length (total: 1)
+    2.7, 3.1: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\blockchain.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+os.replace (total: 1)
+    !2, 3.3: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\channel_db.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 11)
+    2.6, 3.0: 11
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\coinchooser.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\commands.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 45)
+    !2, 3.6: 45
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+inspect.signature (total: 1)
+    !2, 3.3: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.finditer (total: 1)
+    2.2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.OPENSSL_VERSION (total: 1)
+    2.7, 3.2: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\constants.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\contacts.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\crypto.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+hmac.digest (total: 1)
+    !2, 3.7: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\daemon.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\descriptor.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 7)
+    !2, 3.0: 7
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: electrum\electrum\dns_hacks.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+socket.getaddrinfo (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\dnssec.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\exchange_rate.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 22)
+    !2, 3.6: 22
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\fee_policy.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\common_qt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\common_qt\i18n.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\common_qt\plugins.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\common_qt\util.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\default_lang.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\messages.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qml\__init__.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\auth.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeaddressdetails.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeaddresslistmodel.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.casefold (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qeapp.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.excepthook (total: 1)
+    !2, 3.8: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qebiometrics.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qebip39recovery.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qebitcoin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qechanneldetails.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qechannellistmodel.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qechannelopener.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qeconfig.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qedaemon.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+os.scandir (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qefx.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeinvoice.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeinvoicelistmodel.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qelnpaymentdetails.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qemodelfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qenetwork.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qepiresolver.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qeqr.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeqrscanner.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qerequestdetails.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeserverlistmodel.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qeswaphelper.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bisect (total: 1)
+    2.1, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qetransactionlistmodel.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qetxdetails.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qetxfinalizer.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qetypes.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qml\qewallet.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\qewizard.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qml\util.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\__init__.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\address_dialog.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\address_list.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\amountedit.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\balance_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\bip39_recovery_dialog.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\channel_details.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\channels_list.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\completion_text_edit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qt\confirm_tx_dialog.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\console.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+traceback.StackSummary (total: 1)
+    !2, 3.5: 1
+
+traceback.TracebackException (total: 1)
+    !2, 3.5: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\contact_list.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\custom_model.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qt\exception_window.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\fee_slider.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\history_list.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\invoice_list.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\lightning_dialog.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\lightning_tx_dialog.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\locktimeedit.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\main_window.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\my_treeview.py
+--------------------------------------------------------------------------------
+arguments (total: 13)
+    !2, 3.0: 13
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\network_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\new_channel_dialog.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\password_dialog.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\paytoedit.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\plugins_dialog.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrcodewidget.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\__init__.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\camera_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\crop_blur_effect.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\validator.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\video_overlay.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\video_surface.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrreader\qtmultimedia\video_widget.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\qrtextedit.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\qrwindow.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qt\rate_limiter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\rbf_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\rebalance_dialog.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\receive_tab.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\request_list.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\seed_dialog.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\send_tab.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\gui\qt\settings_dialog.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\stylesheet_patcher.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qt\swap_dialog.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\transaction_dialog.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\update_checker.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\util.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\utxo_dialog.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\utxo_list.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\wallet_info_dialog.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\wizard\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\gui\qt\wizard\server_connect.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\wizard\terms_of_use.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\wizard\wallet.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+os.path.commonpath (total: 1)
+    !2, 3.5: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.Thread.is_alive (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\qt\wizard\wizard.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\stdio.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\gui\text.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\harden_memory_linux.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.get_errno (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\hw_wallet\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\hw_wallet\cmdline.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\electrum\hw_wallet\plugin.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\hw_wallet\qt.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\hw_wallet\trezor_qt_pinmatrix.py
+--------------------------------------------------------------------------------
+math.factorial (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\i18n.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+string.Formatter (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\interface.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 10)
+    !2, 3.0: 10
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 98)
+    !2, 3.6: 98
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLCertVerificationError (total: 1)
+    !2, 3.7: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.SSLContext.check_hostname (total: 1)
+    !2, 3.4: 1
+
+ssl.VERIFY_X509_STRICT (total: 1)
+    2.7, 3.4: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\invoices.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\json_db.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+json (total: 1)
+    2.6, 3.0: 1
+
+list.clear (total: 1)
+    !2, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\keystore.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: electrum\electrum\lnaddr.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnchannel.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+f-strings (total: 34)
+    !2, 3.6: 34
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnhtlc.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnmsg.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 41)
+    !2, 3.6: 41
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_END (total: 1)
+    2.7, 3.1: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnonion.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+io.SEEK_CUR (total: 1)
+    2.7, 3.1: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 23)
+    2.6, 3.0: 23
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnpeer.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytes.hex (total: 1)
+    !2, 3.5: 1
+
+cause (total: 4)
+    !2, 3.0: 4
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 149)
+    !2, 3.6: 149
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Coroutine (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnrater.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+random.choices (total: 1)
+    !2, 3.6: 1
+
+statistics (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnrouter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnsweep.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lntransport.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 18)
+    2.6, 3.0: 18
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnurl.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+cause (total: 10)
+    !2, 3.0: 10
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\lnutil.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bin (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.Flag (total: 1)
+    !2, 3.6: 1
+
+enum.IntFlag (total: 1)
+    !2, 3.6: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 30)
+    !2, 3.6: 30
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+int.bit_length (total: 1)
+    2.7, 3.1: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnverifier.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnwatcher.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lnworker.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 109)
+    !2, 3.6: 109
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.AsyncGenerator (total: 1)
+    !2, 3.6: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\logging.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.partition (total: 1)
+    2.5, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\lrucache.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\mnemonic.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: electrum\electrum\mpp_split.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\network.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 31)
+    !2, 3.6: 31
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+statistics (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\old_mnemonic.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\onion_message.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\payment_identifier.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\pem.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\electrum\plot.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\plugin.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 66)
+    !2, 3.6: 66
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+importlib.util.find_spec (total: 1)
+    !2, 3.4: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_uid (total: 1)
+    2.2, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+threading.main_thread (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+winreg (total: 1)
+    !2, 3.0: 1
+
+zipimport (total: 1)
+    2.3, 3.0: 1
+
+zipimport.zipimporter (total: 1)
+    2.7, 3.0: 1
+
+zipimport.zipimporter.find_spec (total: 1)
+    !2, 3.10: 1
+
+
+FILE: electrum\electrum\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\audio_modem\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\audio_modem\qt.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\bitbox02\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\bitbox02\bitbox02.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\bitbox02\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\coldcard\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\coldcard\cmdline.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: electrum\electrum\plugins\coldcard\coldcard.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 2)
+    !2, 3.3: 2
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\coldcard\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+assignment (total: 2)
+    !2, 3.0: 2
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+struct.unpack_from (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\digitalbitbox\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\digitalbitbox\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\digitalbitbox\digitalbitbox.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+hmac.compare_digest (total: 1)
+    2.7, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 12)
+    2.6, 3.0: 12
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\digitalbitbox\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\jade\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\jade\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\jade\jade.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\jade\jadepy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\jade\jadepy\jade.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\jade\jadepy\jade_error.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\jade\jadepy\jade_serial.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\jade\jadepy\jade_tcp.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\jade\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\keepkey\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\keepkey\client.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\keepkey\clientbase.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\keepkey\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\keepkey\keepkey.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\keepkey\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\labels\__init__.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\labels\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\labels\labels.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\labels\qml.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\labels\qt.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\ledger\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\ledger\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\ledger\ledger.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\ledger\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\nwc\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\nwc\cmdline.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\nwc\nwcserver.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 43)
+    !2, 3.6: 43
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\nwc\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\psbt_nostr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\psbt_nostr\psbt_nostr.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+json (total: 1)
+    2.6, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\psbt_nostr\qml.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\psbt_nostr\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\revealer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\revealer\hmac_drbg.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: electrum\electrum\plugins\revealer\qt.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\revealer\revealer.py
+--------------------------------------------------------------------------------
+bin (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\safe_t\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\safe_t\client.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\safe_t\clientbase.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\safe_t\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\safe_t\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\safe_t\safe_t.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\safe_t\transport.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: electrum\electrum\plugins\swapserver\__init__.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\swapserver\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\swapserver\server.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\swapserver\swapserver.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\timelock_recovery\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\timelock_recovery\qt.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 26)
+    !2, 3.6: 26
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\timelock_recovery\timelock_recovery.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trezor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\trezor\clientbase.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: electrum\electrum\plugins\trezor\cmdline.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\trezor\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trezor\trezor.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+object (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trustedcoin\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\trustedcoin\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\trustedcoin\common_qt.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trustedcoin\qml.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trustedcoin\qt.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\trustedcoin\trustedcoin.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: electrum\electrum\plugins\watchtower\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\watchtower\cmdline.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\plugins\watchtower\server.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\plugins\watchtower\watchtower.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\qrreader\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\qrreader\abstract_base.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\qrreader\zbar.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\qrscanner.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\ripemd.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\bip39_recovery.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\block_headers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\scripts\bruteforce_pw.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\scripts\estimate_fee.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+statistics (total: 1)
+    !2, 3.4: 1
+
+
+FILE: electrum\electrum\scripts\get_history.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\ln_features.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\scripts\peers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\quick_start.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\servers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\txbroadcast.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\txradar.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\electrum\scripts\update_default_servers.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\scripts\watch_address.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: electrum\electrum\segwit_addr.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\simple_config.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+None (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\slip39.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\sql_db.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\electrum\storage.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hashlib.pbkdf2_hmac (total: 1)
+    2.7, 3.4: 1
+
+os.SEEK_END (total: 1)
+    2.5, 3.0: 1
+
+os.replace (total: 1)
+    !2, 3.3: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\submarine_swaps.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 5)
+    !2, 3.0: 5
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 70)
+    !2, 3.6: 70
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\synchronizer.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\trampoline.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\transaction.py
+--------------------------------------------------------------------------------
+None (total: 2)
+    !2, 3.3: 2
+
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 8)
+    !2, 3.0: 8
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+bytes.hex (total: 1)
+    !2, 3.5: 1
+
+cause (total: 5)
+    !2, 3.0: 5
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 94)
+    !2, 3.6: 94
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+slices (total: 1)
+    !2, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+struct.unpack_from (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 37)
+    2.6, 3.0: 37
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\txbatcher.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 25)
+    !2, 3.6: 25
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\util.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+FileExistsError (total: 1)
+    !2, 3.3: 1
+
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 5)
+    !2, 3.3: 5
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 12)
+    !2, 3.0: 12
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.all_tasks (total: 1)
+    !2, 3.7: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bin (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.nullcontext (total: 1)
+    !2, 3.7: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 39)
+    !2, 3.6: 39
+
+frozenset (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+hmac.compare_digest (total: 1)
+    2.7, 3.3: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+os.path.commonpath (total: 1)
+    !2, 3.5: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.SSLContext (total: 1)
+    2.7, 3.2: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+time.monotonic (total: 1)
+    !2, 3.3: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Awaitable (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.WeakMethod (total: 1)
+    !2, 3.4: 1
+
+
+FILE: electrum\electrum\utils\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\electrum\utils\memory_leak.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+gc.get_objects (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\electrum\utils\stacktracer.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sys._current_frames (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\verifier.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\version.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: electrum\electrum\wallet.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+cause (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.auto (total: 1)
+    !2, 3.6: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 37)
+    !2, 3.6: 37
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\wallet_db.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: electrum\electrum\wizard.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 25)
+    !2, 3.6: 25
+
+set (total: 1)
+    2.4, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\electrum\x509.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: electrum\run_electrum
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+os.add_dll_directory (total: 1)
+    !2, 3.8: 1
+
+os.devnull (total: 1)
+    2.4, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\setup.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: electrum\tests\__init__.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.IsolatedAsyncioTestCase (total: 1)
+    !2, 3.8: 1
+
+
+FILE: electrum\tests\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\tests\plugins\test_revealer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\tests\plugins\test_timelock_recovery.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\qml\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\tests\qml\qt_util.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.SkipTest (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: electrum\tests\qml\test_qml_qeconfig.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\qml\test_qml_qetransactionlistmodel.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\qml\test_qml_types.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: electrum\tests\regtest.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_bitcoin.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 32)
+    2.6, 3.0: 32
+
+
+FILE: electrum\tests\test_blockchain.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_bolt11.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_callbackmgr.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_coinchooser.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_commands.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_contacts.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_daemon.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_descriptor.py
+--------------------------------------------------------------------------------
+f-strings (total: 13)
+    !2, 3.6: 13
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_fee_policy.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_i18n.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\tests\test_interface.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_invoices.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_jsondb.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_lnchannel.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 8)
+    2.6, 3.0: 8
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: electrum\tests\test_lnhtlc.py
+--------------------------------------------------------------------------------
+synonym (total: 9)
+    2.6, 3.0: 9
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_lnmsg.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+
+FILE: electrum\tests\test_lnpeer.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+concurrent.futures (total: 1)
+    !2, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+statistics (total: 1)
+    !2, 3.4: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_lnpeermgr.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_lnrouter.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+format (total: 1)
+    2.6, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 23)
+    2.6, 3.0: 23
+
+types.MappingProxyType (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_lntransport.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+synonym (total: 15)
+    2.6, 3.0: 15
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_lnurl.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_lnutil.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+int.to_bytes (total: 1)
+    !2, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+
+FILE: electrum\tests\test_lnwallet.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_mnemonic.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_mpp_split.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 26)
+    2.6, 3.0: 26
+
+
+FILE: electrum\tests\test_network.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: electrum\tests\test_onion_message.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+int.from_bytes (total: 1)
+    !2, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 7)
+    2.6, 3.0: 7
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_payment_identifier.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 29)
+    !2, 3.6: 29
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_psbt.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: electrum\tests\test_simple_config.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_storage_upgrade.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_transaction.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: electrum\tests\test_txbatcher.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_util.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 10)
+    2.6, 3.0: 10
+
+
+FILE: electrum\tests\test_verifier.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: electrum\tests\test_wallet.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.tzset (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_wallet_vertical.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 11)
+    !2, 3.0: 11
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: electrum\tests\test_wizard.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: electrum\tests\test_x509.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+

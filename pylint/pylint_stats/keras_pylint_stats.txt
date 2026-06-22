@@ -1,0 +1,13 @@
+Statistics for: keras_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 293
+W: 6330
+C: 4039
+R: 3182
+
+Total messages: 13844
+Average rating: 6.58/10

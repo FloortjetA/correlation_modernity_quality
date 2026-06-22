@@ -1,0 +1,396 @@
+Detecting python files..
+Analyzing 1549 files using 20 processes..
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\algorithms.py
+  L1 C5: 'importlib' module requires 2.7, 3.1
+  L48: f-strings require !2, 3.6
+  L51: f-strings require !2, 3.6
+  L92: f-strings require !2, 3.6
+  L140: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\algos\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\algos\isin.py
+  L54: f-strings require !2, 3.6
+  L62: f-strings require !2, 3.6
+  L66: exception cause requires !2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\arithmetic.py
+  L2 C7: 'warnings' module requires 2.1, 3.0
+  L36: 'operator.truediv' member requires 2.2, 3.0
+  L38: 'operator.pow' member requires 2.3, 3.0
+  L40: 'operator.eq' member requires 2.2, 3.0
+  L41: 'operator.ne' member requires 2.2, 3.0
+  L43: 'operator.ge' member requires 2.2, 3.0
+  L44: 'operator.lt' member requires 2.2, 3.0
+  L45: 'operator.le' member requires 2.2, 3.0
+  L121: 'operator.gt' member requires 2.2, 3.0
+  L139: 'operator.floordiv' member requires 2.2, 3.0
+  L433: `with` requires 2.5, 3.0
+  L437: `with` requires 2.5, 3.0
+  L437: 'warnings.catch_warnings' member requires 2.6, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\array.py
+  L80: exception cause requires !2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\attrs_caching.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\boolean.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\categoricals.py
+  L3 C7: 'warnings' module requires 2.1, 3.0
+  L32: generalized unpacking requires !2, 3.5
+  L86: dict comprehensions require 2.7, 3.0
+  L91: f-strings require !2, 3.6
+  L150: f-strings require !2, 3.6
+  L168: f-strings require !2, 3.6
+  L178: f-strings require !2, 3.6
+  L192: `with` requires 2.5, 3.0
+  L198: `with` requires 2.5, 3.0
+  L198: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L199 C47: 'set' member requires 2.4, 3.0
+  L268: f-strings require !2, 3.6
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\ctors.py
+  L26: 'zip(strict)' requires !2, 3.10
+  L26 C11: 'dict' member requires 2.2, 3.0
+  L42: generalized unpacking requires !2, 3.5
+  L46: generalized unpacking requires !2, 3.5
+  L116: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\dtypes.py
+  L79: f-strings require !2, 3.6
+  L80: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\eval.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\finalize.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\frame_ctor.py
+  L31: f-strings require !2, 3.6
+  L32: f-strings require !2, 3.6
+  L36: dict comprehensions require 2.7, 3.0
+  L39: dict comprehensions require 2.7, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\frame_methods.py
+  L2 C7: 'warnings' module requires 2.1, 3.0
+  L86: dict comprehensions require 2.7, 3.0
+  L119: dict comprehensions require 2.7, 3.0
+  L120: dict comprehensions require 2.7, 3.0
+  L222 C8: 'next' member requires 2.6, 3.0
+  L442: f-strings require !2, 3.6
+  L442: dict comprehensions require 2.7, 3.0
+  L523: 'dict.fromkeys' member requires 2.3, 3.0
+  L700: f-strings require !2, 3.6
+  L703: f-strings require !2, 3.6
+  L753: `with` requires 2.5, 3.0
+  L753: 'warnings.catch_warnings' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\gil.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L66: function decorators require 2.4, 3.0
+  L69 C42: 'dict' member requires 2.2, 3.0
+  L98: function decorators require 2.4, 3.0
+  L126: function decorators require 2.4, 3.0
+  L145: function decorators require 2.4, 3.0
+  L166: function decorators require 2.4, 3.0
+  L183: function decorators require 2.4, 3.0
+  L190: function decorators require 2.4, 3.0
+  L197: function decorators require 2.4, 3.0
+  L204: function decorators require 2.4, 3.0
+  L211: function decorators require 2.4, 3.0
+  L218: function decorators require 2.4, 3.0
+  L235: function decorators require 2.4, 3.0
+  L252: function decorators require 2.4, 3.0
+  L286: f-strings require !2, 3.6
+  L289: function decorators require 2.4, 3.0
+  L306: f-strings require !2, 3.6
+  L308: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\groupby.py
+  L1 C5: 'functools' module requires 2.5, 3.0
+  L2 C5: 'itertools' module requires 2.3, 3.0
+  L2 C5: 'itertools.product' member requires 2.6, 3.0
+  L21: set literals require 2.7, 3.0
+  L41: set literals require 2.7, 3.0
+  L133: function decorators require 2.4, 3.0
+  L168: f-strings require !2, 3.6
+  L173: f-strings require !2, 3.6
+  L545: f-strings require !2, 3.6
+  L626: super() without arguments requires !2, 3.0
+  L626 C8: 'super' member requires 2.2, 3.0
+  L1104 C28: 'enumerate' member requires 2.3, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\hash_functions.py
+  L47: generalized unpacking requires !2, 3.5
+  L48: generalized unpacking requires !2, 3.5
+  L65: generalized unpacking requires !2, 3.5
+  L82: generalized unpacking requires !2, 3.5
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\index_cached_properties.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\index_object.py
+  L31: f-strings require !2, 3.6
+  L42: dict comprehensions require 2.7, 3.0
+  L44: dict comprehensions require 2.7, 3.0
+  L161: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\indexing.py
+  L7 C5: 'datetime' module requires 2.3, 3.0
+  L8 C7: 'warnings' module requires 2.1, 3.0
+  L38: generalized unpacking requires !2, 3.5
+  L88: generalized unpacking requires !2, 3.5
+  L124: f-strings require !2, 3.6
+  L156: f-strings require !2, 3.6
+  L157: f-strings require !2, 3.6
+  L158: `with` requires 2.5, 3.0
+  L199: generalized unpacking requires !2, 3.5
+  L383 C47: 'reversed' member requires 2.4, 3.0
+  L471 C20: 'enumerate' member requires 2.3, 3.0
+  L477: generalized unpacking requires !2, 3.5
+  L582: `with` requires 2.5, 3.0
+  L582: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L583: `with` requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\indexing_engines.py
+  L183 C44: 'reversed' member requires 2.4, 3.0
+
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\processor.py", line 63, in process_individual
+    visitor.tour(res.node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1038, in tour
+    self.visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 407, in visit
+    return visitor(node)
+           ^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1047, in generic_visit
+    super(SourceVisitor, self).generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 415, in generic_visit
+    self.visit(item)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 407, in visit
+    return visitor(node)
+           ^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1889, in visit_ClassDef
+    self.generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1047, in generic_visit
+    super(SourceVisitor, self).generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 415, in generic_visit
+    self.visit(item)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 407, in visit
+    return visitor(node)
+           ^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1841, in visit_FunctionDef
+    if self.__handle_FunctionDef(node):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1797, in __handle_FunctionDef
+    self.generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1047, in generic_visit
+    super(SourceVisitor, self).generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 415, in generic_visit
+    self.visit(item)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 407, in visit
+    return visitor(node)
+           ^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1047, in generic_visit
+    super(SourceVisitor, self).generic_visit(node)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 417, in generic_visit
+    self.visit(value)
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\ast.py", line 407, in visit
+    return visitor(node)
+           ^^^^^^^^^^^^^
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\source_visitor.py", line 1219, in visit_Call
+    for directive in STRFTIME_DIRECTIVE_REGEX.findall(arg.s):
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: expected string or bytes-like object, got 'NoneType'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Scripts\vermin.exe\__main__.py", line 5, in <module>
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\main.py", line 65, in main
+    processor.process(paths, local_config, local_config.processes())
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\site-packages\vermin\processor.py", line 105, in process
+    for proc_res in act():
+  File "C:\Users\floor\AppData\Local\Programs\Python\Python312\Lib\multiprocessing\pool.py", line 873, in next
+    raise value
+TypeError: expected string or bytes-like object, got 'NoneType'
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\inference.py
+  L29: f-strings require !2, 3.6
+  L89 C40: 'set' member requires 2.4, 3.0
+  L226: f-strings require !2, 3.6
+  L279: f-strings require !2, 3.6
+  L280: f-strings require !2, 3.6
+  L295: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\csv.py
+  L1 C5: 'io' module requires 2.6, 3.0
+  L195: function decorators require 2.4, 3.0
+  L202: f-strings require !2, 3.6
+  L202: dict comprehensions require 2.7, 3.0
+  L205: generalized unpacking requires !2, 3.5
+  L290: f-strings require !2, 3.6
+  L308: f-strings require !2, 3.6
+  L357: f-strings require !2, 3.6
+  L389: f-strings require !2, 3.6
+  L483: f-strings require !2, 3.6
+  L508: `with` requires 2.5, 3.0
+  L508: 'open(encoding)' requires !2, 3.0
+  L510: f-strings require !2, 3.6
+  L560 C19: 'UnicodeEncodeError' member requires 2.3, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\excel.py
+  L1 C5: 'io' module requires 2.6, 3.0
+  L29: f-strings require !2, 3.6
+  L43: `with` requires 2.5, 3.0
+  L57: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\hdf.py
+  L17: f-strings require !2, 3.6
+  L125: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\json.py
+  L115: f-strings require !2, 3.6
+  L173: super() without arguments requires !2, 3.0
+  L173 C8: 'super' member requires 2.2, 3.0
+  L221: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\parsers.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\pickle.py
+  L23: f-strings require !2, 3.6
+
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\sas.py
+  L1 C5: 'pathlib' module requires !2, 3.4
+  L16 C8: 'next' member requires 2.6, 3.0
+  L19 C20: 'enumerate' member requires 2.3, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\sql.py
+  L1 C7: 'sqlite3' module requires 2.5, 3.0
+  L26: f-strings require !2, 3.6
+  L75: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\stata.py
+  L26: f-strings require !2, 3.6
+  L49: super() without arguments requires !2, 3.0
+  L49 C8: 'super' member requires 2.2, 3.0
+  L53: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\io\style.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\join_merge.py
+  L95: f-strings require !2, 3.6
+  L123: f-strings require !2, 3.6
+  L124: f-strings require !2, 3.6
+  L232: f-strings require !2, 3.6
+  L233: f-strings require !2, 3.6
+  L428: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\libs.py
+  L35: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L46: set literals require 2.7, 3.0
+  L63: f-strings require !2, 3.6
+  L64: f-strings require !2, 3.6
+  L84: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L98: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\multiindex_object.py
+  L148: f-strings require !2, 3.6
+  L261: f-strings require !2, 3.6
+  L275: dict comprehensions require 2.7, 3.0
+  L277: dict comprehensions require 2.7, 3.0
+  L305: f-strings require !2, 3.6
+  L315: dict comprehensions require 2.7, 3.0
+  L330: generalized unpacking requires !2, 3.5
+  L366: f-strings require !2, 3.6
+  L423: f-strings require !2, 3.6
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\package.py
+  L5 C7: 'subprocess' module requires 2.4, 3.0
+  L15: 'subprocess.run' member requires !2, 3.5
+  L18: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\pandas_vb_common.py
+  L1 C5: 'importlib' module requires 2.7, 3.1
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\period.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\plotting.py
+  L1 C7: 'contextlib' module requires 2.5, 3.0
+  L5 C7: 'pathlib' module requires !2, 3.4
+  L8 C5: 'unittest' module requires 2.1, 3.0
+  L8 C5: 'unittest.mock' module requires !2, 3.3
+  L119: 'importlib.util.module_from_spec' member requires !2, 3.5
+  L120: 'importlib.machinery.ModuleSpec' member requires !2, 3.4
+  L124: `with` requires 2.5, 3.0
+  L124: 'contextlib.ExitStack' member requires !2, 3.3
+  L128: 'tempfile.TemporaryDirectory' member requires !2, 3.2
+  L131: 'os.fsdecode' member requires !2, 3.2
+  L135: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\reindex.py
+  L24: f-strings require !2, 3.6
+  L25: f-strings require !2, 3.6
+  L94: f-strings require !2, 3.6
+  L95: f-strings require !2, 3.6
+  L104: f-strings require !2, 3.6
+  L136: f-strings require !2, 3.6
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\replace.py
+  L31 C22: 'dict' member requires 2.2, 3.0
+  L31 C27: 'enumerate' member requires 2.3, 3.0
+  L67: dict comprehensions require 2.7, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\reshape.py
+  L1 C5: 'itertools' module requires 2.3, 3.0
+  L1 C5: 'itertools.product' member requires 2.6, 3.0
+  L137 C32: 'dict' member requires 2.2, 3.0
+  L137 C37: 'enumerate' member requires 2.3, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\rolling.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L88: `with` requires 2.5, 3.0
+  L96: `with` requires 2.5, 3.0
+  L128: `with` requires 2.5, 3.0
+  L136: `with` requires 2.5, 3.0
+  L136: 'warnings.catch_warnings' member requires 2.6, 3.0
+
+!2, 3.10     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\series_methods.py
+  L1 C5: 'datetime' module requires 2.3, 3.0
+  L19: 'zip(strict)' requires !2, 3.10
+  L319: set literals require 2.7, 3.0
+  L410 C28: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\sparse.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\stat_ops.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\strftime.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\strings.py
+  L1 C7: 'warnings' module requires 2.1, 3.0
+  L23: f-strings require !2, 3.6
+  L27: exception cause requires !2, 3.0
+  L69: `with` requires 2.5, 3.0
+  L178: f-strings require !2, 3.6
+  L193: f-strings require !2, 3.6
+  L200: dict comprehensions require 2.7, 3.0
+  L202: f-strings require !2, 3.6
+  L222: super() without arguments requires !2, 3.0
+  L233: super() without arguments requires !2, 3.0
+  L248: super() without arguments requires !2, 3.0
+  L251: `with` requires 2.5, 3.0
+  L251: 'warnings.catch_warnings' member requires 2.6, 3.0
+  L257: super() without arguments requires !2, 3.0
+  L257 C8: 'super' member requires 2.2, 3.0
+  L267: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\timedelta.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\timeseries.py
+  L1 C5: 'datetime' module requires 2.3, 3.0
+  L142 C20: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\tslibs\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\tslibs\fields.py
+  L76: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\tslibs\normalize.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\pandas\asv_bench\benchmarks\tslibs\offsets.py
+  L6 C5: 'datetime' module requires 2.3, 3.0
+

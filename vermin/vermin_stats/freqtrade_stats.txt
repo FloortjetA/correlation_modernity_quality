@@ -1,0 +1,6756 @@
+Feature statistics for repository: freqtrade
+================================================================================
+
+FILE: freqtrade\build_helpers\binance_update_lev_tiers.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\build_helpers\create_command_partials.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+io (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\build_helpers\extract_config_json_schema.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\build_helpers\freqtrade_client_version_align.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\build_helpers\pre_commit_update.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: freqtrade\freqtrade\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\commands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\commands\analyze_commands.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\arguments.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: freqtrade\freqtrade\commands\build_config_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\cli_options.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: freqtrade\freqtrade\commands\data_commands.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: freqtrade\freqtrade\commands\db_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\deploy_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\deploy_ui.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\commands\hyperopt_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+operator.itemgetter (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\list_commands.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+csv.DictWriter.writeheader (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\optimize_commands.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\pairlist_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\plot_commands.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\strategy_utils_commands.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\trade_commands.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\commands\webserver_commands.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\config_schema\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\config_schema\config_schema.py
+--------------------------------------------------------------------------------
+f-strings (total: 29)
+    !2, 3.6: 29
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: freqtrade\freqtrade\configuration\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\configuration\config_secrets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\configuration\config_setup.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\configuration\config_validation.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.Counter (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: freqtrade\freqtrade\configuration\configuration.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\configuration\deploy_config.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\configuration\deprecated_settings.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\configuration\detect_environment.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\configuration\directory_operations.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: freqtrade\freqtrade\configuration\environment_vars.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\configuration\load_config.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 2)
+    !2, 3.3: 2
+
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\configuration\timerange.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\constants.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\data\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\data\btanalysis\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\data\btanalysis\bt_fileutils.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+None (total: 2)
+    !2, 3.3: 2
+
+cause (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+io (total: 1)
+    2.6, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+zipfile.BadZipFile (total: 1)
+    !2, 3.2: 1
+
+
+FILE: freqtrade\freqtrade\data\btanalysis\historic_precision.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\data\btanalysis\trade_parallelism.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\converter\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\data\converter\converter.py
+--------------------------------------------------------------------------------
+f-strings (total: 11)
+    !2, 3.6: 11
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\converter\orderflow.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\converter\trade_converter.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\data\converter\trade_converter_kraken.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\data\dataprovider.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\data\entryexitanalysis.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\data\history\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\data\history\datahandlers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\data\history\datahandlers\featherdatahandler.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\history\datahandlers\idatahandler.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\data\history\datahandlers\jsondatahandler.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\history\datahandlers\parquetdatahandler.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\data\history\history_utils.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 41)
+    !2, 3.6: 41
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\data\metrics.py
+--------------------------------------------------------------------------------
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\enums\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\enums\backteststate.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\enums\candletype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\exitchecktuple.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\enums\exittype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\enums\hyperoptstate.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\enums\marginmode.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\marketstatetype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\enums\ordertypevalue.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\pricetype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\rpcmessagetype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\runmode.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\signaltype.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\enums\state.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\enums\tradingmode.py
+--------------------------------------------------------------------------------
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\exchange\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\exchange\binance.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+cause (total: 9)
+    !2, 3.0: 9
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\binance_public_data.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 29)
+    !2, 3.6: 29
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bingx.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bitget.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 6)
+    !2, 3.0: 6
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bitmart.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bitpanda.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bitvavo.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\bybit.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+cause (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\check_exchange.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\coinex.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\common.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+slices (total: 3)
+    !2, 3.0: 3
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\cryptocom.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\exchange.py
+--------------------------------------------------------------------------------
+None (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+cause (total: 96)
+    !2, 3.0: 96
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 137)
+    !2, 3.6: 137
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+inspect.iscoroutinefunction (total: 1)
+    !2, 3.5: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypeGuard (total: 1)
+    !2, 3.10: 1
+
+
+FILE: freqtrade\freqtrade\exchange\exchange_types.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\exchange\exchange_utils.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+decimal (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\exchange_utils_timeframe.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: freqtrade\freqtrade\exchange\exchange_ws.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\gate.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\hitbtc.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\htx.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\hyperliquid.py
+--------------------------------------------------------------------------------
+arguments (total: 9)
+    !2, 3.0: 9
+
+cause (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\idex.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\kraken.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\krakenfutures.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+cause (total: 9)
+    !2, 3.0: 9
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\exchange\kucoin.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\lbank.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\luno.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\modetrade.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\exchange\okx.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+cause (total: 12)
+    !2, 3.0: 12
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\Base3ActionRLEnv.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\Base4ActionRLEnv.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\Base5ActionRLEnv.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\BaseEnvironment.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\BaseReinforcementLearningModel.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 11)
+    !2, 3.6: 11
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\RL\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\base_models\BaseClassifierModel.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\BasePyTorchClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\BasePyTorchModel.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\BasePyTorchRegressor.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\BaseRegressionModel.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\FreqaiMultiOutputClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\base_models\FreqaiMultiOutputRegressor.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\data_drawer.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 26)
+    !2, 3.6: 26
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\data_kitchen.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\freqai_interface.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 23)
+    !2, 3.6: 23
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\LightGBMClassifier.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\LightGBMClassifierMultiTarget.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\LightGBMRegressor.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\LightGBMRegressorMultiTarget.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\PyTorchMLPClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\PyTorchMLPRegressor.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\PyTorchTransformerRegressor.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\ReinforcementLearner.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\ReinforcementLearner_multiproc.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\SKLearnRandomForestClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\XGBoostClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\XGBoostRFClassifier.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\XGBoostRFRegressor.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\XGBoostRegressor.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\XGBoostRegressorMultiTarget.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\prediction_models\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\tensorboard\TensorboardCallback.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\tensorboard\__init__.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\freqai\tensorboard\base_tensorboard.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\tensorboard\lightgbm_callback.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\freqai\tensorboard\tensorboard.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\PyTorchDataConvertor.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\PyTorchMLPModel.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\PyTorchModelTrainer.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\PyTorchTrainerInterface.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\PyTorchTransformerModel.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\freqai\torch\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\torch\datasets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\freqai\utils.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\freqtradebot.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 100)
+    !2, 3.6: 100
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\ft_types\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\ft_types\backtest_result_type.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: freqtrade\freqtrade\ft_types\plot_annotation_type.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.Required (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: freqtrade\freqtrade\ft_types\valid_exchanges_type.py
+--------------------------------------------------------------------------------
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+
+FILE: freqtrade\freqtrade\leverage\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\leverage\interest.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\freqtrade\leverage\liquidation_price.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\loggers\__init__.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.config.dictConfig (total: 1)
+    2.7, 3.2: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\loggers\buffering_handler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\loggers\ft_rich_handler.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\loggers\json_formatter.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\loggers\rich_console.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+shutil.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\freqtrade\loggers\set_log_levels.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\loggers\std_err_stream_handler.py
+--------------------------------------------------------------------------------
+RecursionError (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\main.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\misc.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\mixins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\mixins\logging_mixin.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\freqtrade\optimize\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\analysis\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\analysis\base_analysis.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\analysis\lookahead.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\analysis\lookahead_helpers.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\analysis\recursive.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\analysis\recursive_helpers.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\backtest_caching.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\optimize\backtesting.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\bt_progress.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt_auto.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt_interface.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.log1p (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt_logger.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.handlers.QueueHandler (total: 1)
+    !2, 3.2: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt_optimizer.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt\hyperopt_output.py
+--------------------------------------------------------------------------------
+f-strings (total: 6)
+    !2, 3.6: 6
+
+os.get_terminal_size (total: 1)
+    !2, 3.3: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_epoch_filters.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_calmar.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_interface.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_max_drawdown.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_max_drawdown_per_pair.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_max_drawdown_relative.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_multi_metric.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_onlyprofit.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_profit_drawdown.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_sharpe.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_sharpe_daily.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_short_trade_dur.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_sortino.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_loss\hyperopt_loss_sortino_daily.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\hyperopt_tools.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 33)
+    !2, 3.6: 33
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\optimize_reports\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\optimize_reports\bt_output.py
+--------------------------------------------------------------------------------
+f-strings (total: 69)
+    !2, 3.6: 69
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: freqtrade\freqtrade\optimize\optimize_reports\bt_storage.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\optimize\optimize_reports\optimize_reports.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.timedelta.total_seconds (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: freqtrade\freqtrade\optimize\space\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\optimize\space\decimalspace.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\optimize\space\optunaspaces.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Protocol (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\persistence\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\persistence\base.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\persistence\custom_data.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\persistence\key_value_store.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\persistence\migrations.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 25)
+    !2, 3.6: 25
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\persistence\models.py
+--------------------------------------------------------------------------------
+contextvars (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+threading.current_thread (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Final (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\persistence\pairlock.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\persistence\pairlock_middleware.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\persistence\trade_model.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 29)
+    !2, 3.6: 29
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Self (total: 1)
+    !2, 3.11: 1
+
+unpacking (total: 3)
+    !2, 3.5: 3
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\persistence\usedb_context.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\persistence\wallet_history.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plot\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\plot\plotting.py
+--------------------------------------------------------------------------------
+cause (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\plugins\pairlist\AgeFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\CrossMarketPairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\DelistFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\FullTradesFilter.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\IPairList.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enum.StrEnum (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\MarketCapPairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\OffsetFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\PercentChangePairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\PerformanceFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\PrecisionFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\PriceFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 14)
+    !2, 3.6: 14
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\ProducerPairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+dict.fromkeys (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\RemotePairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+list.copy (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\ShuffleFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\SpreadFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\StaticPairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\VolatilityFilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\VolumePairList.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\plugins\pairlist\pairlist_helpers.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+re.fullmatch (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlist\rangestabilityfilter.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\pairlistmanager.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protectionmanager.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protections\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\plugins\protections\cooldown_period.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protections\iprotection.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protections\low_profit_pairs.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protections\max_drawdown_protection.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\plugins\protections\stoploss_guard.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\resolvers\exchange_resolver.py
+--------------------------------------------------------------------------------
+f-strings (total: 3)
+    !2, 3.6: 3
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\freqaimodel_resolver.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\hyperopt_resolver.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\iresolver.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\pairlist_resolver.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\protection_resolver.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\resolvers\strategy_resolver.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\rpc\api_server\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_auth.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+secrets (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_background_tasks.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_backtest.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_download_data.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_pair_history.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_pairlists.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_schemas.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_trading.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_v1.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Annotated (total: 1)
+    !2, 3.9: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_webserver.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\api_ws.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\deps.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\uvicorn_threaded.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+selectors (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\web_ui.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\webserver.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+ipaddress (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\webserver_bgwork.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NotRequired (total: 1)
+    !2, 3.11: 1
+
+typing_extensions (total: 1)
+    ~2, ~3: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\channel.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.create_task (total: 1)
+    !2, 3.7: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.AsyncIterator (total: 1)
+    !2, 3.5: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.asynccontextmanager (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\message_stream.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\proxy.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\serializer.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws\ws_types.py
+--------------------------------------------------------------------------------
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\api_server\ws_schemas.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\rpc\discord.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\external_message_consumer.py
+--------------------------------------------------------------------------------
+ConnectionRefusedError (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\rpc\fiat_convert.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\rpc.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Generator (total: 1)
+    !2, 3.5: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 31)
+    !2, 3.6: 31
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\rpc\rpc_manager.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\rpc\rpc_types.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\rpc\telegram.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+asyncio.run_coroutine_threadsafe (total: 1)
+    !2, 3.5: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.abc.Coroutine (total: 1)
+    !2, 3.5: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 154)
+    !2, 3.6: 154
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\freqtrade\rpc\webhook.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+matching (total: 1)
+    !2, 3.10: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\strategy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\strategy\hyper.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\strategy\informative_decorator.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\strategy\interface.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.isinf (total: 1)
+    2.6, 3.0: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\strategy\parameters.py
+--------------------------------------------------------------------------------
+abc (total: 1)
+    2.6, 3.0: 1
+
+abc.ABC (total: 1)
+    !2, 3.4: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.suppress (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\strategy\strategy_helper.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: freqtrade\freqtrade\strategy\strategy_validation.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\strategy\strategy_wrapper.py
+--------------------------------------------------------------------------------
+cause (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\strategy\strategyupdater.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+pathlib.Path.write_text (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\system\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\system\asyncio_config.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\system\gc_setup.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.python_implementation (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\system\set_mp_start_method.py
+--------------------------------------------------------------------------------
+multiprocessing (total: 1)
+    2.6, 3.0: 1
+
+multiprocessing.get_all_start_methods (total: 1)
+    !2, 3.4: 1
+
+multiprocessing.get_start_method (total: 1)
+    !2, 3.4: 1
+
+multiprocessing.set_start_method (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\freqtrade\system\version_info.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\templates\FreqaiExampleHybridStrategy.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\templates\FreqaiExampleStrategy.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\templates\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\templates\sample_hyperopt_loss.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\templates\sample_strategy.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\util\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\util\coin_gecko.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\datetime_helpers.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\freqtrade\util\dry_run_wallet.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\util\formatters.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: freqtrade\freqtrade\util\ft_precise.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\ft_ttlcache.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\measure_time.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\migrations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\util\migrations\funding_rate_mig.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\migrations\migrate_wallet_history.py
+--------------------------------------------------------------------------------
+f-strings (total: 15)
+    !2, 3.6: 15
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\periodic_cache.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\util\progress_tracker.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\util\rich_progress.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\util\rich_tables.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypeAlias (total: 1)
+    !2, 3.10: 1
+
+
+FILE: freqtrade\freqtrade\util\singleton.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\util\template_renderer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\vendor\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\vendor\qtpylib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\freqtrade\vendor\qtpylib\indicators.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: freqtrade\freqtrade\wallets.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.Literal (total: 1)
+    !2, 3.8: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\freqtrade\worker.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+traceback.format_exc (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\ft_client\freqtrade_client\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+pathlib.Path.read_text (total: 1)
+    !2, 3.5: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: freqtrade\ft_client\freqtrade_client\ft_client.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\ft_client\freqtrade_client\ft_rest_client.py
+--------------------------------------------------------------------------------
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: freqtrade\ft_client\test_client\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\ft_client\test_client\test_rest_client.py
+--------------------------------------------------------------------------------
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\scripts\rest_client.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\scripts\ws_client.py
+--------------------------------------------------------------------------------
+ConnectionRefusedError (total: 1)
+    !2, 3.3: 1
+
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.run (total: 1)
+    !2, 3.7: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.getsizeof (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\commands\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\commands\test_build_config.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\commands\test_commands.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\commands\test_startup_time.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\tests\conftest.py
+--------------------------------------------------------------------------------
+ModuleNotFoundError (total: 1)
+    !2, 3.6: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+builtins (total: 1)
+    !2, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 15)
+    !2, 3.6: 15
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\tests\conftest_hyperopt.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\conftest_trades.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+
+FILE: freqtrade\tests\conftest_trades_usdt.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+
+FILE: freqtrade\tests\data\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\data\test_btanalysis.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\data\test_converter.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\data\test_converter_orderflow.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: freqtrade\tests\data\test_datahandler.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\data\test_dataprovider.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\data\test_download_data.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\data\test_entryexitanalysis.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 10)
+    !2, 3.5: 10
+
+
+FILE: freqtrade\tests\data\test_historic_precision.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\data\test_history.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: freqtrade\tests\data\test_metrics.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\data\test_trade_converter_kraken.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\data\test_trade_parallelism.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: freqtrade\tests\exchange\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\exchange\test_binance.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+next (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_binance_public_data.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+zipfile.BadZipFile (total: 1)
+    !2, 3.2: 1
+
+
+FILE: freqtrade\tests\exchange\test_bitget.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_bitpanda.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_bybit.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_exchange.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 187)
+    !2, 3.6: 187
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 5)
+    !2, 3.5: 5
+
+
+FILE: freqtrade\tests\exchange\test_exchange_utils.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+math.isnan (total: 1)
+    2.6, 3.0: 1
+
+math.nan (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_exchange_ws.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\tests\exchange\test_gate.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_htx.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_hyperliquid.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_kraken.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_krakenfutures.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_kucoin.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\exchange\test_okx.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.timestamp (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\tests\exchange_online\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\exchange_online\conftest.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.TypedDict (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\tests\exchange_online\test_ccxt_compat.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\tests\exchange_online\test_ccxt_ws_compat.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\freqai\conftest.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqai\test_freqai_backtesting.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqai\test_freqai_datadrawer.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqai\test_freqai_datakitchen.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqai\test_freqai_interface.py
+--------------------------------------------------------------------------------
+f-strings (total: 12)
+    !2, 3.6: 12
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqai\test_models\ReinforcementLearner_test_3ac.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\freqai\test_models\ReinforcementLearner_test_4ac.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\freqtradebot\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\freqtradebot\test_freqtradebot.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 125)
+    !2, 3.6: 125
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqtradebot\test_integration.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 21)
+    !2, 3.6: 21
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqtradebot\test_stoploss_on_exchange.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 8)
+    !2, 3.6: 8
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\freqtradebot\test_worker.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\leverage\test_candletype.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\leverage\test_interest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\leverage\test_update_liquidation_price.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\__init__.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+typing.NamedTuple (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: freqtrade\tests\optimize\conftest.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\tests\optimize\test_backtest_detail.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\test_backtesting.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 78)
+    !2, 3.6: 78
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\test_backtesting_adjust_position.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\test_hyperopt.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\test_hyperopt_tools.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\tests\optimize\test_hyperoptloss.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 2)
+    !2, 3.5: 2
+
+
+FILE: freqtrade\tests\optimize\test_lookahead_analysis.py
+--------------------------------------------------------------------------------
+f-strings (total: 10)
+    !2, 3.6: 10
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\optimize\test_optimize_reports.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\tests\optimize\test_recursive_analysis.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\persistence\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\persistence\test_db_context.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\persistence\test_key_value_store.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\persistence\test_migrations.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\persistence\test_persistence.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+datetime.datetime.fromisoformat (total: 1)
+    !2, 3.7: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\tests\persistence\test_trade_custom_data.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\persistence\test_trade_fromjson.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\tests\plugins\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\plugins\test_pairlist.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 26)
+    !2, 3.6: 26
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unpacking (total: 4)
+    !2, 3.5: 4
+
+
+FILE: freqtrade\tests\plugins\test_pairlocks.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\plugins\test_percentchangepairlist.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\plugins\test_protections.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+types.SimpleNamespace (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\plugins\test_remotepairlist.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\rpc\test_fiat_convert.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 18)
+    !2, 3.6: 18
+
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc_apiserver.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 223)
+    !2, 3.6: 223
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc_emc.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc_manager.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc_telegram.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+asyncio.get_running_loop (total: 1)
+    !2, 3.7: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 31)
+    !2, 3.6: 31
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.AsyncMock (total: 1)
+    !2, 3.8: 1
+
+
+FILE: freqtrade\tests\rpc\test_rpc_webhook.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\strategy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\broken_strats\broken_futures_strategies.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\broken_strats\legacy_strategy_v1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\failing_strategy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\freqai_rl_test_strat.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\freqai_test_classifier.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\freqai_test_multimodel_classifier_strat.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\freqai_test_multimodel_strat.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\freqai_test_strat.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.reduce (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\hyperoptable_strategy.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\hyperoptable_strategy_v2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\informative_decorator_strategy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\lookahead_bias\strategy_test_v3_with_lookahead_bias.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\strategy_test_v2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\strats\strategy_test_v3.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\strategy_test_v3_custom_entry_price.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\strategy\strats\strategy_test_v3_recursive_issue.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: freqtrade\tests\strategy\test_default_strategy.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\strategy\test_interface.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+math.inf (total: 1)
+    !2, 3.5: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\strategy\test_strategy_helpers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\test_strategy_loading.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\tests\strategy\test_strategy_parameters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\strategy\test_strategy_safe_wrapper.py
+--------------------------------------------------------------------------------
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\tests\test_arguments.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\test_configuration.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+warnings.catch_warnings (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: freqtrade\tests\test_directory_operations.py
+--------------------------------------------------------------------------------
+f-strings (total: 9)
+    !2, 3.6: 9
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\test_indicators.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\test_log_setup.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: freqtrade\tests\test_main.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\test_misc.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\test_pip_audit.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.TimeoutExpired (total: 1)
+    !2, 3.3: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+
+FILE: freqtrade\tests\test_plotting.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\test_strategy_updater.py
+--------------------------------------------------------------------------------
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: freqtrade\tests\test_talib.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\test_timerange.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\test_wallets.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\util\test_ccxt_precise.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\util\test_datetime_helpers.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.UTC (total: 1)
+    !2, 3.11: 1
+
+
+FILE: freqtrade\tests\util\test_formatters.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: freqtrade\tests\util\test_funding_rate_migration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\util\test_historic_wallets_migration.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\util\test_measure_time.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: freqtrade\tests\util\test_periodiccache.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\util\test_rendering_utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: freqtrade\tests\util\test_wallet_util.py
+--------------------------------------------------------------------------------
+No modernity features found.
+

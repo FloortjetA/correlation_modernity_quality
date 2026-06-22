@@ -1,0 +1,13 @@
+Statistics for: sentry_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 583
+W: 12373
+C: 11909
+R: 7032
+
+Total messages: 31898
+Average rating: 8.84/10

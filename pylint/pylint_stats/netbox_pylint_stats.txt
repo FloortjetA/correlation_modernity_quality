@@ -1,0 +1,13 @@
+Statistics for: netbox_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 189
+W: 1366
+C: 5029
+R: 1159
+
+Total messages: 7743
+Average rating: 8.10/10

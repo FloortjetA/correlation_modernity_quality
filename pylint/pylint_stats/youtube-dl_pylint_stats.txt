@@ -1,0 +1,13 @@
+Statistics for: youtube-dl_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 232
+W: 5336
+C: 4135
+R: 1229
+
+Total messages: 10932
+Average rating: 4.92/10

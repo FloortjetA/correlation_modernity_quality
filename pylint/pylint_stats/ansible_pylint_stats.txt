@@ -1,0 +1,13 @@
+Statistics for: ansible_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 604
+W: 2901
+C: 5692
+R: 2606
+
+Total messages: 11803
+Average rating: 6.89/10

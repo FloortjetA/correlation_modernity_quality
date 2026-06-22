@@ -1,0 +1,13 @@
+Statistics for: xonsh_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 232
+W: 2366
+C: 692
+R: 888
+
+Total messages: 4178
+Average rating: 7.76/10

@@ -1,0 +1,13 @@
+Statistics for: pymc_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 573
+W: 1971
+C: 686
+R: 1028
+
+Total messages: 4259
+Average rating: 7.61/10

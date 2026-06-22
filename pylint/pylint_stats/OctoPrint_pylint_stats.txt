@@ -1,0 +1,13 @@
+Statistics for: OctoPrint_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 93
+W: 3227
+C: 2821
+R: 1166
+
+Total messages: 7307
+Average rating: 6.62/10

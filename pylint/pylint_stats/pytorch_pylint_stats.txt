@@ -1,0 +1,13 @@
+Statistics for: pytorch_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 12706
+W: 73459
+C: 37819
+R: 23098
+
+Total messages: 147083
+Average rating: 7.32/10

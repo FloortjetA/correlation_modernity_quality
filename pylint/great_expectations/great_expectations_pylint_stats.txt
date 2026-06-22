@@ -1,0 +1,125 @@
+Statistics for: great_expectations_pylint.txt
+================================================================================
+
+FILE: assets\scripts\build_gallery.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 30
+C: 28
+R: 9
+Total messages: 67
+Average rating: 6.41/10
+
+FILE: assets\scripts\build_package_gallery.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 3
+R: 0
+Total messages: 15
+Average rating: 3.04/10
+
+FILE: ci\checks\check_integration_test_gets_run.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 31
+R: 0
+Total messages: 39
+Average rating: 0.00/10
+
+FILE: ci\checks\check_name_tag_snippets_referenced.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 5
+R: 0
+Total messages: 10
+Average rating: 5.00/10
+
+FILE: ci\checks\check_no_line_number_snippets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 7.65/10
+
+FILE: ci\checks\check_only_name_tag_snippets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 8
+R: 0
+Total messages: 11
+Average rating: 5.28/10
+
+FILE: ci\checks\get_context.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: ci\checks\validate_docs_snippets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 6.89/10
+
+FILE: contrib\capitalone_dataprofiler_expectations\capitalone_dataprofiler_expectations\expectations\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: contrib\capitalone_dataprofiler_expectations\capitalone_dataprofiler_expectations\expectations\util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 8.26/10
+
+FILE: contrib\capitalone_dataprofiler_expectations\capitalone_dataprofiler_expectations\metrics\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 8
+R: 0
+Total messages: 8
+Average rating: 0.00/10
+
+FILE: contrib\capitalone_dataprofiler_expectations\capitalone_dataprofiler_expectations\tests\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 4
+R: 0
+Total messages: 10
+Average rating: 6.52/10
+
+================================================================================
+Overall average rating: 5.71/10

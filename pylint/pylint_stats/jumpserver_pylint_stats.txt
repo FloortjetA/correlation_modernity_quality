@@ -1,0 +1,13 @@
+Statistics for: jumpserver_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 227
+W: 1935
+C: 1874
+R: 737
+
+Total messages: 4773
+Average rating: 8.34/10

@@ -1,0 +1,13 @@
+Statistics for: robotframework_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 78
+W: 1466
+C: 656
+R: 610
+
+Total messages: 2810
+Average rating: 8.41/10

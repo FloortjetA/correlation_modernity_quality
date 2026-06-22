@@ -1,0 +1,13 @@
+Statistics for: statsmodels_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 3011
+W: 7196
+C: 1745
+R: 4242
+
+Total messages: 16194
+Average rating: 7.97/10

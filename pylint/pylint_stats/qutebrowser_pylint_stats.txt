@@ -1,0 +1,13 @@
+Statistics for: qutebrowser_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 108
+W: 3464
+C: 297
+R: 713
+
+Total messages: 4582
+Average rating: 8.03/10

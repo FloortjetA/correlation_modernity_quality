@@ -1,0 +1,13 @@
+Statistics for: readthedocs.org_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 79
+W: 1102
+C: 733
+R: 280
+
+Total messages: 2194
+Average rating: 8.94/10

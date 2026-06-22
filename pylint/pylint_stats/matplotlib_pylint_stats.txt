@@ -1,0 +1,13 @@
+Statistics for: matplotlib_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 931
+W: 5879
+C: 680
+R: 2646
+
+Total messages: 10137
+Average rating: 8.43/10

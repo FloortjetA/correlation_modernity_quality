@@ -1,0 +1,13 @@
+Statistics for: odoo_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 659
+W: 30620
+C: 60265
+R: 5677
+
+Total messages: 97222
+Average rating: 7.32/10

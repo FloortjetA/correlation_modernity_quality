@@ -1,0 +1,13 @@
+Statistics for: lutris_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 37
+W: 777
+C: 1161
+R: 373
+
+Total messages: 2348
+Average rating: 8.97/10

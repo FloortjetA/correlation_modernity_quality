@@ -1,0 +1,4900 @@
+Feature statistics for repository: aws-cli
+================================================================================
+
+FILE: aws-cli\awscli\__init__.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\__main__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\alias.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\argparser.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+arguments (total: 6)
+    !2, 3.0: 6
+
+difflib (total: 1)
+    2.1, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\argprocess.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\arguments.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\bcdoc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\bcdoc\docevents.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\bcdoc\docstringparser.py
+--------------------------------------------------------------------------------
+arguments (total: 5)
+    !2, 3.0: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\bcdoc\restdoc.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\bcdoc\style.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\bcdoc\textwriter.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\clidocs.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 32)
+    !2, 3.6: 32
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\clidriver.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\awscli\commands.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\compat.py
+--------------------------------------------------------------------------------
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+configparser (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.timezone (total: 1)
+    !2, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+locale.getpreferredencoding (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.linux_distribution (total: 1)
+    2.6, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+sqlite3 (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: aws-cli\awscli\completer.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\addexamples.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\argrename.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\arguments.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\assumerole.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\awslambda.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+zipfile.BadZipFile (total: 1)
+    !2, 3.2: 1
+
+
+FILE: aws-cli\awscli\customizations\binaryhoist.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+dataclasses (total: 1)
+    !2, 3.7: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aws-cli\awscli\customizations\cliinputjson.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudformation\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudformation\artifact_exporter.py
+--------------------------------------------------------------------------------
+contextlib (total: 2)
+    2.5, 3.0: 2
+
+dict (total: 2)
+    2.2, 3.0: 2
+
+logging (total: 2)
+    2.3, 3.0: 2
+
+os.path.relpath (total: 2)
+    2.6, 3.0: 2
+
+os.walk (total: 2)
+    2.3, 3.0: 2
+
+str.format (total: 2)
+    2.6, 3.0: 2
+
+super (total: 2)
+    2.2, 3.0: 2
+
+tempfile.gettempdir (total: 2)
+    2.3, 3.0: 2
+
+tempfile.mkdtemp (total: 2)
+    2.3, 3.0: 2
+
+urlparse.parse_qs (total: 2)
+    2.6, !3: 2
+
+urlparse.urlparse.netloc (total: 2)
+    2.5, !3: 2
+
+urlparse.urlparse.path (total: 2)
+    2.5, !3: 2
+
+urlparse.urlparse.query (total: 2)
+    2.5, !3: 2
+
+uuid (total: 2)
+    2.5, 3.0: 2
+
+
+FILE: aws-cli\awscli\customizations\cloudformation\deploy.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudformation\deployer.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudformation\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudformation\package.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudformation\yamlhelper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudfront.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudsearch.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudsearchdomain.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudtrail\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudtrail\subscribe.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\cloudtrail\utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\cloudtrail\validation.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 34)
+    !2, 3.6: 34
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codeartifact\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\codeartifact\login.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\codecommit.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\codedeploy\codedeploy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\codedeploy\deregister.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\install.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\locationargs.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\push.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\register.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\systems.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\uninstall.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\codedeploy\utils.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\commands.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configservice\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\configservice\getstatus.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configservice\putconfigurationrecorder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\configservice\rename_cmd.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\configservice\subscribe.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\__init__.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+shlex.quote (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\addmodel.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\configure.py
+--------------------------------------------------------------------------------
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\get.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\list.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\set.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\configure\writer.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.SEEK_END (total: 1)
+    2.5, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\datapipeline\__init__.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\datapipeline\constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\datapipeline\createdefaultroles.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+warnings (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\datapipeline\listrunsformatter.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\datapipeline\translator.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\dlm\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\dlm\constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\dlm\createdefaultrole.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\dlm\dlm.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\dlm\iam.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\dynamodb.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ec2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ec2\addcount.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ec2\bundleinstance.py
+--------------------------------------------------------------------------------
+base64.encodebytes (total: 1)
+    !2, 3.1: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+hmac (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ec2\decryptpassword.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ec2\paginate.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ec2\protocolarg.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ec2\runinstances.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ec2\secgroupsimplify.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ecr.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ecr_public.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ecs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\ecs\deploy.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ecs\exceptions.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ecs\executecommand.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\ecs\filehelpers.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\eks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\eks\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\eks\get_token.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+json.JSONDecodeError (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\eks\kubeconfig.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\eks\ordered_yaml.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\eks\update_kubeconfig.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\addinstancegroups.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\addsteps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\addtags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\applicationutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\argumentschema.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\command.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\config.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\configutils.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\createcluster.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\createdefaultroles.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\describecluster.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\emr.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\emrfsutils.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\emrutils.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\hbase.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\hbaseutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\helptext.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\installapplications.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\instancefleetsutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\instancegroupsutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\listclusters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\modifyclusterattributes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\ssh.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\sshutils.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emr\steputils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emr\terminateclusters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emrcontainers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emrcontainers\base36.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emrcontainers\constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emrcontainers\eks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\emrcontainers\iam.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\emrcontainers\update_role_trust_policy.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\flatten.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\gamelift\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\gamelift\getlog.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\gamelift\uploadbuild.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\generatecliskeleton.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\globalargs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\history\__init__.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\history\commands.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\history\constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\history\db.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+threading.local (total: 1)
+    2.4, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\history\filters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\history\list.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\history\show.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\iamvirtmfa.py
+--------------------------------------------------------------------------------
+os.fchmod (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\iot.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\iot_data.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\kinesis.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\kms.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\logs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\logs\startlivetail.py
+--------------------------------------------------------------------------------
+BrokenPipeError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\mturk.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\overridesslcommonname.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: aws-cli\awscli\customizations\paginate.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\preview.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\putmetricdata.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\quicksight.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\rds.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\rekognition.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\removals.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\route53.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\comparator.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\fileformat.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\filegenerator.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\fileinfo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\fileinfobuilder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\filters.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\results.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\s3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\s3handler.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\subcommands.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 6)
+    !2, 3.6: 6
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.getfilesystemencoding (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\base.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\caseconflict.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\delete.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\exacttimestamps.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\register.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\syncstrategy\sizeonly.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3\transferconfig.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3\utils.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mtime (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3errormsg.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\s3events.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 5)
+    !2, 3.6: 5
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\s3uploader.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\sagemaker.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\scalarparse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\exceptions.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\generate.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\generatebase.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\generateproduct.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\servicecatalog\generateprovisioningartifact.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\servicecatalog\helptext.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\servicecatalog\utils.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\sessendemail.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\sessionmanager.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\sms_voice.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\socialmessaging.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\streamingoutputarg.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\toplevelbool.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\translate.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\customizations\utils.py
+--------------------------------------------------------------------------------
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\customizations\waiters.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\errorhandler.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\formatter.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\handlers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\awscli\help.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 4)
+    !2, 3.0: 4
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\paramfile.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\plugin.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\awscli\schema.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\awscli\shorthand.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 7)
+    !2, 3.6: 7
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\awscli\table.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+unicodedata.east_asian_width (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\testutils.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.urandom (total: 1)
+    2.4, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\awscli\text.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\awscli\topictags.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\awscli\utils.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+csv (total: 1)
+    2.3, 3.0: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\bin\aws
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\bin\aws_completer
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\doc\source\bootstrapdocs.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\doc\source\conf.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\doc\source\guzzle_sphinx_theme\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\doc\source\htmlgen
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\install
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\install-benchmark
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\install-check
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\install-dev-deps
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\run-benchmark
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\run-check
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\run-dep-tests
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\run-integ-tests
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\run-tests
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\ci\test-bundle
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: aws-cli\scripts\ci\upload-benchmark
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\install
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+optparse (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+tarfile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\scripts\make-bundle
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 13)
+    !2, 3.6: 13
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\scripts\make-global-opts-documentation
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\make-topic-index
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\new-change
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\scripts\new-change:138: SyntaxWarning: invalid escape sequence '\d'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\performance\benchmark-cp
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\performance\benchmark-mv
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\performance\benchmark-rm
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\scripts\performance\benchmark_utils.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_call (total: 1)
+    2.5, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\scripts\performance\perfcmp
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\setup.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\__init__.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: aws-cli\tests\dependencies\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\dependencies\test_closure.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.cached_property (total: 1)
+    !2, 3.8: 1
+
+importlib.metadata (total: 1)
+    !2, 3.8: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+
+FILE: aws-cli\tests\functional\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\apigateway\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\apigateway\test_put_integration.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\autoscale\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\autoscale\test_terminate_instance_in_autoscaling_group.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\awslambda\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\awslambda\test_function.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\cloudformation\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudformation\test_create_stack.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudformation\test_create_stack.py:44: SyntaxWarning: invalid escape sequence '\,'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudformation\test_describe_stacks.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudformation\test_package.py
+--------------------------------------------------------------------------------
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+zipfile.ZipFile.open (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\cloudformation\test_register_type.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudformation\test_update_stack.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudfront\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudfront\test_create_distribution.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudfront\test_create_invalidation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudfront\test_get_distribution_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudfront\test_sign.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\cloudfront\test_update_distribution.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudsearch\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudsearch\test_cloudsearch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudtrail\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudtrail\test_validation.py
+--------------------------------------------------------------------------------
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 52)
+    !2, 3.6: 52
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\cloudwatch\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cloudwatch\test_put_metric_data.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\codeartifact\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\codeartifact\test_codeartifact_login.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cognito_identity\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\cognito_identity\test_create_identity_pool.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\configservice\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\configservice\test_put_configuration_recorder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\configservice\test_subscribe.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\functional\configure\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\configure\test_addmodel.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\configure\test_configure.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\configured_endpoint_urls\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\configured_endpoint_urls\test_configured_endpoint_url.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\datapipeline\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\datapipeline\test_get_pipeline_definition.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\datapipeline\test_list_runs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\datapipeline\test_query_objects.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\dependencies\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\dependencies\test_colorama.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\docs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\docs\test_examples.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+shlex.split (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\docs\test_help_output.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\dynamodb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\dynamodb\test_pagination.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_associate_address.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_attach_internet_gateway.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_bundle_instance.py
+--------------------------------------------------------------------------------
+base64.encodebytes (total: 1)
+    !2, 3.1: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\test_create_image.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_create_network_acl_entry.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_create_tags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_describe_instance_attribute.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\test_describe_instances.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_describe_snapshots.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_describe_volumes.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\test_get_password_data.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\test_modify_image_attribute.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_modify_instance_attribute.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ec2\test_replace_network_acl_entry.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_run_instances.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ec2\test_security_group_operations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ecr\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ecr\test_get_login.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ecr\test_get_login_password.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ecr_public\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ecr_public\test_get_login_password.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ecs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ecs\test_deploy.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ecs\test_execute_command.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\eks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\eks\test_get_token.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\eks\test_kubeconfig.py
+--------------------------------------------------------------------------------
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\eks\test_update_kubeconfig.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\eks\test_util.py
+--------------------------------------------------------------------------------
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\elasticache\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elasticache\test_create_cache_cluster.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elasticbeanstalk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elasticbeanstalk\test_create_application.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elasticbeanstalk\test_update_configuration_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\test_configure_health_check.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\test_deregister_instances_from_load_balancer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\test_describe_instance_health.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\test_register_instances_with_load_balancer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\elb\test_remove_tags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\firehose\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\firehose\test_put_record_batch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\gamelift\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\gamelift\test_get_game_session_log.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\gamelift\test_upload_build.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 12)
+    !2, 3.6: 12
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\history\__init__.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+uuid (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\history\test_db.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: aws-cli\tests\functional\history\test_list.py
+--------------------------------------------------------------------------------
+synonym (total: 4)
+    2.6, 3.0: 4
+
+
+FILE: aws-cli\tests\functional\history\test_show.py
+--------------------------------------------------------------------------------
+synonym (total: 7)
+    2.6, 3.0: 7
+
+
+FILE: aws-cli\tests\functional\iam\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\iam\test_create_open_id_connect_provider.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\iam\test_create_virtual_mfa_device.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\iam\test_list_access_keys.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\iot\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\iot\test_outfile.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\kinesis\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\kinesis\test_list_streams.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\kinesis\test_remove_operations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\lex\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\lex\test_remove_operations.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\logs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\logs\test_get_log_events.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\logs\test_startlivetail.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\machinelearning\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\machinelearning\test_predict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\mturk\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\mturk\test_alias.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\quicksight\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\quicksight\test_assetbundle_parameters.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\rds\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\rds\test_describe_db_log_files.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\rds\test_generate_db_auth_token.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\rds\test_modify_option_group.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\rekognition\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\rekognition\test_image_parameters.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\route53\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\route53\test_list_resource_record_sets.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\route53\test_resource_id.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\route53domains\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\route53domains\test_view_billing.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\__init__.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3\test_cp_command.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 10)
+    !2, 3.6: 10
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+
+FILE: aws-cli\tests\functional\s3\test_ls_command.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\test_mb_command.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\test_mv_command.py
+--------------------------------------------------------------------------------
+f-strings (total: 31)
+    !2, 3.6: 31
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\functional\s3\test_presign_command.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3\test_rb_command.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\test_rm_command.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\test_s3_object_lambda.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3\test_sync_command.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 5)
+    2.6, 3.0: 5
+
+
+FILE: aws-cli\tests\functional\s3\test_website_command.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3api\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\s3api\test_get_object.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3api\test_list_objects.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3api\test_put_bucket_tagging.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3api\test_put_object.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\s3api\test_select_object_content.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\sagemaker\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sagemaker\test_alias.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\servicecatalog\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\servicecatalog\test_generate_createproduct.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\servicecatalog\test_generate_createprovisioningartifact.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\ses\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ses\test_create_custom_verification_email_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ses\test_send_email.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ses\test_update_custom_verification_email_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sesv2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sesv2\test_create_custom_verification_email_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sesv2\test_put_account_details.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sesv2\test_update_custom_verification_email_template.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sns\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sns\test_create_platform_application.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\socialmessaging\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\socialmessaging\test_alias.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_add_permission.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_change_message_visibility.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_create_queue.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_get_queue_attributes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_list_queues.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_purge_queue.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\sqs\test_set_queue_attributes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ssm\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\ssm\test_start_session.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\storagegateway\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\storagegateway\test_describe_cached_iscsi_volumes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\storagegateway\test_describe_tapes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\test_alias.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_api_versions.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_args.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_cliinputjson.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_document_types.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_generatecliskeleton.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_globals.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_no_event_streams.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\test_override_ssl_common_name.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: aws-cli\tests\functional\test_paramfile.py
+--------------------------------------------------------------------------------
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: aws-cli\tests\functional\test_preview.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_response_metadata.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\test_shadowing.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_streaming_output.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\functional\test_table.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\test_timeformat.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\test_utils.py
+--------------------------------------------------------------------------------
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\translate\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\translate\test_import_terminology.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\translate\test_translate_document.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\functional\workspaces\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\workspaces\test_reboot_workspaces.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\workspaces\test_rebuild_workspaces.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\functional\workspaces\test_terminate_workspaces.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\customizations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\customizations\history\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\customizations\history\test_show.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\customizations\s3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\customizations\s3\test_filegenerator.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\integration\customizations\s3\test_plugin.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 9)
+    !2, 3.6: 9
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+platform.linux_distribution (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 13)
+    2.6, 3.0: 13
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: aws-cli\tests\integration\customizations\test_codecommit.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\integration\customizations\test_generatecliskeleton.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\integration\customizations\test_waiters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\test_assume_role.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\integration\test_cli.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\integration\test_ec2.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\integration\test_smoke.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: aws-cli\tests\unit\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\bcdoc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\bcdoc\test_docstringparser.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: aws-cli\tests\unit\bcdoc\test_document.py
+--------------------------------------------------------------------------------
+synonym (total: 10)
+    2.6, 3.0: 10
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\bcdoc\test_style.py
+--------------------------------------------------------------------------------
+synonym (total: 43)
+    2.6, 3.0: 43
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\test_artifact_exporter.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\test_deploy.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.namedtuple (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\test_deployer.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\test_package.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\cloudformation\test_yamlhelper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudtrail\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudtrail\test_commands.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudtrail\test_subscribe.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\cloudtrail\test_utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\cloudtrail\test_validation.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 20)
+    !2, 3.6: 20
+
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: aws-cli\tests\unit\customizations\codeartifact\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\codeartifact\test_adapter_login.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_deregister.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_install.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_locationargs.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_push.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_register.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_systems.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_uninstall.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\codedeploy\test_utils.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+socket.timeout (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\configservice\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configservice\test_getstatus.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configservice\test_putconfigurationrecorder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configservice\test_subscribe.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configure\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configure\test_addmodel.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\configure\test_configure.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configure\test_get.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\configure\test_list.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\configure\test_set.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\configure\test_writer.py
+--------------------------------------------------------------------------------
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_arg_parse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_arg_serialize.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_commands.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_create_default_role.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_listrunsformatter.py
+--------------------------------------------------------------------------------
+difflib (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\datapipeline\test_translator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\dlm\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\dlm\test_create_default_role.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\ec2\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\ec2\test_paginate.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\ecs\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\ecs\test_codedeployer.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\ecs\test_codedeployvalidator.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\ecs\test_ecsclient.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\ecs\test_executecommand_startsession.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\ecs\test_filehelpers.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\eks\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\eks\test_get_token.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+datetime.datetime.strptime (total: 1)
+    2.5, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\eks\test_kubeconfig.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+os.stat.st_size (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\eks\test_update_kubeconfig.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\__init__.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_add_instance_fleet.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_add_instance_groups.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_add_steps.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_add_tags.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_assume_role_policy.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_command.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_constants.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_constants_instance_fleets.py
+--------------------------------------------------------------------------------
+f-strings (total: 4)
+    !2, 3.6: 4
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_create_cluster_ami_version.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_create_cluster_release_label.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_create_default_role.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_create_hbase_backup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_describe_cluster.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_disable_hbase_backup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_emr_utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_emrfs_utils.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_get_service_principal.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_install_applications.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_list_clusters.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_modify_cluster_attributes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_modify_instance_fleet.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+
+FILE: aws-cli\tests\unit\customizations\emr\test_restore_from_hbase_backup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_schedule_hbase_backup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_sshutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emr\test_terminate_clusters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emrcontainers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emrcontainers\test_base36.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\emrcontainers\test_update_assume_role_policy.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\gamelift\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\gamelift\test_getlog.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\gamelift\test_uploadbuild.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\history\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\history\test_db.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+numbers (total: 1)
+    2.6, 3.0: 1
+
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 14)
+    2.6, 3.0: 14
+
+
+FILE: aws-cli\tests\unit\customizations\history\test_db.py:723: SyntaxWarning: invalid escape sequence '\e'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\history\test_filters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\history\test_history.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\history\test_list.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\history\test_show.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\logs\test_startlivetail.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_base.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_caseconflict.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_delete.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_exacttimestamps.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_register.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\syncstrategy\test_sizeonly.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_comparator.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_copy_params.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_fileformat.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_filegenerator.py
+--------------------------------------------------------------------------------
+os.mknod (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_fileinfo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\test_fileinfobuilder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\test_filters.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_results.py
+--------------------------------------------------------------------------------
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_s3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\test_s3handler.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_subcommands.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\s3\test_transferconfig.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\s3\test_utils.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 24)
+    !2, 3.6: 24
+
+object (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\servicecatalog\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\servicecatalog\test_generate.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\servicecatalog\test_generateproduct.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\servicecatalog\test_generateprovisioningartifact.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+
+FILE: aws-cli\tests\unit\customizations\servicecatalog\test_utils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_argrename.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_arguments.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_assumerole.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_cliinputjson.py
+--------------------------------------------------------------------------------
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_cloudsearchdomain.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_cloudwatch.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_codecommit.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_commands.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_dynamodb.py
+--------------------------------------------------------------------------------
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_flatten.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_generatecliskeleton.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_globalargs.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_overridesslcommonname.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+
+FILE: aws-cli\tests\unit\customizations\test_paginate.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_s3errormsg.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_s3uploader.py
+--------------------------------------------------------------------------------
+hashlib (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_scalarparse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\customizations\test_sessionmanager.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\customizations\test_utils.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\unit\customizations\test_waiters.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\output\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\output\test_json_output.py
+--------------------------------------------------------------------------------
+contextlib (total: 1)
+    2.5, 3.0: 1
+
+contextlib.redirect_stdout (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\output\test_table_formatter.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\output\test_text_output.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_alias.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_argparser.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+object (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_argprocess.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_arguments.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_clidocs.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_clidriver.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.reload (total: 1)
+    !2, 3.4: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_compat.py
+--------------------------------------------------------------------------------
+os.stat.st_mode (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\unit\test_completer.py
+--------------------------------------------------------------------------------
+difflib (total: 1)
+    2.1, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_decorators.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aws-cli\tests\unit\test_errorhandler.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_help.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\unit\test_paramfile.py
+--------------------------------------------------------------------------------
+synonym (total: 2)
+    2.6, 3.0: 2
+
+
+FILE: aws-cli\tests\unit\test_paramfile.py:103: SyntaxWarning: invalid escape sequence '\.'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_paramfile.py:98: SyntaxWarning: invalid escape sequence '\.'
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_plugin.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_schema.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_shorthand.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: aws-cli\tests\unit\test_table.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_testutils.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: aws-cli\tests\unit\test_text.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_topictags.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_utils.py
+--------------------------------------------------------------------------------
+platform (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: aws-cli\tests\unit\test_utils.py:70: SyntaxWarning: invalid escape sequence '\,'
+--------------------------------------------------------------------------------
+No modernity features found.
+

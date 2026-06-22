@@ -1,0 +1,13 @@
+Statistics for: erpnext_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 825
+W: 135657
+C: 4852
+R: 2200
+
+Total messages: 143534
+Average rating: 0.05/10

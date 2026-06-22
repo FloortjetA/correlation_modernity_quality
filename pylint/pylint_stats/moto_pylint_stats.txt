@@ -1,0 +1,13 @@
+Statistics for: moto_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 256
+W: 3590
+C: 4179
+R: 4412
+
+Total messages: 12437
+Average rating: 9.13/10

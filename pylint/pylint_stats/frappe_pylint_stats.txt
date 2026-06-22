@@ -1,0 +1,13 @@
+Statistics for: frappe_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 366
+W: 82728
+C: 3008
+R: 1712
+
+Total messages: 87814
+Average rating: 0.14/10

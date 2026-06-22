@@ -1,0 +1,13 @@
+Statistics for: ipython_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 1
+E: 937
+W: 1433
+C: 626
+R: 803
+
+Total messages: 3800
+Average rating: 7.15/10

@@ -1,0 +1,13 @@
+Statistics for: ccxt_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 1554
+W: 18020
+C: 45187
+R: 8623
+
+Total messages: 73384
+Average rating: 6.64/10

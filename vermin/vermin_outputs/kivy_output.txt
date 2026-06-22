@@ -1,0 +1,3415 @@
+Detecting python files..
+Analyzing 486 files using 20 processes..
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\autobuild.py
+  print(expr) requires 2.0, 3.0
+  L90: `with` requires 2.5, 3.0
+  L101: `with` requires 2.5, 3.0
+  L129 C11: 'any' member requires 2.5, 3.0
+  L267: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\sources\conf.py
+  print(expr) requires 2.0, 3.0
+  L18 C7: 'configparser' module requires !2, 3.0
+  L241: f-strings require !2, 3.6
+  L242: f-strings require !2, 3.6
+  L243: f-strings require !2, 3.6
+  L250: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\sources\sphinxext\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\sources\sphinxext\autodoc.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\sources\sphinxext\kivy_pygments_theme.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\doc\sources\sphinxext\preprocess.py
+  L91 C29: 'enumerate' member requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\3Drendering\main.py
+  L32 C8: 'super' member requires 2.2, 3.0
+  L33: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\3Drendering\objloader.py
+  L5: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L6: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L7: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\RST_Editor\main.py
+  L42: `with` requires 2.5, 3.0
+  L48: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\android\compass\main.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\android\takepicture\main.py
+  L27 C5: 'functools' module requires 2.5, 3.0
+  L52: `"..{}..".format(..)` requires 2.7, 3.0
+  L53: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\animation\animate.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\application\app_suite.py
+  print(expr) requires 2.0, 3.0
+  L16 C5: '__future__' module requires 2.1, 3.0
+  L16 C5: '__future__.print_function' member requires 2.6, 3.0
+  L99: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\application\app_with_build.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\application\app_with_config.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\application\app_with_kv.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\application\app_with_kv_in_template1.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\async\asyncio_advanced.py
+  print(expr) requires 2.0, 3.0
+  L5 C7: 'asyncio' module requires !2, 3.4
+  L52: coroutines (async) require !2, 3.5
+  L55: coroutines (await) require !2, 3.5
+  L61: coroutines (async) require !2, 3.5
+  L70: `"..{}..".format(..)` requires 2.7, 3.0
+  L70: 'str.format' member requires 2.6, 3.0
+  L79: coroutines (await) require !2, 3.5
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\async\asyncio_basic.py
+  print(expr) requires 2.0, 3.0
+  L4 C7: 'asyncio' module requires !2, 3.4
+  L22: coroutines (async) require !2, 3.5
+  L28: coroutines (await) require !2, 3.5
+  L34: coroutines (async) require !2, 3.5
+  L41: coroutines (await) require !2, 3.5
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\async\trio_advanced.py
+  print(expr) requires 2.0, 3.0
+  L46: coroutines (async) require !2, 3.5
+  L49: `async with` requires !2, 3.5
+  L58: coroutines (async) require !2, 3.5
+  L60: coroutines (await) require !2, 3.5
+  L67: coroutines (async) require !2, 3.5
+  L75: `"..{}..".format(..)` requires 2.7, 3.0
+  L75: 'str.format' member requires 2.6, 3.0
+  L84: coroutines (await) require !2, 3.5
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\async\trio_basic.py
+  print(expr) requires 2.0, 3.0
+  L21: coroutines (async) require !2, 3.5
+  L25: coroutines (await) require !2, 3.5
+  L31: coroutines (async) require !2, 3.5
+  L36: coroutines (await) require !2, 3.5
+  L44: coroutines (async) require !2, 3.5
+  L48: `async with` requires !2, 3.5
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\audio\main.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\audio\pitch.py
+  L8 C5: 'sys.version_info' member requires 2.0, 3.0
+  L25: 'str.format' member requires 2.6, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\camera\main.py
+  print(expr) requires 2.0, 3.0
+  L49: `"..{}..".format(..)` requires 2.7, 3.0
+  L49: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\antialiasing.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\bezier.py
+  L27: `with` requires 2.5, 3.0
+  L63 C24: 'enumerate' member requires 2.3, 3.0
+  L87 C19: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\canvas_stress.py
+  L19 C5: 'functools' module requires 2.5, 3.0
+  L26: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\circle.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\fbo_canvas.py
+  L31: `with` requires 2.5, 3.0
+  L36: `with` requires 2.5, 3.0
+  L55 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\lines.py
+  L263 C15: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\lines_extended.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\mesh.py
+  L15 C5: 'functools' module requires 2.5, 3.0
+  L39: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\mesh_manipulation.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\multitexture.py
+  L67: `with` requires 2.5, 3.0
+  L100 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\repeat_texture.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\rotation.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\rounded_rectangle.py
+  L16: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\scale.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\stencil_canvas.py
+  L22 C5: 'functools' module requires 2.5, 3.0
+  L41: `with` requires 2.5, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\tesselate.py
+  L81 C11: 'super' member requires 2.2, 3.0
+  L104: `"..{}..".format(..)` requires 2.7, 3.0
+  L109: `with` requires 2.5, 3.0
+  L124: `with` requires 2.5, 3.0
+  L130: `"..{}..".format(..)` requires 2.7, 3.0
+  L136: `"..{}..".format(..)` requires 2.7, 3.0
+  L136: 'str.format' member requires 2.6, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\canvas\texture.py
+  L31 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\container\main.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\cover\cover_image.py
+  L12 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\cover\cover_video.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\camera_puzzle.py
+  L22 C5: 'functools' module requires 2.5, 3.0
+  L50: `with` requires 2.5, 3.0
+  L78 C8: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\kivycatalog\main.py
+  L65: function decorators require 2.4, 3.0
+  L74 C28: 'type' member requires 2.2, 3.0
+  L121 C8: 'super' member requires 2.2, 3.0
+  L132: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\multistroke\gesturedatabase.py
+  L67: `with` requires 2.5, 3.0
+  L88 C8: 'super' member requires 2.2, 3.0
+  L102: 'sorted(key)' requires 2.4, 3.0
+  L102 C17: 'sorted' member requires 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\multistroke\helpers.py
+  L26 C8: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\multistroke\historymanager.py
+  L198: 'sorted(key)' requires 2.4, 3.0
+  L198: 'sorted(reverse)' requires 2.4, 3.0
+  L198 C19: 'sorted' member requires 2.4, 3.0
+  L215 C8: 'super' member requires 2.2, 3.0
+  L262: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\multistroke\main.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\multistroke\settings.py
+  L83 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\pictures\main.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\shadereditor\main.py
+  print(expr) requires 2.0, 3.0
+  L112 C8: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\showcase\main.py
+  L49 C15: 'super' member requires 2.2, 3.0
+  L66 C33: 'sorted' member requires 2.4, 3.0
+  L75: `"..{}..".format(..)` requires 2.7, 3.0
+  L75: 'str.format' member requires 2.6, 3.0
+  L127: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\demo\touchtracer\main.py
+  print(expr) requires 2.0, 3.0
+  L77: `with` requires 2.5, 3.0
+  L119: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\desktop_path_id\demo_app.py
+  print(expr) requires 2.0, 3.0
+  L12 C5: 'textwrap' module requires 2.3, 3.0
+  L62: f-strings require !2, 3.6
+  L96: f-strings require !2, 3.6
+  L97: f-strings require !2, 3.6
+  L98: f-strings require !2, 3.6
+  L99: f-strings require !2, 3.6
+  L100: f-strings require !2, 3.6
+  L101: f-strings require !2, 3.6
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\frameworks\twisted\echo_client_app.py
+  L2 C5: '__future__' module requires 2.1, 3.0
+  L2 C5: '__future__.unicode_literals' member requires 2.6, 3.0
+  L78: `"..{}..".format(..)` requires 2.7, 3.0
+  L78: 'str.format' member requires 2.6, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\frameworks\twisted\echo_server_app.py
+  L38: `"..{}..".format(..)` requires 2.7, 3.0
+  L44: `"..{}..".format(..)` requires 2.7, 3.0
+  L44: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\frameworks\twisted\twistd_app.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\gestures\gesture_board.py
+  print(expr) requires 2.0, 3.0
+  L28 C8: 'super' member requires 2.2, 3.0
+  L41: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\gestures\my_gestures.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\designwithkv\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\1_skeleton.py
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\2_print_touch.py
+  print(expr) requires 2.0, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\3_draw_ellipse.py
+  L9: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\4_draw_line.py
+  L9: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\5_random_colors.py
+  L11: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\firstwidget\6_button.py
+  L12: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\guide\quickstart\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\includes\main.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\keyboard\main.py
+  L16 C5: 'functools' module requires 2.5, 3.0
+  L162 C8: 'super' member requires 2.2, 3.0
+  L211: 'str.format' member requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\kinect\kinectviewer.py
+  L4 C5: 'collections' module requires 2.4, 3.0
+  L4 C5: 'collections.deque' member requires 2.4, 3.0
+  L186 C8: 'super' member requires 2.2, 3.0
+  L194: `with` requires 2.5, 3.0
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\kv\builder_template.py
+  L19 C25: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\kv\ids\id_in_kv\id_in_kv.py
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\kv\ids\kv_and_py\kv_and_py.py
+  print(expr) requires 2.0, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\kv\kvrun.py
+  print(expr) requires 2.0, 3.0
+  L10 C8: 'super' member requires 2.2, 3.0
+
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\clipboard.py
+  print(expr) requires 2.0, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\custom_titlebar.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\imagesave.py
+  print(expr) requires 2.0, 3.0
+  L4 C5: 'io' module requires 2.6, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\joystick.py
+  print(expr) requires 2.0, 3.0
+  L24 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\multiple_dropfile.py
+  L9 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\on_textedit_event.py
+  L45 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\opacitywindow.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\shapecollisions.py
+  print(expr) requires 2.0, 3.0
+  L8 C5: 'itertools' module requires 2.3, 3.0
+  L8 C5: 'itertools.combinations' member requires 2.6, 3.0
+  L221: `with` requires 2.5, 3.0
+  L303: `with` requires 2.5, 3.0
+  L323 C8: 'super' member requires 2.2, 3.0
+  L357: `with` requires 2.5, 3.0
+  L365: `"..{}..".format(..)` requires 2.7, 3.0
+  L365: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\shapedwindow.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\system_theme_monitor.py
+  L12: super() without arguments requires !2, 3.0
+  L12 C8: 'super' member requires 2.2, 3.0
+  L13: f-strings require !2, 3.6
+  L35: 'threading.Thread(daemon)' requires !2, 3.3
+  L44: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\two_panes.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\miscellaneous\urlrequest.py
+  L6 C7: 'json' module requires 2.6, 3.0
+  L104: `"..{}..".format(..)` requires 2.7, 3.0
+  L104: 'str.format' member requires 2.6, 3.0
+  L105: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\settings\main.py
+  L101 C8: 'super' member requires 2.2, 3.0
+  L118: 'str.format' member requires 2.6, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\shader\plasma.py
+  L56 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\shader\rotated.py
+  L75 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\shader\shadertree.py
+  L23 C7: 'itertools' module requires 2.3, 3.0
+  L108: `with` requires 2.5, 3.0
+  L113: `with` requires 2.5, 3.0
+  L171 C8: 'super' member requires 2.2, 3.0
+  L184 C32: 'next' member requires 2.6, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\svg\benchmark.py
+  print(expr) requires 2.0, 3.0
+  L10 C11: 'cProfile' module requires 2.5, 3.0
+  L12: 'pstats.Stats' member requires 2.3, 3.0
+  L15: `"..{}..".format(..)` requires 2.7, 3.0
+  L19: 'str.format' member requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\svg\main-smaa.py
+  L70 C8: 'super' member requires 2.2, 3.0
+  L71: `with` requires 2.5, 3.0
+  L95: `with` requires 2.5, 3.0
+  L120: `with` requires 2.5, 3.0
+  L148 C25: 'reversed' member requires 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\svg\main.py
+  L27 C8: 'super' member requires 2.2, 3.0
+  L28: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\system_tray\system_tray_showcase.py
+  L116: super() without arguments requires !2, 3.0
+  L116 C8: 'super' member requires 2.2, 3.0
+  L162: f-strings require !2, 3.6
+  L166: f-strings require !2, 3.6
+  L168: f-strings require !2, 3.6
+  L185: f-strings require !2, 3.6
+  L203: f-strings require !2, 3.6
+  L204: f-strings require !2, 3.6
+  L223: f-strings require !2, 3.6
+  L227: f-strings require !2, 3.6
+  L243: f-strings require !2, 3.6
+  L281: f-strings require !2, 3.6
+  L321: f-strings require !2, 3.6
+  L335: f-strings require !2, 3.6
+  L342: f-strings require !2, 3.6
+  L359: f-strings require !2, 3.6
+  L363: f-strings require !2, 3.6
+  L364: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\text\pango_demo.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\notes\final\main.py
+  L11 C7: 'json' module requires 2.6, 3.0
+  L39 C15: 'super' member requires 2.2, 3.0
+  L80 C31: 'enumerate' member requires 2.3, 3.0
+  L99: `with` requires 2.5, 3.0
+  L104: `with` requires 2.5, 3.0
+  L115: `"..{}..".format(..)` requires 2.7, 3.0
+  L115: 'str.format' member requires 2.6, 3.0
+  L157: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\steps\step1\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\steps\step2\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\steps\step3\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\steps\step4\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\tutorials\pong\steps\step5\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\accordion_1.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\actionbar.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\asyncimage.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\boxlayout_poshint.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\bubble_test.py
+  L39 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\camera.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\carousel_buttons.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\codeinput.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\colorpicker.py
+  L9 C5: 'os.walk' member requires 2.3, 3.0
+  L157: `with` requires 2.5, 3.0
+  L190 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\colorusage.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\compound_selection.py
+  print(expr) requires 2.0, 3.0
+  L41 C21: 'enumerate' member requires 2.3, 3.0
+  L64 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\customcollide.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\effectwidget.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\effectwidget2.py
+  L27 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\effectwidget3_advanced.py
+  L45 C8: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\fbowidget.py
+  print(expr) requires 2.0, 3.0
+  L48: `with` requires 2.5, 3.0
+  L68 C8: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\focus_behavior.py
+  L18: `with` requires 2.5, 3.0
+  L41 C11: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\image_mipmap.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\keyboardlistener.py
+  print(expr) requires 2.0, 3.0
+  L11 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\label_mipmap.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\label_sizing.py
+  L178 C19: 'next' member requires 2.6, 3.0
+  L179 C15: 'StopIteration' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\label_text_size.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\label_with_markup.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\lang_dynamic_classes.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\pagelayout.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\popup_with_kv.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\basic_data.py
+  L1 C5: 'random.sample' member requires 2.3, 3.0
+  L99: 'sorted(key)' requires 2.4, 3.0
+  L99 C23: 'sorted' member requires 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\infinite_scrolling.py
+  L10 C5: 'random.sample' member requires 2.3, 3.0
+  L126: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\key_viewclass.py
+  L41 C5: 'random.choices' member requires !2, 3.6
+  L167 C22: 'enumerate' member requires 2.3, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\messenger.py
+  L151: generalized unpacking requires !2, 3.5
+  L159: generalized unpacking requires !2, 3.5
+  L167: generalized unpacking requires !2, 3.5
+  L172: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\nested_orthogonal.py
+  L101: super() without arguments requires !2, 3.0
+  L101 C8: 'super' member requires 2.2, 3.0
+  L109: f-strings require !2, 3.6
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\pull_to_refresh.py
+  L10 C5: 'datetime' module requires 2.3, 3.0
+  L84: `"..{}..".format(..)` requires 2.7, 3.0
+  L84: 'str.format' member requires 2.6, 3.0
+  L88: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\recycleview\rv_animate_items.py
+  L78: `"..{}..".format(..)` requires 2.7, 3.0
+  L78: 'str.format' member requires 2.6, 3.0
+  L86: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\rstexample.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\scatter.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\screenmanager.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\scrollview.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\scrollview_damped_effect_tuning.py
+  print(expr) requires 2.0, 3.0
+  L286: super() without arguments requires !2, 3.0
+  L291: `with` requires 2.5, 3.0
+  L306: super() without arguments requires !2, 3.0
+  L306 C8: 'super' member requires 2.2, 3.0
+  L327: f-strings require !2, 3.6
+  L327 C34: 'type' member requires 2.2, 3.0
+  L329: f-strings require !2, 3.6
+  L330: f-strings require !2, 3.6
+  L331: f-strings require !2, 3.6
+  L332: f-strings require !2, 3.6
+  L333: f-strings require !2, 3.6
+  L334: f-strings require !2, 3.6
+  L335: f-strings require !2, 3.6
+  L363: f-strings require !2, 3.6
+  L386: f-strings require !2, 3.6
+  L392: f-strings require !2, 3.6
+  L393: f-strings require !2, 3.6
+  L394: f-strings require !2, 3.6
+  L400: f-strings require !2, 3.6
+  L401: f-strings require !2, 3.6
+  L402: f-strings require !2, 3.6
+  L408: f-strings require !2, 3.6
+  L414: f-strings require !2, 3.6
+  L420: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\scrollview_nested_orthogonal.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\scrollview_nested_verticals.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\sequenced_images\main.py
+  L53 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\sequenced_images\uix\__init__.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\sequenced_images\uix\custom_button.py
+  L28 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\settings.py
+  L89 C12: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\shorten_text.py
+2.0, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\spinner.py
+  print(expr) requires 2.0, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\splitter.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\tabbed_panel_showcase.py
+  L257 C12: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\tabbedpanel.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\textalign.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\textinput.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\unicode_textinput.py
+  L226: function decorators require 2.4, 3.0
+  L239 C15: 'sorted' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\examples\widgets\videoplayer.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\__init__.py
+  print(expr) requires 2.0, 3.0
+  L37 C7: 'pkgutil' module requires 2.3, 3.0
+  L39 C7: 'importlib' module requires 2.7, 3.1
+  L61: 'sys.version_info' member requires 2.0, 3.0
+  L225: set literals require 2.7, 3.0
+  L225 C15: 'type' member requires 2.2, 3.0
+  L229: set literals require 2.7, 3.0
+  L274: 'site.USER_BASE' member requires 2.6, 3.0
+  L279: 'os.add_dll_directory' member requires !2, 3.8
+  L315: 'importlib.util.module_from_spec' member requires !2, 3.5
+  L320: `"..{}..".format(..)` requires 2.7, 3.0
+  L321: `"..{}..".format(..)` requires 2.7, 3.0
+  L329: `"..{}..".format(..)` requires 2.7, 3.0
+  L342 C3: 'any' member requires 2.5, 3.0
+  L351: set literals require 2.7, 3.0
+  L368: 'sys.base_prefix' member requires !2, 3.3
+  L373: set literals require 2.7, 3.0
+  L389: 'os.makedirs(exist_ok)' requires !2, 3.2
+  L391: set literals require 2.7, 3.0
+  L534: `"..{}..".format(..)` requires 2.7, 3.0
+  L535: `"..{}..".format(..)` requires 2.7, 3.0
+  L536: `"..{}..".format(..)` requires 2.7, 3.0
+  L536: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\_version.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\animation.py
+  L87 C5: 'collections' module requires 2.4, 3.0
+  L87 C5: 'collections.ChainMap' member requires !2, 3.3
+  L131: super() without arguments requires !2, 3.0
+  L142: function decorators require 2.4, 3.0
+  L148: function decorators require 2.4, 3.0
+  L154: function decorators require 2.4, 3.0
+  L160: function decorators require 2.4, 3.0
+  L181: function decorators require 2.4, 3.0
+  L219 C29: 'set' member requires 2.4, 3.0
+  L423: super() without arguments requires !2, 3.0
+  L445: function decorators require 2.4, 3.0
+  L451: function decorators require 2.4, 3.0
+  L461: super() without arguments requires !2, 3.0
+  L475: function decorators require 2.4, 3.0
+  L485: super() without arguments requires !2, 3.0
+  L522: super() without arguments requires !2, 3.0
+  L529: function decorators require 2.4, 3.0
+  L538: super() without arguments requires !2, 3.0
+  L538 C8: 'super' member requires 2.2, 3.0
+  L562: function decorators require 2.4, 3.0
+  L567: function decorators require 2.4, 3.0
+  L573: function decorators require 2.4, 3.0
+  L579: function decorators require 2.4, 3.0
+  L589: function decorators require 2.4, 3.0
+  L595: function decorators require 2.4, 3.0
+  L602: function decorators require 2.4, 3.0
+  L612: function decorators require 2.4, 3.0
+  L618: function decorators require 2.4, 3.0
+  L625: function decorators require 2.4, 3.0
+  L635: function decorators require 2.4, 3.0
+  L641: function decorators require 2.4, 3.0
+  L648: function decorators require 2.4, 3.0
+  L658: function decorators require 2.4, 3.0
+  L664: function decorators require 2.4, 3.0
+  L670: function decorators require 2.4, 3.0
+  L676: function decorators require 2.4, 3.0
+  L684: function decorators require 2.4, 3.0
+  L692: function decorators require 2.4, 3.0
+  L706: function decorators require 2.4, 3.0
+  L712: function decorators require 2.4, 3.0
+  L719: function decorators require 2.4, 3.0
+  L729: function decorators require 2.4, 3.0
+  L741: function decorators require 2.4, 3.0
+  L752: function decorators require 2.4, 3.0
+  L768: function decorators require 2.4, 3.0
+  L774: function decorators require 2.4, 3.0
+  L781: function decorators require 2.4, 3.0
+  L792: function decorators require 2.4, 3.0
+  L807: function decorators require 2.4, 3.0
+  L811: function decorators require 2.4, 3.0
+  L817: function decorators require 2.4, 3.0
+  L823: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\app.py
+  L469 C5: 'inspect' module requires 2.1, 3.0
+  L632 C8: 'super' member requires 2.2, 3.0
+  L832: function decorators require 2.4, 3.0
+  L887: 'str.format' member requires 2.6, 3.0
+  L893: function decorators require 2.4, 3.0
+  L913: set literals require 2.7, 3.0
+  L929: f-strings require !2, 3.6
+  L935: 'os.makedirs(exist_ok)' requires !2, 3.2
+  L942: set literals require 2.7, 3.0
+  L958: f-strings require !2, 3.6
+  L967: function decorators require 2.4, 3.0
+  L1006: function decorators require 2.4, 3.0
+  L1039: function decorators require 2.4, 3.0
+  L1090: coroutines (async) require !2, 3.5
+  L1099: coroutines (await) require !2, 3.5
+  L1198: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\atlas.py
+  print(expr) requires 2.0, 3.0
+  L143 C7: 'json' module requires 2.6, 3.0
+  L187 C8: 'super' member requires 2.2, 3.0
+  L205: `with` requires 2.5, 3.0
+  L228: function decorators require 2.4, 3.0
+  L293: 'sorted(key)' requires 2.4, 3.0
+  L293: 'sorted(reverse)' requires 2.4, 3.0
+  L338 C36: 'sorted' member requires 2.4, 3.0
+  L371 C29: 'enumerate' member requires 2.3, 3.0
+  L402: `with` requires 2.5, 3.0
+  L431: `"..{}..".format(..)` requires 2.7, 3.0
+  L431: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\base.py
+  L101: variable annotations require !2, 3.6
+  L115 C8: 'super' member requires 2.2, 3.0
+  L127: function decorators require 2.4, 3.0
+  L215 C24: 'reversed' member requires 2.4, 3.0
+  L293: `with` requires 2.5, 3.0
+  L299: `with` requires 2.5, 3.0
+  L351: coroutines (async) require !2, 3.5
+  L354: coroutines (await) require !2, 3.5
+  L357 C19: 'BaseException' member requires 2.5, 3.0
+  L412: coroutines (async) require !2, 3.5
+  L418: coroutines (await) require !2, 3.5
+  L579: coroutines (async) require !2, 3.5
+  L597: coroutines (await) require !2, 3.5
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\cache.py
+  print(expr) requires 2.0, 3.0
+  L41: function decorators require 2.4, 3.0
+  L63: function decorators require 2.4, 3.0
+  L115: function decorators require 2.4, 3.0
+  L133: function decorators require 2.4, 3.0
+  L150: function decorators require 2.4, 3.0
+  L167: function decorators require 2.4, 3.0
+  L190: function decorators require 2.4, 3.0
+  L193 C15: 'heapq' module requires 2.3, 3.0
+  L213: function decorators require 2.4, 3.0
+  L248: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\clock.py
+  L459 C5: 'functools' module requires 2.5, 3.0
+  L460 C5: 'weakref' module requires 2.1, 3.0
+  L464 C5: 'time.perf_counter' member requires !2, 3.3
+  L488 C11: 'ctypes' module requires 2.5, 3.0
+  L515: 'ctypes.CDLL(use_errno)' requires 2.6, 3.0
+  L549: 'ctypes.get_errno' member requires 2.6, 3.0
+  L639: coroutines (async) require !2, 3.5
+  L640: `with` requires 2.5, 3.0
+  L641: coroutines (await) require !2, 3.5
+  L644 C19: 'asyncio' module requires !2, 3.4
+  L648: `"..{}..".format(..)` requires 2.7, 3.0
+  L650: function decorators require 2.4, 3.0
+  L659: function decorators require 2.4, 3.0
+  L668: function decorators require 2.4, 3.0
+  L699: coroutines (async) require !2, 3.5
+  L712: coroutines (await) require !2, 3.5
+  L716: coroutines (await) require !2, 3.5
+  L718: coroutines (await) require !2, 3.5
+  L737: coroutines (async) require !2, 3.5
+  L741: coroutines (await) require !2, 3.5
+  L811 C11: 'staticmethod' member requires 2.2, 3.0
+  L853: coroutines (async) require !2, 3.5
+  L855: coroutines (await) require !2, 3.5
+  L893: coroutines (async) require !2, 3.5
+  L901: coroutines (await) require !2, 3.5
+  L903: coroutines (await) require !2, 3.5
+  L905: coroutines (await) require !2, 3.5
+  L959 C8: 'super' member requires 2.2, 3.0
+  L1024: coroutines (async) require !2, 3.5
+  L1055: coroutines (await) require !2, 3.5
+  L1061: coroutines (await) require !2, 3.5
+  L1063: coroutines (await) require !2, 3.5
+  L1090: function decorators require 2.4, 3.0
+  L1134: function decorators require 2.4, 3.0
+  L1213: function decorators require 2.4, 3.0
+  L1313 C7: 'callable' member requires 2.0, 3.2
+  L1328: variable annotations require !2, 3.6
+  L1335: `"..{}..".format(..)` requires 2.7, 3.0
+  L1336: 'str.format' member requires 2.6, 3.0
+  L1337 C22: 'sorted' member requires 2.4, 3.0
+  L1339: variable annotations require !2, 3.6
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\config.py
+  'configparser' module (requires !2, 3.0) vs. 'ConfigParser.ConfigParser' member (requires 2.3, !3)
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\context.py
+  L45 C15: 'bool' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\__init__.py
+  L22 C7: 'sysconfig' module requires 2.7, 3.2
+  L26 C7: 'subprocess' module requires 2.4, 3.0
+  L27 C7: 'importlib' module requires 2.7, 3.1
+  L138 C11: 'dict' member requires 2.2, 3.0
+  L231: f-strings require !2, 3.6
+  L243: f-strings require !2, 3.6
+  L259: f-strings require !2, 3.6
+  L333: `"..{}..".format(..)` requires 2.7, 3.0
+  L404: `"..{}..".format(..)` requires 2.7, 3.0
+  L405: 'sys.version_info' member requires 2.0, 3.0
+  L405: 'sys.version_info.major' member requires 2.7, 3.0
+  L405: 'sys.version_info.minor' member requires 2.7, 3.0
+  L410: `"..{}..".format(..)` requires 2.7, 3.0
+  L418: `"..{}..".format(..)` requires 2.7, 3.0
+  L440: `"..{}..".format(..)` requires 2.7, 3.0
+  L444: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L449: `"..{}..".format(..)` requires 2.7, 3.0
+  L453: `"..{}..".format(..)` requires 2.7, 3.0
+  L456: `"..{}..".format(..)` requires 2.7, 3.0
+  L459: `"..{}..".format(..)` requires 2.7, 3.0
+  L459: 'subprocess.check_output' member requires 2.7, 3.1
+  L463: `"..{}..".format(..)` requires 2.7, 3.0
+  L469: `"..{}..".format(..)` requires 2.7, 3.0
+  L470: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_input\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_output\__init__.py
+  L109 C5: 'sys.float_info' member requires 2.6, 3.0
+  L119: function decorators require 2.4, 3.0
+  L127: f-strings require !2, 3.6
+  L134: function decorators require 2.4, 3.0
+  L146: function decorators require 2.4, 3.0
+  L147: annotations require !2, 3.0
+  L285 C13: 'property' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_output\audio_android.py
+  L26: function decorators require 2.4, 3.0
+  L34: function decorators require 2.4, 3.0
+  L99 C15: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_output\audio_avplayer.py
+  L21: function decorators require 2.4, 3.0
+  L77 C15: 'super' member requires 2.2, 3.0
+  L79: function decorators require 2.4, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_output\audio_ffpyplayer.py
+  L63: `"..{}..".format(..)` requires 2.7, 3.0
+  L66: `"..{}..".format(..)` requires 2.7, 3.0
+  L78: `"..{}..".format(..)` requires 2.7, 3.0
+  L78: 'str.format' member requires 2.6, 3.0
+  L84: function decorators require 2.4, 3.0
+  L131: 'time.perf_counter' member requires !2, 3.3
+  L176 C19: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\audio_output\audio_gstplayer.py
+  L16 C5: 'os.path.realpath' member requires 2.2, 3.0
+  L19: `"..{}..".format(..)` requires 2.7, 3.0
+  L25: `"..{}..".format(..)` requires 2.7, 3.0
+  L27: `"..{}..".format(..)` requires 2.7, 3.0
+  L29: `"..{}..".format(..)` requires 2.7, 3.0
+  L29: 'str.format' member requires 2.6, 3.0
+  L35: function decorators require 2.4, 3.0
+  L69 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\camera\__init__.py
+  L68 C8: 'super' member requires 2.2, 3.0
+  L101 C14: 'property' member requires 2.2, 3.0
+  L153: variable annotations require !2, 3.6
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\camera\camera_android.py
+  L26: function decorators require 2.4, 3.0
+  L96: `with` requires 2.5, 3.0
+  L114: `with` requires 2.5, 3.0
+  L129: `with` requires 2.5, 3.0
+  L132: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L142 C8: 'super' member requires 2.2, 3.0
+  L150: `with` requires 2.5, 3.0
+  L172: `with` requires 2.5, 3.0
+  L201: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\camera\camera_gi.py
+  L16 C5: 'ctypes' module requires 2.5, 3.0
+  L17 C5: 'weakref' module requires 2.1, 3.0
+  L25: `"..{}..".format(..)` requires 2.7, 3.0
+  L26: `"..{}..".format(..)` requires 2.7, 3.0
+  L89: 'str.format' member requires 2.6, 3.0
+  L122 C8: 'super' member requires 2.2, 3.0
+  L161: function decorators require 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\camera\camera_opencv.py
+  L9 C5: '__future__' module requires 2.1, 3.0
+  L9 C5: '__future__.division' member requires 2.2, 3.0
+  L160 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\camera\camera_picamera.py
+  L93 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\__init__.py
+  L140: variable annotations require !2, 3.6
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\_clipboard_ext.py
+  L11: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_android.py
+  L26 C8: 'super' member requires 2.2, 3.0
+  L28 C21: 'dict' member requires 2.2, 3.0
+  L42: function decorators require 2.4, 3.0
+  L60: function decorators require 2.4, 3.0
+  L79: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_dbusklipper.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_dummy.py
+  L14 C8: 'super' member requires 2.2, 3.0
+  L15 C21: 'dict' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_gtk3.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_nspaste.py
+  L27 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_sdl3.py
+  L29 C8: 'super' member requires 2.2, 3.0
+  L32: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_winctypes.py
+  L13 C7: 'ctypes' module requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_xclip.py
+  L15 C11: 'subprocess' module requires 2.4, 3.0
+  L25: function decorators require 2.4, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\clipboard\clipboard_xsel.py
+  L14 C7: 'subprocess' module requires 2.4, 3.0
+  L16: 'subprocess.Popen.communicate(timeout)' requires !2, 3.3
+  L20: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\gl\__init__.py
+  L18 C15: 'ctypes' module requires 2.5, 3.0
+  L51: `"..{}..".format(..)` requires 2.7, 3.0
+  L85: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\__init__.py
+  L259 C5: 'io' module requires 2.6, 3.0
+  L306: function decorators require 2.4, 3.0
+  L313: function decorators require 2.4, 3.0
+  L320: function decorators require 2.4, 3.0
+  L327: function decorators require 2.4, 3.0
+  L336: function decorators require 2.4, 3.0
+  L344: function decorators require 2.4, 3.0
+  L412: function decorators require 2.4, 3.0
+  L421: function decorators require 2.4, 3.0
+  L427: function decorators require 2.4, 3.0
+  L442: f-strings require !2, 3.6
+  L448: f-strings require !2, 3.6
+  L450: f-strings require !2, 3.6
+  L465: function decorators require 2.4, 3.0
+  L471: function decorators require 2.4, 3.0
+  L477: function decorators require 2.4, 3.0
+  L483: function decorators require 2.4, 3.0
+  L493: function decorators require 2.4, 3.0
+  L503: function decorators require 2.4, 3.0
+  L516: function decorators require 2.4, 3.0
+  L570: function decorators require 2.4, 3.0
+  L575: f-strings require !2, 3.6
+  L582: function decorators require 2.4, 3.0
+  L613: f-strings require !2, 3.6
+  L620: f-strings require !2, 3.6
+  L634: f-strings require !2, 3.6
+  L648: function decorators require 2.4, 3.0
+  L677: f-strings require !2, 3.6
+  L678: f-strings require !2, 3.6
+  L693: f-strings require !2, 3.6
+  L694: f-strings require !2, 3.6
+  L698: function decorators require 2.4, 3.0
+  L792 C8: 'super' member requires 2.2, 3.0
+  L812 C13: 'type' member requires 2.2, 3.0
+  L844: 'str.format' member requires 2.6, 3.0
+  L862: f-strings require !2, 3.6
+  L867: f-strings require !2, 3.6
+  L936: function decorators require 2.4, 3.0
+  L944: function decorators require 2.4, 3.0
+  L970: function decorators require 2.4, 3.0
+  L983: function decorators require 2.4, 3.0
+  L1024: f-strings require !2, 3.6
+  L1065 C15: 'property' member requires 2.2, 3.0
+  L1084: f-strings require !2, 3.6
+  L1091: function decorators require 2.4, 3.0
+  L1097: function decorators require 2.4, 3.0
+  L1103: function decorators require 2.4, 3.0
+  L1109: function decorators require 2.4, 3.0
+  L1117: function decorators require 2.4, 3.0
+  L1160 C11: 'callable' member requires 2.0, 3.2
+  L1212: 'str.rsplit' member requires 2.4, 3.0
+  L1214: set literals require 2.7, 3.0
+  L1250: f-strings require !2, 3.6
+  L1255 C14: 'bytearray' member requires 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\img_dds.py
+  L15: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\img_ffpyplayer.py
+  L15: `"..{}..".format(..)` requires 2.7, 3.0
+  L27: `"..{}..".format(..)` requires 2.7, 3.0
+  L45: function decorators require 2.4, 3.0
+  L71: `"..{}..".format(..)` requires 2.7, 3.0
+  L71: 'str.format' member requires 2.6, 3.0
+  L78 C28: 'enumerate' member requires 2.3, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\img_pil.py
+  L46: function decorators require 2.4, 3.0
+  L52: function decorators require 2.4, 3.0
+  L56: function decorators require 2.4, 3.0
+  L113: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\img_sdl3.py
+  L23: function decorators require 2.4, 3.0
+  L29: function decorators require 2.4, 3.0
+  L33: function decorators require 2.4, 3.0
+  L56: function decorators require 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\image\img_tex.py
+  L7 C7: 'json' module requires 2.6, 3.0
+  L16: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\spelling\__init__.py
+  L140: variable annotations require !2, 3.6
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\spelling\spelling_enchant.py
+  L24 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\spelling\spelling_osxappkit.py
+  L28 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\system_tray\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\text\__init__.py
+  L131 C5: 'ast' module requires 2.6, 3.0
+  L132 C5: 'functools' module requires 2.5, 3.0
+  L376: f-strings require !2, 3.6
+  L386: f-strings require !2, 3.6
+  L419: function decorators require 2.4, 3.0
+  L455: function decorators require 2.4, 3.0
+  L471: f-strings require !2, 3.6
+  L478: function decorators require 2.4, 3.0
+  L498: function decorators require 2.4, 3.0
+  L523: f-strings require !2, 3.6
+  L556: `"..{}..".format(..)` requires 2.7, 3.0
+  L567: function decorators require 2.4, 3.0
+  L590: `"..{}..".format(..)` requires 2.7, 3.0
+  L590: 'str.format' member requires 2.6, 3.0
+  L597: 'os.walk' member requires 2.3, 3.0
+  L785: function decorators require 2.4, 3.0
+  L850 C28: 'type' member requires 2.2, 3.0
+  L1014: function decorators require 2.4, 3.0
+  L1018: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L1022: function decorators require 2.4, 3.0
+  L1026: function decorators require 2.4, 3.0
+  L1030: function decorators require 2.4, 3.0
+  L1034: function decorators require 2.4, 3.0
+  L1044: function decorators require 2.4, 3.0
+  L1054: function decorators require 2.4, 3.0
+  L1061: function decorators require 2.4, 3.0
+  L1078 C15: 'property' member requires 2.2, 3.0
+  L1083: function decorators require 2.4, 3.0
+  L1121: function decorators require 2.4, 3.0
+  L1131: function decorators require 2.4, 3.0
+  L1141: function decorators require 2.4, 3.0
+  L1153: function decorators require 2.4, 3.0
+  L1169: function decorators require 2.4, 3.0
+  L1182: function decorators require 2.4, 3.0
+  L1224: variable annotations require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\text\markup.py
+  L76 C5: 'functools' module requires 2.5, 3.0
+  L94 C8: 'super' member requires 2.2, 3.0
+  L98: function decorators require 2.4, 3.0
+  L106: function decorators require 2.4, 3.0
+  L114: function decorators require 2.4, 3.0
+  L378 C23: 'any' member requires 2.5, 3.0
+  L860 C35: 'next' member requires 2.6, 3.0
+  L884 C13: 'sum' member requires 2.3, 3.0
+  L936: dict comprehensions require 2.7, 3.0
+  L956: f-strings require !2, 3.6
+  L957 C14: 'type' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\text\text_pango.py
+  L105 C8: 'super' member requires 2.2, 3.0
+  L127 C18: 'staticmethod' member requires 2.2, 3.0
+  L129: function decorators require 2.4, 3.0
+  L132: `"..{}..".format(..)` requires 2.7, 3.0
+  L141: `"..{}..".format(..)` requires 2.7, 3.0
+  L144: `"..{}..".format(..)` requires 2.7, 3.0
+  L144: 'str.format' member requires 2.6, 3.0
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\text\text_pil.py
+  L29 C15: 'UnicodeDecodeError' member requires 2.3, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\text\text_sdl3.py
+  L30: super() without arguments requires !2, 3.0
+  L30 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\__init__.py
+  L69 C8: 'super' member requires 2.2, 3.0
+  L155 C12: 'property' member requires 2.2, 3.0
+  L224: variable annotations require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\video_android.py
+  L26: function decorators require 2.4, 3.0
+  L40: function decorators require 2.4, 3.0
+  L51 C8: 'super' member requires 2.2, 3.0
+  L68: f-strings require !2, 3.6
+  L70: f-strings require !2, 3.6
+  L132: `with` requires 2.5, 3.0
+  L190 C41: 'bool' member requires 2.2, 3.0
+  L231: function decorators require 2.4, 3.0
+  L244: f-strings require !2, 3.6
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\video_ffmpeg.py
+  L62 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\video_ffpyplayer.py
+  L57 C5: 'queue' module requires !2, 3.0
+  L67: `"..{}..".format(..)` requires 2.7, 3.0
+  L79: `"..{}..".format(..)` requires 2.7, 3.0
+  L79: 'str.format' member requires 2.6, 3.0
+  L116 C8: 'super' member requires 2.2, 3.0
+  L118: function decorators require 2.4, 3.0
+  L167: function decorators require 2.4, 3.0
+  L179: function decorators require 2.4, 3.0
+  L211: `with` requires 2.5, 3.0
+  L263: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L319 C39: 'bool' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\video_gstplayer.py
+  L23 C5: 'functools' module requires 2.5, 3.0
+  L24 C5: 'os.path.realpath' member requires 2.2, 3.0
+  L25 C5: 'weakref' module requires 2.1, 3.0
+  L28: `"..{}..".format(..)` requires 2.7, 3.0
+  L37: `with` requires 2.5, 3.0
+  L43: `"..{}..".format(..)` requires 2.7, 3.0
+  L45: `"..{}..".format(..)` requires 2.7, 3.0
+  L47: `"..{}..".format(..)` requires 2.7, 3.0
+  L62: `"..{}..".format(..)` requires 2.7, 3.0
+  L62: 'str.format' member requires 2.6, 3.0
+  L74: `with` requires 2.5, 3.0
+  L87 C8: 'super' member requires 2.2, 3.0
+  L107: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\video\video_null.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\window\__init__.py
+  L15 C5: 'collections' module requires 2.4, 3.0
+  L15 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L1015: function decorators require 2.4, 3.0
+  L1155 C8: 'super' member requires 2.2, 3.0
+  L1489: set literals require 2.7, 3.0
+  L2049 C28: 'all' member requires 2.5, 3.0
+  L2163: function decorators require 2.4, 3.0
+  L2512: `with` requires 2.5, 3.0
+  L2524: f-strings require !2, 3.6
+  L2599: variable annotations require !2, 3.6
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\window\window_egl_rpi.py
+  L36: `"..{}..".format(..)` requires 2.7, 3.0
+  L36: 'str.format' member requires 2.6, 3.0
+  L41 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\core\window\window_sdl3.py
+  L37 C5: 'collections' module requires 2.4, 3.0
+  L37 C5: 'collections.deque' member requires 2.4, 3.0
+  L110: super() without arguments requires !2, 3.0
+  L115: super() without arguments requires !2, 3.0
+  L358: `"..{}..".format(..)` requires 2.7, 3.0
+  L358: 'str.format' member requires 2.6, 3.0
+  L601: f-strings require !2, 3.6
+  L800 C20: 'set' member requires 2.4, 3.0
+  L850 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\deps\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\effects\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\effects\dampedscroll.py
+  L84: super() without arguments requires !2, 3.0
+  L209: super() without arguments requires !2, 3.0
+  L209 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\effects\kinetic.py
+  L43 C5: 'collections' module requires 2.4, 3.0
+  L43 C5: 'collections.deque' member requires 2.4, 3.0
+  L119: 'collections.deque(maxlen)' requires 2.6, 3.0
+  L122 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\effects\opacityscroll.py
+!2, 3.8      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\effects\scroll.py
+  L93: named expressions require !2, 3.8
+  L127 C15: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\event.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\eventmanager\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\extras\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\extras\highlight.py
+  L50: `with` requires 2.5, 3.0
+  L51: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\factory.py
+  L44 C7: 'importlib' module requires 2.7, 3.1
+  L56 C8: 'super' member requires 2.2, 3.0
+  L59: function decorators require 2.4, 3.0
+  L103: `"..{}..".format(..)` requires 2.7, 3.0
+  L103: 'str.format' member requires 2.6, 3.0
+  L170 C36: 'type' member requires 2.2, 3.0
+  L181: variable annotations require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\factory_registers.py
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\garden\__init__.py
+  L140 C5: 'importlib.abc.MetaPathFinder' member requires !2, 3.3
+  L142 C5: 'os.path.realpath' member requires 2.2, 3.0
+  L180: 'importlib.util.spec_from_file_location' member requires !2, 3.4
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\geometry.py
+  L83: 'min(key)' requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\gesture.py
+  L115: function decorators require 2.4, 3.0
+  L119: 'max(key)' requires 2.5, 3.0
+  L121: function decorators require 2.4, 3.0
+  L125: 'min(key)' requires 2.5, 3.0
+  L127: function decorators require 2.4, 3.0
+  L133: function decorators require 2.4, 3.0
+  L284 C23: 'sum' member requires 2.3, 3.0
+  L357 C51: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\graphics\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\graphics\cgl_backend\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\graphics\egl_backend\__init__.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\__init__.py
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\factory.py
+  L21: function decorators require 2.4, 3.0
+  L26: function decorators require 2.4, 3.0
+  L31: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\motionevent.py
+  L127 C7: 'weakref' module requires 2.1, 3.0
+  L128 C5: 'inspect' module requires 2.1, 3.0
+  L158 C15: 'super' member requires 2.2, 3.0
+  L544: function decorators require 2.4, 3.0
+  L550: function decorators require 2.4, 3.0
+  L556: function decorators require 2.4, 3.0
+  L562: function decorators require 2.4, 3.0
+  L586: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\__init__.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\calibration.py
+  L93 C8: 'super' member requires 2.2, 3.0
+  L112: `"..{}..".format(..)` requires 2.7, 3.0
+  L140: `"..{}..".format(..)` requires 2.7, 3.0
+  L140: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\dejitter.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\doubletap.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\ignorelist.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\retaintouch.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\postproc\tripletap.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\provider.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\androidjoystick.py
+  L36: super() without arguments requires !2, 3.0
+  L44: super() without arguments requires !2, 3.0
+  L50 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\hidinput.py
+  L65: super() without arguments requires !2, 3.0
+  L82: super() without arguments requires !2, 3.0
+  L95 C11: 'collections' module requires 2.4, 3.0
+  L333 C12: 'super' member requires 2.2, 3.0
+  L342 C34: 'dict' member requires 2.2, 3.0
+  L389: `"..{}..".format(..)` requires 2.7, 3.0
+  L397: 'collections.deque' member requires 2.4, 3.0
+  L435 C27: 'bool' member requires 2.2, 3.0
+  L588: `"..{}..".format(..)` requires 2.7, 3.0
+  L596: `"..{}..".format(..)` requires 2.7, 3.0
+  L596: 'str.format' member requires 2.6, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\leapfinger.py
+  L8 C5: 'collections' module requires 2.4, 3.0
+  L8 C5: 'collections.deque' member requires 2.4, 3.0
+  L28: super() without arguments requires !2, 3.0
+  L32: super() without arguments requires !2, 3.0
+  L32 C8: 'super' member requires 2.2, 3.0
+  L93: 'str.format' member requires 2.6, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\linuxwacom.py
+  L40: super() without arguments requires !2, 3.0
+  L54: super() without arguments requires !2, 3.0
+  L67 C11: 'collections' module requires 2.4, 3.0
+  L144 C12: 'super' member requires 2.2, 3.0
+  L200: 'collections.deque' member requires 2.4, 3.0
+  L228 C27: 'bool' member requires 2.2, 3.0
+  L339 C32: 'dict' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\mactouch.py
+  L8 C7: 'ctypes' module requires 2.5, 3.0
+  L10 C7: 'collections' module requires 2.4, 3.0
+  L99: super() without arguments requires !2, 3.0
+  L107: super() without arguments requires !2, 3.0
+  L124 C8: 'super' member requires 2.2, 3.0
+  L134: 'collections.deque' member requires 2.4, 3.0
+  L161: function decorators require 2.4, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\mouse.py
+  L95 C5: 'collections' module requires 2.4, 3.0
+  L95 C5: 'collections.deque' member requires 2.4, 3.0
+  L110: super() without arguments requires !2, 3.0
+  L127: super() without arguments requires !2, 3.0
+  L139: `with` requires 2.5, 3.0
+  L165 C8: 'super' member requires 2.2, 3.0
+  L205 C20: 'property' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\mtdev.py
+  L59: super() without arguments requires !2, 3.0
+  L79: super() without arguments requires !2, 3.0
+  L93 C11: 'collections' module requires 2.4, 3.0
+  L116 C12: 'super' member requires 2.2, 3.0
+  L165: `"..{}..".format(..)` requires 2.7, 3.0
+  L173: 'collections.deque' member requires 2.4, 3.0
+  L194 C22: 'set' member requires 2.4, 3.0
+  L249: 'str.format' member requires 2.6, 3.0
+  L286 C27: 'bool' member requires 2.2, 3.0
+  L328 C42: 'dict' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\probesysfs.py
+  L50 C11: 'ctypes' module requires 2.5, 3.0
+  L53 C9: 'subprocess' module requires 2.4, 3.0
+  L74: function decorators require 2.4, 3.0
+  L79: function decorators require 2.4, 3.0
+  L94 C27: 'enumerate' member requires 2.3, 3.0
+  L106: function decorators require 2.4, 3.0
+  L126: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L127: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L130: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L161 C12: 'super' member requires 2.2, 3.0
+  L191 C37: 'bool' member requires 2.2, 3.0
+  L202 C24: 'any' member requires 2.5, 3.0
+  L236 C43: 'dict' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\tuio.py
+  L44 C5: 'functools' module requires 2.5, 3.0
+  L45 C5: 'collections' module requires 2.4, 3.0
+  L45 C5: 'collections.deque' member requires 2.4, 3.0
+  L91: super() without arguments requires !2, 3.0
+  L113: function decorators require 2.4, 3.0
+  L118: function decorators require 2.4, 3.0
+  L124: function decorators require 2.4, 3.0
+  L170: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L174: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L189: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L224: super() without arguments requires !2, 3.0
+  L243 C11: 'property' member requires 2.2, 3.0
+  L268: super() without arguments requires !2, 3.0
+  L296: super() without arguments requires !2, 3.0
+  L307: super() without arguments requires !2, 3.0
+  L319: super() without arguments requires !2, 3.0
+  L319 C8: 'super' member requires 2.2, 3.0
+  L323: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L324: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L325: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\wm_common.py
+  L65 C9: 'ctypes' module requires 2.5, 3.0
+  L111 C21: 'property' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\wm_pen.py
+  L22: super() without arguments requires !2, 3.0
+  L27: super() without arguments requires !2, 3.0
+  L27 C8: 'super' member requires 2.2, 3.0
+  L39 C9: 'collections' module requires 2.4, 3.0
+  L39 C9: 'collections.deque' member requires 2.4, 3.0
+  L40 C9: 'ctypes' module requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\providers\wm_touch.py
+  L28: super() without arguments requires !2, 3.0
+  L37: super() without arguments requires !2, 3.0
+  L37 C8: 'super' member requires 2.2, 3.0
+  L50 C9: 'ctypes' module requires 2.5, 3.0
+  L51 C9: 'collections' module requires 2.4, 3.0
+  L51 C9: 'collections.deque' member requires 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\recorder.py
+  L101 C5: 'ast' module requires 2.6, 3.0
+  L102 C5: 'functools' module requires 2.5, 3.0
+  L181 C8: 'super' member requires 2.2, 3.0
+  L196 C15: 'dict' member requires 2.2, 3.0
+  L253: `with` requires 2.5, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\input\shape.py
+  L21 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\interactive.py
+  L162 C7: 'inspect' module requires 2.1, 3.0
+  L246 C24: 'type' member requires 2.2, 3.0
+  L260 C15: 'bool' member requires 2.2, 3.0
+  L307: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lang\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lang\builder.py
+  print(expr) requires 2.0, 3.0
+  L12 C5: 'functools' module requires 2.5, 3.0
+  L248: `"..{}..".format(..)` requires 2.7, 3.0
+  L281 C8: 'super' member requires 2.2, 3.0
+  L290: function decorators require 2.4, 3.0
+  L327: `with` requires 2.5, 3.0
+  L327: 'open(encoding)' requires !2, 3.0
+  L390: `"..{}..".format(..)` requires 2.7, 3.0
+  L469: dict comprehensions require 2.7, 3.0
+  L576 C35: 'set' member requires 2.4, 3.0
+  L602 C19: 'dict' member requires 2.2, 3.0
+  L603: 'dict.pop' member requires 2.3, 3.0
+  L618: `with` requires 2.5, 3.0
+  L622: `with` requires 2.5, 3.0
+  L626: `with` requires 2.5, 3.0
+  L666: `"..{}..".format(..)` requires 2.7, 3.0
+  L712 C37: 'reversed' member requires 2.4, 3.0
+  L733: `"..{}..".format(..)` requires 2.7, 3.0
+  L761: `"..{}..".format(..)` requires 2.7, 3.0
+  L919 C23: 'ReferenceError' member requires 2.2, 3.0
+  L945 C23: 'type' member requires 2.2, 3.0
+  L953: `"..{}..".format(..)` requires 2.7, 3.0
+  L958: variable annotations require !2, 3.6
+  L963 C9: 'html' module requires !2, 3.0
+  L963 C9: 'html.escape' member requires !2, 3.2
+  L992: set comprehensions require 2.7, 3.0
+  L995: `with` requires 2.5, 3.0
+  L1001 C31: 'enumerate' member requires 2.3, 3.0
+  L1008: set comprehensions require 2.7, 3.0
+  L1008 C24: 'sum' member requires 2.3, 3.0
+  L1011: `"..{}..".format(..)` requires 2.7, 3.0
+  L1011: 'str.format' member requires 2.6, 3.0
+  L1018: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lang\parser.py
+  L12 C7: 'ast' module requires 2.6, 3.0
+  L13 C7: 'importlib' module requires 2.7, 3.1
+  L16 C5: 'functools' module requires 2.5, 3.0
+  L17 C5: 'collections' module requires 2.4, 3.0
+  L17 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L17 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L47: f-strings require !2, 3.6
+  L48: f-strings require !2, 3.6
+  L95 C15: 'bool' member requires 2.2, 3.0
+  L214 C14: 'set' member requires 2.4, 3.0
+  L223: function decorators require 2.4, 3.0
+  L233: `yield from` requires !2, 3.3
+  L236: `yield from` requires !2, 3.3
+  L237: `yield from` requires !2, 3.3
+  L240: `yield from` requires !2, 3.3
+  L241: `yield from` requires !2, 3.3
+  L242: `yield from` requires !2, 3.3
+  L245: `yield from` requires !2, 3.3
+  L246: `yield from` requires !2, 3.3
+  L249: `yield from` requires !2, 3.3
+  L250: `yield from` requires !2, 3.3
+  L251: `yield from` requires !2, 3.3
+  L258: `yield from` requires !2, 3.3
+  L262: `yield from` requires !2, 3.3
+  L266: `yield from` requires !2, 3.3
+  L269: `yield from` requires !2, 3.3
+  L272: `yield from` requires !2, 3.3
+  L283 C42: 'reversed' member requires 2.4, 3.0
+  L288: `yield from` requires !2, 3.3
+  L291: `yield from` requires !2, 3.3
+  L293: `yield from` requires !2, 3.3
+  L368 C15: 'type' member requires 2.2, 3.0
+  L438: `"..{}..".format(..)` requires 2.7, 3.0
+  L477 C8: 'super' member requires 2.2, 3.0
+  L546: 'str.format' member requires 2.6, 3.0
+  L712 C31: 'all' member requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lib\__init__.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lib\ddsfile.py
+  print(expr) requires 2.0, 3.0
+  L181 C8: 'super' member requires 2.2, 3.0
+  L195: `with` requires 2.5, 3.0
+  L198: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L199: `"..{}..".format(..)` requires 2.7, 3.0
+  L199: 'str.format' member requires 2.6, 3.0
+  L300 C17: 'dict' member requires 2.2, 3.0
+  L312: `with` requires 2.5, 3.0
+  L403 C10: 'property' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lib\gstplayer\__init__.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lib\mtdev.py
+  L25 C5: 'ctypes' module requires 2.5, 3.0
+  L158 C19: 'PermissionError' member requires !2, 3.3
+  L225 C15: 'bool' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\lib\vidcore_lite\__init__.py
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\loader.py
+  print(expr) requires 2.0, 3.0
+  L46 C5: 'collections' module requires 2.4, 3.0
+  L46 C5: 'collections.deque' member requires 2.4, 3.0
+  L217 C18: 'property' member requires 2.2, 3.0
+  L338 C27: 'ssl' module requires 2.6, 3.0
+  L339: 'ssl.create_default_context' member requires 2.7, 3.4
+  L342: 'urllib.request.urlopen(context)' requires !2, 3.4
+  L360: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L509 C11: 'queue' module requires !2, 3.0
+  L561 C12: 'super' member requires 2.2, 3.0
+  L574: `"..{}..".format(..)` requires 2.7, 3.0
+  L574: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\logger.py
+  L166 C7: 'logging' module requires 2.3, 3.0
+  L169 C5: 'functools' module requires 2.5, 3.0
+  L170 C7: 'pathlib' module requires !2, 3.4
+  L246 C20: 'PermissionError' member requires !2, 3.3
+  L246 C37: 'FileNotFoundError' member requires !2, 3.3
+  L247: f-strings require !2, 3.6
+  L283: 'open(encoding)' requires !2, 3.0
+  L335: function decorators require 2.4, 3.0
+  L344: 'logging.StreamHandler' member requires 2.6, 3.0
+  L403: 'str.format' member requires 2.6, 3.0
+  L424: super() without arguments requires !2, 3.0
+  L465: function decorators require 2.4, 3.0
+  L470: function decorators require 2.4, 3.0
+  L481: super() without arguments requires !2, 3.0
+  L507: function decorators require 2.4, 3.0
+  L512: super() without arguments requires !2, 3.0
+  L533: keyword-only parameters require !2, 3.0
+  L534: super() without arguments requires !2, 3.0
+  L539: super() without arguments requires !2, 3.0
+  L539 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\metrics.py
+  L135: annotations require !2, 3.0
+  L141: annotations require !2, 3.0
+  L147: annotations require !2, 3.0
+  L153: annotations require !2, 3.0
+  L159: annotations require !2, 3.0
+  L165: annotations require !2, 3.0
+  L183: super() without arguments requires !2, 3.0
+  L183 C8: 'super' member requires 2.2, 3.0
+  L220: variable annotations require !2, 3.6
+  L241: variable annotations require !2, 3.6
+  L273: variable annotations require !2, 3.6
+  L307: variable annotations require !2, 3.6
+  L323: variable annotations require !2, 3.6
+  L335: variable annotations require !2, 3.6
+  L348: variable annotations require !2, 3.6
+  L361: variable annotations require !2, 3.6
+  L373: variable annotations require !2, 3.6
+  L385: variable annotations require !2, 3.6
+  L412: variable annotations require !2, 3.6
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\__init__.py
+  print(expr) requires 2.0, 3.0
+  L100 C7: 'importlib' module requires 2.7, 3.1
+  L187: 'str.format' member requires 2.6, 3.0
+  L253 C17: 'dict' member requires 2.2, 3.0
+  L274 C22: 'sorted' member requires 2.4, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\_webdebugger.py
+  L5 C7: 'json' module requires 2.6, 3.0
+  L6 C5: 'gc.get_objects' member requires 2.2, 3.0
+  L9 C5: 'collections' module requires 2.4, 3.0
+  L9 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L32: function decorators require 2.4, 3.0
+  L37: function decorators require 2.4, 3.0
+  L44: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\console.py
+  L134 C7: 'weakref' module requires 2.1, 3.0
+  L135 C5: 'functools' module requires 2.5, 3.0
+  L136 C5: 'itertools' module requires 2.3, 3.0
+  L400: `"..{}..".format(..)` requires 2.7, 3.0
+  L400: 'str.format' member requires 2.6, 3.0
+  L529 C17: 'type' member requires 2.2, 3.0
+  L547 C27: 'enumerate' member requires 2.3, 3.0
+  L592: function decorators require 2.4, 3.0
+  L599: function decorators require 2.4, 3.0
+  L606: function decorators require 2.4, 3.0
+  L614: function decorators require 2.4, 3.0
+  L688 C19: 'ReferenceError' member requires 2.2, 3.0
+  L785: `with` requires 2.5, 3.0
+  L814: function decorators require 2.4, 3.0
+  L891 C14: 'super' member requires 2.2, 3.0
+  L952 C25: 'reversed' member requires 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\cursor.py
+  L40 C5: 'functools' module requires 2.5, 3.0
+  L47: `with` requires 2.5, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\inspector.py
+  L57 C7: 'weakref' module requires 2.1, 3.0
+  L58 C5: 'functools' module requires 2.5, 3.0
+  L59 C5: 'itertools' module requires 2.3, 3.0
+  L332: `with` requires 2.5, 3.0
+  L359 C14: 'super' member requires 2.2, 3.0
+  L447 C25: 'reversed' member requires 2.4, 3.0
+  L546: set literals require 2.7, 3.0
+  L546 C65: 'set' member requires 2.4, 3.0
+  L547: set literals require 2.7, 3.0
+  L588 C17: 'type' member requires 2.2, 3.0
+  L605 C27: 'enumerate' member requires 2.3, 3.0
+  L690 C19: 'ReferenceError' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\joycursor.py
+  L92 C8: 'super' member requires 2.2, 3.0
+  L99: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\keybinding.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\monitor.py
+  L24 C5: 'functools' module requires 2.5, 3.0
+  L41 C16: 'enumerate' member requires 2.3, 3.0
+  L48: `with` requires 2.5, 3.0
+  L72: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\recorder.py
+  L40 C5: 'functools' module requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\screen.py
+  print(expr) requires 2.0, 3.0
+  L153: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\showborder.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\touchring.py
+  L42: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\modules\webdebugger.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\multistroke.py
+  L126 C5: 'collections' module requires 2.4, 3.0
+  L126 C5: 'collections.deque' member requires 2.4, 3.0
+  L309: 'sorted(key)' requires 2.4, 3.0
+  L309 C23: 'sorted' member requires 2.4, 3.0
+  L393: 'pickle.Pickler(protocol)' requires 2.3, 3.0
+  L400 C16: 'dict' member requires 2.2, 3.0
+  L428: `with` requires 2.5, 3.0
+  L724 C8: 'super' member requires 2.2, 3.0
+  L726: function decorators require 2.4, 3.0
+  L734: function decorators require 2.4, 3.0
+  L743: 'max(key)' requires 2.5, 3.0
+  L951 C24: 'enumerate' member requires 2.3, 3.0
+  L1355: `"..{}..".format(..)` requires 2.7, 3.0
+  L1356: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\network\__init__.py
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\network\urlrequest.py
+  L61 C5: 'collections' module requires 2.4, 3.0
+  L61 C5: 'collections.deque' member requires 2.4, 3.0
+  L63 C5: 'json' module requires 2.6, 3.0
+  L66 C5: 'urllib.parse' module requires !2, 3.0
+  L76 C11: 'ssl' module requires 2.6, 3.0
+  L195: super() without arguments requires !2, 3.0
+  L195 C8: 'super' member requires 2.2, 3.0
+  L321: `with` requires 2.5, 3.0
+  L341 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L385: `"..{}..".format(..)` requires 2.7, 3.0
+  L394 C37: 'dict' member requires 2.2, 3.0
+  L415: `"..{}..".format(..)` requires 2.7, 3.0
+  L426: `"..{}..".format(..)` requires 2.7, 3.0
+  L478: function decorators require 2.4, 3.0
+  L485: function decorators require 2.4, 3.0
+  L492: function decorators require 2.4, 3.0
+  L499: function decorators require 2.4, 3.0
+  L506: function decorators require 2.4, 3.0
+  L513: function decorators require 2.4, 3.0
+  L552: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L605: `"..{}..".format(..)` requires 2.7, 3.0
+  L607: `"..{}..".format(..)` requires 2.7, 3.0
+  L669: 'ssl.create_default_context' member requires 2.7, 3.4
+  L675: 'str.format' member requires 2.6, 3.0
+  L704: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\parser.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\resources.py
+  L62 C16: 'reversed' member requires 2.4, 3.0
+  L96: f-strings require !2, 3.6
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\storage\__init__.py
+  L133 C8: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\storage\dictstore.py
+  L33 C8: 'super' member requires 2.2, 3.0
+  L41: `"..{}..".format(..)` requires 2.7, 3.0
+  L42: 'str.format' member requires 2.6, 3.0
+  L48: `with` requires 2.5, 3.0
+  L59: `with` requires 2.5, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\storage\jsonstore.py
+  L15 C5: 'json' module requires 2.6, 3.0
+  L28 C8: 'super' member requires 2.2, 3.0
+  L34: `"..{}..".format(..)` requires 2.7, 3.0
+  L35: 'str.format' member requires 2.6, 3.0
+  L41: `with` requires 2.5, 3.0
+  L50: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\storage\redisstore.py
+  L31 C5: 'json' module requires 2.6, 3.0
+  L50 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\support.py
+  print(expr) requires 2.0, 3.0
+  L188 C9: 'collections' module requires 2.4, 3.0
+  L188 C9: 'collections.deque' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\__init__.py
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\async_common.py
+  L12 C5: 'collections' module requires 2.4, 3.0
+  L12 C5: 'collections.deque' member requires 2.4, 3.0
+  L77 C15: 'all' member requires 2.5, 3.0
+  L87: `"..{}..".format(..)` requires 2.7, 3.0
+  L169: super() without arguments requires !2, 3.0
+  L185: coroutines (async) require !2, 3.5
+  L187: coroutines (await) require !2, 3.5
+  L187 C21: 'super' member requires 2.2, 3.0
+  L195: coroutines (async) require !2, 3.5
+  L199: coroutines (await) require !2, 3.5
+  L213: `with` requires 2.5, 3.0
+  L234: coroutines (async) require !2, 3.5
+  L234: async generators (await and yield in same func) require !2, 3.6
+  L248: coroutines (await) require !2, 3.5
+  L252: coroutines (await) require !2, 3.5
+  L254: coroutines (await) require !2, 3.5
+  L268: coroutines (await) require !2, 3.5
+  L274: coroutines (await) require !2, 3.5
+  L279: coroutines (await) require !2, 3.5
+  L283: coroutines (await) require !2, 3.5
+  L286: coroutines (async) require !2, 3.5
+  L286: async generators (await and yield in same func) require !2, 3.6
+  L356: coroutines (await) require !2, 3.5
+  L358: coroutines (await) require !2, 3.5
+  L366: coroutines (await) require !2, 3.5
+  L370: coroutines (await) require !2, 3.5
+  L375: coroutines (await) require !2, 3.5
+  L379: coroutines (await) require !2, 3.5
+  L382: coroutines (async) require !2, 3.5
+  L382: async generators (await and yield in same func) require !2, 3.6
+  L440: coroutines (await) require !2, 3.5
+  L442: coroutines (await) require !2, 3.5
+  L448: 'math.isclose' member requires !2, 3.5
+  L450: `"..{}..".format(..)` requires 2.7, 3.0
+  L457: coroutines (await) require !2, 3.5
+  L461: coroutines (await) require !2, 3.5
+  L466: coroutines (await) require !2, 3.5
+  L469: coroutines (async) require !2, 3.5
+  L469: async generators (await and yield in same func) require !2, 3.6
+  L493: coroutines (await) require !2, 3.5
+  L495: coroutines (await) require !2, 3.5
+  L500 C27: 'enumerate' member requires 2.3, 3.0
+  L501: coroutines (await) require !2, 3.5
+  L502: 'time.perf_counter' member requires !2, 3.3
+  L505: coroutines (await) require !2, 3.5
+  L509: coroutines (await) require !2, 3.5
+  L512: coroutines (async) require !2, 3.5
+  L512: async generators (await and yield in same func) require !2, 3.6
+  L520: set literals require 2.7, 3.0
+  L522: `"..{}..".format(..)` requires 2.7, 3.0
+  L522: 'str.format' member requires 2.6, 3.0
+  L555: coroutines (await) require !2, 3.5
+  L560 C43: 'set' member requires 2.4, 3.0
+  L563: coroutines (await) require !2, 3.5
+  L567: coroutines (await) require !2, 3.5
+
+!2, 3.7      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\common.py
+  L13 C5: '__future__' module requires 2.1, 3.0
+  L13 C5: '__future__.annotations' member requires !2, 3.7
+  L19 C7: 'unittest' module requires 2.1, 3.0
+  L20 C7: 'logging' module requires 2.3, 3.0
+  L23 C5: 'functools' module requires 2.5, 3.0
+  L26 C5: 'typing' module requires !2, 3.5
+  L44: annotations require !2, 3.0
+  L57: annotations require !2, 3.0
+  L86: f-strings require !2, 3.6
+  L89 C10: 'TimeoutError' member requires !2, 3.3
+  L105: 'sys.version_info.major' member requires 2.7, 3.0
+  L105: 'sys.version_info.minor' member requires 2.7, 3.0
+  L111 C13: 'socketserver' module requires !2, 3.0
+  L139: 'threading.Thread.daemon' member requires 2.6, 3.0
+  L246 C13: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L249 C13: 'shutil.move' member requires 2.3, 3.0
+  L288 C19: 'inspect' module requires 2.1, 3.0
+  L338: `with` requires 2.5, 3.0
+  L381 C13: 'tkinter' module requires !2, 3.0
+  L515: super() without arguments requires !2, 3.0
+  L525: super() without arguments requires !2, 3.0
+  L531: super() without arguments requires !2, 3.0
+  L531 C8: 'super' member requires 2.2, 3.0
+  L540: 'sys.version_info' member requires 2.0, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\conftest.py
+  L15: function decorators require 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\fixtures.py
+  print(expr) requires 2.0, 3.0
+  L16 C7: 'weakref' module requires 2.1, 3.0
+  L24: function decorators require 2.4, 3.0
+  L75: function decorators require 2.4, 3.0
+  L95: function decorators require 2.4, 3.0
+  L117: function decorators require 2.4, 3.0
+  L136: function decorators require 2.4, 3.0
+  L157: function decorators require 2.4, 3.0
+  L158: coroutines (async) require !2, 3.5
+  L158: async generators (await and yield in same func) require !2, 3.6
+  L170: f-strings require !2, 3.6
+  L232 C15: 'asyncio' module requires !2, 3.4
+  L242: coroutines (await) require !2, 3.5
+  L246: coroutines (await) require !2, 3.5
+  L257: coroutines (await) require !2, 3.5
+  L258: 'time.perf_counter' member requires !2, 3.3
+  L259 C18: 'TimeoutError' member requires !2, 3.3
+
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\perf_test_textinput.py
+  print(expr) requires 2.0, 3.0
+  L7 C7: 'timeit' module requires 2.3, 3.0
+  L42 C8: 'super' member requires 2.2, 3.0
+  L47 C18: 'type' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\simple_widget\main.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\simple_widget\project\__init__.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\simple_widget\project\widget.py
+  L7 C8: 'super' member requires 2.2, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\test_pyinstaller.py
+  print(expr) requires 2.0, 3.0
+  L3 C7: 'subprocess' module requires 2.4, 3.0
+  L17: class decorators require 2.6, 3.0
+  L24: function decorators require 2.4, 3.0
+  L28: function decorators require 2.4, 3.0
+  L39: function decorators require 2.4, 3.0
+  L71: 'subprocess.check_output' member requires 2.7, 3.1
+  L78: function decorators require 2.4, 3.0
+  L101: function decorators require 2.4, 3.0
+  L109: function decorators require 2.4, 3.0
+  L111 C14: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\video_widget\main.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\pyinstaller\video_widget\project\__init__.py
+  L32: 'time.perf_counter' member requires !2, 3.3
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_animations.py
+  L8: function decorators require 2.4, 3.0
+  L38: function decorators require 2.4, 3.0
+  L49: function decorators require 2.4, 3.0
+  L54: `nonlocal` requires !2, 3.0
+  L54: keyword-only parameters require !2, 3.0
+  L188 C15: 'ReferenceError' member requires 2.2, 3.0
+  L289: `with` requires 2.5, 3.0
+  L386: `with` requires 2.5, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_app.py
+  L3 C5: 'math.isclose' member requires !2, 3.5
+  L4 C5: 'textwrap' module requires 2.3, 3.0
+  L61: function decorators require 2.4, 3.0
+  L62: coroutines (async) require !2, 3.5
+  L77: function decorators require 2.4, 3.0
+  L78: coroutines (async) require !2, 3.5
+  L82: async for-loops require !2, 3.5
+  L104: function decorators require 2.4, 3.0
+  L105: coroutines (async) require !2, 3.5
+  L109: async for-loops require !2, 3.5
+  L128: function decorators require 2.4, 3.0
+  L129: coroutines (async) require !2, 3.5
+  L134: async for-loops require !2, 3.5
+  L137: async for-loops require !2, 3.5
+  L139: async for-loops require !2, 3.5
+  L153: `with` requires 2.5, 3.0
+  L163: function decorators require 2.4, 3.0
+  L164: coroutines (async) require !2, 3.5
+  L196: function decorators require 2.4, 3.0
+  L197: coroutines (async) require !2, 3.5
+  L218: function decorators require 2.4, 3.0
+  L219: coroutines (async) require !2, 3.5
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_app_on_ready.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L17: function decorators require 2.4, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_audio.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_audio_provider.py
+  L45: f-strings require !2, 3.6
+  L64: f-strings require !2, 3.6
+  L74: f-strings require !2, 3.6
+  L88: f-strings require !2, 3.6
+  L94: f-strings require !2, 3.6
+  L102: function decorators require 2.4, 3.0
+  L141: function decorators require 2.4, 3.0
+  L166: `with` requires 2.5, 3.0
+  L185: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_benchmark.py
+  L9: function decorators require 2.4, 3.0
+  L37: 'sys.api_version' member requires 2.3, 3.0
+  L88: function decorators require 2.4, 3.0
+  L113: `nonlocal` requires !2, 3.0
+  L158: function decorators require 2.4, 3.0
+  L180: function decorators require 2.4, 3.0
+  L213: function decorators require 2.4, 3.0
+  L226: function decorators require 2.4, 3.0
+  L248: function decorators require 2.4, 3.0
+  L279: `nonlocal` requires !2, 3.0
+  L281: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_buttonbehavior.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L7 C5: 'unittest.mock' module requires !2, 3.3
+  L27: super() without arguments requires !2, 3.0
+  L37: super() without arguments requires !2, 3.0
+  L41: super() without arguments requires !2, 3.0
+  L366: 'unittest.mock.Mock.assert_called_once' member requires !2, 3.6
+  L367: 'unittest.mock.Mock.assert_not_called' member requires !2, 3.5
+  L374: `nonlocal` requires !2, 3.0
+  L388: `nonlocal` requires !2, 3.0
+  L404: `nonlocal` requires !2, 3.0
+  L421: `nonlocal` requires !2, 3.0
+  L440: `nonlocal` requires !2, 3.0
+  L466: `nonlocal` requires !2, 3.0
+  L495: super() without arguments requires !2, 3.0
+  L495 C16: 'super' member requires 2.2, 3.0
+  L535: `nonlocal` requires !2, 3.0
+  L539: `nonlocal` requires !2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_clipboard.py
+  L14 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_clock.py
+  L6 C7: 'weakref' module requires 2.1, 3.0
+  L18: function decorators require 2.4, 3.0
+  L111: function decorators require 2.4, 3.0
+  L124: function decorators require 2.4, 3.0
+  L137: function decorators require 2.4, 3.0
+  L150: `nonlocal` requires !2, 3.0
+  L175: `with` requires 2.5, 3.0
+  L188: `nonlocal` requires !2, 3.0
+  L234: `with` requires 2.5, 3.0
+  L241: `with` requires 2.5, 3.0
+  L254: `with` requires 2.5, 3.0
+  L286: `nonlocal` requires !2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_clock_triggered.py
+  L20: function decorators require 2.4, 3.0
+  L43: function decorators require 2.4, 3.0
+  L72: function decorators require 2.4, 3.0
+  L94: function decorators require 2.4, 3.0
+  L107 C11: 'weakref' module requires 2.1, 3.0
+  L110: function decorators require 2.4, 3.0
+  L150: function decorators require 2.4, 3.0
+  L175: function decorators require 2.4, 3.0
+  L187: function decorators require 2.4, 3.0
+  L204: function decorators require 2.4, 3.0
+  L230: function decorators require 2.4, 3.0
+  L255: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_config.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_coverage.py
+  L9: set literals require 2.7, 3.0
+  L26: set literals require 2.7, 3.0
+  L44: set literals require 2.7, 3.0
+  L63: set literals require 2.7, 3.0
+  L83 C27: 'set' member requires 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_doc_gallery.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_effects.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_environ_cli.py
+  L5 C7: 'subprocess' module requires 2.4, 3.0
+  L15: set literals require 2.7, 3.0
+  L16: set literals require 2.7, 3.0
+  L18: set literals require 2.7, 3.0
+  L18: generalized unpacking requires !2, 3.5
+  L22: dict comprehensions require 2.7, 3.0
+  L28: 'subprocess.run' member requires !2, 3.5
+  L36: function decorators require 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_fbo.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L10 C8: 'super' member requires 2.2, 3.0
+  L23: `with` requires 2.5, 3.0
+  L66 C26: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_filechooser.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_filechooser_unicode.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L45: `with` requires 2.5, 3.0
+  L50: function decorators require 2.4, 3.0
+  L54: function decorators require 2.4, 3.0
+  L81 C25: 'FileNotFoundError' member requires !2, 3.3
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_fonts.py
+  print(expr) requires 2.0, 3.0
+  L2 C7: 'unittest' module requires 2.1, 3.0
+  L14: 'tempfile.gettempdir' member requires 2.3, 3.0
+  L22: `with` requires 2.5, 3.0
+  L27: function decorators require 2.4, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_garden.py
+  L2 C5: 'tempfile.TemporaryDirectory' member requires !2, 3.2
+  L4 C5: 'unittest' module requires 2.1, 3.0
+  L4 C5: 'unittest.mock' module requires !2, 3.3
+  L8: `with` requires 2.5, 3.0
+  L11: `with` requires 2.5, 3.0
+  L16: 'os.makedirs(exist_ok)' requires !2, 3.2
+  L18: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_graphics.py
+  L10 C7: 'itertools' module requires 2.3, 3.0
+  L26: `with` requires 2.5, 3.0
+  L39: `with` requires 2.5, 3.0
+  L54: `with` requires 2.5, 3.0
+  L251: `with` requires 2.5, 3.0
+  L281: `with` requires 2.5, 3.0
+  L288: `with` requires 2.5, 3.0
+  L295: `with` requires 2.5, 3.0
+  L309: `with` requires 2.5, 3.0
+  L322: `with` requires 2.5, 3.0
+  L329: `with` requires 2.5, 3.0
+  L341: `with` requires 2.5, 3.0
+  L361: `with` requires 2.5, 3.0
+  L375: `with` requires 2.5, 3.0
+  L389: `with` requires 2.5, 3.0
+  L404: `with` requires 2.5, 3.0
+  L418: `with` requires 2.5, 3.0
+  L432: `with` requires 2.5, 3.0
+  L452: `with` requires 2.5, 3.0
+  L466: `with` requires 2.5, 3.0
+  L539: `with` requires 2.5, 3.0
+  L547: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L615: `with` requires 2.5, 3.0
+  L626: `with` requires 2.5, 3.0
+  L640: `with` requires 2.5, 3.0
+  L684: `with` requires 2.5, 3.0
+  L691: `with` requires 2.5, 3.0
+  L704: `with` requires 2.5, 3.0
+  L751: `with` requires 2.5, 3.0
+  L766: `with` requires 2.5, 3.0
+  L775: `with` requires 2.5, 3.0
+  L790: `with` requires 2.5, 3.0
+  L838: `with` requires 2.5, 3.0
+  L859: `with` requires 2.5, 3.0
+  L866: `with` requires 2.5, 3.0
+  L879: `with` requires 2.5, 3.0
+  L897: `with` requires 2.5, 3.0
+  L916: `with` requires 2.5, 3.0
+  L952: `with` requires 2.5, 3.0
+  L963: `with` requires 2.5, 3.0
+  L975: `with` requires 2.5, 3.0
+  L1011: `with` requires 2.5, 3.0
+  L1057 C13: 'textwrap' module requires 2.3, 3.0
+  L1071: function decorators require 2.4, 3.0
+  L1085: function decorators require 2.4, 3.0
+  L1091: `with` requires 2.5, 3.0
+  L1096: function decorators require 2.4, 3.0
+  L1103: `nonlocal` requires !2, 3.0
+  L1106: `with` requires 2.5, 3.0
+  L1108: `with` requires 2.5, 3.0
+  L1123: function decorators require 2.4, 3.0
+  L1128: `with` requires 2.5, 3.0
+  L1133: `nonlocal` requires !2, 3.0
+  L1137: `with` requires 2.5, 3.0
+  L1141 C15: 'BaseException' member requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_graphics_svg.py
+  L39 C15: 'xml.etree.ElementTree' module requires 2.5, 3.0
+  L47: `with` requires 2.5, 3.0
+  L63: `with` requires 2.5, 3.0
+  L79: `with` requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_image.py
+  print(expr) requires 2.0, 3.0
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L2 C7: 'io' module requires 2.6, 3.0
+  L27: function decorators require 2.4, 3.0
+  L27: 'unittest.skip' member requires 2.7, 3.1
+  L41: `with` requires 2.5, 3.0
+  L54: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L73: `with` requires 2.5, 3.0
+  L73: 'tempfile.NamedTemporaryFile' member requires 2.3, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_image_provider.py
+  L14 C5: 'pathlib' module requires !2, 3.4
+  L20: function decorators require 2.4, 3.0
+  L59: f-strings require !2, 3.6
+  L78: f-strings require !2, 3.6
+  L86: function decorators require 2.4, 3.0
+  L145: f-strings require !2, 3.6
+  L153: function decorators require 2.4, 3.0
+  L167: f-strings require !2, 3.6
+  L190: f-strings require !2, 3.6
+  L211: f-strings require !2, 3.6
+  L226: function decorators require 2.4, 3.0
+  L258: `with` requires 2.5, 3.0
+  L265: function decorators require 2.4, 3.0
+  L294: f-strings require !2, 3.6
+  L300: f-strings require !2, 3.6
+  L308: function decorators require 2.4, 3.0
+  L332: function decorators require 2.4, 3.0
+  L378: function decorators require 2.4, 3.0
+  L402: function decorators require 2.4, 3.0
+  L410: `with` requires 2.5, 3.0
+  L444: `with` requires 2.5, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_imageloader.py
+  print(expr) requires 2.0, 3.0
+  L7 C7: 'unittest' module requires 2.1, 3.0
+  L8 C5: 'collections' module requires 2.4, 3.0
+  L8 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L13: dict comprehensions require 2.7, 3.0
+  L47: `"..{}..".format(..)` requires 2.7, 3.0
+  L63: `"..{}..".format(..)` requires 2.7, 3.0
+  L71: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L73: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L75: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L84: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L85: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L89: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L91: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L112: `"..{}..".format(..)` requires 2.7, 3.0
+  L121: `"..{}..".format(..)` requires 2.7, 3.0
+  L127: `"..{}..".format(..)` requires 2.7, 3.0
+  L134: `"..{}..".format(..)` requires 2.7, 3.0
+  L140: `"..{}..".format(..)` requires 2.7, 3.0
+  L147: `"..{}..".format(..)` requires 2.7, 3.0
+  L162: function decorators require 2.4, 3.0
+  L166: function decorators require 2.4, 3.0
+  L205: `"..{}..".format(..)` requires 2.7, 3.0
+  L216: `"..{}..".format(..)` requires 2.7, 3.0
+  L217: `"..{}..".format(..)` requires 2.7, 3.0
+  L218: `"..{}..".format(..)` requires 2.7, 3.0
+  L219: `"..{}..".format(..)` requires 2.7, 3.0
+  L220: `"..{}..".format(..)` requires 2.7, 3.0
+  L221: `"..{}..".format(..)` requires 2.7, 3.0
+  L222: `"..{}..".format(..)` requires 2.7, 3.0
+  L223: `"..{}..".format(..)` requires 2.7, 3.0
+  L226: class decorators require 2.6, 3.0
+  L226: 'unittest.skipIf' member requires 2.7, 3.1
+  L239 C15: 'set' member requires 2.4, 3.0
+  L243: `"..{}..".format(..)` requires 2.7, 3.0
+  L276 C24: 'sorted' member requires 2.4, 3.0
+  L294: `"..{}..".format(..)` requires 2.7, 3.0
+  L310: `"..{}..".format(..)` requires 2.7, 3.0
+  L311: `"..{}..".format(..)` requires 2.7, 3.0
+  L312: `"..{}..".format(..)` requires 2.7, 3.0
+  L313: `"..{}..".format(..)` requires 2.7, 3.0
+  L313 C42: 'bytearray' member requires 2.6, 3.0
+  L318: `"..{}..".format(..)` requires 2.7, 3.0
+  L324: `"..{}..".format(..)` requires 2.7, 3.0
+  L336: `"..{}..".format(..)` requires 2.7, 3.0
+  L343: `"..{}..".format(..)` requires 2.7, 3.0
+  L347: `"..{}..".format(..)` requires 2.7, 3.0
+  L354: `"..{}..".format(..)` requires 2.7, 3.0
+  L390: `"..{}..".format(..)` requires 2.7, 3.0
+  L391: `"..{}..".format(..)` requires 2.7, 3.0
+  L393 C28: 'callable' member requires 2.0, 3.2
+  L398: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L419: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L420: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L427: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L428: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L440: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L441: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L449: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L452: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L469: `"..{}..".format(..)` requires 2.7, 3.0
+  L469: 'str.format' member requires 2.6, 3.0
+  L471: dict comprehensions require 2.7, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_invalid_lang.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_6315.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_1084.py
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_1091.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_599.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_609.py
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_6909.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+  L3 C5: 'unittest.mock' module requires !2, 3.3
+  L11: `with` requires 2.5, 3.0
+  L27: `with` requires 2.5, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_issues\test_issue_883.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_kivy_init.py
+  L4 C5: 'unittest.mock' module requires !2, 3.3
+  L14: 'unittest.mock.Mock.assert_called' member requires !2, 3.6
+  L28: `with` requires 2.5, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_knspace.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_lang.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L8 C5: 'weakref' module requires 2.1, 3.0
+  L9 C5: 'functools' module requires 2.5, 3.0
+  L10 C5: 'textwrap' module requires 2.3, 3.0
+  L18 C8: 'super' member requires 2.2, 3.0
+  L48 C44: 'set' member requires 2.4, 3.0
+  L326 C13: 'tempfile.mkstemp' member requires 2.3, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_lang_complex.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L60 C16: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_lang_pre_process_and_post_process.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L2 C7: 'textwrap' module requires 2.3, 3.0
+  L3 C5: 'collections' module requires 2.4, 3.0
+  L3 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L103: `"..{}..".format(..)` requires 2.7, 3.0
+  L106: function decorators require 2.4, 3.0
+  L116: dict comprehensions require 2.7, 3.0
+  L118: dict comprehensions require 2.7, 3.0
+  L125: `"..{}..".format(..)` requires 2.7, 3.0
+  L135: `"..{}..".format(..)` requires 2.7, 3.0
+  L145: function decorators require 2.4, 3.0
+  L149: `"..{}..".format(..)` requires 2.7, 3.0
+  L150: `"..{}..".format(..)` requires 2.7, 3.0
+  L157: `"..{}..".format(..)` requires 2.7, 3.0
+  L163: `"..{}..".format(..)` requires 2.7, 3.0
+  L163 C31: 'set' member requires 2.4, 3.0
+  L168: function decorators require 2.4, 3.0
+  L195: dict comprehensions require 2.7, 3.0
+  L200 C38: 'dict' member requires 2.2, 3.0
+  L213 C23: 'type' member requires 2.2, 3.0
+  L216: `"..{}..".format(..)` requires 2.7, 3.0
+  L216: 'str.format' member requires 2.6, 3.0
+  L245 C16: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_logger.py
+  L6 C7: 'logging' module requires 2.3, 3.0
+  L8 C7: 'pathlib' module requires !2, 3.4
+  L18: function decorators require 2.4, 3.0
+  L33: function decorators require 2.4, 3.0
+  L48: f-strings require !2, 3.6
+  L57 C26: 'reversed' member requires 2.4, 3.0
+  L58: set comprehensions require 2.7, 3.0
+  L67 C11: 'set' member requires 2.4, 3.0
+  L70: function decorators require 2.4, 3.0
+  L81: function decorators require 2.4, 3.0
+  L100 C11: 'all' member requires 2.5, 3.0
+  L105: function decorators require 2.4, 3.0
+  L140 C9: 'io' module requires 2.6, 3.0
+  L163: 'logging.LogRecord(func)' requires 2.5, 3.0
+  L361: function decorators require 2.4, 3.0
+  L378: function decorators require 2.4, 3.0
+  L404: super() without arguments requires !2, 3.0
+  L404 C8: 'super' member requires 2.2, 3.0
+  L415: 'logging.StreamHandler' member requires 2.6, 3.0
+  L427: function decorators require 2.4, 3.0
+  L456 C11: 'bool' member requires 2.2, 3.0
+  L459: function decorators require 2.4, 3.0
+  L471: function decorators require 2.4, 3.0
+  L482: function decorators require 2.4, 3.0
+  L493: function decorators require 2.4, 3.0
+  L511 C28: 'any' member requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_metrics.py
+  print(expr) requires 2.0, 3.0
+  L4: function decorators require 2.4, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_module_inspector.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L68 C8: 'super' member requires 2.2, 3.0
+  L297: function decorators require 2.4, 3.0
+  L297: 'unittest.skip' member requires 2.7, 3.1
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_motion_event.py
+  L3 C5: 'math.isclose' member requires !2, 3.5
+  L36: `"..{}..".format(..)` requires 2.7, 3.0
+  L36: 'str.format' member requires 2.6, 3.0
+  L43: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_mouse_hover_event.py
+  L9: super() without arguments requires !2, 3.0
+  L55: super() without arguments requires !2, 3.0
+  L55 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_mouse_multitouchsim.py
+  print(expr) requires 2.0, 3.0
+  L180: `with` requires 2.5, 3.0
+  L827 C19: 'next' member requires 2.6, 3.0
+  L827 C24: 'iter' member requires 2.2, 3.0
+  L848 C11: 'unittest' module requires 2.1, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_multistroke.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+  L59: function decorators require 2.4, 3.0
+  L333 C13: 'tempfile.mkstemp' member requires 2.3, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_properties.py
+  print(expr) requires 2.0, 3.0
+  L5 C7: 'unittest' module requires 2.1, 3.0
+  L8 C5: 'functools' module requires 2.5, 3.0
+  L18: function decorators require 2.4, 3.0
+  L23: function decorators require 2.4, 3.0
+  L28: function decorators require 2.4, 3.0
+  L46: function decorators require 2.4, 3.0
+  L78: function decorators require 2.4, 3.0
+  L94: function decorators require 2.4, 3.0
+  L116: function decorators require 2.4, 3.0
+  L138: function decorators require 2.4, 3.0
+  L154: function decorators require 2.4, 3.0
+  L170: function decorators require 2.4, 3.0
+  L191: function decorators require 2.4, 3.0
+  L246: function decorators require 2.4, 3.0
+  L279: function decorators require 2.4, 3.0
+  L322: function decorators require 2.4, 3.0
+  L343: function decorators require 2.4, 3.0
+  L371: function decorators require 2.4, 3.0
+  L402: function decorators require 2.4, 3.0
+  L434: function decorators require 2.4, 3.0
+  L562: function decorators require 2.4, 3.0
+  L616: function decorators require 2.4, 3.0
+  L647: function decorators require 2.4, 3.0
+  L699: function decorators require 2.4, 3.0
+  L749: function decorators require 2.4, 3.0
+  L801: function decorators require 2.4, 3.0
+  L848: function decorators require 2.4, 3.0
+  L893: function decorators require 2.4, 3.0
+  L1059: `nonlocal` requires !2, 3.0
+  L1090: `nonlocal` requires !2, 3.0
+  L1125: `nonlocal` requires !2, 3.0
+  L1129: `nonlocal` requires !2, 3.0
+  L1156: `nonlocal` requires !2, 3.0
+  L1160: `nonlocal` requires !2, 3.0
+  L1191: `nonlocal` requires !2, 3.0
+  L1211: function decorators require 2.4, 3.0
+  L1227: `nonlocal` requires !2, 3.0
+  L1260: `nonlocal` requires !2, 3.0
+  L1284: `with` requires 2.5, 3.0
+  L1295: f-strings require !2, 3.6
+  L1296: super() without arguments requires !2, 3.0
+  L1304: `with` requires 2.5, 3.0
+  L1317: super() without arguments requires !2, 3.0
+  L1327: `with` requires 2.5, 3.0
+  L1335 C12: 'super' member requires 2.2, 3.0
+  L1337: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_provider_registry.py
+  L12 C5: 'pathlib' module requires !2, 3.4
+  L31 C15: 'callable' member requires 2.0, 3.2
+  L37: set literals require 2.7, 3.0
+  L44: f-strings require !2, 3.6
+  L54: f-strings require !2, 3.6
+  L63: f-strings require !2, 3.6
+  L67: f-strings require !2, 3.6
+  L70: f-strings require !2, 3.6
+  L74: f-strings require !2, 3.6
+  L77: f-strings require !2, 3.6
+  L80: f-strings require !2, 3.6
+  L98: set literals require 2.7, 3.0
+  L108: f-strings require !2, 3.6
+  L109: f-strings require !2, 3.6
+  L124: f-strings require !2, 3.6
+  L135: f-strings require !2, 3.6
+  L148: f-strings require !2, 3.6
+  L165: f-strings require !2, 3.6
+  L180: f-strings require !2, 3.6
+  L195: f-strings require !2, 3.6
+  L248 C23: 'dict' member requires 2.2, 3.0
+  L250: f-strings require !2, 3.6
+  L271 C19: 'set' member requires 2.4, 3.0
+  L355: set literals require 2.7, 3.0
+  L381: set comprehensions require 2.7, 3.0
+  L384: f-strings require !2, 3.6
+  L393: set comprehensions require 2.7, 3.0
+  L396: f-strings require !2, 3.6
+  L405: set comprehensions require 2.7, 3.0
+  L414: f-strings require !2, 3.6
+  L423: set comprehensions require 2.7, 3.0
+  L426: f-strings require !2, 3.6
+  L435: set comprehensions require 2.7, 3.0
+  L441: f-strings require !2, 3.6
+  L450: set comprehensions require 2.7, 3.0
+  L453: f-strings require !2, 3.6
+  L462: set comprehensions require 2.7, 3.0
+  L465: f-strings require !2, 3.6
+  L474: set comprehensions require 2.7, 3.0
+  L477: f-strings require !2, 3.6
+  L496: f-strings require !2, 3.6
+  L521: f-strings require !2, 3.6
+  L580: `with` requires 2.5, 3.0
+  L580: 'open(encoding)' requires !2, 3.0
+  L596: `with` requires 2.5, 3.0
+  L612: `with` requires 2.5, 3.0
+  L628: `with` requires 2.5, 3.0
+  L644: `with` requires 2.5, 3.0
+  L660: `with` requires 2.5, 3.0
+  L676: `with` requires 2.5, 3.0
+  L692: `with` requires 2.5, 3.0
+  L708: `with` requires 2.5, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_resources.py
+  L8 C5: 'unittest.mock' module requires !2, 3.3
+  L14: function decorators require 2.4, 3.0
+  L45: `with` requires 2.5, 3.0
+  L45: 'tempfile.TemporaryDirectory' member requires !2, 3.2
+  L48: `with` requires 2.5, 3.0
+  L77: `with` requires 2.5, 3.0
+
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_rst_replace.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+  L11 C12: 'super' member requires 2.2, 3.0
+  L42: function decorators require 2.4, 3.0
+  L42: 'unittest.skip' member requires 2.7, 3.1
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_screen.py
+  L25: function decorators require 2.4, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_storage.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L37 C13: 'tempfile.mkstemp' member requires 2.3, 3.0
+  L71 C25: 'dict' member requires 2.2, 3.0
+  L74 C19: 'ConnectionError' member requires !2, 3.3
+  L129: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_system_tray.py
+  L3 C5: 'unittest.mock' module requires !2, 3.3
+  L15: super() without arguments requires !2, 3.0
+  L150: `with` requires 2.5, 3.0
+  L153: `with` requires 2.5, 3.0
+  L156: `with` requires 2.5, 3.0
+  L160: `with` requires 2.5, 3.0
+  L191: super() without arguments requires !2, 3.0
+  L196: `with` requires 2.5, 3.0
+  L196: 'tempfile.NamedTemporaryFile(delete)' requires 2.6, 3.0
+  L199: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L209: super() without arguments requires !2, 3.0
+  L275: super() without arguments requires !2, 3.0
+  L283: super() without arguments requires !2, 3.0
+  L287: `with` requires 2.5, 3.0
+  L292: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L327: `with` requires 2.5, 3.0
+  L345: super() without arguments requires !2, 3.0
+  L351: f-strings require !2, 3.6
+  L515: super() without arguments requires !2, 3.0
+  L520: super() without arguments requires !2, 3.0
+  L520 C8: 'super' member requires 2.2, 3.0
+  L530: `with` requires 2.5, 3.0
+  L532: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L565: f-strings require !2, 3.6
+  L571: `with` requires 2.5, 3.0
+  L571: 'tempfile.NamedTemporaryFile' member requires 2.3, 3.0
+  L573: byte string (b'..') or `str` synonym requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_text_provider.py
+  L19: function decorators require 2.4, 3.0
+  L58: f-strings require !2, 3.6
+  L109: `with` requires 2.5, 3.0
+  L116: `with` requires 2.5, 3.0
+  L129: `with` requires 2.5, 3.0
+  L166: f-strings require !2, 3.6
+  L375: `with` requires 2.5, 3.0
+
+!2, 3.4      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_togglebuttonbehavior.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+  L3 C7: 'weakref' module requires 2.1, 3.0
+  L4 C5: 'unittest.mock' module requires !2, 3.3
+  L25: super() without arguments requires !2, 3.0
+  L36: super() without arguments requires !2, 3.0
+  L36 C8: 'super' member requires 2.2, 3.0
+  L408: `with` requires 2.5, 3.0
+  L410: `with` requires 2.5, 3.0
+  L412: `with` requires 2.5, 3.0
+  L414: `with` requires 2.5, 3.0
+  L416: `with` requires 2.5, 3.0
+  L421 C13: 'enum' module requires !2, 3.4
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_actionbar.py
+  print(expr) requires 2.0, 3.0
+  L58: super() without arguments requires !2, 3.0
+  L91 C8: 'super' member requires 2.2, 3.0
+  L109 C24: 'sum' member requires 2.3, 3.0
+  L114 C25: 'any' member requires 2.5, 3.0
+  L362 C11: 'unittest' module requires 2.1, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_anchorlayout.py
+  L15: `with` requires 2.5, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_asyncimage.py
+  L4 C5: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L17: function decorators require 2.4, 3.0
+  L26 C8: 'super' member requires 2.2, 3.0
+  L29: `with` requires 2.5, 3.0
+  L34: 'threading.Event.is_set' member requires 2.6, 3.0
+  L132 C11: 'unittest' module requires 2.1, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_boxlayout.py
+  L18: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_bubble.py
+  print(expr) requires 2.0, 3.0
+  L20: super() without arguments requires !2, 3.0
+  L37: super() without arguments requires !2, 3.0
+  L37 C8: 'super' member requires 2.2, 3.0
+  L44: function decorators require 2.4, 3.0
+  L48: function decorators require 2.4, 3.0
+  L52: function decorators require 2.4, 3.0
+  L56: function decorators require 2.4, 3.0
+  L60: function decorators require 2.4, 3.0
+  L64: function decorators require 2.4, 3.0
+  L163: `with` requires 2.5, 3.0
+  L315: `with` requires 2.5, 3.0
+  L316: `"..{}..".format(..)` requires 2.7, 3.0
+  L391: `with` requires 2.5, 3.0
+  L392: `"..{}..".format(..)` requires 2.7, 3.0
+  L392: 'str.format' member requires 2.6, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_carousel.py
+  L4: function decorators require 2.4, 3.0
+  L57: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_colorpicker.py
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_dropdown.py
+  L24 C19: 'super' member requires 2.2, 3.0
+  L42: function decorators require 2.4, 3.0
+  L43: coroutines (async) require !2, 3.5
+  L44: coroutines (await) require !2, 3.5
+  L54: async for-loops require !2, 3.5
+  L56: async for-loops require !2, 3.5
+  L62: coroutines (await) require !2, 3.5
+  L66: async for-loops require !2, 3.5
+  L70: async for-loops require !2, 3.5
+  L75: async for-loops require !2, 3.5
+  L84: coroutines (await) require !2, 3.5
+  L88: async for-loops require !2, 3.5
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_gridlayout.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L51: dict comprehensions require 2.7, 3.0
+  L56: function decorators require 2.4, 3.0
+  L76: function decorators require 2.4, 3.0
+  L88: keyword-only parameters require !2, 3.0
+  L98 C38: 'reversed' member requires 2.4, 3.0
+  L103: function decorators require 2.4, 3.0
+  L113: function decorators require 2.4, 3.0
+  L122: function decorators require 2.4, 3.0
+  L135: function decorators require 2.4, 3.0
+  L148: function decorators require 2.4, 3.0
+  L159: function decorators require 2.4, 3.0
+  L170: function decorators require 2.4, 3.0
+  L181: function decorators require 2.4, 3.0
+  L192: function decorators require 2.4, 3.0
+  L203: function decorators require 2.4, 3.0
+  L214: function decorators require 2.4, 3.0
+  L225: function decorators require 2.4, 3.0
+  L236: function decorators require 2.4, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_layout.py
+  L7 C7: 'unittest' module requires 2.1, 3.0
+  L15: `with` requires 2.5, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_modal.py
+  L3 C5: 'math.isclose' member requires !2, 3.5
+  L33 C19: 'super' member requires 2.2, 3.0
+  L46: function decorators require 2.4, 3.0
+  L47: coroutines (async) require !2, 3.5
+  L48: coroutines (await) require !2, 3.5
+  L56: async for-loops require !2, 3.5
+  L59: async for-loops require !2, 3.5
+  L65: coroutines (await) require !2, 3.5
+  L72: async for-loops require !2, 3.5
+  L77: async for-loops require !2, 3.5
+  L83: async for-loops require !2, 3.5
+  L92: coroutines (await) require !2, 3.5
+  L97: async for-loops require !2, 3.5
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_recyclegridlayout.py
+  L5: keyword-only parameters require !2, 3.0
+  L7 C13: 'textwrap' module requires 2.3, 3.0
+  L11: f-strings require !2, 3.6
+  L28: dict comprehensions require 2.7, 3.0
+  L36: function decorators require 2.4, 3.0
+  L47: function decorators require 2.4, 3.0
+  L57: function decorators require 2.4, 3.0
+  L71: function decorators require 2.4, 3.0
+  L85: function decorators require 2.4, 3.0
+  L97: function decorators require 2.4, 3.0
+  L108: function decorators require 2.4, 3.0
+  L119: function decorators require 2.4, 3.0
+  L131: function decorators require 2.4, 3.0
+  L142: function decorators require 2.4, 3.0
+  L153: function decorators require 2.4, 3.0
+  L165: function decorators require 2.4, 3.0
+  L176: function decorators require 2.4, 3.0
+  L184: keyword-only parameters require !2, 3.0
+  L191: f-strings require !2, 3.6
+  L216: dict comprehensions require 2.7, 3.0
+  L224: function decorators require 2.4, 3.0
+  L234: function decorators require 2.4, 3.0
+  L250: function decorators require 2.4, 3.0
+  L266: function decorators require 2.4, 3.0
+  L280: function decorators require 2.4, 3.0
+  L294: function decorators require 2.4, 3.0
+  L308: function decorators require 2.4, 3.0
+  L322: function decorators require 2.4, 3.0
+  L336: function decorators require 2.4, 3.0
+  L350: function decorators require 2.4, 3.0
+  L364: function decorators require 2.4, 3.0
+  L378: function decorators require 2.4, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_relativelayout.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_scrollview.py
+  print(expr) requires 2.0, 3.0
+  L11 C5: 'itertools' module requires 2.3, 3.0
+  L80 C8: 'super' member requires 2.2, 3.0
+  L339 C42: 'next' member requires 2.6, 3.0
+  L357 C11: 'unittest' module requires 2.1, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_settings.py
+  L1 C7: 'json' module requires 2.6, 3.0
+  L12: `with` requires 2.5, 3.0
+  L17: `with` requires 2.5, 3.0
+  L23: `with` requires 2.5, 3.0
+  L29: `with` requires 2.5, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_slider.py
+  L38 C8: 'super' member requires 2.2, 3.0
+  L155 C11: 'unittest' module requires 2.1, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_stacklayout.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_textinput.py
+  L6 C7: 'unittest' module requires 2.1, 3.0
+  L7 C5: 'itertools' module requires 2.3, 3.0
+  L488 C42: 'next' member requires 2.6, 3.0
+
+!2, 3.2      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_translate_coordinates.py
+  L2 C7: 'functools' module requires 2.5, 3.0
+  L13: function decorators require 2.4, 3.0
+  L13: 'functools.lru_cache' member requires !2, 3.2
+  L26: function decorators require 2.4, 3.0
+  L35: function decorators require 2.4, 3.0
+  L44: function decorators require 2.4, 3.0
+  L48 C9: 'textwrap' module requires 2.3, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_videoplayer.py
+  L4 C5: 'unittest.mock' module requires !2, 3.3
+  L19: function decorators require 2.4, 3.0
+  L20: coroutines (async) require !2, 3.5
+  L23: `with` requires 2.5, 3.0
+  L23: multiple context expressions in a `with` statement require 2.7, 3.1
+  L32: coroutines (await) require !2, 3.5
+  L36: function decorators require 2.4, 3.0
+  L37: coroutines (async) require !2, 3.5
+  L40: `with` requires 2.5, 3.0
+  L40: multiple context expressions in a `with` statement require 2.7, 3.1
+  L47: coroutines (await) require !2, 3.5
+  L51: function decorators require 2.4, 3.0
+  L52: coroutines (async) require !2, 3.5
+  L55: `with` requires 2.5, 3.0
+  L55: multiple context expressions in a `with` statement require 2.7, 3.1
+  L65: coroutines (await) require !2, 3.5
+  L69: function decorators require 2.4, 3.0
+  L70: coroutines (async) require !2, 3.5
+  L73: `with` requires 2.5, 3.0
+  L73: multiple context expressions in a `with` statement require 2.7, 3.1
+  L81: coroutines (await) require !2, 3.5
+  L85: function decorators require 2.4, 3.0
+  L86: coroutines (async) require !2, 3.5
+  L96: function decorators require 2.4, 3.0
+  L97: coroutines (async) require !2, 3.5
+  L100: `with` requires 2.5, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_uix_widget.py
+  L98 C16: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_urlrequest\test_urlrequest_requests.py
+  L7 C5: 'datetime' module requires 2.3, 3.0
+  L45: 'threading.get_ident' member requires !2, 3.3
+  L64: function decorators require 2.4, 3.0
+  L86: function decorators require 2.4, 3.0
+  L110: function decorators require 2.4, 3.0
+  L132: function decorators require 2.4, 3.0
+  L156: function decorators require 2.4, 3.0
+  L178: function decorators require 2.4, 3.0
+  L202: function decorators require 2.4, 3.0
+  L224: function decorators require 2.4, 3.0
+  L248: function decorators require 2.4, 3.0
+  L275: function decorators require 2.4, 3.0
+  L304: function decorators require 2.4, 3.0
+  L326: function decorators require 2.4, 3.0
+  L329: `"..{}..".format(..)` requires 2.7, 3.0
+  L330: 'str.format' member requires 2.6, 3.0
+  L331: byte string (b'..') or `str` synonym requires 2.6, 3.0
+  L356: function decorators require 2.4, 3.0
+  L360: f-strings require !2, 3.6
+  L367: f-strings require !2, 3.6
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_urlrequest\test_urlrequest_urllib.py
+  L8 C5: 'datetime' module requires 2.3, 3.0
+  L61: 'threading.get_ident' member requires !2, 3.3
+  L64: function decorators require 2.4, 3.0
+  L83: function decorators require 2.4, 3.0
+  L87: `"..{}..".format(..)` requires 2.7, 3.0
+  L89: `"..{}..".format(..)` requires 2.7, 3.0
+  L89: 'str.format' member requires 2.6, 3.0
+  L111: function decorators require 2.4, 3.0
+  L133: function decorators require 2.4, 3.0
+  L140: f-strings require !2, 3.6
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_utils.py
+  L7 C7: 'unittest' module requires 2.1, 3.0
+  L8 C5: 'unittest.mock' module requires !2, 3.3
+  L47: function decorators require 2.4, 3.0
+  L69 C25: 'next' member requires 2.6, 3.0
+  L130: `with` requires 2.5, 3.0
+  L174: function decorators require 2.4, 3.0
+  L191: `with` requires 2.5, 3.0
+  L196: `with` requires 2.5, 3.0
+  L201: `with` requires 2.5, 3.0
+  L206: `with` requires 2.5, 3.0
+  L277: `with` requires 2.5, 3.0
+  L280: `with` requires 2.5, 3.0
+  L284: `with` requires 2.5, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_vector.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L4 C5: 'operator.truediv' member requires 2.2, 3.0
+  L11: `with` requires 2.5, 3.0
+  L15: `with` requires 2.5, 3.0
+  L24: `with` requires 2.5, 3.0
+  L28: `with` requires 2.5, 3.0
+  L49: `with` requires 2.5, 3.0
+  L64: `with` requires 2.5, 3.0
+
+2.1, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_video.py
+  L2 C7: 'unittest' module requires 2.1, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_weakmethod.py
+2.7, 3.1     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_widget.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L2 C5: 'tempfile.mkdtemp' member requires 2.3, 3.0
+  L101: function decorators require 2.4, 3.0
+  L101: 'unittest.skip' member requires 2.7, 3.1
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_widget_walk.py
+  L1 C7: 'unittest' module requires 2.1, 3.0
+  L62 C46: 'reversed' member requires 2.4, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_window_base.py
+  print(expr) requires 2.0, 3.0
+  L1 C5: 'itertools' module requires 2.3, 3.0
+  L1 C5: 'itertools.product' member requires 2.6, 3.0
+  L13 C33: 'type' member requires 2.2, 3.0
+  L96: super() without arguments requires !2, 3.0
+  L103: super() without arguments requires !2, 3.0
+  L103 C8: 'super' member requires 2.2, 3.0
+  L156: f-strings require !2, 3.6
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\test_window_info.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tests\visual_test_label.py
+  L6 C7: 'timeit' module requires 2.3, 3.0
+  L9 C5: 'functools' module requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\__init__.py
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\benchmark.py
+  print(expr) requires 2.0, 3.0
+  L13 C5: '__future__' module requires 2.1, 3.0
+  L13 C5: '__future__.print_function' member requires 2.6, 3.0
+  L19 C7: 'json' module requires 2.6, 3.0
+  L200: 'sys.api_version' member requires 2.3, 3.0
+  L203: 'os.path.getctime' member requires 2.3, 3.0
+  L279: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\changelog_parser.py
+  print(expr) requires 2.0, 3.0
+  L47 C5: 'collections' module requires 2.4, 3.0
+  L47 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L48 C7: 'json' module requires 2.6, 3.0
+  L54: 'sorted(key)' requires 2.4, 3.0
+  L56: f-strings require !2, 3.6
+  L58: f-strings require !2, 3.6
+  L64: `"..{}..".format(..)` requires 2.7, 3.0
+  L65: 'str.format' member requires 2.6, 3.0
+  L67: `with` requires 2.5, 3.0
+  L90: f-strings require !2, 3.6
+  L94: f-strings require !2, 3.6
+  L110: `with` requires 2.5, 3.0
+  L115 C28: 'sorted' member requires 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\coverage.py
+  L46 C16: 'set' member requires 2.4, 3.0
+  L48 C34: 'enumerate' member requires 2.3, 3.0
+  L49: 'enumerate(start)' requires 2.6, 3.0
+  L106: 'os.walk' member requires 2.3, 3.0
+  L117 C8: 'super' member requires 2.2, 3.0
+  L127: `with` requires 2.5, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\gallery.py
+  L18 C7: 'textwrap' module requires 2.3, 3.0
+  L51: 'os.walk' member requires 2.3, 3.0
+  L56: `"..{}..".format(..)` requires 2.7, 3.0
+  L78: `"..{}..".format(..)` requires 2.7, 3.0
+  L104: `with` requires 2.5, 3.0
+  L168 C21: 'enumerate' member requires 2.3, 3.0
+  L282: `with` requires 2.5, 3.0
+  L298: `"..{}..".format(..)` requires 2.7, 3.0
+  L312: `"..{}..".format(..)` requires 2.7, 3.0
+  L313: 'str.format' member requires 2.6, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\generate-icons.py
+  print(expr) requires 2.0, 3.0
+  L11 C5: 'os.path.realpath' member requires 2.2, 3.0
+  L13 C5: 'argparse' module requires 2.7, 3.2
+  L82: `"..{}..".format(..)` requires 2.7, 3.0
+  L106: `"..{}..".format(..)` requires 2.7, 3.0
+  L106: 'str.format' member requires 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\gles_compat\subset_gles.py
+  print(expr) requires 2.0, 3.0
+  L26 C5: '__future__' module requires 2.1, 3.0
+  L26 C5: '__future__.print_function' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\highlight\__init__.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\image-testsuite\gimp28-testsuite.py
+  L86: `"..{}..".format(..)` requires 2.7, 3.0
+  L91: `"..{}..".format(..)` requires 2.7, 3.0
+  L128: `"..{}..".format(..)` requires 2.7, 3.0
+  L128: 'str.format' member requires 2.6, 3.0
+  L262 C16: 'set' member requires 2.4, 3.0
+  L290 C16: 'dict' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\kviewer.py
+  print(expr) requires 2.0, 3.0
+  L64 C15: 'super' member requires 2.2, 3.0
+  L66: function decorators require 2.4, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\cython_cfg.py
+  L1 C7: 'configparser' module requires !2, 3.0
+  L3 C7: 'textwrap' module requires 2.3, 3.0
+  L35: `"..{}..".format(..)` requires 2.7, 3.0
+  L69: 'str.format' member requires 2.6, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\factory.py
+  print(expr) requires 2.0, 3.0
+  L1 C5: '__future__' module requires 2.1, 3.0
+  L1 C5: '__future__.print_function' member requires 2.6, 3.0
+  L40: `with` requires 2.5, 3.0
+  L45: 'os.walk' member requires 2.3, 3.0
+  L50: 'fnmatch.filter' member requires 2.2, 3.0
+  L84 C23: 'type' member requires 2.2, 3.0
+  L96: `with` requires 2.5, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\pyinstaller_hooks\__init__.py
+  L63 C7: 'pkgutil' module requires 2.3, 3.0
+  L64 C7: 'logging' module requires 2.3, 3.0
+  L66 C7: 'importlib' module requires 2.7, 3.1
+  L67 C7: 'subprocess' module requires 2.4, 3.0
+  L204: `"..{}..".format(..)` requires 2.7, 3.0
+  L206: `"..{}..".format(..)` requires 2.7, 3.0
+  L226: `"..{}..".format(..)` requires 2.7, 3.0
+  L239: `"..{}..".format(..)` requires 2.7, 3.0
+  L239: 'str.format' member requires 2.6, 3.0
+  L244 C7: 'any' member requires 2.5, 3.0
+  L278 C25: 'sorted' member requires 2.4, 3.0
+  L306: f-strings require !2, 3.6
+  L322: 'importlib.util.module_from_spec' member requires !2, 3.5
+  L325: f-strings require !2, 3.6
+  L373 C20: 'set' member requires 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\pyinstaller_hooks\__main__.py
+  print(expr) requires 2.0, 3.0
+  L7: `with` requires 2.5, 3.0
+  L13 C19: 'enumerate' member requires 2.3, 3.0
+  L19: `"..{}..".format(..)` requires 2.7, 3.0
+  L21: `"..{}..".format(..)` requires 2.7, 3.0
+  L24: `"..{}..".format(..)` requires 2.7, 3.0
+  L24: 'str.format' member requires 2.6, 3.0
+  L26: `with` requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\pyinstaller_hooks\hook-kivy.py
+  L8 C21: 'set' member requires 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\packaging\pyinstaller_hooks\pyi_rth_kivy.py
+  L8: `"..{}..".format(..)` requires 2.7, 3.0
+  L8: 'str.format' member requires 2.6, 3.0
+
+File with incompatible versions: C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\pep8checker\pep8.py
+  'configparser' module (requires !2, 3.0) vs. 'ConfigParser' module (requires 2.0, !3)
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\pep8checker\pep8kivy.py
+  print(expr) requires 2.0, 3.0
+  L2 C5: 'os.walk' member requires 2.3, 3.0
+  L108: `"..{}..".format(..)` requires 2.7, 3.0
+  L108: 'str.format' member requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\pep8checker\pre-commit.githook
+  print(expr) requires 2.0, 3.0
+  L26 C5: 'subprocess' module requires 2.4, 3.0
+  L33: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\report.py
+  print(expr) requires 2.0, 3.0
+  L12 C7: 'platform' module requires 2.3, 3.0
+  L14 C5: 'configparser' module requires !2, 3.0
+  L15 C5: 'io' module requires 2.6, 3.0
+  L36 C11: 'json' module requires 2.6, 3.0
+  L90: 'sys.api_version' member requires 2.3, 3.0
+  L93: 'os.path.getctime' member requires 2.3, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\stub-gl-debug.py
+  print(expr) requires 2.0, 3.0
+  L2 C5: '__future__' module requires 2.1, 3.0
+  L2 C5: '__future__.print_function' member requires 2.6, 3.0
+
+2.7, 3.2     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\tools\texturecompress.py
+  print(expr) requires 2.0, 3.0
+  L29 C7: 'json' module requires 2.6, 3.0
+  L32 C5: 'subprocess' module requires 2.4, 3.0
+  L34 C5: 'argparse' module requires 2.7, 3.2
+  L47: function decorators require 2.4, 3.0
+  L66: `"..{}..".format(..)` requires 2.7, 3.0
+  L81: `with` requires 2.5, 3.0
+  L87: `"..{}..".format(..)` requires 2.7, 3.0
+  L90: function decorators require 2.4, 3.0
+  L128: `"..{}..".format(..)` requires 2.7, 3.0
+  L142: `"..{}..".format(..)` requires 2.7, 3.0
+  L147: `"..{}..".format(..)` requires 2.7, 3.0
+  L155: `with` requires 2.5, 3.0
+  L168 C8: 'super' member requires 2.2, 3.0
+  L183: `"..{}..".format(..)` requires 2.7, 3.0
+  L196: `"..{}..".format(..)` requires 2.7, 3.0
+  L201: `"..{}..".format(..)` requires 2.7, 3.0
+  L209: `"..{}..".format(..)` requires 2.7, 3.0
+  L209: 'str.format' member requires 2.6, 3.0
+  L221: `with` requires 2.5, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\__init__.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\accordion.py
+  L378 C8: 'super' member requires 2.2, 3.0
+  L391 C28: 'all' member requires 2.5, 3.0
+  L417 C23: 'reversed' member requires 2.4, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\actionbar.py
+  L55 C5: 'functools' module requires 2.5, 3.0
+  L596: 'str.format' member requires 2.6, 3.0
+  L884 C12: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\anchorlayout.py
+  L68 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\__init__.py
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\button.py
+  L187 C15: 'bool' member requires 2.2, 3.0
+  L218 C34: 'set' member requires 2.4, 3.0
+  L220: super() without arguments requires !2, 3.0
+  L276: set literals require 2.7, 3.0
+  L283: set literals require 2.7, 3.0
+  L299: super() without arguments requires !2, 3.0
+  L364: super() without arguments requires !2, 3.0
+  L370: annotations require !2, 3.0
+  L388: super() without arguments requires !2, 3.0
+  L388 C19: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\codenavigation.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\compoundselection.py
+  L280 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\cover.py
+  L60 C5: 'decimal' module requires 2.4, 3.0
+  L119 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\drag.py
+  L55 C5: 'functools' module requires 2.5, 3.0
+  L143: 'str.format' member requires 2.6, 3.0
+  L232 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\emacs.py
+  L111 C12: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\focus.py
+  L472 C15: 'super' member requires 2.2, 3.0
+  L474: function decorators require 2.4, 3.0
+  L549 C24: 'set' member requires 2.4, 3.0
+  L550: set literals require 2.7, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\knspace.py
+  L310 C29: 'set' member requires 2.4, 3.0
+  L409 C8: 'super' member requires 2.2, 3.0
+  L435: `"..{}..".format(..)` requires 2.7, 3.0
+  L512: `"..{}..".format(..)` requires 2.7, 3.0
+  L572: `"..{}..".format(..)` requires 2.7, 3.0
+  L572: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\togglebutton.py
+  L190 C5: 'collections' module requires 2.4, 3.0
+  L190 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L191 C5: 'weakref' module requires 2.1, 3.0
+  L191 C5: 'weakref.WeakSet' member requires 2.7, 3.0
+  L518: super() without arguments requires !2, 3.0
+  L518 C8: 'super' member requires 2.2, 3.0
+  L547: f-strings require !2, 3.6
+  L590: function decorators require 2.4, 3.0
+  L605: f-strings require !2, 3.6
+  L628: f-strings require !2, 3.6
+  L629 C56: 'type' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\behaviors\touchripple.py
+  L165: `with` requires 2.5, 3.0
+  L296 C19: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\boxlayout.py
+  L259 C40: 'reversed' member requires 2.4, 3.0
+  L282 C63: 'enumerate' member requires 2.3, 3.0
+  L331 C15: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\bubble.py
+  L406: super() without arguments requires !2, 3.0
+  L427: super() without arguments requires !2, 3.0
+  L476: 'min(key)' requires 2.5, 3.0
+  L529: super() without arguments requires !2, 3.0
+  L574: super() without arguments requires !2, 3.0
+  L574 C12: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\button.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\camera.py
+  L84 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\carousel.py
+  L64 C5: 'functools' module requires 2.5, 3.0
+  L337: function decorators require 2.4, 3.0
+  L536: 'str.format' member requires 2.6, 3.0
+  L678 C8: 'super' member requires 2.2, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\checkbox.py
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\codeinput.py
+  L132: `"..{}..".format(..)` requires 2.7, 3.0
+  L154 C13: 'super' member requires 2.2, 3.0
+  L162: `"..{}..".format(..)` requires 2.7, 3.0
+  L162: 'str.format' member requires 2.6, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\colorpicker.py
+  L122 C11: 'any' member requires 2.5, 3.0
+  L234 C41: 'reversed' member requires 2.4, 3.0
+  L275 C28: 'enumerate' member requires 2.3, 3.0
+  L587 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\dropdown.py
+  L300: super() without arguments requires !2, 3.0
+  L319 C12: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\effectwidget.py
+  L421: `with` requires 2.5, 3.0
+  L574: 'str.format' member requires 2.6, 3.0
+  L658: `with` requires 2.5, 3.0
+  L661: `with` requires 2.5, 3.0
+  L663: `with` requires 2.5, 3.0
+  L668: `with` requires 2.5, 3.0
+  L706: `with` requires 2.5, 3.0
+  L708: `with` requires 2.5, 3.0
+  L771 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.3      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\filechooser.py
+  L88 C5: 'weakref' module requires 2.1, 3.0
+  L103 C7: 'collections.abc' module requires !2, 3.3
+  L105 C5: 'os.path.realpath' member requires 2.2, 3.0
+  L131 C12: 'sorted' member requires 2.4, 3.0
+  L654 C20: 'set' member requires 2.4, 3.0
+  L710 C37: 'next' member requires 2.6, 3.0
+  L713 C19: 'StopIteration' member requires 2.2, 3.0
+  L823 C51: 'dict' member requires 2.2, 3.0
+  L853 C19: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L854: `"..{}..".format(..)` requires 2.7, 3.0
+  L855 C19: 'UnicodeEncodeError' member requires 2.3, 3.0
+  L856: `"..{}..".format(..)` requires 2.7, 3.0
+  L856: 'str.format' member requires 2.6, 3.0
+  L978: function decorators require 2.4, 3.0
+  L994 C12: 'super' member requires 2.2, 3.0
+  L1006 C28: 'type' member requires 2.2, 3.0
+  L1062 C27: 'enumerate' member requires 2.3, 3.0
+  L1076 C11: 'textwrap' module requires 2.3, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\floatlayout.py
+  L148 C15: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\gesturesurface.py
+  L323 C8: 'super' member requires 2.2, 3.0
+  L428: `with` requires 2.5, 3.0
+  L601 C22: 'enumerate' member requires 2.3, 3.0
+
+!2, 3.2      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\gridlayout.py
+  L98 C5: 'itertools' module requires 2.3, 3.0
+  L98 C5: 'itertools.product' member requires 2.6, 3.0
+  L98 C5: 'itertools.accumulate' member requires !2, 3.2
+  L279 C8: 'super' member requires 2.2, 3.0
+  L310: function decorators require 2.4, 3.0
+  L314: function decorators require 2.4, 3.0
+  L318: function decorators require 2.4, 3.0
+  L508 C24: 'sum' member requires 2.3, 3.0
+  L511 C42: 'enumerate' member requires 2.3, 3.0
+  L569 C20: 'reversed' member requires 2.4, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\image.py
+  L349: super() without arguments requires !2, 3.0
+  L483: super() without arguments requires !2, 3.0
+  L534: super() without arguments requires !2, 3.0
+  L547: super() without arguments requires !2, 3.0
+  L547 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\label.py
+  L358: f-strings require !2, 3.6
+  L368: dict comprehensions require 2.7, 3.0
+  L459 C11: 'super' member requires 2.2, 3.0
+
+!2, 3.5      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\layout.py
+  L60 C5: 'math.isclose' member requires !2, 3.5
+  L105 C8: 'super' member requires 2.2, 3.0
+  L181 C39: 'enumerate' member requires 2.3, 3.0
+  L259 C12: 'sum' member requires 2.3, 3.0
+  L265: dict comprehensions require 2.7, 3.0
+  L268 C16: 'sorted' member requires 2.4, 3.0
+  L269: 'sorted(key)' requires 2.4, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\modalview.py
+  L259: super() without arguments requires !2, 3.0
+  L266: super() without arguments requires !2, 3.0
+  L272: super() without arguments requires !2, 3.0
+  L281: super() without arguments requires !2, 3.0
+  L281 C12: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\pagelayout.py
+  L83 C8: 'super' member requires 2.2, 3.0
+  L103 C20: 'enumerate' member requires 2.3, 3.0
+  L103 C30: 'reversed' member requires 2.4, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\popup.py
+  L236 C15: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\progressbar.py
+  L40 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recycleboxlayout.py
+  L97 C8: 'super' member requires 2.2, 3.0
+  L116 C24: 'reversed' member requires 2.4, 3.0
+  L141 C26: 'enumerate' member requires 2.3, 3.0
+  L249 C20: 'sum' member requires 2.3, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recyclegridlayout.py
+  L17 C7: 'itertools' module requires 2.3, 3.0
+  L21 C5: 'collections' module requires 2.4, 3.0
+  L21 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L129 C8: 'super' member requires 2.2, 3.0
+  L134: `"..{}..".format(..)` requires 2.7, 3.0
+  L135: 'str.format' member requires 2.6, 3.0
+  L179 C22: 'enumerate' member requires 2.3, 3.0
+  L226 C25: 'sorted' member requires 2.4, 3.0
+  L234: set literals require 2.7, 3.0
+  L336 C18: 'sum' member requires 2.3, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recyclelayout.py
+  L263: `"..{}..".format(..)` requires 2.7, 3.0
+  L263: 'str.format' member requires 2.6, 3.0
+  L284 C23: 'enumerate' member requires 2.3, 3.0
+  L343 C18: 'dict' member requires 2.2, 3.0
+  L443 C8: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recycleview\__init__.py
+  L407: `"..{}..".format(..)` requires 2.7, 3.0
+  L439: `"..{}..".format(..)` requires 2.7, 3.0
+  L473: `"..{}..".format(..)` requires 2.7, 3.0
+  L521: `"..{}..".format(..)` requires 2.7, 3.0
+  L522: 'str.format' member requires 2.6, 3.0
+  L525 C22: 'reversed' member requires 2.4, 3.0
+  L567 C8: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recycleview\datamodel.py
+  L18 C5: 'functools' module requires 2.5, 3.0
+  L141: function decorators require 2.4, 3.0
+  L157 C8: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recycleview\layout.py
+  L79: dict comprehensions require 2.7, 3.0
+  L79 C44: 'enumerate' member requires 2.3, 3.0
+  L145 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\recycleview\views.py
+  L22 C5: 'collections' module requires 2.4, 3.0
+  L22 C5: 'collections.defaultdict' member requires 2.5, 3.0
+  L142: unpacking assignment requires !2, 3.0
+  L145: f-strings require !2, 3.6
+  L188: set literals require 2.7, 3.0
+  L202 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\relativelayout.py
+  L297: super() without arguments requires !2, 3.0
+  L300: super() without arguments requires !2, 3.0
+  L322 C14: 'super' member requires 2.2, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\rst.py
+  L546 C8: 'super' member requires 2.2, 3.0
+  L580: `with` requires 2.5, 3.0
+  L1018 C32: 'enumerate' member requires 2.3, 3.0
+
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\sandbox.py
+  L27 C5: 'functools' module requires 2.5, 3.0
+  L38: function decorators require 2.4, 3.0
+  L41: `with` requires 2.5, 3.0
+  L115: function decorators require 2.4, 3.0
+  L119: function decorators require 2.4, 3.0
+  L123: function decorators require 2.4, 3.0
+  L127: function decorators require 2.4, 3.0
+  L132: function decorators require 2.4, 3.0
+  L137: function decorators require 2.4, 3.0
+  L143: function decorators require 2.4, 3.0
+  L165 C19: 'super' member requires 2.2, 3.0
+  L168: `with` requires 2.5, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\scatter.py
+  L149 C11: 'type' member requires 2.2, 3.0
+  L152 C60: 'bool' member requires 2.2, 3.0
+  L473: 'max(key)' requires 2.5, 3.0
+  L519: super() without arguments requires !2, 3.0
+  L522: super() without arguments requires !2, 3.0
+  L642 C8: 'super' member requires 2.2, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\scatterlayout.py
+  L67 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\screenmanager.py
+  L477: `with` requires 2.5, 3.0
+  L481: `with` requires 2.5, 3.0
+  L484: `with` requires 2.5, 3.0
+  L519: `with` requires 2.5, 3.0
+  L684: `with` requires 2.5, 3.0
+  L687: `with` requires 2.5, 3.0
+  L1087 C15: 'bool' member requires 2.2, 3.0
+  L1183: `"..{}..".format(..)` requires 2.7, 3.0
+  L1183: 'str.format' member requires 2.6, 3.0
+  L1199: super() without arguments requires !2, 3.0
+  L1214 C15: 'super' member requires 2.2, 3.0
+  L1246 C30: 'next' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\scrollview.py
+  L242 C5: 'functools' module requires 2.5, 3.0
+  L243 C5: 'math.isclose' member requires !2, 3.5
+  L244 C5: 'enum' module requires !2, 3.4
+  L445: function decorators require 2.4, 3.0
+  L450: function decorators require 2.4, 3.0
+  L455: function decorators require 2.4, 3.0
+  L478: `"..{}..".format(..)` requires 2.7, 3.0
+  L594 C50: 'bool' member requires 2.2, 3.0
+  L906: set literals require 2.7, 3.0
+  L907: set literals require 2.7, 3.0
+  L908: set literals require 2.7, 3.0
+  L909: set literals require 2.7, 3.0
+  L943: `with` requires 2.5, 3.0
+  L946: `with` requires 2.5, 3.0
+  L1106: super() without arguments requires !2, 3.0
+  L1109: super() without arguments requires !2, 3.0
+  L1277 C21: 'enumerate' member requires 2.3, 3.0
+  L2981 C15: 'any' member requires 2.5, 3.0
+  L3230 C8: 'super' member requires 2.2, 3.0
+  L3317: 'str.format' member requires 2.6, 3.0
+  L3327: f-strings require !2, 3.6
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\settings.py
+  L173 C7: 'json' module requires 2.6, 3.0
+  L492: 'os.path.realpath' member requires 2.2, 3.0
+  L1058: `with` requires 2.5, 3.0
+  L1190 C8: 'super' member requires 2.2, 3.0
+  L1227: `"..{}..".format(..)` requires 2.7, 3.0
+  L1229: `"..{}..".format(..)` requires 2.7, 3.0
+  L1229: 'str.format' member requires 2.6, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\slider.py
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\spinner.py
+  L145 C8: 'super' member requires 2.2, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\splitter.py
+  L251 C8: 'super' member requires 2.2, 3.0
+  L294: function decorators require 2.4, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\stacklayout.py
+  L141 C8: 'super' member requires 2.2, 3.0
+  L226 C17: 'reversed' member requires 2.4, 3.0
+  L312 C28: 'enumerate' member requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\stencilview.py
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\switch.py
+2.5, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\tabbedpanel.py
+  L126 C5: 'functools' module requires 2.5, 3.0
+  L733 C8: 'super' member requires 2.2, 3.0
+
+!2, 3.0      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\textinput.py
+  L169 C5: 'weakref' module requires 2.1, 3.0
+  L170 C5: 'itertools' module requires 2.3, 3.0
+  L240: `"..{}..".format(..)` requires 2.7, 3.0
+  L276: super() without arguments requires !2, 3.0
+  L280: `with` requires 2.5, 3.0
+  L285: `with` requires 2.5, 3.0
+  L311: super() without arguments requires !2, 3.0
+  L335: super() without arguments requires !2, 3.0
+  L339: `with` requires 2.5, 3.0
+  L344: `with` requires 2.5, 3.0
+  L365: super() without arguments requires !2, 3.0
+  L377: super() without arguments requires !2, 3.0
+  L585: super() without arguments requires !2, 3.0
+  L1163 C37: 'reversed' member requires 2.4, 3.0
+  L1212: function decorators require 2.4, 3.0
+  L1515 C30: 'bool' member requires 2.2, 3.0
+  L1586: super() without arguments requires !2, 3.0
+  L2016: function decorators require 2.4, 3.0
+  L2096: `"..{}..".format(..)` requires 2.7, 3.0
+  L2097 C15: 'UnicodeDecodeError' member requires 2.3, 3.0
+  L2098: `"..{}..".format(..)` requires 2.7, 3.0
+  L2098: 'str.format' member requires 2.6, 3.0
+  L2482 C15: 'sorted' member requires 2.4, 3.0
+  L2503: 'enumerate(start)' requires 2.6, 3.0
+  L2735 C27: 'enumerate' member requires 2.3, 3.0
+  L2916: set literals require 2.7, 3.0
+  L2916 C20: 'set' member requires 2.4, 3.0
+  L2918: set literals require 2.7, 3.0
+  L2919: set literals require 2.7, 3.0
+  L2925: super() without arguments requires !2, 3.0
+  L3053: super() without arguments requires !2, 3.0
+  L3057: super() without arguments requires !2, 3.0
+  L3057 C8: 'super' member requires 2.2, 3.0
+  L3225: function decorators require 2.4, 3.0
+  L3938 C9: 'textwrap' module requires 2.3, 3.0
+
+~2, ~3       C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\togglebutton.py
+2.3, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\treeview.py
+  L282 C8: 'super' member requires 2.2, 3.0
+  L347 C33: 'bool' member requires 2.2, 3.0
+  L472 C27: 'enumerate' member requires 2.3, 3.0
+
+2.2, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\video.py
+  print(expr) requires 2.0, 3.0
+  L140 C8: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\videoplayer.py
+  L82 C5: 'json' module requires 2.6, 3.0
+  L537: `with` requires 2.5, 3.0
+  L613 C15: 'super' member requires 2.2, 3.0
+
+2.6, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\vkeyboard.py
+  L127 C5: 'io' module requires 2.6, 3.0
+  L130 C5: 'json' module requires 2.6, 3.0
+  L404: `with` requires 2.5, 3.0
+  L458: `with` requires 2.5, 3.0
+  L572: `with` requires 2.5, 3.0
+  L661: `with` requires 2.5, 3.0
+  L674: `with` requires 2.5, 3.0
+  L873 C15: 'super' member requires 2.2, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\uix\widget.py
+  L256 C5: 'functools' module requires 2.5, 3.0
+  L257 C5: 'itertools' module requires 2.3, 3.0
+  L351: dict comprehensions require 2.7, 3.0
+  L357 C8: 'super' member requires 2.2, 3.0
+  L378: function decorators require 2.4, 3.0
+  L403 C44: 'set' member requires 2.4, 3.0
+  L875: `with` requires 2.5, 3.0
+  L921 C21: 'reversed' member requires 2.4, 3.0
+  L994 C14: 'next' member requires 2.6, 3.0
+  L1566 C16: 'bool' member requires 2.2, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\utils.py
+  L27 C5: 'unicodedata.normalize' member requires 2.3, 3.0
+  L118: set literals require 2.7, 3.0
+  L124: f-strings require !2, 3.6
+  L127: f-strings require !2, 3.6
+  L378: dict comprehensions require 2.7, 3.0
+  L388 C11: 'inspect' module requires 2.1, 3.0
+  L389 C11: 'functools' module requires 2.5, 3.0
+  L394: function decorators require 2.4, 3.0
+  L411: `"..{}..".format(..)` requires 2.7, 3.0
+  L411: 'str.format' member requires 2.6, 3.0
+  L422: function decorators require 2.4, 3.0
+  L435 C7: 'type' member requires 2.2, 3.0
+  L451: function decorators require 2.4, 3.0
+  L453: super() without arguments requires !2, 3.0
+  L453 C8: 'super' member requires 2.2, 3.0
+  L458: function decorators require 2.4, 3.0
+  L461 C24: 'reversed' member requires 2.4, 3.0
+  L462 C15: 'iter' member requires 2.2, 3.0
+  L521: set literals require 2.7, 3.0
+  L616: `with` requires 2.5, 3.0
+
+2.4, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\vector.py
+  L122 C8: 'property' member requires 2.2, 3.0
+  L137 C26: 'super' member requires 2.2, 3.0
+  L211 C11: 'type' member requires 2.2, 3.0
+  L317: function decorators require 2.4, 3.0
+  L351: function decorators require 2.4, 3.0
+  L396: function decorators require 2.4, 3.0
+
+2.7, 3.0     C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\kivy\weakmethod.py
+  L15 C7: 'weakref' module requires 2.1, 3.0
+  L61 C15: 'ReferenceError' member requires 2.2, 3.0
+  L65 C29: 'type' member requires 2.2, 3.0
+  L71: `"..{}..".format(..)` requires 2.7, 3.0
+  L71: 'str.format' member requires 2.6, 3.0
+
+!2, 3.6      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\setup.py
+  print(expr) requires 2.0, 3.0
+  L12 C7: 'textwrap' module requires 2.3, 3.0
+  L13 C7: 'sysconfig' module requires 2.7, 3.2
+  L14 C7: 'logging' module requires 2.3, 3.0
+  L15 C5: 'pathlib' module requires !2, 3.4
+  L17 C5: 'collections' module requires 2.4, 3.0
+  L17 C5: 'collections.OrderedDict' member requires 2.7, 3.1
+  L18 C5: 'os.walk' member requires 2.3, 3.0
+  L30: 'sys.version_info' member requires 2.0, 3.0
+  L42: `with` requires 2.5, 3.0
+  L47 C11: 'subprocess' module requires 2.4, 3.0
+  L69: `"..{}..".format(..)` requires 2.7, 3.0
+  L74: `"..{}..".format(..)` requires 2.7, 3.0
+  L84: `"..{}..".format(..)` requires 2.7, 3.0
+  L133: `with` requires 2.5, 3.0
+  L133: 'tempfile.TemporaryDirectory' member requires !2, 3.2
+  L136: `with` requires 2.5, 3.0
+  L136: 'open(encoding)' requires !2, 3.0
+  L177 C3: 'any' member requires 2.5, 3.0
+  L346: `"..{}..".format(..)` requires 2.7, 3.0
+  L347: `"..{}..".format(..)` requires 2.7, 3.0
+  L351: `with` requires 2.5, 3.0
+  L358: super() without arguments requires !2, 3.0
+  L364: 'os.cpu_count' member requires !2, 3.4
+  L366: `"..{}..".format(..)` requires 2.7, 3.0
+  L373: `"..{}..".format(..)` requires 2.7, 3.0
+  L399 C16: 'bool' member requires 2.2, 3.0
+  L411: `"..{}..".format(..)` requires 2.7, 3.0
+  L414: `"..{}..".format(..)` requires 2.7, 3.0
+  L417: `"..{}..".format(..)` requires 2.7, 3.0
+  L422: super() without arguments requires !2, 3.0
+  L422 C8: 'super' member requires 2.2, 3.0
+  L427: `with` requires 2.5, 3.0
+  L433: `with` requires 2.5, 3.0
+  L439: `"..{}..".format(..)` requires 2.7, 3.0
+  L456: `"..{}..".format(..)` requires 2.7, 3.0
+  L492: `"..{}..".format(..)` requires 2.7, 3.0
+  L586: `"..{}..".format(..)` requires 2.7, 3.0
+  L593: `"..{}..".format(..)` requires 2.7, 3.0
+  L597: `"..{}..".format(..)` requires 2.7, 3.0
+  L600: `"..{}..".format(..)` requires 2.7, 3.0
+  L605: `"..{}..".format(..)` requires 2.7, 3.0
+  L638: `"..{}..".format(..)` requires 2.7, 3.0
+  L647: `"..{}..".format(..)` requires 2.7, 3.0
+  L681: `"..{}..".format(..)` requires 2.7, 3.0
+  L684: `"..{}..".format(..)` requires 2.7, 3.0
+  L690: `"..{}..".format(..)` requires 2.7, 3.0
+  L775: `"..{}..".format(..)` requires 2.7, 3.0
+  L778: `"..{}..".format(..)` requires 2.7, 3.0
+  L815: `"..{}..".format(..)` requires 2.7, 3.0
+  L927 C11: 'all' member requires 2.5, 3.0
+  L1010: f-strings require !2, 3.6
+  L1025: `"..{}..".format(..)` requires 2.7, 3.0
+  L1028: `"..{}..".format(..)` requires 2.7, 3.0
+  L1032: `"..{}..".format(..)` requires 2.7, 3.0
+  L1368: `"..{}..".format(..)` requires 2.7, 3.0
+  L1368: 'str.format' member requires 2.6, 3.0
+  L1431: keyword-only parameters require !2, 3.0
+
+!2, 3.7      C:\Users\floor\OneDrive - University of Twente\Documenten\mod 12\GithubAPI\python_repos\kivy\tools\add-ios-frameworks.py
+  print(expr) requires 2.0, 3.0
+  L1 C7: 'argparse' module requires 2.7, 3.2
+  L14: annotations require !2, 3.0
+  L17: `"..{}..".format(..)` requires 2.7, 3.0
+  L31: `"..{}..".format(..)` requires 2.7, 3.0
+  L31 C14: 'FileNotFoundError' member requires !2, 3.3
+  L38: `with` requires 2.5, 3.0
+  L38: 'zipfile.ZipFile(compresslevel)' requires !2, 3.7
+  L44: `"..{}..".format(..)` requires 2.7, 3.0
+  L46: `"..{}..".format(..)` requires 2.7, 3.0
+  L47: 'str.format' member requires 2.6, 3.0
+  L51: 'os.walk' member requires 2.3, 3.0
+  L54: 'os.path.relpath' member requires 2.6, 3.0
+
+Note: Some files had incompatible versions so the results might not be correct!
+Tips:
+- Generic or literal annotations might be in use. If so, try using: --eval-annotations
+  But check the caveat section: https://github.com/netromdk/vermin#caveats
+- You're using potentially backported modules: argparse, asyncio, configparser, enum, importlib, typing
+  If so, try using the following for better results: --backport argparse --backport asyncio --backport configparser --backport enum --backport importlib --backport typing
+- Since '# novm' or '# novermin' weren't used, a speedup can be achieved using: --no-parse-comments
+(disable using: --no-tips)
+
+Minimum required versions: 3.8
+Incompatible versions:     2

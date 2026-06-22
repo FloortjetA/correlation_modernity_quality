@@ -1,0 +1,13 @@
+Statistics for: beets_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 283
+W: 1184
+C: 146
+R: 570
+
+Total messages: 2183
+Average rating: 8.33/10

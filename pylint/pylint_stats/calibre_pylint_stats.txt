@@ -1,0 +1,13 @@
+Statistics for: calibre_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 11057
+W: 13875
+C: 21419
+R: 6848
+
+Total messages: 53199
+Average rating: 6.29/10

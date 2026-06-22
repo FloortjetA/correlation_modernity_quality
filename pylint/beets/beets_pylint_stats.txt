@@ -1,0 +1,2835 @@
+Statistics for: beets_pylint.txt
+================================================================================
+
+FILE: beets\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\autotag\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\autotag\distance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 2
+C: 0
+R: 1
+Total messages: 7
+Average rating: 8.91/10
+
+FILE: beets\autotag\hooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 9
+Total messages: 10
+Average rating: 9.08/10
+
+FILE: beets\autotag\match.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.66/10
+
+FILE: beets\context.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\dbcore\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\dbcore\db.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 34
+C: 1
+R: 16
+Total messages: 61
+Average rating: 6.94/10
+
+FILE: beets\dbcore\pathutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\dbcore\query.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 9
+Total messages: 21
+Average rating: 8.99/10
+
+FILE: beets\dbcore\queryparse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 2
+Total messages: 8
+Average rating: 7.41/10
+
+FILE: beets\dbcore\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 7
+Total messages: 10
+Average rating: 9.00/10
+
+FILE: beets\importer\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\importer\session.py
+--------------------------------------------------------------------------------
+F: 0
+E: 7
+W: 4
+C: 0
+R: 2
+Total messages: 13
+Average rating: 6.60/10
+
+FILE: beets\importer\stages.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 1
+C: 0
+R: 2
+Total messages: 19
+Average rating: 4.53/10
+
+FILE: beets\importer\state.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.24/10
+
+FILE: beets\importer\tasks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 23
+W: 12
+C: 7
+R: 14
+Total messages: 56
+Average rating: 6.57/10
+
+FILE: beets\library\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\library\exceptions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\library\fields.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\library\library.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 9.00/10
+
+FILE: beets\library\migrations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 8.83/10
+
+FILE: beets\library\models.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 23
+C: 3
+R: 9
+Total messages: 47
+Average rating: 7.56/10
+
+FILE: beets\library\queries.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\logging.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 3
+Total messages: 4
+Average rating: 8.97/10
+
+FILE: beets\mediafile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 1.43/10
+
+FILE: beets\metadata_plugins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 11
+C: 1
+R: 2
+Total messages: 16
+Average rating: 6.73/10
+
+FILE: beets\plugins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 6
+R: 2
+Total messages: 12
+Average rating: 9.14/10
+
+FILE: beets\test\_common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 2
+Total messages: 9
+Average rating: 7.87/10
+
+FILE: beets\test\helper.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 18
+C: 2
+R: 4
+Total messages: 26
+Average rating: 8.25/10
+
+FILE: beets\ui\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 3
+R: 14
+Total messages: 29
+Average rating: 8.47/10
+
+FILE: beets\ui\commands\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\ui\commands\completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 5
+C: 1
+R: 0
+Total messages: 8
+Average rating: 5.00/10
+
+FILE: beets\ui\commands\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 6.67/10
+
+FILE: beets\ui\commands\fields.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.29/10
+
+FILE: beets\ui\commands\help.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 2.50/10
+
+FILE: beets\ui\commands\import_\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 9.14/10
+
+FILE: beets\ui\commands\import_\display.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 1
+C: 0
+R: 3
+Total messages: 12
+Average rating: 7.54/10
+
+FILE: beets\ui\commands\import_\session.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 21
+Total messages: 24
+Average rating: 7.78/10
+
+FILE: beets\ui\commands\list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.46/10
+
+FILE: beets\ui\commands\modify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 3
+Total messages: 4
+Average rating: 8.64/10
+
+FILE: beets\ui\commands\move.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.20/10
+
+FILE: beets\ui\commands\remove.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: beets\ui\commands\stats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\ui\commands\update.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 5
+Total messages: 8
+Average rating: 7.59/10
+
+FILE: beets\ui\commands\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.67/10
+
+FILE: beets\ui\commands\version.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: beets\ui\commands\write.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.80/10
+
+FILE: beets\util\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 8
+Total messages: 18
+Average rating: 9.11/10
+
+FILE: beets\util\artresizer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 6
+R: 22
+Total messages: 35
+Average rating: 7.93/10
+
+FILE: beets\util\bluelet.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 8
+Total messages: 12
+Average rating: 9.16/10
+
+FILE: beets\util\color.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\deprecation.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\diff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\extension.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 8.23/10
+
+FILE: beets\util\functemplate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 0
+R: 3
+Total messages: 14
+Average rating: 8.56/10
+
+FILE: beets\util\hidden.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\id_extractors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beets\util\layout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 5
+Total messages: 5
+Average rating: 9.33/10
+
+FILE: beets\util\lyrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: beets\util\m3u.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.25/10
+
+FILE: beets\util\pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 0
+R: 5
+Total messages: 18
+Average rating: 7.84/10
+
+FILE: beets\util\units.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\_typing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\_utils\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\_utils\art.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 8
+Total messages: 10
+Average rating: 7.66/10
+
+FILE: beetsplug\_utils\musicbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.88/10
+
+FILE: beetsplug\_utils\playcount.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\_utils\requests.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\_utils\vfs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\absubmit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 8.42/10
+
+FILE: beetsplug\acousticbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.47/10
+
+FILE: beetsplug\advancedrewrite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 2
+Total messages: 5
+Average rating: 7.97/10
+
+FILE: beetsplug\albumtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.14/10
+
+FILE: beetsplug\aura.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 4
+C: 2
+R: 2
+Total messages: 12
+Average rating: 8.80/10
+
+FILE: beetsplug\autobpm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.93/10
+
+FILE: beetsplug\badfiles.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 3
+Total messages: 9
+Average rating: 8.20/10
+
+FILE: beetsplug\bareasc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\beatport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 1
+Total messages: 8
+Average rating: 9.07/10
+
+FILE: beetsplug\bench.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\bpd\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 62
+C: 2
+R: 18
+Total messages: 83
+Average rating: 7.42/10
+
+FILE: beetsplug\bpd\gstplayer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 9.10/10
+
+FILE: beetsplug\bpm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.14/10
+
+FILE: beetsplug\bpsync.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 5
+Total messages: 6
+Average rating: 8.26/10
+
+FILE: beetsplug\bucket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.83/10
+
+FILE: beetsplug\chroma.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 2
+Total messages: 16
+Average rating: 8.30/10
+
+FILE: beetsplug\convert.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 12
+Total messages: 19
+Average rating: 8.62/10
+
+FILE: beetsplug\deezer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 4
+Total messages: 8
+Average rating: 8.62/10
+
+FILE: beetsplug\discogs\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 6
+Total messages: 14
+Average rating: 8.89/10
+
+FILE: beetsplug\discogs\states.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.60/10
+
+FILE: beetsplug\discogs\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\duplicates.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 7
+Total messages: 11
+Average rating: 8.67/10
+
+FILE: beetsplug\edit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 5
+Total messages: 14
+Average rating: 7.78/10
+
+FILE: beetsplug\embedart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.19/10
+
+FILE: beetsplug\embyupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.80/10
+
+FILE: beetsplug\export.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 8.27/10
+
+FILE: beetsplug\fetchart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 3
+R: 7
+Total messages: 26
+Average rating: 9.09/10
+
+FILE: beetsplug\filefilter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.53/10
+
+FILE: beetsplug\fish.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 1
+Total messages: 8
+Average rating: 7.95/10
+
+FILE: beetsplug\freedesktop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 1.00/10
+
+FILE: beetsplug\fromfilename.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: beetsplug\ftintitle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 6
+Total messages: 7
+Average rating: 8.66/10
+
+FILE: beetsplug\fuzzy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\ihate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.57/10
+
+FILE: beetsplug\importadded.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 7.31/10
+
+FILE: beetsplug\importfeeds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.86/10
+
+FILE: beetsplug\importsource.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.12/10
+
+FILE: beetsplug\info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.50/10
+
+FILE: beetsplug\inline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 0
+R: 3
+Total messages: 9
+Average rating: 6.18/10
+
+FILE: beetsplug\ipfs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 5
+Total messages: 10
+Average rating: 8.88/10
+
+FILE: beetsplug\keyfinder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.70/10
+
+FILE: beetsplug\kodiupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 6.57/10
+
+FILE: beetsplug\lastgenre\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 5
+Total messages: 6
+Average rating: 9.59/10
+
+FILE: beetsplug\lastgenre\client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.38/10
+
+FILE: beetsplug\lastgenre\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\lastimport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 8.21/10
+
+FILE: beetsplug\limit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.29/10
+
+FILE: beetsplug\listenbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.67/10
+
+FILE: beetsplug\loadext.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\lyrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 2
+Total messages: 7
+Average rating: 9.65/10
+
+FILE: beetsplug\mbcollection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.68/10
+
+FILE: beetsplug\mbpseudo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 0
+R: 5
+Total messages: 6
+Average rating: 9.04/10
+
+FILE: beetsplug\mbsubmit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 2
+Total messages: 6
+Average rating: 5.79/10
+
+FILE: beetsplug\mbsync.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 7
+Total messages: 8
+Average rating: 7.88/10
+
+FILE: beetsplug\metasync\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.57/10
+
+FILE: beetsplug\metasync\amarok.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\metasync\itunes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.91/10
+
+FILE: beetsplug\missing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.78/10
+
+FILE: beetsplug\mpdstats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.48/10
+
+FILE: beetsplug\mpdupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.58/10
+
+FILE: beetsplug\musicbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.81/10
+
+FILE: beetsplug\parentwork.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.47/10
+
+FILE: beetsplug\permissions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.87/10
+
+FILE: beetsplug\play.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 0
+R: 5
+Total messages: 13
+Average rating: 6.79/10
+
+FILE: beetsplug\playlist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.28/10
+
+FILE: beetsplug\plexupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 6
+Total messages: 11
+Average rating: 4.68/10
+
+FILE: beetsplug\random.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 1
+Total messages: 6
+Average rating: 5.66/10
+
+FILE: beetsplug\replace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\replaygain.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 37
+C: 5
+R: 9
+Total messages: 52
+Average rating: 7.95/10
+
+FILE: beetsplug\rewrite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.39/10
+
+FILE: beetsplug\scrub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.09/10
+
+FILE: beetsplug\smartplaylist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 5
+Total messages: 8
+Average rating: 9.14/10
+
+FILE: beetsplug\sonosupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 4.38/10
+
+FILE: beetsplug\spotify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 2
+R: 10
+Total messages: 28
+Average rating: 7.92/10
+
+FILE: beetsplug\subsonicplaylist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 1
+C: 0
+R: 2
+Total messages: 4
+Average rating: 8.81/10
+
+FILE: beetsplug\subsonicupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.78/10
+
+FILE: beetsplug\substitute.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.46/10
+
+FILE: beetsplug\the.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 8.87/10
+
+FILE: beetsplug\thumbnails.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 8.97/10
+
+FILE: beetsplug\tidal\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 1
+Total messages: 9
+Average rating: 8.65/10
+
+FILE: beetsplug\tidal\api.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.65/10
+
+FILE: beetsplug\tidal\api_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\tidal\session.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 7.88/10
+
+FILE: beetsplug\titlecase.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 1
+Total messages: 7
+Average rating: 8.36/10
+
+FILE: beetsplug\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: beetsplug\unimported.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.86/10
+
+FILE: beetsplug\web\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 12
+Total messages: 22
+Average rating: 7.91/10
+
+FILE: beetsplug\zero.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.95/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 2
+Total messages: 7
+Average rating: 4.72/10
+
+FILE: docs\extensions\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 4
+Total messages: 10
+Average rating: 5.94/10
+
+FILE: extra\release.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 0
+Total messages: 5
+Average rating: 8.77/10
+
+FILE: test\autotag\test_distance.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 3
+R: 0
+Total messages: 16
+Average rating: 7.16/10
+
+FILE: test\autotag\test_hooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.74/10
+
+FILE: test\autotag\test_match.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 1
+Total messages: 9
+Average rating: 5.56/10
+
+FILE: test\library\test_migrations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 0
+Total messages: 13
+Average rating: 6.95/10
+
+FILE: test\plugins\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: test\plugins\factories\musicbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\lyrics_pages.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.31/10
+
+FILE: test\plugins\test_acousticbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 5.31/10
+
+FILE: test\plugins\test_advancedrewrite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.49/10
+
+FILE: test\plugins\test_albumtypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 2
+Total messages: 7
+Average rating: 5.87/10
+
+FILE: test\plugins\test_art.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 6
+Total messages: 17
+Average rating: 9.20/10
+
+FILE: test\plugins\test_aura.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 17
+C: 1
+R: 2
+Total messages: 20
+Average rating: 0.00/10
+
+FILE: test\plugins\test_autobpm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.44/10
+
+FILE: test\plugins\test_bareasc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.20/10
+
+FILE: test\plugins\test_beatport.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.77/10
+
+FILE: test\plugins\test_bpd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 64
+W: 1
+C: 2
+R: 16
+Total messages: 83
+Average rating: 4.08/10
+
+FILE: test\plugins\test_bucket.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 0
+R: 0
+Total messages: 31
+Average rating: 0.00/10
+
+FILE: test\plugins\test_chroma.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 1
+Total messages: 8
+Average rating: 8.14/10
+
+FILE: test\plugins\test_convert.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 9
+C: 1
+R: 5
+Total messages: 17
+Average rating: 7.82/10
+
+FILE: test\plugins\test_discogs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.93/10
+
+FILE: test\plugins\test_edit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 4
+Total messages: 13
+Average rating: 7.76/10
+
+FILE: test\plugins\test_embedart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 3
+Total messages: 5
+Average rating: 9.51/10
+
+FILE: test\plugins\test_embyupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_export.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.57/10
+
+FILE: test\plugins\test_fetchart.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.50/10
+
+FILE: test\plugins\test_filefilter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 8.50/10
+
+FILE: test\plugins\test_fromfilename.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_ftintitle.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 7.04/10
+
+FILE: test\plugins\test_fuzzy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 1
+C: 0
+R: 0
+Total messages: 4
+Average rating: 0.00/10
+
+FILE: test\plugins\test_hook.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.30/10
+
+FILE: test\plugins\test_ihate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_importadded.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.78/10
+
+FILE: test\plugins\test_importfeeds.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.85/10
+
+FILE: test\plugins\test_importsource.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 8.95/10
+
+FILE: test\plugins\test_info.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 1
+Total messages: 5
+Average rating: 8.16/10
+
+FILE: test\plugins\test_inline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.16/10
+
+FILE: test\plugins\test_ipfs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_keyfinder.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.51/10
+
+FILE: test\plugins\test_lastgenre.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 0
+R: 2
+Total messages: 26
+Average rating: 5.94/10
+
+FILE: test\plugins\test_limit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.50/10
+
+FILE: test\plugins\test_listenbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 1
+Total messages: 11
+Average rating: 6.36/10
+
+FILE: test\plugins\test_lyrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 10
+R: 4
+Total messages: 25
+Average rating: 7.51/10
+
+FILE: test\plugins\test_mbcollection.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.19/10
+
+FILE: test\plugins\test_mbpseudo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 0
+R: 0
+Total messages: 24
+Average rating: 3.68/10
+
+FILE: test\plugins\test_mbsubmit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.05/10
+
+FILE: test\plugins\test_mbsync.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_missing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 1
+C: 0
+R: 0
+Total messages: 7
+Average rating: 4.84/10
+
+FILE: test\plugins\test_mpdstats.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.21/10
+
+FILE: test\plugins\test_musicbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 0
+Total messages: 7
+Average rating: 9.11/10
+
+FILE: test\plugins\test_parentwork.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_permissions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.53/10
+
+FILE: test\plugins\test_play.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.18/10
+
+FILE: test\plugins\test_playlist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 12
+C: 0
+R: 5
+Total messages: 33
+Average rating: 0.00/10
+
+FILE: test\plugins\test_plexupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_plugin_mediafield.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 8.26/10
+
+FILE: test\plugins\test_random.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 0
+R: 0
+Total messages: 15
+Average rating: 4.38/10
+
+FILE: test\plugins\test_replace.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 9.22/10
+
+FILE: test\plugins\test_replaygain.py
+--------------------------------------------------------------------------------
+F: 0
+E: 37
+W: 0
+C: 0
+R: 9
+Total messages: 46
+Average rating: 1.29/10
+
+FILE: test\plugins\test_rewrite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_scrub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.26/10
+
+FILE: test\plugins\test_smartplaylist.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 0
+R: 3
+Total messages: 34
+Average rating: 7.47/10
+
+FILE: test\plugins\test_spotify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 0
+R: 0
+Total messages: 10
+Average rating: 7.73/10
+
+FILE: test\plugins\test_subsonicupdate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_substitute.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.80/10
+
+FILE: test\plugins\test_the.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_thumbnails.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 4
+C: 1
+R: 2
+Total messages: 8
+Average rating: 8.58/10
+
+FILE: test\plugins\test_tidal.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 12
+Total messages: 25
+Average rating: 6.77/10
+
+FILE: test\plugins\test_titlecase.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\plugins\test_types_plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.79/10
+
+FILE: test\plugins\test_web.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.87/10
+
+FILE: test\plugins\test_zero.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.79/10
+
+FILE: test\plugins\utils\test_musicbrainz.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 5.71/10
+
+FILE: test\plugins\utils\test_playcount.py
+--------------------------------------------------------------------------------
+F: 0
+E: 12
+W: 1
+C: 0
+R: 1
+Total messages: 14
+Average rating: 0.00/10
+
+FILE: test\plugins\utils\test_requests.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.50/10
+
+FILE: test\plugins\utils\test_vfs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\rsrc\beetsplug\test.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\rsrc\convert_stub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_art_resize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 8.15/10
+
+FILE: test\test_datequery.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.92/10
+
+FILE: test\test_dbcore.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 77
+C: 2
+R: 1
+Total messages: 82
+Average rating: 5.52/10
+
+FILE: test\test_files.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.96/10
+
+FILE: test\test_hidden.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 2
+Total messages: 4
+Average rating: 8.54/10
+
+FILE: test\test_importer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 26
+W: 19
+C: 1
+R: 21
+Total messages: 67
+Average rating: 8.02/10
+
+FILE: test\test_library.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 44
+C: 1
+R: 2
+Total messages: 47
+Average rating: 8.65/10
+
+FILE: test\test_logging.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 1
+R: 10
+Total messages: 19
+Average rating: 8.03/10
+
+FILE: test\test_m3ufile.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_metadata_plugins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 0
+R: 0
+Total messages: 7
+Average rating: 6.32/10
+
+FILE: test\test_metasync.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 2
+C: 0
+R: 1
+Total messages: 5
+Average rating: 7.31/10
+
+FILE: test\test_pipeline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 4
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.62/10
+
+FILE: test\test_plugins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 28
+C: 14
+R: 5
+Total messages: 48
+Average rating: 6.04/10
+
+FILE: test\test_query.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 2
+Total messages: 12
+Average rating: 8.11/10
+
+FILE: test\test_release.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.38/10
+
+FILE: test\test_sort.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_template.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 1
+Total messages: 4
+Average rating: 9.62/10
+
+FILE: test\test_types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\test_util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 0
+Total messages: 8
+Average rating: 9.14/10
+
+FILE: test\testall.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\ui\commands\test_completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 8.92/10
+
+FILE: test\ui\commands\test_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.14/10
+
+FILE: test\ui\commands\test_fields.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\ui\commands\test_import.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 8.93/10
+
+FILE: test\ui\commands\test_list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.87/10
+
+FILE: test\ui\commands\test_modify.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 1
+Total messages: 3
+Average rating: 9.77/10
+
+FILE: test\ui\commands\test_move.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.46/10
+
+FILE: test\ui\commands\test_remove.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\ui\commands\test_update.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 2
+Total messages: 3
+Average rating: 9.67/10
+
+FILE: test\ui\commands\test_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 6.98/10
+
+FILE: test\ui\commands\test_write.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\ui\test_ui.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 0
+R: 5
+Total messages: 32
+Average rating: 7.33/10
+
+FILE: test\ui\test_ui_importer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 9
+Total messages: 9
+Average rating: 1.00/10
+
+FILE: test\ui\test_ui_init.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 0
+Total messages: 6
+Average rating: 7.61/10
+
+FILE: test\util\test_color.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\util\test_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\util\test_diff.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 11
+R: 0
+Total messages: 11
+Average rating: 5.00/10
+
+FILE: test\util\test_id_extractors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 7
+R: 0
+Total messages: 7
+Average rating: 4.62/10
+
+FILE: test\util\test_layout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\util\test_lyrics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: test\util\test_units.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+================================================================================
+Overall average rating: 8.33/10

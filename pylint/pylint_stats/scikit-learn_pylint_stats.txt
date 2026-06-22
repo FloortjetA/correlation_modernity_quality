@@ -1,0 +1,13 @@
+Statistics for: scikit-learn_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 2525
+W: 6956
+C: 593
+R: 3509
+
+Total messages: 13583
+Average rating: 7.59/10

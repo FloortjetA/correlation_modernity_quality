@@ -1,0 +1,13 @@
+Statistics for: scrapy_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 251
+W: 1338
+C: 368
+R: 210
+
+Total messages: 2167
+Average rating: 8.79/10

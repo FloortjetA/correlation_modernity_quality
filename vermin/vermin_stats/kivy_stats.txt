@@ -1,0 +1,4874 @@
+Feature statistics for repository: kivy
+================================================================================
+
+FILE: kivy\doc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\doc\autobuild.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\doc\sources\conf.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\doc\sources\sphinxext\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\doc\sources\sphinxext\autodoc.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\doc\sources\sphinxext\kivy_pygments_theme.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\doc\sources\sphinxext\preprocess.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\examples\3Drendering\main.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\3Drendering\objloader.py
+--------------------------------------------------------------------------------
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: kivy\examples\RST_Editor\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\android\compass\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\android\takepicture\main.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\animation\animate.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\application\app_suite.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\application\app_with_build.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\application\app_with_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\application\app_with_kv.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\application\app_with_kv_in_template1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\async\asyncio_advanced.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\async\asyncio_basic.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\async\trio_advanced.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\async\trio_basic.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\audio\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\audio\pitch.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\camera\main.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\canvas\antialiasing.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\bezier.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\canvas\canvas_stress.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\examples\canvas\circle.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\fbo_canvas.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\canvas\lines.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\canvas\lines_extended.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\mesh.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\examples\canvas\mesh_manipulation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\multitexture.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\canvas\repeat_texture.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\rotation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\rounded_rectangle.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\scale.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\canvas\stencil_canvas.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\examples\canvas\tesselate.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\canvas\texture.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\container\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\cover\cover_image.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\cover\cover_video.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\demo\camera_puzzle.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\kivycatalog\main.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\multistroke\gesturedatabase.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\multistroke\helpers.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\multistroke\historymanager.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\multistroke\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\demo\multistroke\settings.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\pictures\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\demo\shadereditor\main.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\showcase\main.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\demo\touchtracer\main.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\desktop_path_id\demo_app.py
+--------------------------------------------------------------------------------
+f-strings (total: 7)
+    !2, 3.6: 7
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\examples\frameworks\twisted\echo_client_app.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.unicode_literals (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\frameworks\twisted\echo_server_app.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\frameworks\twisted\twistd_app.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\gestures\gesture_board.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\gestures\my_gestures.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\designwithkv\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\firstwidget\1_skeleton.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\firstwidget\2_print_touch.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\guide\firstwidget\3_draw_ellipse.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\firstwidget\4_draw_line.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\firstwidget\5_random_colors.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\firstwidget\6_button.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\guide\quickstart\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\includes\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\keyboard\main.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\kinect\kinectviewer.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\kv\builder_template.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\examples\kv\ids\id_in_kv\id_in_kv.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\kv\ids\kv_and_py\kv_and_py.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\kv\kvrun.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\clipboard.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\custom_titlebar.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\miscellaneous\imagesave.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\joystick.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\multiple_dropfile.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\on_textedit_event.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\opacitywindow.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\miscellaneous\shapecollisions.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.combinations (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\shapedwindow.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\miscellaneous\system_theme_monitor.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\miscellaneous\two_panes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\miscellaneous\urlrequest.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\settings\main.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\shader\plasma.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\shader\rotated.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\shader\shadertree.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\svg\benchmark.py
+--------------------------------------------------------------------------------
+cProfile (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+pstats.Stats (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\svg\main-smaa.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\svg\main.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\system_tray\system_tray_showcase.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\text\pango_demo.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\notes\final\main.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\tutorials\pong\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\pong\steps\step1\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\pong\steps\step2\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\pong\steps\step3\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\pong\steps\step4\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\tutorials\pong\steps\step5\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\accordion_1.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\actionbar.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\asyncimage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\boxlayout_poshint.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\bubble_test.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\camera.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\carousel_buttons.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\codeinput.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\colorpicker.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\colorusage.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\compound_selection.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\customcollide.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\effectwidget.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\effectwidget2.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\effectwidget3_advanced.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\fbowidget.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\focus_behavior.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\image_mipmap.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\keyboardlistener.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\label_mipmap.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\label_sizing.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\widgets\label_text_size.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\label_with_markup.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\lang_dynamic_classes.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\pagelayout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\popup_with_kv.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\recycleview\basic_data.py
+--------------------------------------------------------------------------------
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\examples\widgets\recycleview\infinite_scrolling.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+random.sample (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\examples\widgets\recycleview\key_viewclass.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+random.choices (total: 1)
+    !2, 3.6: 1
+
+
+FILE: kivy\examples\widgets\recycleview\messenger.py
+--------------------------------------------------------------------------------
+unpacking (total: 3)
+    !2, 3.5: 3
+
+
+FILE: kivy\examples\widgets\recycleview\nested_orthogonal.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\recycleview\pull_to_refresh.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\widgets\recycleview\rv_animate_items.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\examples\widgets\rstexample.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\scatter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\screenmanager.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\scrollview.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\scrollview_damped_effect_tuning.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 19)
+    !2, 3.6: 19
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\scrollview_nested_orthogonal.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\scrollview_nested_verticals.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\sequenced_images\main.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\sequenced_images\uix\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\sequenced_images\uix\custom_button.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\settings.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\shorten_text.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\spinner.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\examples\widgets\splitter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\tabbed_panel_showcase.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\examples\widgets\tabbedpanel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\textalign.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\textinput.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\examples\widgets\unicode_textinput.py
+--------------------------------------------------------------------------------
+sorted (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\examples\widgets\videoplayer.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\__init__.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+os.add_dll_directory (total: 1)
+    !2, 3.8: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+site.USER_BASE (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.base_prefix (total: 1)
+    !2, 3.3: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\_version.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\animation.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.ChainMap (total: 1)
+    !2, 3.3: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\app.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\atlas.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\base.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\cache.py
+--------------------------------------------------------------------------------
+heapq (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\kivy\clock.py
+--------------------------------------------------------------------------------
+asyncio (total: 1)
+    !2, 3.4: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+ctypes.get_errno (total: 1)
+    2.6, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\context.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.major (total: 1)
+    2.7, 3.0: 1
+
+sys.version_info.minor (total: 1)
+    2.7, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\core\audio_input\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\audio_output\__init__.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+sys.float_info (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\audio_output\audio_android.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\audio_output\audio_avplayer.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\audio_output\audio_ffpyplayer.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\core\audio_output\audio_gstplayer.py
+--------------------------------------------------------------------------------
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\camera\__init__.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\camera\camera_android.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\camera\camera_gi.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\core\camera\camera_opencv.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.division (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\camera\camera_picamera.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\clipboard\_clipboard_ext.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\clipboard\clipboard_android.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_dbusklipper.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\clipboard\clipboard_dummy.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_gtk3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\clipboard\clipboard_nspaste.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_sdl3.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_winctypes.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_xclip.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\core\clipboard\clipboard_xsel.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\core\gl\__init__.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\image\__init__.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+f-strings (total: 16)
+    !2, 3.6: 16
+
+io (total: 1)
+    2.6, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+str.rsplit (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\image\img_dds.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\image\img_ffpyplayer.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\image\img_pil.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\image\img_sdl3.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\image\img_tex.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\spelling\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\spelling\spelling_enchant.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\spelling\spelling_osxappkit.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\system_tray\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\text\__init__.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\text\markup.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\text\text_pango.py
+--------------------------------------------------------------------------------
+staticmethod (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\text\text_pil.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\core\text\text_sdl3.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\__init__.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\video_android.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\video_ffmpeg.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\video_ffpyplayer.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\video_gstplayer.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\core\video\video_null.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\core\window\__init__.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\window\window_egl_rpi.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\core\window\window_sdl3.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\deps\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\effects\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\effects\dampedscroll.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\effects\kinetic.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\effects\opacityscroll.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\effects\scroll.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\event.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\eventmanager\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\extras\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\extras\highlight.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\factory.py
+--------------------------------------------------------------------------------
+importlib (total: 1)
+    2.7, 3.1: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\factory_registers.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\garden\__init__.py
+--------------------------------------------------------------------------------
+importlib.abc.MetaPathFinder (total: 1)
+    !2, 3.3: 1
+
+importlib.util.spec_from_file_location (total: 1)
+    !2, 3.4: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\geometry.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\gesture.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\graphics\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\graphics\cgl_backend\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\graphics\egl_backend\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\factory.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\motionevent.py
+--------------------------------------------------------------------------------
+inspect (total: 1)
+    2.1, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\input\postproc\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\postproc\calibration.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\postproc\dejitter.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\postproc\doubletap.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\postproc\ignorelist.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\postproc\retaintouch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\postproc\tripletap.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\provider.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\providers\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\input\providers\androidjoystick.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\hidinput.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\leapfinger.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\linuxwacom.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\mactouch.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\mouse.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\mtdev.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\probesysfs.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 3)
+    2.6, 3.0: 3
+
+
+FILE: kivy\kivy\input\providers\tuio.py
+--------------------------------------------------------------------------------
+arguments (total: 6)
+    !2, 3.0: 6
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 6)
+    2.6, 3.0: 6
+
+
+FILE: kivy\kivy\input\providers\wm_common.py
+--------------------------------------------------------------------------------
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\wm_pen.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\providers\wm_touch.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\recorder.py
+--------------------------------------------------------------------------------
+ast (total: 1)
+    2.6, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\input\shape.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\interactive.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\lang\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\lang\builder.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+dict.pop (total: 1)
+    2.3, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+html (total: 1)
+    !2, 3.0: 1
+
+html.escape (total: 1)
+    !2, 3.2: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\lang\parser.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+ast (total: 1)
+    2.6, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\lib\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\lib\ddsfile.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\lib\gstplayer\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\lib\mtdev.py
+--------------------------------------------------------------------------------
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+ctypes (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\lib\vidcore_lite\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\loader.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+property (total: 1)
+    2.2, 3.0: 1
+
+queue (total: 1)
+    !2, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\logger.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+PermissionError (total: 1)
+    !2, 3.3: 1
+
+arguments (total: 5)
+    !2, 3.0: 5
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\metrics.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\modules\__init__.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\modules\_webdebugger.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+gc.get_objects (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\modules\console.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\modules\cursor.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\modules\inspector.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\modules\joycursor.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\modules\keybinding.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\modules\monitor.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\modules\recorder.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\modules\screen.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\modules\showborder.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\modules\touchring.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\modules\webdebugger.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\multistroke.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\network\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\network\urlrequest.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+ssl (total: 1)
+    2.6, 3.0: 1
+
+ssl.create_default_context (total: 1)
+    2.7, 3.4: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 2)
+    2.6, 3.0: 2
+
+urllib.parse (total: 1)
+    !2, 3.0: 1
+
+
+FILE: kivy\kivy\parser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\resources.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\storage\__init__.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\storage\dictstore.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\storage\jsonstore.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\storage\redisstore.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\support.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\kivy\tests\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\async_common.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.deque (total: 1)
+    2.4, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\common.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.annotations (total: 1)
+    !2, 3.7: 1
+
+arguments (total: 3)
+    !2, 3.0: 3
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+shutil.move (total: 1)
+    2.3, 3.0: 1
+
+socketserver (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sys.version_info.major (total: 1)
+    2.7, 3.0: 1
+
+sys.version_info.minor (total: 1)
+    2.7, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+threading.Thread.daemon (total: 1)
+    2.6, 3.0: 1
+
+tkinter (total: 1)
+    !2, 3.0: 1
+
+typing (total: 1)
+    !2, 3.5: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\conftest.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\fixtures.py
+--------------------------------------------------------------------------------
+TimeoutError (total: 1)
+    !2, 3.3: 1
+
+asyncio (total: 1)
+    !2, 3.4: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\perf_test_textinput.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\pyinstaller\simple_widget\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\pyinstaller\simple_widget\project\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\pyinstaller\simple_widget\project\widget.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\pyinstaller\test_pyinstaller.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.check_output (total: 1)
+    2.7, 3.1: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\pyinstaller\video_widget\main.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\pyinstaller\video_widget\project\__init__.py
+--------------------------------------------------------------------------------
+time.perf_counter (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_animations.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_app.py
+--------------------------------------------------------------------------------
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_app_on_ready.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_audio.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_audio_provider.py
+--------------------------------------------------------------------------------
+f-strings (total: 5)
+    !2, 3.6: 5
+
+
+FILE: kivy\kivy\tests\test_benchmark.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+sys.api_version (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_buttonbehavior.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.Mock.assert_called_once (total: 1)
+    !2, 3.6: 1
+
+unittest.mock.Mock.assert_not_called (total: 1)
+    !2, 3.5: 1
+
+
+FILE: kivy\kivy\tests\test_clipboard.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_clock.py
+--------------------------------------------------------------------------------
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_clock_triggered.py
+--------------------------------------------------------------------------------
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_config.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_coverage.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_doc_gallery.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_effects.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_environ_cli.py
+--------------------------------------------------------------------------------
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+subprocess.run (total: 1)
+    !2, 3.5: 1
+
+unpacking (total: 1)
+    !2, 3.5: 1
+
+
+FILE: kivy\kivy\tests\test_fbo.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_filechooser.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_filechooser_unicode.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_fonts.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.gettempdir (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_garden.py
+--------------------------------------------------------------------------------
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_graphics.py
+--------------------------------------------------------------------------------
+BaseException (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_graphics_svg.py
+--------------------------------------------------------------------------------
+xml.etree.ElementTree (total: 1)
+    2.5, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_image.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: kivy\kivy\tests\test_image_provider.py
+--------------------------------------------------------------------------------
+f-strings (total: 8)
+    !2, 3.6: 8
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+
+FILE: kivy\kivy\tests\test_imageloader.py
+--------------------------------------------------------------------------------
+bytearray (total: 1)
+    2.6, 3.0: 1
+
+callable (total: 1)
+    2.0, 3.2: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 16)
+    2.6, 3.0: 16
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skipIf (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: kivy\kivy\tests\test_invalid_lang.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_issues\test_6315.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_issues\test_issue_1084.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_issues\test_issue_1091.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_issues\test_issue_599.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_issues\test_issue_609.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_issues\test_issue_6909.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_issues\test_issue_883.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_kivy_init.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+unittest.mock.Mock.assert_called (total: 1)
+    !2, 3.6: 1
+
+
+FILE: kivy\kivy\tests\test_knspace.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_lang.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_lang_complex.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_lang_pre_process_and_post_process.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_logger.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+logging.StreamHandler (total: 1)
+    2.6, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_metrics.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_module_inspector.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: kivy\kivy\tests\test_motion_event.py
+--------------------------------------------------------------------------------
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_mouse_hover_event.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_mouse_multitouchsim.py
+--------------------------------------------------------------------------------
+iter (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_multistroke.py
+--------------------------------------------------------------------------------
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_properties.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_provider_registry.py
+--------------------------------------------------------------------------------
+callable (total: 1)
+    2.0, 3.2: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+f-strings (total: 27)
+    !2, 3.6: 27
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_resources.py
+--------------------------------------------------------------------------------
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_rst_replace.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: kivy\kivy\tests\test_screen.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_storage.py
+--------------------------------------------------------------------------------
+ConnectionError (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkstemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_system_tray.py
+--------------------------------------------------------------------------------
+arguments (total: 8)
+    !2, 3.0: 8
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+synonym (total: 4)
+    2.6, 3.0: 4
+
+tempfile.NamedTemporaryFile (total: 1)
+    2.3, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_text_provider.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+
+FILE: kivy\kivy\tests\test_togglebuttonbehavior.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+enum (total: 1)
+    !2, 3.4: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_actionbar.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 1)
+    !2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_anchorlayout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_uix_asyncimage.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+threading.Event.is_set (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_boxlayout.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_uix_bubble.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_carousel.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_uix_colorpicker.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_uix_dropdown.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_gridlayout.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_layout.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_modal.py
+--------------------------------------------------------------------------------
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_recyclegridlayout.py
+--------------------------------------------------------------------------------
+f-strings (total: 2)
+    !2, 3.6: 2
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_relativelayout.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_scrollview.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_settings.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_slider.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_stacklayout.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_textinput.py
+--------------------------------------------------------------------------------
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_translate_coordinates.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+functools.lru_cache (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_uix_videoplayer.py
+--------------------------------------------------------------------------------
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_uix_widget.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_urlrequest\test_urlrequest_requests.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+synonym (total: 1)
+    2.6, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_urlrequest\test_urlrequest_urllib.py
+--------------------------------------------------------------------------------
+datetime (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+threading.get_ident (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_utils.py
+--------------------------------------------------------------------------------
+next (total: 1)
+    2.6, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.mock (total: 1)
+    !2, 3.3: 1
+
+
+FILE: kivy\kivy\tests\test_vector.py
+--------------------------------------------------------------------------------
+operator.truediv (total: 1)
+    2.2, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_video.py
+--------------------------------------------------------------------------------
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_weakmethod.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\test_widget.py
+--------------------------------------------------------------------------------
+tempfile.mkdtemp (total: 1)
+    2.3, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+unittest.skip (total: 1)
+    2.7, 3.1: 1
+
+
+FILE: kivy\kivy\tests\test_widget_walk.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+unittest (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_window_base.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tests\test_window_info.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tests\visual_test_label.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+timeit (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tools\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tools\benchmark.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.getctime (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sys.api_version (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tools\changelog_parser.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 4)
+    !2, 3.6: 4
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\coverage.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tools\gallery.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tools\generate-icons.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\gles_compat\subset_gles.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\kivy\tools\highlight\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tools\image-testsuite\gimp28-testsuite.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\kviewer.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tools\packaging\cython_cfg.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\factory.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+fnmatch.filter (total: 1)
+    2.2, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\pyinstaller_hooks\__init__.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+importlib (total: 1)
+    2.7, 3.1: 1
+
+importlib.util.module_from_spec (total: 1)
+    !2, 3.5: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+pkgutil (total: 1)
+    2.3, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\pyinstaller_hooks\__main__.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\pyinstaller_hooks\hook-kivy.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\tools\packaging\pyinstaller_hooks\pyi_rth_kivy.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\pep8checker\pep8.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\tools\pep8checker\pep8kivy.py
+--------------------------------------------------------------------------------
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+
+FILE: kivy\kivy\tools\pep8checker\pre-commit.githook
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+
+FILE: kivy\kivy\tools\report.py
+--------------------------------------------------------------------------------
+configparser (total: 1)
+    !2, 3.0: 1
+
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.getctime (total: 1)
+    2.3, 3.0: 1
+
+platform (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+sys.api_version (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\tools\stub-gl-debug.py
+--------------------------------------------------------------------------------
+__future__ (total: 1)
+    2.1, 3.0: 1
+
+__future__.print_function (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+
+FILE: kivy\kivy\tools\texturecompress.py
+--------------------------------------------------------------------------------
+argparse (total: 1)
+    2.7, 3.2: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\accordion.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\actionbar.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\anchorlayout.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\__init__.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\behaviors\button.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\codenavigation.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\behaviors\compoundselection.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\cover.py
+--------------------------------------------------------------------------------
+decimal (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\drag.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\emacs.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\focus.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\knspace.py
+--------------------------------------------------------------------------------
+set (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\togglebutton.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 3)
+    !2, 3.6: 3
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+weakref.WeakSet (total: 1)
+    2.7, 3.0: 1
+
+
+FILE: kivy\kivy\uix\behaviors\touchripple.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\boxlayout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\bubble.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\button.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\camera.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\carousel.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\checkbox.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\codeinput.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\colorpicker.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\dropdown.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\effectwidget.py
+--------------------------------------------------------------------------------
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\filechooser.py
+--------------------------------------------------------------------------------
+StopIteration (total: 1)
+    2.2, 3.0: 1
+
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+UnicodeEncodeError (total: 1)
+    2.3, 3.0: 1
+
+collections.abc (total: 1)
+    !2, 3.3: 1
+
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\uix\floatlayout.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\gesturesurface.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\gridlayout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+itertools.accumulate (total: 1)
+    !2, 3.2: 1
+
+itertools.product (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\image.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\label.py
+--------------------------------------------------------------------------------
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\layout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\modalview.py
+--------------------------------------------------------------------------------
+arguments (total: 4)
+    !2, 3.0: 4
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\pagelayout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\popup.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\progressbar.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recycleboxlayout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recyclegridlayout.py
+--------------------------------------------------------------------------------
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+sum (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recyclelayout.py
+--------------------------------------------------------------------------------
+dict (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recycleview\__init__.py
+--------------------------------------------------------------------------------
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recycleview\datamodel.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recycleview\layout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\recycleview\views.py
+--------------------------------------------------------------------------------
+assignment (total: 1)
+    !2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.defaultdict (total: 1)
+    2.5, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\relativelayout.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\rst.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\sandbox.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\scatter.py
+--------------------------------------------------------------------------------
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\scatterlayout.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\screenmanager.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\scrollview.py
+--------------------------------------------------------------------------------
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enum (total: 1)
+    !2, 3.4: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+math.isclose (total: 1)
+    !2, 3.5: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\settings.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+os.path.realpath (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\slider.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\spinner.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\splitter.py
+--------------------------------------------------------------------------------
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\stacklayout.py
+--------------------------------------------------------------------------------
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\stencilview.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\switch.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\tabbedpanel.py
+--------------------------------------------------------------------------------
+functools (total: 1)
+    2.5, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\textinput.py
+--------------------------------------------------------------------------------
+UnicodeDecodeError (total: 1)
+    2.3, 3.0: 1
+
+arguments (total: 10)
+    !2, 3.0: 10
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+sorted (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\kivy\uix\togglebutton.py
+--------------------------------------------------------------------------------
+No modernity features found.
+
+FILE: kivy\kivy\uix\treeview.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+enumerate (total: 1)
+    2.3, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\video.py
+--------------------------------------------------------------------------------
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\videoplayer.py
+--------------------------------------------------------------------------------
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\vkeyboard.py
+--------------------------------------------------------------------------------
+io (total: 1)
+    2.6, 3.0: 1
+
+json (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\uix\widget.py
+--------------------------------------------------------------------------------
+bool (total: 1)
+    2.2, 3.0: 1
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+itertools (total: 1)
+    2.3, 3.0: 1
+
+next (total: 1)
+    2.6, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+set (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\utils.py
+--------------------------------------------------------------------------------
+arguments (total: 1)
+    !2, 3.0: 1
+
+f-strings (total: 2)
+    !2, 3.6: 2
+
+functools (total: 1)
+    2.5, 3.0: 1
+
+inspect (total: 1)
+    2.1, 3.0: 1
+
+iter (total: 1)
+    2.2, 3.0: 1
+
+reversed (total: 1)
+    2.4, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+unicodedata.normalize (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\kivy\vector.py
+--------------------------------------------------------------------------------
+property (total: 1)
+    2.2, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+
+FILE: kivy\kivy\weakmethod.py
+--------------------------------------------------------------------------------
+ReferenceError (total: 1)
+    2.2, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+type (total: 1)
+    2.2, 3.0: 1
+
+weakref (total: 1)
+    2.1, 3.0: 1
+
+
+FILE: kivy\setup.py
+--------------------------------------------------------------------------------
+all (total: 1)
+    2.5, 3.0: 1
+
+any (total: 1)
+    2.5, 3.0: 1
+
+arguments (total: 2)
+    !2, 3.0: 2
+
+bool (total: 1)
+    2.2, 3.0: 1
+
+collections (total: 1)
+    2.4, 3.0: 1
+
+collections.OrderedDict (total: 1)
+    2.7, 3.1: 1
+
+f-strings (total: 1)
+    !2, 3.6: 1
+
+logging (total: 1)
+    2.3, 3.0: 1
+
+os.cpu_count (total: 1)
+    !2, 3.4: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+pathlib (total: 1)
+    !2, 3.4: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+subprocess (total: 1)
+    2.4, 3.0: 1
+
+super (total: 1)
+    2.2, 3.0: 1
+
+sys.version_info (total: 1)
+    2.0, 3.0: 1
+
+sysconfig (total: 1)
+    2.7, 3.2: 1
+
+tempfile.TemporaryDirectory (total: 1)
+    !2, 3.2: 1
+
+textwrap (total: 1)
+    2.3, 3.0: 1
+
+
+FILE: kivy\tools\add-ios-frameworks.py
+--------------------------------------------------------------------------------
+FileNotFoundError (total: 1)
+    !2, 3.3: 1
+
+argparse (total: 1)
+    2.7, 3.2: 1
+
+os.path.relpath (total: 1)
+    2.6, 3.0: 1
+
+os.walk (total: 1)
+    2.3, 3.0: 1
+
+print(expr) (total: 1)
+    2.0, 3.0: 1
+
+str.format (total: 1)
+    2.6, 3.0: 1
+
+

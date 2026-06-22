@@ -1,0 +1,13 @@
+Statistics for: django_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 1736
+W: 9973
+C: 800
+R: 2302
+
+Total messages: 14811
+Average rating: 8.68/10

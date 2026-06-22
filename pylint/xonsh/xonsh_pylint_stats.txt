@@ -1,0 +1,2555 @@
+Statistics for: xonsh_pylint.txt
+================================================================================
+
+FILE: .github\scripts\update-nightly-release-descr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.56/10
+
+FILE: conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 8.33/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 1
+R: 2
+Total messages: 7
+Average rating: 8.58/10
+
+FILE: docs\extensions\cmdhelp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.70/10
+
+FILE: docs\extensions\jinja_rst_ext.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 8.72/10
+
+FILE: docs\extensions\rst_helpers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: docs\extensions\softwaresourcecode.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.17/10
+
+FILE: docs\extensions\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: docs\xonshrc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.71/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 4
+R: 0
+Total messages: 20
+Average rating: 6.26/10
+
+FILE: tests\aliases\test_completer_alias.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 6.00/10
+
+FILE: tests\aliases\test_source.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 0
+R: 0
+Total messages: 24
+Average rating: 0.00/10
+
+FILE: tests\aliases\test_xexec.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.20/10
+
+FILE: tests\built_ins\test_tracer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.00/10
+
+FILE: tests\built_ins\test_wizard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\built_ins\test_xonfig.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 1
+R: 1
+Total messages: 15
+Average rating: 5.58/10
+
+FILE: tests\built_ins\test_xontribs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 5.57/10
+
+FILE: tests\completers\test_base_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.14/10
+
+FILE: tests\completers\test_bash_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 7.57/10
+
+FILE: tests\completers\test_bash_completion_paths_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 7.62/10
+
+FILE: tests\completers\test_command_completers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 7.96/10
+
+FILE: tests\completers\test_completer_command.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.69/10
+
+FILE: tests\completers\test_dir_completers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 0
+Total messages: 8
+Average rating: 5.47/10
+
+FILE: tests\completers\test_environment_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 4.00/10
+
+FILE: tests\completers\test_gh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.25/10
+
+FILE: tests\completers\test_path_completers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 2
+R: 7
+Total messages: 32
+Average rating: 6.24/10
+
+FILE: tests\completers\test_pip_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 7.20/10
+
+FILE: tests\completers\test_python.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 4
+R: 0
+Total messages: 17
+Average rating: 5.52/10
+
+FILE: tests\completers\test_xompletions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 4
+Total messages: 9
+Average rating: 0.00/10
+
+FILE: tests\history\test_history_dummy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\history\test_history_json.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 31
+C: 3
+R: 8
+Total messages: 42
+Average rating: 7.03/10
+
+FILE: tests\history\test_history_sqlite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 0
+R: 5
+Total messages: 21
+Average rating: 8.04/10
+
+FILE: tests\lib\test_collections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\lib\test_itertools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\lib\test_jsonutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\lib\test_lazyasd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\lib\test_lazyjson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 3
+Total messages: 12
+Average rating: 7.88/10
+
+FILE: tests\lib\test_pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\lib\test_string.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\parsers\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 3
+Total messages: 16
+Average rating: 0.00/10
+
+FILE: tests\parsers\test_ast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 0
+Total messages: 3
+Average rating: 9.23/10
+
+FILE: tests\parsers\test_lexer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\parsers\test_lexer_fstring_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\parsers\test_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 28
+C: 22
+R: 2
+Total messages: 52
+Average rating: 9.41/10
+
+FILE: tests\parsers\test_parser_fstring_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 2
+Total messages: 11
+Average rating: 8.24/10
+
+FILE: tests\parsers\test_parser_indent_error_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\platform\test_platform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\procs\test_executables.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 8.57/10
+
+FILE: tests\procs\test_jobs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 2
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: tests\procs\test_pipeline_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.50/10
+
+FILE: tests\procs\test_pipelines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 2
+R: 0
+Total messages: 24
+Average rating: 6.89/10
+
+FILE: tests\procs\test_pipes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\procs\test_proxies_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 1
+Total messages: 7
+Average rating: 8.40/10
+
+FILE: tests\procs\test_readers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.06/10
+
+FILE: tests\procs\test_specs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 44
+C: 3
+R: 13
+Total messages: 61
+Average rating: 7.31/10
+
+FILE: tests\prompt\test_base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 37
+C: 1
+R: 5
+Total messages: 44
+Average rating: 1.30/10
+
+FILE: tests\prompt\test_cwd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\prompt\test_gitstatus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 0
+Total messages: 9
+Average rating: 3.78/10
+
+FILE: tests\prompt\test_job.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\prompt\test_vc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 0
+R: 1
+Total messages: 9
+Average rating: 6.44/10
+
+FILE: tests\shell\test_base_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 8.85/10
+
+FILE: tests\shell\test_ptk_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 12
+Total messages: 13
+Average rating: 8.31/10
+
+FILE: tests\shell\test_ptk_highlight.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 0
+Total messages: 11
+Average rating: 5.00/10
+
+FILE: tests\shell\test_ptk_history.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 1
+Total messages: 3
+Average rating: 5.71/10
+
+FILE: tests\shell\test_ptk_multiline.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 0
+Total messages: 10
+Average rating: 6.54/10
+
+FILE: tests\shell\test_ptk_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 3
+Total messages: 10
+Average rating: 7.31/10
+
+FILE: tests\shell\test_readline_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 0
+Total messages: 11
+Average rating: 5.44/10
+
+FILE: tests\shell\test_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 7.33/10
+
+FILE: tests\test_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 4
+R: 2
+Total messages: 26
+Average rating: 6.88/10
+
+FILE: tests\test_aliases_click_completer_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 61
+C: 2
+R: 0
+Total messages: 63
+Average rating: 0.00/10
+
+FILE: tests\test_ansi_colors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.62/10
+
+FILE: tests\test_builtins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 46
+C: 6
+R: 0
+Total messages: 55
+Average rating: 5.03/10
+
+FILE: tests\test_cli_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 0
+Total messages: 5
+Average rating: 7.10/10
+
+FILE: tests\test_codecache_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 50
+C: 0
+R: 0
+Total messages: 50
+Average rating: 4.12/10
+
+FILE: tests\test_color_tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_commands_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 4
+R: 0
+Total messages: 15
+Average rating: 8.64/10
+
+FILE: tests\test_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 52
+C: 12
+R: 0
+Total messages: 64
+Average rating: 1.34/10
+
+FILE: tests\test_completer_empty_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 0
+R: 0
+Total messages: 9
+Average rating: 2.89/10
+
+FILE: tests\test_completion_context.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.76/10
+
+FILE: tests\test_contexts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_dirstack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 10
+Total messages: 15
+Average rating: 6.39/10
+
+FILE: tests\test_dirstack_unc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 22
+C: 6
+R: 7
+Total messages: 35
+Average rating: 5.54/10
+
+FILE: tests\test_environ.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 34
+C: 5
+R: 1
+Total messages: 40
+Average rating: 7.78/10
+
+FILE: tests\test_events.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 0
+R: 0
+Total messages: 13
+Average rating: 7.07/10
+
+FILE: tests\test_events_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 27
+C: 1
+R: 0
+Total messages: 32
+Average rating: 2.92/10
+
+FILE: tests\test_execer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 2
+Total messages: 8
+Average rating: 8.09/10
+
+FILE: tests\test_foreign_shells.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 9.48/10
+
+FILE: tests\test_imphooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 7
+R: 0
+Total messages: 8
+Average rating: 7.83/10
+
+FILE: tests\test_main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 100
+C: 7
+R: 7
+Total messages: 114
+Average rating: 0.78/10
+
+FILE: tests\test_main_terminal_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 24
+W: 149
+C: 2
+R: 2
+Total messages: 177
+Average rating: 0.00/10
+
+FILE: tests\test_man.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 6.00/10
+
+FILE: tests\test_pyghooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 28
+C: 6
+R: 4
+Total messages: 39
+Average rating: 5.28/10
+
+FILE: tests\test_pyghooks_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 4
+R: 0
+Total messages: 27
+Average rating: 0.00/10
+
+FILE: tests\test_pygments_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_subproc_raise_error.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 128
+C: 1
+R: 0
+Total messages: 129
+Average rating: 0.00/10
+
+FILE: tests\test_tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 4
+R: 4
+Total messages: 31
+Average rating: 8.97/10
+
+FILE: tests\test_virtualenv_activator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: tests\test_xonsh_list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 0
+Total messages: 6
+Average rating: 9.33/10
+
+FILE: tests\xintegration\conftest.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 4
+Total messages: 5
+Average rating: 7.80/10
+
+FILE: tests\xintegration\test_integrations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 35
+C: 11
+R: 1
+Total messages: 47
+Average rating: 4.82/10
+
+FILE: tests\xintegration\test_stress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 0
+R: 0
+Total messages: 6
+Average rating: 5.26/10
+
+FILE: tests\xoreutils\test_cat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 1
+R: 0
+Total messages: 11
+Average rating: 5.97/10
+
+FILE: tests\xoreutils\test_uname.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 6.25/10
+
+FILE: tests\xoreutils\test_uptime.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.27/10
+
+FILE: tests\xoreutils\test_which.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 3
+Total messages: 3
+Average rating: 9.21/10
+
+FILE: tests\xoreutils\test_xcontext.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.81/10
+
+FILE: tests\xoreutils\test_xcontext_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 34
+C: 0
+R: 0
+Total messages: 34
+Average rating: 6.99/10
+
+FILE: xompletions\_xonsh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 8.33/10
+
+FILE: xompletions\cd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xompletions\gh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.27/10
+
+FILE: xompletions\git.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 2
+Total messages: 3
+Average rating: 8.53/10
+
+FILE: xompletions\pip.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xompletions\python.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.60/10
+
+FILE: xompletions\rmdir.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 7.50/10
+
+FILE: xonsh-in-docker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.52/10
+
+FILE: xonsh\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 17
+R: 32
+Total messages: 63
+Average rating: 8.03/10
+
+FILE: xonsh\ansi_colors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 12
+Total messages: 17
+Average rating: 8.99/10
+
+FILE: xonsh\api\os.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\api\subprocess.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\built_ins.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 7
+C: 16
+R: 9
+Total messages: 37
+Average rating: 8.77/10
+
+FILE: xonsh\cli_utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 12
+R: 4
+Total messages: 26
+Average rating: 8.52/10
+
+FILE: xonsh\codecache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 1
+R: 7
+Total messages: 14
+Average rating: 7.61/10
+
+FILE: xonsh\color_tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 9.13/10
+
+FILE: xonsh\commands_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 3
+R: 9
+Total messages: 21
+Average rating: 8.50/10
+
+FILE: xonsh\completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 8
+R: 8
+Total messages: 19
+Average rating: 8.00/10
+
+FILE: xonsh\completers\_aliases.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 3
+Total messages: 5
+Average rating: 8.92/10
+
+FILE: xonsh\completers\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\completers\bash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.71/10
+
+FILE: xonsh\completers\bash_completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 4
+R: 6
+Total messages: 14
+Average rating: 8.57/10
+
+FILE: xonsh\completers\click.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 3
+Total messages: 8
+Average rating: 8.66/10
+
+FILE: xonsh\completers\commands.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 2
+Total messages: 3
+Average rating: 9.54/10
+
+FILE: xonsh\completers\completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.33/10
+
+FILE: xonsh\completers\emoji.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 0
+Total messages: 5
+Average rating: 8.86/10
+
+FILE: xonsh\completers\environment.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.42/10
+
+FILE: xonsh\completers\imports.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 9.21/10
+
+FILE: xonsh\completers\init.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\completers\man.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.63/10
+
+FILE: xonsh\completers\path.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 14
+Total messages: 17
+Average rating: 8.86/10
+
+FILE: xonsh\completers\python.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 2
+R: 3
+Total messages: 10
+Average rating: 8.38/10
+
+FILE: xonsh\completers\tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 5
+C: 6
+R: 4
+Total messages: 16
+Average rating: 7.79/10
+
+FILE: xonsh\contexts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 0
+C: 0
+R: 0
+Total messages: 6
+Average rating: 5.24/10
+
+FILE: xonsh\dirstack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 14
+R: 13
+Total messages: 37
+Average rating: 7.62/10
+
+FILE: xonsh\environ.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 25
+C: 32
+R: 18
+Total messages: 79
+Average rating: 8.51/10
+
+FILE: xonsh\events.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 0
+R: 2
+Total messages: 16
+Average rating: 7.43/10
+
+FILE: xonsh\execer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 8
+W: 8
+C: 2
+R: 21
+Total messages: 39
+Average rating: 4.00/10
+
+FILE: xonsh\foreign_shells.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 12
+Total messages: 15
+Average rating: 8.88/10
+
+FILE: xonsh\history\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 2
+Total messages: 10
+Average rating: 6.29/10
+
+FILE: xonsh\history\diff_history.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 9
+Total messages: 12
+Average rating: 8.79/10
+
+FILE: xonsh\history\dummy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 7.86/10
+
+FILE: xonsh\history\json.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 13
+C: 4
+R: 11
+Total messages: 29
+Average rating: 8.70/10
+
+FILE: xonsh\history\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 1
+R: 5
+Total messages: 20
+Average rating: 7.92/10
+
+FILE: xonsh\history\sqlite.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 3
+Total messages: 7
+Average rating: 9.52/10
+
+FILE: xonsh\imphooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.70/10
+
+FILE: xonsh\lazyasd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lazyimps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lazyjson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lib\collections.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 2
+Total messages: 2
+Average rating: 9.11/10
+
+FILE: xonsh\lib\inspectors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 15
+C: 0
+R: 7
+Total messages: 24
+Average rating: 8.25/10
+
+FILE: xonsh\lib\itertools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.00/10
+
+FILE: xonsh\lib\jsonutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lib\lazyasd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lib\lazyimps.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 4
+R: 8
+Total messages: 14
+Average rating: 4.80/10
+
+FILE: xonsh\lib\lazyjson.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 8.98/10
+
+FILE: xonsh\lib\modules.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 3
+R: 1
+Total messages: 5
+Average rating: 8.73/10
+
+FILE: xonsh\lib\openpy.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 3
+Total messages: 4
+Average rating: 8.54/10
+
+FILE: xonsh\lib\os.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lib\pretty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 17
+C: 4
+R: 10
+Total messages: 36
+Average rating: 7.84/10
+
+FILE: xonsh\lib\string.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\lib\subprocess.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 16
+W: 11
+C: 11
+R: 10
+Total messages: 48
+Average rating: 6.84/10
+
+FILE: xonsh\parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 0
+Total messages: 6
+Average rating: 6.25/10
+
+FILE: xonsh\parsers\ast.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 7
+Total messages: 11
+Average rating: 9.42/10
+
+FILE: xonsh\parsers\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 58
+C: 12
+R: 15
+Total messages: 85
+Average rating: 8.80/10
+
+FILE: xonsh\parsers\completion_context.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 4
+C: 8
+R: 12
+Total messages: 26
+Average rating: 8.96/10
+
+FILE: xonsh\parsers\context_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 4
+Total messages: 4
+Average rating: 8.84/10
+
+FILE: xonsh\parsers\fstring_adaptor.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.86/10
+
+FILE: xonsh\parsers\fstring_rules_llm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.70/10
+
+FILE: xonsh\parsers\lexer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 10
+C: 0
+R: 3
+Total messages: 18
+Average rating: 7.56/10
+
+FILE: xonsh\parsers\ply\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\parsers\ply\cpp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 33
+C: 15
+R: 28
+Total messages: 78
+Average rating: 6.80/10
+
+FILE: xonsh\parsers\ply\ctokens.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\parsers\ply\lex.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 62
+C: 22
+R: 20
+Total messages: 104
+Average rating: 6.42/10
+
+FILE: xonsh\parsers\ply\yacc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 126
+C: 67
+R: 84
+Total messages: 279
+Average rating: 6.77/10
+
+FILE: xonsh\parsers\ply\ygen.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 0
+Total messages: 4
+Average rating: 7.14/10
+
+FILE: xonsh\parsers\rd_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 8.41/10
+
+FILE: xonsh\parsers\tokenize.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 11
+C: 2
+R: 27
+Total messages: 45
+Average rating: 8.36/10
+
+FILE: xonsh\parsers\v310.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 5
+Total messages: 11
+Average rating: 9.34/10
+
+FILE: xonsh\parsers\v313.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.92/10
+
+FILE: xonsh\parsers\v36.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 9.43/10
+
+FILE: xonsh\parsers\v38.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 9
+R: 2
+Total messages: 18
+Average rating: 8.24/10
+
+FILE: xonsh\parsers\v39.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 8.64/10
+
+FILE: xonsh\platform.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 14
+C: 11
+R: 10
+Total messages: 37
+Average rating: 7.44/10
+
+FILE: xonsh\platforms\macutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.00/10
+
+FILE: xonsh\platforms\winutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 6
+C: 3
+R: 2
+Total messages: 25
+Average rating: 5.00/10
+
+FILE: xonsh\procs\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\procs\executables.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 3
+Total messages: 11
+Average rating: 8.64/10
+
+FILE: xonsh\procs\jobs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 26
+W: 21
+C: 4
+R: 8
+Total messages: 59
+Average rating: 4.16/10
+
+FILE: xonsh\procs\pipelines.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 9
+C: 9
+R: 12
+Total messages: 40
+Average rating: 8.29/10
+
+FILE: xonsh\procs\pipes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.75/10
+
+FILE: xonsh\procs\posix.py
+--------------------------------------------------------------------------------
+F: 0
+E: 13
+W: 3
+C: 0
+R: 7
+Total messages: 23
+Average rating: 7.45/10
+
+FILE: xonsh\procs\proxies.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 19
+Total messages: 28
+Average rating: 8.24/10
+
+FILE: xonsh\procs\readers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 6
+Total messages: 9
+Average rating: 8.94/10
+
+FILE: xonsh\procs\specs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 23
+W: 21
+C: 4
+R: 23
+Total messages: 71
+Average rating: 7.10/10
+
+FILE: xonsh\prompt\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 7
+C: 12
+R: 5
+Total messages: 25
+Average rating: 8.33/10
+
+FILE: xonsh\prompt\cwd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 9.63/10
+
+FILE: xonsh\prompt\env.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 1
+Total messages: 7
+Average rating: 7.36/10
+
+FILE: xonsh\prompt\gitstatus.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 1
+R: 3
+Total messages: 15
+Average rating: 7.30/10
+
+FILE: xonsh\prompt\job.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\prompt\times.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\prompt\vc.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 3
+Total messages: 6
+Average rating: 9.46/10
+
+FILE: xonsh\pyghooks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 30
+C: 9
+R: 8
+Total messages: 51
+Average rating: 8.16/10
+
+FILE: xonsh\pygments_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 26
+R: 1
+Total messages: 42
+Average rating: 7.32/10
+
+FILE: xonsh\pytest\plugin.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 32
+C: 10
+R: 2
+Total messages: 44
+Average rating: 4.36/10
+
+FILE: xonsh\pytest\tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 4
+R: 0
+Total messages: 15
+Average rating: 5.84/10
+
+FILE: xonsh\shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 7
+R: 0
+Total messages: 8
+Average rating: 9.07/10
+
+FILE: xonsh\shells\base_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 1
+R: 9
+Total messages: 19
+Average rating: 8.78/10
+
+FILE: xonsh\shells\dumb_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\shells\ptk_shell\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 14
+C: 2
+R: 11
+Total messages: 27
+Average rating: 8.35/10
+
+FILE: xonsh\shells\ptk_shell\completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 1
+R: 4
+Total messages: 12
+Average rating: 8.01/10
+
+FILE: xonsh\shells\ptk_shell\formatter.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 2
+Total messages: 3
+Average rating: 7.31/10
+
+FILE: xonsh\shells\ptk_shell\history.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 0
+R: 0
+Total messages: 5
+Average rating: 4.64/10
+
+FILE: xonsh\shells\ptk_shell\key_bindings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 5
+C: 3
+R: 5
+Total messages: 18
+Average rating: 8.00/10
+
+FILE: xonsh\shells\ptk_shell\updator.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 2
+Total messages: 7
+Average rating: 9.08/10
+
+FILE: xonsh\shells\readline_shell.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 20
+C: 12
+R: 9
+Total messages: 41
+Average rating: 8.15/10
+
+FILE: xonsh\style_tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 3
+R: 1
+Total messages: 8
+Average rating: 8.47/10
+
+FILE: xonsh\timings.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 42
+C: 2
+R: 2
+Total messages: 46
+Average rating: 2.71/10
+
+FILE: xonsh\tools.py
+--------------------------------------------------------------------------------
+F: 0
+E: 14
+W: 19
+C: 34
+R: 53
+Total messages: 120
+Average rating: 8.17/10
+
+FILE: xonsh\tracer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 0
+R: 5
+Total messages: 12
+Average rating: 7.36/10
+
+FILE: xonsh\virtualenv\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\webconfig\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: xonsh\webconfig\file_writes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 0
+Total messages: 3
+Average rating: 8.09/10
+
+FILE: xonsh\webconfig\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 3
+Total messages: 8
+Average rating: 8.65/10
+
+FILE: xonsh\webconfig\routes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 9.62/10
+
+FILE: xonsh\webconfig\tags.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 2
+R: 0
+Total messages: 7
+Average rating: 8.19/10
+
+FILE: xonsh\webconfig\xonsh_data.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 3
+C: 3
+R: 0
+Total messages: 12
+Average rating: 4.88/10
+
+FILE: xonsh\wizard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 8
+C: 0
+R: 11
+Total messages: 20
+Average rating: 8.90/10
+
+FILE: xonsh\xonfig.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 10
+R: 3
+Total messages: 24
+Average rating: 8.66/10
+
+FILE: xonsh\xontribs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 4
+R: 3
+Total messages: 11
+Average rating: 8.94/10
+
+FILE: xonsh\xoreutils\_which.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 7
+Total messages: 12
+Average rating: 8.41/10
+
+FILE: xonsh\xoreutils\cat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 8
+Total messages: 9
+Average rating: 8.19/10
+
+FILE: xonsh\xoreutils\echo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 1
+Total messages: 3
+Average rating: 7.04/10
+
+FILE: xonsh\xoreutils\pwd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 5.00/10
+
+FILE: xonsh\xoreutils\tee.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 2
+Total messages: 4
+Average rating: 7.37/10
+
+FILE: xonsh\xoreutils\tty.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 0
+R: 0
+Total messages: 3
+Average rating: 6.56/10
+
+FILE: xonsh\xoreutils\ulimit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 6
+R: 7
+Total messages: 18
+Average rating: 7.24/10
+
+FILE: xonsh\xoreutils\umask.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 0
+R: 3
+Total messages: 7
+Average rating: 8.39/10
+
+FILE: xonsh\xoreutils\uname.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 2
+Total messages: 4
+Average rating: 7.42/10
+
+FILE: xonsh\xoreutils\uptime.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 7
+C: 1
+R: 2
+Total messages: 12
+Average rating: 7.71/10
+
+FILE: xonsh\xoreutils\util.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 2
+Total messages: 6
+Average rating: 6.36/10
+
+FILE: xonsh\xoreutils\which.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 1
+R: 3
+Total messages: 7
+Average rating: 8.29/10
+
+FILE: xonsh\xoreutils\xcontext.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 1
+R: 2
+Total messages: 8
+Average rating: 8.97/10
+
+FILE: xonsh\xoreutils\yes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 4.55/10
+
+FILE: xontrib\coreutils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.58/10
+
+================================================================================
+Overall average rating: 7.77/10

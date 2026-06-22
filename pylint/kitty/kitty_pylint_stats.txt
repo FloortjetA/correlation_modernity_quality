@@ -1,0 +1,2135 @@
+Statistics for: kitty_pylint.txt
+================================================================================
+
+FILE: .github\workflows\ci.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 9
+C: 14
+R: 3
+Total messages: 27
+Average rating: 7.71/10
+
+FILE: .github\workflows\macos_crash_report.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 6
+Total messages: 11
+Average rating: 9.47/10
+
+FILE: 3rdparty\base64\lib\tables\table_enc_12bit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: __main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: benchmark.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 1
+R: 2
+Total messages: 4
+Average rating: 8.61/10
+
+FILE: bypy\init_env.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 2
+C: 4
+R: 0
+Total messages: 7
+Average rating: 8.31/10
+
+FILE: bypy\linux\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 9
+R: 2
+Total messages: 15
+Average rating: 8.51/10
+
+FILE: bypy\macos\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 9
+R: 7
+Total messages: 20
+Average rating: 9.06/10
+
+FILE: bypy\site.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 2
+C: 0
+R: 0
+Total messages: 5
+Average rating: 0.00/10
+
+FILE: docs\conf.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 45
+C: 30
+R: 6
+Total messages: 81
+Average rating: 5.94/10
+
+FILE: docs\extract-rst-targets.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 8.72/10
+
+FILE: docs\notifications.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 1
+Total messages: 4
+Average rating: 5.60/10
+
+FILE: gen\__main__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 8
+R: 0
+Total messages: 9
+Average rating: 6.94/10
+
+FILE: gen\apc_parsers.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 4
+C: 15
+R: 3
+Total messages: 22
+Average rating: 7.05/10
+
+FILE: gen\bitfields.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 9.60/10
+
+FILE: gen\color_names.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 6.92/10
+
+FILE: gen\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 8.48/10
+
+FILE: gen\cursors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 16
+R: 3
+Total messages: 20
+Average rating: 6.91/10
+
+FILE: gen\go_code.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 47
+R: 7
+Total messages: 72
+Average rating: 8.17/10
+
+FILE: gen\key_constants.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 11
+R: 0
+Total messages: 21
+Average rating: 8.03/10
+
+FILE: gen\srgb_lut.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 1
+Total messages: 4
+Average rating: 7.57/10
+
+FILE: gen\wcwidth.py
+--------------------------------------------------------------------------------
+F: 0
+E: 19
+W: 34
+C: 54
+R: 11
+Total messages: 118
+Average rating: 6.92/10
+
+FILE: glad\generate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: glfw\glfw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 11
+C: 10
+R: 7
+Total messages: 28
+Average rating: 7.54/10
+
+FILE: kittens\ask\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 8.64/10
+
+FILE: kittens\broadcast\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 0
+C: 7
+R: 0
+Total messages: 9
+Average rating: 8.57/10
+
+FILE: kittens\choose_files\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: kittens\choose_files\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 10
+R: 0
+Total messages: 12
+Average rating: 8.46/10
+
+FILE: kittens\choose_fonts\backend.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 3
+C: 10
+R: 6
+Total messages: 21
+Average rating: 7.89/10
+
+FILE: kittens\choose_fonts\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\clipboard\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: kittens\command_palette\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 9
+R: 4
+Total messages: 19
+Average rating: 8.19/10
+
+FILE: kittens\desktop_ui\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 0
+Total messages: 6
+Average rating: 6.36/10
+
+FILE: kittens\diff\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: kittens\diff\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 0
+Total messages: 6
+Average rating: 9.36/10
+
+FILE: kittens\dnd\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 8.57/10
+
+FILE: kittens\hints\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 15
+R: 8
+Total messages: 30
+Average rating: 7.03/10
+
+FILE: kittens\hyperlinked_grep\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 1
+Total messages: 1
+Average rating: 6.67/10
+
+FILE: kittens\icat\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 1
+Total messages: 2
+Average rating: 6.43/10
+
+FILE: kittens\notify\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 1
+Total messages: 2
+Average rating: 7.86/10
+
+FILE: kittens\pager\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\panel\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 16
+R: 1
+Total messages: 25
+Average rating: 7.25/10
+
+FILE: kittens\query_terminal\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 16
+R: 1
+Total messages: 17
+Average rating: 8.90/10
+
+FILE: kittens\quick_access_terminal\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 9
+R: 0
+Total messages: 9
+Average rating: 8.16/10
+
+FILE: kittens\remote_file\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 15
+R: 8
+Total messages: 36
+Average rating: 7.45/10
+
+FILE: kittens\resize_window\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 6
+C: 7
+R: 0
+Total messages: 17
+Average rating: 5.41/10
+
+FILE: kittens\runner.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 10
+R: 2
+Total messages: 17
+Average rating: 8.27/10
+
+FILE: kittens\show_key\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\ssh\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\ssh\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 5
+C: 21
+R: 9
+Total messages: 37
+Average rating: 7.79/10
+
+FILE: kittens\themes\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 0
+R: 0
+Total messages: 1
+Average rating: 9.17/10
+
+FILE: kittens\transfer\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\transfer\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.86/10
+
+FILE: kittens\tui\dircolors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 2
+R: 2
+Total messages: 5
+Average rating: 9.22/10
+
+FILE: kittens\tui\handler.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 13
+R: 6
+Total messages: 32
+Average rating: 7.24/10
+
+FILE: kittens\tui\images.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 26
+R: 16
+Total messages: 51
+Average rating: 8.22/10
+
+FILE: kittens\tui\line_edit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 1
+R: 1
+Total messages: 21
+Average rating: 5.35/10
+
+FILE: kittens\tui\loop.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 17
+C: 21
+R: 5
+Total messages: 53
+Average rating: 6.37/10
+
+FILE: kittens\tui\operations.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 6
+C: 12
+R: 2
+Total messages: 21
+Average rating: 8.63/10
+
+FILE: kittens\tui\operations_stub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 2
+R: 0
+Total messages: 2
+Average rating: 7.14/10
+
+FILE: kittens\tui\path_completer.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 7
+R: 0
+Total messages: 12
+Average rating: 8.21/10
+
+FILE: kittens\tui\progress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\tui\spinners.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kittens\tui\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 10
+R: 1
+Total messages: 13
+Average rating: 8.11/10
+
+FILE: kittens\unicode_input\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 0
+Total messages: 2
+Average rating: 8.00/10
+
+FILE: kitty\actions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 1
+Total messages: 7
+Average rating: 8.81/10
+
+FILE: kitty\bash.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty\borders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 6
+Total messages: 12
+Average rating: 7.80/10
+
+FILE: kitty\boss.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 77
+C: 221
+R: 90
+Total messages: 391
+Average rating: 7.54/10
+
+FILE: kitty\child.py
+--------------------------------------------------------------------------------
+F: 0
+E: 10
+W: 19
+C: 16
+R: 9
+Total messages: 54
+Average rating: 6.74/10
+
+FILE: kitty\choose_entry.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 1
+R: 0
+Total messages: 4
+Average rating: 4.74/10
+
+FILE: kitty\cli.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 18
+C: 24
+R: 11
+Total messages: 53
+Average rating: 7.95/10
+
+FILE: kitty\cli_stub.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 21
+R: 2
+Total messages: 29
+Average rating: 2.83/10
+
+FILE: kitty\client.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 2
+R: 0
+Total messages: 8
+Average rating: 8.91/10
+
+FILE: kitty\clipboard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 35
+R: 10
+Total messages: 48
+Average rating: 8.77/10
+
+FILE: kitty\colors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 12
+C: 16
+R: 4
+Total messages: 34
+Average rating: 6.90/10
+
+FILE: kitty\conf\generate.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 20
+R: 8
+Total messages: 41
+Average rating: 8.77/10
+
+FILE: kitty\conf\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 27
+R: 27
+Total messages: 77
+Average rating: 7.44/10
+
+FILE: kitty\conf\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 25
+R: 7
+Total messages: 41
+Average rating: 8.22/10
+
+FILE: kitty\config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 19
+R: 0
+Total messages: 26
+Average rating: 7.48/10
+
+FILE: kitty\constants.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 4
+C: 18
+R: 2
+Total messages: 27
+Average rating: 7.83/10
+
+FILE: kitty\debug_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 7
+C: 14
+R: 7
+Total messages: 31
+Average rating: 7.71/10
+
+FILE: kitty\entry_points.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 13
+R: 0
+Total messages: 18
+Average rating: 7.14/10
+
+FILE: kitty\file_transmission.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 15
+C: 54
+R: 25
+Total messages: 94
+Average rating: 8.53/10
+
+FILE: kitty\fonts\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 8
+R: 0
+Total messages: 9
+Average rating: 9.38/10
+
+FILE: kitty\fonts\common.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 37
+C: 38
+R: 9
+Total messages: 88
+Average rating: 5.34/10
+
+FILE: kitty\fonts\core_text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 11
+R: 2
+Total messages: 18
+Average rating: 8.40/10
+
+FILE: kitty\fonts\features.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty\fonts\fontconfig.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 17
+R: 5
+Total messages: 25
+Average rating: 8.30/10
+
+FILE: kitty\fonts\list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 8.93/10
+
+FILE: kitty\fonts\render.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 16
+R: 2
+Total messages: 25
+Average rating: 8.54/10
+
+FILE: kitty\guess_mime_type.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 0
+Total messages: 4
+Average rating: 9.29/10
+
+FILE: kitty\key_encoding.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 2
+Total messages: 8
+Average rating: 9.43/10
+
+FILE: kitty\key_names.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 3
+R: 0
+Total messages: 6
+Average rating: 7.07/10
+
+FILE: kitty\keys.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 16
+R: 5
+Total messages: 23
+Average rating: 8.69/10
+
+FILE: kitty\launch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 38
+R: 16
+Total messages: 63
+Average rating: 8.39/10
+
+FILE: kitty\layout\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 23
+C: 33
+R: 21
+Total messages: 77
+Average rating: 5.85/10
+
+FILE: kitty\layout\grid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 16
+R: 13
+Total messages: 41
+Average rating: 6.89/10
+
+FILE: kitty\layout\interface.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty\layout\splits.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 38
+R: 29
+Total messages: 77
+Average rating: 8.42/10
+
+FILE: kitty\layout\stack.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 0
+R: 0
+Total messages: 2
+Average rating: 7.00/10
+
+FILE: kitty\layout\tall.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 19
+C: 25
+R: 15
+Total messages: 59
+Average rating: 6.25/10
+
+FILE: kitty\layout\vertical.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 12
+R: 4
+Total messages: 23
+Average rating: 6.50/10
+
+FILE: kitty\machine_id.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.38/10
+
+FILE: kitty\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 13
+C: 51
+R: 7
+Total messages: 71
+Average rating: 7.72/10
+
+FILE: kitty\marks.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 7
+R: 0
+Total messages: 7
+Average rating: 8.91/10
+
+FILE: kitty\multiprocessing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 6
+R: 0
+Total messages: 11
+Average rating: 6.77/10
+
+FILE: kitty\notifications.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 24
+C: 68
+R: 11
+Total messages: 103
+Average rating: 8.15/10
+
+FILE: kitty\open_actions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 8
+R: 4
+Total messages: 19
+Average rating: 8.13/10
+
+FILE: kitty\options\definition.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 47
+R: 0
+Total messages: 48
+Average rating: 8.89/10
+
+FILE: kitty\options\parse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 17
+R: 1
+Total messages: 18
+Average rating: 9.83/10
+
+FILE: kitty\options\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 15
+W: 0
+C: 139
+R: 1
+Total messages: 155
+Average rating: 4.50/10
+
+FILE: kitty\options\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 87
+C: 46
+R: 9
+Total messages: 144
+Average rating: 7.37/10
+
+FILE: kitty\os_window_size.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 2
+Total messages: 6
+Average rating: 8.31/10
+
+FILE: kitty\progress.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.76/10
+
+FILE: kitty\rc\action.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 1
+Total messages: 7
+Average rating: 6.30/10
+
+FILE: kitty\rc\base.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 26
+R: 6
+Total messages: 41
+Average rating: 7.83/10
+
+FILE: kitty\rc\close_tab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 0
+Total messages: 3
+Average rating: 8.70/10
+
+FILE: kitty\rc\close_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 7.73/10
+
+FILE: kitty\rc\create_marker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 4
+R: 2
+Total messages: 7
+Average rating: 5.77/10
+
+FILE: kitty\rc\detach_tab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 1
+Total messages: 7
+Average rating: 6.00/10
+
+FILE: kitty\rc\detach_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 7
+R: 2
+Total messages: 10
+Average rating: 5.62/10
+
+FILE: kitty\rc\disable_ligatures.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 6.82/10
+
+FILE: kitty\rc\env.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 6
+R: 1
+Total messages: 9
+Average rating: 5.17/10
+
+FILE: kitty\rc\focus_tab.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 7.62/10
+
+FILE: kitty\rc\focus_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 2
+Total messages: 6
+Average rating: 5.56/10
+
+FILE: kitty\rc\get_colors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 0
+Total messages: 5
+Average rating: 8.53/10
+
+FILE: kitty\rc\get_text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 0
+Total messages: 4
+Average rating: 8.75/10
+
+FILE: kitty\rc\goto_layout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 6
+R: 1
+Total messages: 8
+Average rating: 6.07/10
+
+FILE: kitty\rc\kitten.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 1
+Total messages: 7
+Average rating: 6.67/10
+
+FILE: kitty\rc\last_used_layout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 4
+R: 1
+Total messages: 5
+Average rating: 6.47/10
+
+FILE: kitty\rc\launch.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 8
+R: 1
+Total messages: 10
+Average rating: 8.14/10
+
+FILE: kitty\rc\load_config.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 8
+R: 1
+Total messages: 9
+Average rating: 5.00/10
+
+FILE: kitty\rc\ls.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 10
+R: 1
+Total messages: 11
+Average rating: 7.50/10
+
+FILE: kitty\rc\new_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 0
+Total messages: 5
+Average rating: 8.00/10
+
+FILE: kitty\rc\remove_marker.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 2
+Total messages: 5
+Average rating: 5.62/10
+
+FILE: kitty\rc\resize_os_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 17
+R: 3
+Total messages: 22
+Average rating: 5.25/10
+
+FILE: kitty\rc\resize_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 0
+Total messages: 5
+Average rating: 7.37/10
+
+FILE: kitty\rc\run.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 12
+R: 1
+Total messages: 13
+Average rating: 7.85/10
+
+FILE: kitty\rc\scroll_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 8
+R: 2
+Total messages: 11
+Average rating: 6.67/10
+
+FILE: kitty\rc\select_window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 5
+R: 0
+Total messages: 6
+Average rating: 7.50/10
+
+FILE: kitty\rc\send_key.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 8
+R: 1
+Total messages: 9
+Average rating: 5.24/10
+
+FILE: kitty\rc\send_text.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 11
+R: 4
+Total messages: 16
+Average rating: 8.60/10
+
+FILE: kitty\rc\set_background_image.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 10
+R: 0
+Total messages: 10
+Average rating: 8.65/10
+
+FILE: kitty\rc\set_background_opacity.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 8
+R: 1
+Total messages: 10
+Average rating: 5.36/10
+
+FILE: kitty\rc\set_colors.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 12
+R: 1
+Total messages: 13
+Average rating: 6.67/10
+
+FILE: kitty\rc\set_enabled_layouts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 1
+Total messages: 7
+Average rating: 7.84/10
+
+FILE: kitty\rc\set_font_size.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 6.50/10
+
+FILE: kitty\rc\set_spacing.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 7
+R: 1
+Total messages: 10
+Average rating: 8.17/10
+
+FILE: kitty\rc\set_tab_color.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 8.41/10
+
+FILE: kitty\rc\set_tab_title.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 6.11/10
+
+FILE: kitty\rc\set_user_vars.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 1
+Total messages: 6
+Average rating: 7.50/10
+
+FILE: kitty\rc\set_window_logo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 6
+R: 1
+Total messages: 7
+Average rating: 8.57/10
+
+FILE: kitty\rc\set_window_title.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 5
+R: 2
+Total messages: 7
+Average rating: 6.90/10
+
+FILE: kitty\rc\signal_child.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 7
+R: 2
+Total messages: 9
+Average rating: 4.50/10
+
+FILE: kitty\remote_control.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 10
+C: 29
+R: 4
+Total messages: 45
+Average rating: 7.85/10
+
+FILE: kitty\render_cache.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 11
+R: 0
+Total messages: 13
+Average rating: 8.28/10
+
+FILE: kitty\rgb.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty\search_query_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 2
+R: 0
+Total messages: 9
+Average rating: 8.81/10
+
+FILE: kitty\session.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 25
+R: 15
+Total messages: 45
+Average rating: 8.67/10
+
+FILE: kitty\shaders.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 7
+R: 1
+Total messages: 8
+Average rating: 9.32/10
+
+FILE: kitty\shell_integration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 3
+Total messages: 7
+Average rating: 9.22/10
+
+FILE: kitty\shm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 0
+C: 2
+R: 3
+Total messages: 6
+Average rating: 8.98/10
+
+FILE: kitty\short_uuid.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 8.26/10
+
+FILE: kitty\simple_cli_definitions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 10
+R: 6
+Total messages: 17
+Average rating: 9.09/10
+
+FILE: kitty\tab_bar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 27
+C: 22
+R: 17
+Total messages: 66
+Average rating: 7.69/10
+
+FILE: kitty\tabs.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 30
+C: 85
+R: 52
+Total messages: 167
+Average rating: 8.16/10
+
+FILE: kitty\terminfo.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 14
+R: 0
+Total messages: 18
+Average rating: 6.89/10
+
+FILE: kitty\types.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 3
+C: 8
+R: 0
+Total messages: 12
+Average rating: 8.83/10
+
+FILE: kitty\typing_compat.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty\update_check.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 4
+R: 3
+Total messages: 17
+Average rating: 5.45/10
+
+FILE: kitty\utils.py
+--------------------------------------------------------------------------------
+F: 0
+E: 5
+W: 24
+C: 81
+R: 9
+Total messages: 119
+Average rating: 7.76/10
+
+FILE: kitty\window.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 29
+C: 139
+R: 31
+Total messages: 202
+Average rating: 8.36/10
+
+FILE: kitty\window_list.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 10
+R: 4
+Total messages: 16
+Average rating: 9.43/10
+
+FILE: kitty\window_title_bar.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 6
+C: 12
+R: 2
+Total messages: 20
+Average rating: 7.46/10
+
+FILE: kitty\xdg.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 3
+R: 0
+Total messages: 8
+Average rating: 8.36/10
+
+FILE: kitty_tests\__init__.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 14
+C: 22
+R: 13
+Total messages: 52
+Average rating: 7.34/10
+
+FILE: kitty_tests\atexit.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 0
+R: 3
+Total messages: 6
+Average rating: 7.92/10
+
+FILE: kitty_tests\check_build.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 15
+R: 0
+Total messages: 20
+Average rating: 7.44/10
+
+FILE: kitty_tests\clipboard.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: kitty_tests\command_palette.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 19
+R: 2
+Total messages: 22
+Average rating: 8.52/10
+
+FILE: kitty_tests\completion.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 4
+R: 1
+Total messages: 8
+Average rating: 8.92/10
+
+FILE: kitty_tests\crypto.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 3
+R: 1
+Total messages: 4
+Average rating: 8.86/10
+
+FILE: kitty_tests\datatypes.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 8
+C: 16
+R: 8
+Total messages: 34
+Average rating: 9.08/10
+
+FILE: kitty_tests\dnd.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 16
+C: 61
+R: 25
+Total messages: 102
+Average rating: 9.21/10
+
+FILE: kitty_tests\dnd_kitten.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 5
+C: 10
+R: 1
+Total messages: 16
+Average rating: 7.92/10
+
+FILE: kitty_tests\file_transmission.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 11
+C: 15
+R: 9
+Total messages: 36
+Average rating: 8.42/10
+
+FILE: kitty_tests\fonts.py
+--------------------------------------------------------------------------------
+F: 0
+E: 6
+W: 10
+C: 42
+R: 7
+Total messages: 65
+Average rating: 7.20/10
+
+FILE: kitty_tests\glfw.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 7
+R: 2
+Total messages: 9
+Average rating: 8.20/10
+
+FILE: kitty_tests\gr.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 1
+C: 1
+R: 2
+Total messages: 4
+Average rating: 8.49/10
+
+FILE: kitty_tests\graphics.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 56
+C: 29
+R: 20
+Total messages: 105
+Average rating: 7.74/10
+
+FILE: kitty_tests\keys.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 10
+C: 30
+R: 11
+Total messages: 51
+Average rating: 8.86/10
+
+FILE: kitty_tests\layout.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 1
+R: 4
+Total messages: 17
+Average rating: 8.85/10
+
+FILE: kitty_tests\main.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 9
+C: 19
+R: 1
+Total messages: 29
+Average rating: 8.05/10
+
+FILE: kitty_tests\mouse.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 25
+C: 5
+R: 4
+Total messages: 34
+Average rating: 7.34/10
+
+FILE: kitty_tests\multicell.py
+--------------------------------------------------------------------------------
+F: 1
+E: 0
+W: 24
+C: 14
+R: 1
+Total messages: 40
+Average rating: 0.00/10
+
+FILE: kitty_tests\notifications.py
+--------------------------------------------------------------------------------
+F: 0
+E: 3
+W: 13
+C: 7
+R: 4
+Total messages: 27
+Average rating: 7.24/10
+
+FILE: kitty_tests\open_actions.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 1
+R: 0
+Total messages: 1
+Average rating: 9.66/10
+
+FILE: kitty_tests\options.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 8
+C: 28
+R: 3
+Total messages: 39
+Average rating: 8.12/10
+
+FILE: kitty_tests\panels.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 4
+R: 0
+Total messages: 6
+Average rating: 4.74/10
+
+FILE: kitty_tests\parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 7
+C: 31
+R: 3
+Total messages: 41
+Average rating: 9.31/10
+
+FILE: kitty_tests\screen.py
+--------------------------------------------------------------------------------
+F: 1
+E: 0
+W: 10
+C: 20
+R: 0
+Total messages: 31
+Average rating: 0.00/10
+
+FILE: kitty_tests\search_query_parser.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 1
+R: 0
+Total messages: 3
+Average rating: 6.50/10
+
+FILE: kitty_tests\shell_integration.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 12
+C: 28
+R: 7
+Total messages: 47
+Average rating: 7.67/10
+
+FILE: kitty_tests\shm.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 2
+R: 0
+Total messages: 4
+Average rating: 6.19/10
+
+FILE: kitty_tests\ssh.py
+--------------------------------------------------------------------------------
+F: 0
+E: 1
+W: 12
+C: 14
+R: 5
+Total messages: 32
+Average rating: 6.73/10
+
+FILE: kitty_tests\tui.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 3
+C: 2
+R: 0
+Total messages: 5
+Average rating: 7.18/10
+
+FILE: kitty_tests\utmp.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+FILE: logo\make.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 2
+C: 3
+R: 0
+Total messages: 5
+Average rating: 8.68/10
+
+FILE: publish.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 30
+C: 19
+R: 9
+Total messages: 58
+Average rating: 6.98/10
+
+FILE: setup.py
+--------------------------------------------------------------------------------
+F: 0
+E: 2
+W: 73
+C: 70
+R: 38
+Total messages: 183
+Average rating: 7.47/10
+
+FILE: shell-integration\ssh\bootstrap.py
+--------------------------------------------------------------------------------
+F: 0
+E: 4
+W: 11
+C: 5
+R: 1
+Total messages: 21
+Average rating: 7.68/10
+
+FILE: test.py
+--------------------------------------------------------------------------------
+F: 0
+E: 0
+W: 0
+C: 0
+R: 0
+Total messages: 0
+Average rating: 10.00/10
+
+================================================================================
+Overall average rating: 7.75/10

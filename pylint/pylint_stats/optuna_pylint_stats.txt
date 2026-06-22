@@ -1,0 +1,13 @@
+Statistics for: optuna_pylint.txt
+==================================================
+
+Message counts:
+--------------------
+F: 0
+E: 112
+W: 1500
+C: 267
+R: 448
+
+Total messages: 2327
+Average rating: 8.17/10
